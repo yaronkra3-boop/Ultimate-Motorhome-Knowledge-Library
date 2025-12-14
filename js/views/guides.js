@@ -1,8 +1,13 @@
 // Guides View - Shows all knowledge guides organized by category
 export class GuidesView {
-    constructor(data) {
-        this.data = data;
-        this.guides = data?.data?.guides || [];
+    constructor(dataLoader) {
+        this.dataLoader = dataLoader;
+        this.guides = [];
+        this.categories = [];
+    }
+
+    async loadGuides() {
+        this.guides = await this.dataLoader.getGuides();
         this.categories = this.extractCategories();
     }
 
@@ -24,7 +29,8 @@ export class GuidesView {
         })).sort((a, b) => b.count - a.count);
     }
 
-    render() {
+    async render() {
+        await this.loadGuides();
         return `
             <div class="guides-container">
                 <header class="page-header">

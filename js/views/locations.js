@@ -1,11 +1,12 @@
 // Locations View - Shows all parking locations and map
 export class LocationsView {
-    constructor(data) {
-        this.data = data;
-        this.locations = data?.data?.locations || [];
+    constructor(dataLoader) {
+        this.dataLoader = dataLoader;
+        this.locations = [];
     }
 
-    render() {
+    async render() {
+        this.locations = await this.dataLoader.getLocations();
         return `
             <div class="locations-container">
                 <header class="page-header">

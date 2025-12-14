@@ -1,11 +1,12 @@
 // Routes View - Shows all scenic routes
 export class RoutesView {
-    constructor(data) {
-        this.data = data;
-        this.routes = data?.data?.routes || [];
+    constructor(dataLoader) {
+        this.dataLoader = dataLoader;
+        this.routes = [];
     }
 
-    render() {
+    async render() {
+        this.routes = await this.dataLoader.getRoutes();
         return `
             <div class="routes-container">
                 <header class="page-header">
