@@ -47,7 +47,7 @@ class App {
         container.innerHTML = '<div class="loading">Loading</div>';
 
         try {
-            this.currentView = new ViewClass(this.dataLoader.data);
+            this.currentView = new ViewClass(this.dataLoader);
             const html = await this.currentView.render();
             container.innerHTML = html;
 

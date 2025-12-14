@@ -1,11 +1,11 @@
 // Home View - Main landing page with category cards
 export class HomeView {
-    constructor(data) {
-        this.data = data;
+    constructor(dataLoader) {
+        this.dataLoader = dataLoader;
     }
 
-    render() {
-        const stats = this.data?.statistics || {};
+    async render() {
+        const stats = await this.dataLoader.getStats();
 
         return `
             <div class="home-container">
@@ -34,7 +34,7 @@ export class HomeView {
                 </header>
 
                 <div class="categories-grid">
-                    ${this.renderCategoryCards()}
+                    ${await this.renderCategoryCards()}
                 </div>
             </div>
 
@@ -175,8 +175,8 @@ export class HomeView {
         `;
     }
 
-    renderCategoryCards() {
-        const stats = this.data?.statistics || {};
+    async renderCategoryCards() {
+        const stats = await this.dataLoader.getStats();
 
         const categories = [
             {
