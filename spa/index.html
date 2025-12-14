@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ultimate Motorhome Knowledge Library</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <!-- Main Application Container -->
+    <div id="app">
+        <!-- Navigation Bar -->
+        <nav id="main-nav" class="nav-bar">
+            <div class="nav-content">
+                <div class="logo" data-route="home">
+                    🚐 Motorhome Knowledge Library
+                </div>
+                <div class="nav-links">
+                    <a href="#home" data-route="home">Home</a>
+                    <a href="#locations" data-route="locations">Locations</a>
+                    <a href="#guides" data-route="guides">Guides</a>
+                    <a href="#routes" data-route="routes">Routes</a>
+                </div>
+                <div class="search-toggle">
+                    <button id="search-btn">🔍 Search</button>
+                </div>
+            </div>
+        </nav>
+
+        <!-- Search Overlay -->
+        <div id="search-overlay" class="search-overlay hidden">
+            <div class="search-container">
+                <input type="text" id="global-search" placeholder="Search locations, guides, routes, tips..." />
+                <button id="close-search">✕</button>
+            </div>
+            <div id="search-results"></div>
+        </div>
+
+        <!-- Main Content Area -->
+        <main id="main-content">
+            <!-- Content will be dynamically loaded here -->
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>🚐 Built by the motorhome community, for the motorhome community</p>
+            <p class="footer-meta">Knowledge extracted from real travelers sharing real experiences</p>
+        </footer>
+    </div>
+
+    <!-- JavaScript Modules -->
+    <script type="module" src="js/app.js"></script>
+</body>
+</html>
