@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Ultimate Motorhome Knowledge Library - Find camper storage facilities across Europe">
+    <title>Motorhome Knowledge Library - Storage Locations</title>
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+          integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+          crossorigin=""/>
+
+    <!-- Leaflet MarkerCluster CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="css/variables.css">
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="header-content">
+            <h1 class="logo">🚐 Motorhome Library</h1>
+            <nav class="desktop-nav">
+                <a href="#" class="nav-link active">Map</a>
+                <a href="pages/locations.html" class="nav-link">Locations</a>
+                <a href="pages/about.html" class="nav-link">About</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <!-- Search Bar -->
+        <div class="search-container">
+            <div class="search-wrapper">
+                <input
+                    type="text"
+                    id="searchInput"
+                    class="search-input"
+                    placeholder="Search locations by name, city, or country..."
+                    aria-label="Search locations"
+                >
+                <button class="search-clear" id="searchClear" aria-label="Clear search">×</button>
+            </div>
+            <div class="filter-buttons">
+                <button class="filter-btn active" data-filter="all">All (28)</button>
+                <button class="filter-btn" data-filter="storage">Storage</button>
+            </div>
+        </div>
+
+        <!-- Map Container -->
+        <div id="map" class="map-container"></div>
+
+        <!-- Location List Sidebar (Mobile Toggle) -->
+        <div class="locations-sidebar" id="locationsSidebar">
+            <div class="sidebar-header">
+                <h2>Locations</h2>
+                <button class="sidebar-toggle" id="sidebarToggle" aria-label="Toggle sidebar">
+                    <span class="toggle-icon">◀</span>
+                </button>
+            </div>
+            <div class="sidebar-content" id="sidebarContent">
+                <!-- Location cards will be dynamically inserted here -->
+            </div>
+        </div>
+    </main>
+
+    <!-- Mobile Bottom Navigation -->
+    <nav class="mobile-nav">
+        <a href="#" class="mobile-nav-item active">
+            <span class="nav-icon">🗺️</span>
+            <span class="nav-label">Map</span>
+        </a>
+        <a href="pages/locations.html" class="mobile-nav-item">
+            <span class="nav-icon">📍</span>
+            <span class="nav-label">Locations</span>
+        </a>
+        <a href="pages/about.html" class="mobile-nav-item">
+            <span class="nav-icon">ℹ️</span>
+            <span class="nav-label">About</span>
+        </a>
+    </nav>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+            integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+            crossorigin=""></script>
+
+    <!-- Leaflet MarkerCluster JS -->
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+
+    <!-- Custom JS -->
+    <script src="js/data-loader.js"></script>
+    <script src="js/map.js"></script>
+    <script src="js/search.js"></script>
+    <script src="js/utils.js"></script>
+</body>
+</html>
