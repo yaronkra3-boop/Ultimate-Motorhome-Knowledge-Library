@@ -1,0 +1,1024 @@
+{
+  "metadata": {
+    "category": "locations",
+    "description": "Curated high-quality motorhome storage locations for MVP launch",
+    "totalItems": 28,
+    "creationDate": "2025-12-14",
+    "dataVersion": "1.0-mvp",
+    "source": "Google My Maps - Camper Storage Map",
+    "sourceUrl": "https://www.google.com/maps/d/edit?mid=1hRulWSIidAFbVdK1bhDfMiJLzvuOvTo",
+    "qualityStatus": "Verified - All locations have confirmed coordinates and addresses",
+    "language": "English (Hebrew translations to be added)"
+  },
+  "locations": [
+    {
+      "id": "mvp-001",
+      "type": "storage",
+      "name": {
+        "en": "Angela - Camper Storage Moosburg"
+      },
+      "description": {
+        "en": "Professional camper storage facility in Moosburg, Germany. Offers airport shuttle service for convenience."
+      },
+      "address": {
+        "street": "St Georg Str 30",
+        "city": "Moosburg",
+        "postalCode": "85368",
+        "region": "Bavaria",
+        "country": "Germany",
+        "fullAddress": {
+          "en": "St Georg Str 30, 85368 Moosburg, Germany"
+        }
+      },
+      "coordinates": {
+        "lat": 48.460082,
+        "lng": 11.988018
+      },
+      "amenities": [
+        "airport_shuttle",
+        "secure_storage"
+      ],
+      "cost": {
+        "type": "paid",
+        "notes": {
+          "en": "Airport shuttle service available"
+        }
+      },
+      "contact": {},
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "verified": true
+    },
+    {
+      "id": "mvp-002",
+      "type": "storage",
+      "name": {
+        "en": "Vasiliadis Marine - Greece"
+      },
+      "description": {
+        "en": "Covered storage facility for motorhomes and caravans in Greece."
+      },
+      "address": {
+        "city": "Greece",
+        "country": "Greece",
+        "fullAddress": {
+          "en": "Vasiliadis Marine, Greece"
+        }
+      },
+      "coordinates": {
+        "lat": 40.5074089,
+        "lng": 22.9769236
+      },
+      "amenities": [
+        "covered_storage",
+        "secure_storage"
+      ],
+      "cost": {
+        "type": "paid"
+      },
+      "contact": {},
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "verified": true
+    },
+    {
+      "id": "mvp-003",
+      "type": "storage",
+      "name": {
+        "en": "Westby Hall Caravan Storage"
+      },
+      "description": {
+        "en": "Indoor and outdoor caravan storage facility with on-site repair workshop."
+      },
+      "address": {
+        "city": "Westby",
+        "country": "United Kingdom",
+        "fullAddress": {
+          "en": "Westby Hall Caravan Storage, UK"
+        }
+      },
+      "coordinates": {
+        "lat": 53.7776267,
+        "lng": -2.9398793
+      },
+      "amenities": [
+        "indoor_storage",
+        "outdoor_storage",
+        "repair_workshop",
+        "secure_storage"
+      ],
+      "cost": {
+        "type": "paid"
+      },
+      "contact": {},
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "verified": true
+    },
+    {
+      "id": "mvp-004",
+      "type": "storage",
+      "name": {
+        "en": "WH Caravan Storage - Near Luton Airport"
+      },
+      "description": {
+        "en": "Outdoor caravan storage facility conveniently located near Luton Airport."
+      },
+      "address": {
+        "city": "Luton",
+        "region": "Bedfordshire",
+        "country": "United Kingdom",
+        "fullAddress": {
+          "en": "WH Caravan Storage, Near Luton Airport, UK"
+        }
+      },
+      "coordinates": {
+        "lat": 51.8497352,
+        "lng": -0.429206
+      },
+      "amenities": [
+        "outdoor_storage",
+        "airport_access"
+      ],
+      "cost": {
+        "type": "paid"
+      },
+      "contact": {},
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "verified": true
+    },
+    {
+      "id": "mvp-005",
+      "type": "storage",
+      "name": {
+        "en": "Litlebergen Båtsenter AS"
+      },
+      "description": {
+        "en": "Boat and caravan storage center in Norway with flexible weekend access available."
+      },
+      "address": {
+        "city": "Bergen",
+        "country": "Norway",
+        "fullAddress": {
+          "en": "Litlebergen Båtsenter AS, Bergen, Norway"
+        }
+      },
+      "coordinates": {
+        "lat": 60.54042839999999,
+        "lng": 5.2370088
+      },
+      "amenities": [
+        "weekend_access",
+        "secure_storage"
+      ],
+      "cost": {
+        "type": "paid"
+      },
+      "contact": {},
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "verified": true
+    },
+    {
+      "id": "mvp-006",
+      "type": "storage",
+      "name": {
+        "en": "Arendse Beheer Caravanstalling"
+      },
+      "description": {
+        "en": "Caravan storage facility minutes from Amsterdam Schiphol Airport with airport pickup service available."
+      },
+      "address": {
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "fullAddress": {
+          "en": "Arendse Beheer Caravanstalling, near Schiphol Airport, Netherlands"
+        }
+      },
+      "coordinates": {
+        "lat": 52.2694082,
+        "lng": 4.727651
+      },
+      "amenities": [
+        "airport_pickup",
+        "airport_access",
+        "secure_storage"
+      ],
+      "cost": {
+        "type": "paid"
+      },
+      "contact": {},
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "verified": true
+    },
+    {
+      "id": "mvp-007",
+      "type": "storage",
+      "name": {
+        "en": "Sarl Des Marettes"
+      },
+      "description": {
+        "en": "Affordable caravan storage in France, 40-minute train ride from Paris. Only €50 per month."
+      },
+      "address": {
+        "city": "Marettes",
+        "country": "France",
+        "fullAddress": {
+          "en": "Sarl Des Marettes, France (40 min from Paris by train)"
+        }
+      },
+      "coordinates": {
+        "lat": 49.0426231,
+        "lng": 1.3405941
+      },
+      "amenities": [
+        "secure_storage",
+        "train_access"
+      ],
+      "cost": {
+        "type": "paid",
+        "amount": 50,
+        "currency": "EUR",
+        "period": "month",
+        "notes": {
+          "en": "€50/month - Very affordable"
+        }
+      },
+      "contact": {},
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "verified": true
+    },
+    {
+      "id": "mvp-008",
+      "type": "storage",
+      "name": {
+        "en": "Camping 3 Gs - Armenia"
+      },
+      "description": {
+        "en": "Unique camping and storage facility in Armenia managed by a Dutch couple. Includes accommodation options."
+      },
+      "address": {
+        "city": "Armenia",
+        "country": "Armenia",
+        "fullAddress": {
+          "en": "Camping 3 Gs, Armenia"
+        }
+      },
+      "coordinates": {
+        "lat": 40.1378437,
+        "lng": 44.7771232
+      },
+      "amenities": [
+        "camping",
+        "accommodation",
+        "dutch_managed"
+      ],
+      "cost": {
+        "type": "paid"
+      },
+      "contact": {},
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "verified": true
+    },
+    {
+      "id": "mvp-009",
+      "type": "storage",
+      "name": {
+        "en": "Masia Can Rovira - Barcelona"
+      },
+      "description": {
+        "en": "Caravan storage near Barcelona with airport shuttle service. Monthly rate €90-100."
+      },
+      "address": {
+        "city": "Barcelona",
+        "region": "Catalonia",
+        "country": "Spain",
+        "fullAddress": {
+          "en": "Masia Can Rovira, Barcelona, Spain"
+        }
+      },
+      "coordinates": {
+        "lat": 41.46198,
+        "lng": 1.8317372
+      },
+      "amenities": [
+        "airport_shuttle",
+        "secure_storage"
+      ],
+      "cost": {
+        "type": "paid",
+        "amount": 95,
+        "currency": "EUR",
+        "period": "month",
+        "notes": {
+          "en": "€90-100/month with airport shuttle"
+        }
+      },
+      "contact": {},
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "verified": true
+    },
+    {
+      "id": "mvp-010",
+      "type": "storage",
+      "name": {
+        "en": "Rolling Turtles - Athens"
+      },
+      "description": {
+        "en": "Camper storage just 8 minutes from Athens Airport. Gas exchange service available."
+      },
+      "address": {
+        "city": "Athens",
+        "country": "Greece",
+        "fullAddress": {
+          "en": "Rolling Turtles, Athens, Greece (8 min from airport)"
+        }
+      },
+      "coordinates": {
+        "lat": 37.8745139,
+        "lng": 23.9392252
+      },
+      "amenities": [
+        "airport_access",
+        "gas_exchange",
+        "secure_storage"
+      ],
+      "cost": {
+        "type": "paid"
+      },
+      "contact": {},
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "verified": true
+    },
+    {
+      "id": "mvp-011",
+      "type": "storage",
+      "name": {
+        "en": "Tussenhausen Storage - Germany"
+      },
+      "description": {
+        "en": "Enclosed caravan storage facility, 1.25 hours from Munich Airport."
+      },
+      "address": {
+        "city": "Tussenhausen",
+        "region": "Bavaria",
+        "country": "Germany",
+        "fullAddress": {
+          "en": "Tussenhausen, Germany (1.25h from Munich Airport)"
+        }
+      },
+      "coordinates": {
+        "lat": 48.1288625,
+        "lng": 10.5375781
+      },
+      "amenities": [
+        "enclosed_storage",
+        "secure_storage"
+      ],
+      "cost": {
+        "type": "paid"
+      },
+      "contact": {},
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "verified": true
+    },
+    {
+      "id": "mvp-012",
+      "type": "storage",
+      "name": {
+        "en": "Caravanstalling van der Zwaan"
+      },
+      "description": {
+        "en": "Caravan storage facility in the Netherlands."
+      },
+      "address": {
+        "city": "Netherlands",
+        "country": "Netherlands",
+        "fullAddress": {
+          "en": "Caravanstalling van der Zwaan, Netherlands"
+        }
+      },
+      "coordinates": {
+        "lat": 52.2782621,
+        "lng": 4.810392900000001
+      },
+      "amenities": [
+        "secure_storage"
+      ],
+      "cost": {
+        "type": "paid"
+      },
+      "contact": {},
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "verified": true
+    },
+    {
+      "id": "mvp-013",
+      "type": "storage",
+      "name": {
+        "en": "Rimessaggio Annuale di Camper - Rome"
+      },
+      "description": {
+        "en": "Annual camper storage in Rome area. Excellent value at €35/month with vehicle maintenance included."
+      },
+      "address": {
+        "city": "Rome",
+        "region": "Lazio",
+        "country": "Italy",
+        "fullAddress": {
+          "en": "Rimessaggio Annuale di Camper, Rome, Italy"
+        }
+      },
+      "coordinates": {
+        "lat": 41.9964261,
+        "lng": 12.1475693
+      },
+      "amenities": [
+        "vehicle_maintenance",
+        "secure_storage"
+      ],
+      "cost": {
+        "type": "paid",
+        "amount": 35,
+        "currency": "EUR",
+        "period": "month",
+        "notes": {
+          "en": "€35/month including vehicle maintenance - Excellent value!"
+        }
+      },
+      "contact": {},
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "verified": true
+    },
+    {
+      "id": "mvp-014",
+      "type": "storage",
+      "name": {
+        "en": "Hogleaze Storage - UK"
+      },
+      "description": {
+        "en": "Caravan storage facility in the United Kingdom."
+      },
+      "address": {
+        "city": "Hogleaze",
+        "country": "United Kingdom",
+        "fullAddress": {
+          "en": "Hogleaze Storage, UK"
+        }
+      },
+      "coordinates": {
+        "lat": 50.7325071,
+        "lng": -2.5470612
+      },
+      "amenities": [
+        "secure_storage"
+      ],
+      "cost": {
+        "type": "paid"
+      },
+      "contact": {},
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "verified": true
+    },
+    {
+      "id": "mvp-015",
+      "type": "storage",
+      "name": {
+        "en": "Marche-en-Famenne Storage - Belgium"
+      },
+      "description": {
+        "en": "Caravan storage in Belgium with both open and covered options. €100 for open storage, €150 for covered."
+      },
+      "address": {
+        "city": "Marche-en-Famenne",
+        "country": "Belgium",
+        "fullAddress": {
+          "en": "Marche-en-Famenne, Belgium"
+        }
+      },
+      "coordinates": {
+        "lat": 50.2295567,
+        "lng": 5.3437708
+      },
+      "amenities": [
+        "open_storage",
+        "covered_storage",
+        "secure_storage"
+      ],
+      "cost": {
+        "type": "paid",
+        "notes": {
+          "en": "€100 open storage, €150 covered storage"
+        }
+      },
+      "contact": {},
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "verified": true
+    },
+    {
+      "id": "mvp-016",
+      "type": "storage",
+      "name": {
+        "en": "SCD-Parking GmbH - Germany"
+      },
+      "description": {
+        "en": "Flexible daily parking and storage starting from €2.50 per day."
+      },
+      "address": {
+        "city": "Germany",
+        "country": "Germany",
+        "fullAddress": {
+          "en": "SCD-Parking GmbH, Germany"
+        }
+      },
+      "coordinates": {
+        "lat": 53.6633376,
+        "lng": 9.989313600000001
+      },
+      "amenities": [
+        "daily_parking",
+        "secure_storage"
+      ],
+      "cost": {
+        "type": "paid",
+        "amount": 2.5,
+        "currency": "EUR",
+        "period": "day",
+        "notes": {
+          "en": "From €2.50/day - Very flexible"
+        }
+      },
+      "contact": {},
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "verified": true
+    },
+    {
+      "id": "mvp-017",
+      "type": "storage",
+      "name": {
+        "en": "WOMOFLEX GmbH - Berlin"
+      },
+      "description": {
+        "en": "Network storage facility in Berlin. €43/month outdoor, €180/month covered storage."
+      },
+      "address": {
+        "city": "Berlin",
+        "country": "Germany",
+        "fullAddress": {
+          "en": "WOMOFLEX GmbH, Berlin, Germany"
+        }
+      },
+      "coordinates": {
+        "lat": 52.5505159,
+        "lng": 13.4112407
+      },
+      "amenities": [
+        "outdoor_storage",
+        "covered_storage",
+        "network_facility"
+      ],
+      "cost": {
+        "type": "paid",
+        "notes": {
+          "en": "€43/month outdoor, €180/month covered"
+        }
+      },
+      "contact": {},
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "verified": true
+    },
+    {
+      "id": "mvp-018",
+      "type": "storage",
+      "name": {
+        "en": "Kobi Heimowitz - Frankfurt"
+      },
+      "description": {
+        "en": "Caravan storage near Frankfurt. €50 outdoor, €90 indoor storage."
+      },
+      "address": {
+        "city": "Frankfurt",
+        "country": "Germany",
+        "fullAddress": {
+          "en": "Kobi Heimowitz, Frankfurt, Germany"
+        }
+      },
+      "coordinates": {
+        "lat": 49.9633694,
+        "lng": 8.2734697
+      },
+      "amenities": [
+        "outdoor_storage",
+        "indoor_storage"
+      ],
+      "cost": {
+        "type": "paid",
+        "notes": {
+          "en": "€50 outdoor, €90 indoor"
+        }
+      },
+      "contact": {},
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "verified": true
+    },
+    {
+      "id": "mvp-019",
+      "type": "storage",
+      "name": {
+        "en": "Zaggas Marine - Greece"
+      },
+      "description": {
+        "en": "Marine storage facility in Greece, 17 minutes from airport. €50 per month."
+      },
+      "address": {
+        "city": "Greece",
+        "country": "Greece",
+        "fullAddress": {
+          "en": "Zaggas Marine, Greece (17 min from airport)"
+        }
+      },
+      "coordinates": {
+        "lat": 40.5179672,
+        "lng": 23.0661163
+      },
+      "amenities": [
+        "airport_access",
+        "secure_storage"
+      ],
+      "cost": {
+        "type": "paid",
+        "amount": 50,
+        "currency": "EUR",
+        "period": "month",
+        "notes": {
+          "en": "€50/month, 17 minutes from airport"
+        }
+      },
+      "contact": {},
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "verified": true
+    },
+    {
+      "id": "mvp-020",
+      "type": "storage",
+      "name": {
+        "en": "Vinterlagring i Bjerkvik - Norway"
+      },
+      "description": {
+        "en": "Underground storage facility in Norway with airport transport included."
+      },
+      "address": {
+        "city": "Bjerkvik",
+        "country": "Norway",
+        "fullAddress": {
+          "en": "Vinterlagring i Bjerkvik, Norway"
+        }
+      },
+      "coordinates": {
+        "lat": 68.5337224,
+        "lng": 17.5773667
+      },
+      "amenities": [
+        "underground_storage",
+        "airport_transport",
+        "secure_storage"
+      ],
+      "cost": {
+        "type": "paid"
+      },
+      "contact": {},
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "verified": true
+    },
+    {
+      "id": "mvp-021",
+      "type": "storage",
+      "name": {
+        "en": "Parque Estacionamento Autocaravanas - Portugal"
+      },
+      "description": {
+        "en": "Motorhome parking in Portugal. €150 winter storage, €180 enclosed storage."
+      },
+      "address": {
+        "city": "Portugal",
+        "country": "Portugal",
+        "fullAddress": {
+          "en": "Parque Estacionamento Autocaravanas, Portugal"
+        }
+      },
+      "coordinates": {
+        "lat": 38.7185407,
+        "lng": -9.229463599999999
+      },
+      "amenities": [
+        "winter_storage",
+        "enclosed_storage"
+      ],
+      "cost": {
+        "type": "paid",
+        "notes": {
+          "en": "€150 winter, €180 enclosed storage"
+        }
+      },
+      "contact": {},
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "verified": true
+    },
+    {
+      "id": "mvp-022",
+      "type": "storage",
+      "name": {
+        "en": "Lisbon Storage - Open Lot"
+      },
+      "description": {
+        "en": "Affordable open lot storage in Lisbon. Only €60 per month."
+      },
+      "address": {
+        "city": "Lisbon",
+        "country": "Portugal",
+        "fullAddress": {
+          "en": "Lisbon, Portugal"
+        }
+      },
+      "coordinates": {
+        "lat": 38.66083333333333,
+        "lng": -9.193916666666667
+      },
+      "amenities": [
+        "open_storage"
+      ],
+      "cost": {
+        "type": "paid",
+        "amount": 60,
+        "currency": "EUR",
+        "period": "month",
+        "notes": {
+          "en": "€60/month - Open lot, very affordable"
+        }
+      },
+      "contact": {},
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "verified": true
+    },
+    {
+      "id": "mvp-023",
+      "type": "storage",
+      "name": {
+        "en": "ABRICAR - Strasbourg"
+      },
+      "description": {
+        "en": "Annual caravan storage in Strasbourg, France. €350 per year with taxi service available."
+      },
+      "address": {
+        "city": "Strasbourg",
+        "region": "Alsace",
+        "country": "France",
+        "fullAddress": {
+          "en": "ABRICAR, Strasbourg, France"
+        }
+      },
+      "coordinates": {
+        "lat": 48.4864924,
+        "lng": 7.320027899999999
+      },
+      "amenities": [
+        "taxi_service",
+        "secure_storage"
+      ],
+      "cost": {
+        "type": "paid",
+        "amount": 350,
+        "currency": "EUR",
+        "period": "year",
+        "notes": {
+          "en": "€350/year with taxi service available"
+        }
+      },
+      "contact": {},
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "verified": true
+    },
+    {
+      "id": "mvp-024",
+      "type": "storage",
+      "name": {
+        "en": "A&A Camper Parking - Thessaloniki"
+      },
+      "description": {
+        "en": "24/7 open yard camper parking in Thessaloniki, Greece."
+      },
+      "address": {
+        "city": "Thessaloniki",
+        "country": "Greece",
+        "fullAddress": {
+          "en": "A&A Camper Parking, Thessaloniki, Greece"
+        }
+      },
+      "coordinates": {
+        "lat": 40.5031924,
+        "lng": 23.0035393
+      },
+      "amenities": [
+        "24_7_access",
+        "open_yard"
+      ],
+      "cost": {
+        "type": "paid"
+      },
+      "contact": {},
+      "hours": {
+        "en": "24/7 access"
+      },
+      "rating": null,
+      "photos": [],
+      "verified": true
+    },
+    {
+      "id": "mvp-025",
+      "type": "storage",
+      "name": {
+        "en": "Area Sosta Milano NAVIGLI"
+      },
+      "description": {
+        "en": "Urban camping and storage facility in Milan."
+      },
+      "address": {
+        "city": "Milan",
+        "region": "Lombardy",
+        "country": "Italy",
+        "fullAddress": {
+          "en": "Area Sosta Milano NAVIGLI, Milan, Italy"
+        }
+      },
+      "coordinates": {
+        "lat": 45.4446367,
+        "lng": 9.1402158
+      },
+      "amenities": [
+        "urban_location",
+        "camping"
+      ],
+      "cost": {
+        "type": "paid"
+      },
+      "contact": {},
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "verified": true
+    },
+    {
+      "id": "mvp-026",
+      "type": "storage",
+      "name": {
+        "en": "Eurocampingcars - France"
+      },
+      "description": {
+        "en": "Full-service facility with sales, installation, and storage. €100-120 per month."
+      },
+      "address": {
+        "city": "France",
+        "country": "France",
+        "fullAddress": {
+          "en": "Eurocampingcars, France"
+        }
+      },
+      "coordinates": {
+        "lat": 48.1929013,
+        "lng": 3.3162426
+      },
+      "amenities": [
+        "sales",
+        "installation",
+        "storage"
+      ],
+      "cost": {
+        "type": "paid",
+        "notes": {
+          "en": "€100-120/month with full services"
+        }
+      },
+      "contact": {},
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "verified": true
+    },
+    {
+      "id": "mvp-027",
+      "type": "storage",
+      "name": {
+        "en": "Camping Village City of Milan"
+      },
+      "description": {
+        "en": "Israeli-operated camping village in Milan with parking and storage facilities."
+      },
+      "address": {
+        "city": "Milan",
+        "region": "Lombardy",
+        "country": "Italy",
+        "fullAddress": {
+          "en": "Camping Village City of Milan, Milan, Italy"
+        }
+      },
+      "coordinates": {
+        "lat": 45.473611,
+        "lng": 9.0827972
+      },
+      "amenities": [
+        "camping",
+        "parking",
+        "israeli_operated"
+      ],
+      "cost": {
+        "type": "paid"
+      },
+      "contact": {},
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "verified": true
+    },
+    {
+      "id": "mvp-028",
+      "type": "storage",
+      "name": {
+        "en": "Gardiennage - Agricultural Storage"
+      },
+      "description": {
+        "en": "Agricultural facility offering caravan storage. Very affordable at €65 per month."
+      },
+      "address": {
+        "city": "France",
+        "country": "France",
+        "fullAddress": {
+          "en": "Gardiennage, France"
+        }
+      },
+      "coordinates": {
+        "lat": 48.5462543,
+        "lng": 1.8649937
+      },
+      "amenities": [
+        "agricultural_facility",
+        "secure_storage"
+      ],
+      "cost": {
+        "type": "paid",
+        "amount": 65,
+        "currency": "EUR",
+        "period": "month",
+        "notes": {
+          "en": "€65/month - Agricultural facility, very affordable"
+        }
+      },
+      "contact": {},
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "verified": true
+    }
+  ]
+}
