@@ -1,0 +1,2581 @@
+{
+  "metadata": {
+    "category": "contacts",
+    "description": "Service providers, experts, and community members",
+    "totalItems": 85,
+    "extractionDate": "2025-12-14",
+    "dataVersion": "1.0",
+    "language": "Bilingual (Hebrew + English)"
+  },
+  "contacts": [
+    {
+      "id": "contact-001",
+      "type": "storage",
+      "name": "Yoav Shmuelovich",
+      "company": {
+        "en": "Motorhome Storage near Barcelona",
+        "he": "אחסון מוטורהומים ליד ברצלונה"
+      },
+      "phone": null,
+      "email": null,
+      "website": "https://maps.app.goo.gl/X3VEZJinwfhVwJN17",
+      "address": {
+        "city": "Near Barcelona",
+        "country": "Spain",
+        "fullAddress": {
+          "en": "Near Barcelona, Spain",
+          "he": "ליד ברצלונה, ספרד"
+        }
+      },
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "services": [
+        {
+          "en": "Outdoor storage",
+          "he": "אחסון בחוץ"
+        },
+        {
+          "en": "Covered storage (when available)",
+          "he": "אחסון מקורה (כשיש זמינות)"
+        }
+      ],
+      "notes": {
+        "en": "Friendly and accommodating. Has a nice farm location. Good experience reported by community members.",
+        "he": "חביב ומאוד נחמד. יש לו חווה יפה במקום. חוויות טובות דווחו על ידי חברי הקהילה."
+      },
+      "metadata": {
+        "source": "whatsapp-community",
+        "addedDate": "2024-12-21"
+      },
+      "sourceBatch": 2
+    },
+    {
+      "id": "contact-002",
+      "type": "storage",
+      "name": "Yaakov Kobi Chaimovich",
+      "company": {
+        "en": "Motorhome Storage - Mainz, Germany",
+        "he": "אחסון מוטורהום - מיינץ, גרמניה"
+      },
+      "phone": null,
+      "email": null,
+      "website": null,
+      "address": {
+        "city": "Mainz",
+        "country": "Germany",
+        "fullAddress": {
+          "en": "Mainz, Germany",
+          "he": "מיינץ, גרמניה"
+        }
+      },
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "services": [
+        {
+          "en": "Motorhome storage",
+          "he": "אחסון מוטורהום"
+        }
+      ],
+      "notes": {
+        "en": "Contact shared via VCF file in community. Details to be verified.",
+        "he": "איש קשר ששותף דרך קובץ VCF בקהילה. פרטים לאימות."
+      },
+      "metadata": {
+        "source": "whatsapp-community-vcf",
+        "addedDate": "2025-01-10"
+      },
+      "sourceBatch": 2
+    },
+    {
+      "id": "contact-003",
+      "type": "storage",
+      "name": "Kobi Chaimovich (Yaakov)",
+      "company": {
+        "en": "Motorhome Storage - Agricultural Farm near Mainz",
+        "he": "אחסון מוטורהום - חווה חקלאית ליד מיינץ"
+      },
+      "phone": null,
+      "email": null,
+      "website": null,
+      "address": {
+        "city": "Mainz",
+        "region": "30 minutes from Frankfurt",
+        "country": "Germany",
+        "fullAddress": {
+          "en": "Agricultural farm near Mainz, 30 minutes from Frankfurt, Germany",
+          "he": "חווה חקלאית ליד מיינץ, חצי שעה מפרנקפורט, גרמניה"
+        }
+      },
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "services": [
+        {
+          "en": "Outdoor motorhome storage - 40€/month",
+          "he": "אחסון מוטורהום פתוח - 40€ לחודש"
+        },
+        {
+          "en": "Covered storage (warehouse) - 80€/month",
+          "he": "אחסון במחסן סגור - 80€ לחודש"
+        },
+        {
+          "en": "Purchase assistance",
+          "he": "סיוע ברכישה"
+        },
+        {
+          "en": "Motorhome repairs",
+          "he": "תיקון מוטורהומים"
+        }
+      ],
+      "notes": {
+        "en": "Contact established through Naama and Roei Levav (group members). Located on agricultural farm. Happy to help with purchase and repairs. Can be contacted directly.",
+        "he": "קשר שהושג דרך נעמה ורועי לבב (חברי קבוצה). ממוקם בחווה חקלאית. ישמח לסייע ברכישה ותיקונים. ניתן לפנות ישירות."
+      },
+      "metadata": {
+        "source": "whatsapp-community",
+        "addedDate": "2025-01-10"
+      },
+      "sourceBatch": 3
+    },
+    {
+      "id": "contact-004",
+      "type": "other",
+      "name": "Star Yossi",
+      "company": {
+        "en": "Iveco Daily Croisiere - Morocco Travel Expert",
+        "he": "Iveco Daily Croisiere - מומחה נסיעות מרוקו"
+      },
+      "phone": null,
+      "email": null,
+      "website": null,
+      "address": {
+        "country": "Israel",
+        "fullAddress": {
+          "en": "Israel",
+          "he": "ישראל"
+        }
+      },
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "services": [
+        {
+          "en": "Morocco travel advice and guidance",
+          "he": "ייעוץ והדרכה לטיולים במרוקו"
+        },
+        {
+          "en": "4x4 overlanding experience",
+          "he": "ניסיון ב-4x4 אוברלנדינג"
+        }
+      ],
+      "notes": {
+        "en": "Veteran off-road traveler. Recently traveled Morocco with Iveco 4x4 similar size to motorhomes. Very knowledgeable. Contact through Rami Galboa's referral. Was previously in group but left due to message overload.",
+        "he": "טייל ג'יפאי וותיק. טייל לאחרונה במרוקו עם איווקו 4x4 בגודל דומה למוטורהומים. עם המון ידע. ליצור קשר דרך הפניה של רמי גלבוע. היה בקבוצה בעבר אבל עזב בגלל עומס הודעות."
+      },
+      "metadata": {
+        "source": "whatsapp-community-vcf",
+        "addedDate": "2025-01-22"
+      },
+      "sourceBatch": 3
+    },
+    {
+      "id": "contact-005",
+      "type": "service",
+      "name": "Matthew Payne",
+      "company": {
+        "en": "Adventure Filmmaker & Vehicle Inspector",
+        "he": "יוצר סרטי הרפתקאות ובודק רכבים"
+      },
+      "phone": null,
+      "email": null,
+      "website": "https://youtube.com/@matthewpayneadventurerfilm8902",
+      "address": {
+        "country": "United Kingdom",
+        "fullAddress": {
+          "en": "United Kingdom",
+          "he": "בריטניה"
+        }
+      },
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "services": [
+        {
+          "en": "Pre-purchase vehicle inspection - thorough, 4+ hours",
+          "he": "בדיקת רכב לפני קנייה - יסודי, 4+ שעות"
+        },
+        {
+          "en": "Expedition vehicle expertise",
+          "he": "מומחיות ברכבי משלחת"
+        }
+      ],
+      "notes": {
+        "en": "Real expert on expedition vehicles. Very thorough inspection process (over 4 hours). Known from YouTube channel. Community member used his services successfully. Allows use of his address for registration purposes.",
+        "he": "מומחה אמיתי לרכבי משלחת. תהליך בדיקה יסודי מאוד (מעל 4 שעות). מוכר מערוץ יוטיוב. חבר קהילה השתמש בשירותיו בהצלחה. מאפשר שימוש בכתובת שלו לצרכי רישום."
+      },
+      "metadata": {
+        "source": "whatsapp-community",
+        "addedDate": "2025-01-10"
+      },
+      "sourceBatch": 3
+    },
+    {
+      "id": "contact-006",
+      "type": "storage",
+      "name": {
+        "en": "Gil Elbaz - Camping Milano",
+        "he": "גיל אלבז - קמפינג מילאנו"
+      },
+      "description": {
+        "en": "Israeli owner of large campground in Milano with storage facilities. Very large and busy campground, less suitable for those seeking a quiet corner. Good solution for stays or storage in Milano.",
+        "he": "בעלים ישראלי של חניון גדול במילאנו עם מתקני אחסון. קמפינג גדול ועמוס מאד, פחות מתאים למי שמחפש פינה שקטה. פתרון טוב לשהייה או איחסון במילאנו."
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "vcfFile": "-0002901-Gil Elbaz Camping Milano.vcf"
+      },
+      "location": {
+        "city": "Milano",
+        "region": "Lombardy",
+        "country": "Italy",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      "services": {
+        "en": "Campground parking, Storage",
+        "he": "חניית קמפינג, אחסון"
+      },
+      "pricing": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": {
+          "en": "Contact for current pricing",
+          "he": "צור קשר למחירים עדכניים"
+        }
+      },
+      "reviews": [
+        {
+          "author": "Oren Kipnis",
+          "rating": 4,
+          "text": {
+            "en": "We were with him a few days in November 2019",
+            "he": "היינו אצלו כמה ימים בנובמבר 2019"
+          }
+        },
+        {
+          "author": "תובל אבישי",
+          "rating": 3,
+          "text": {
+            "en": "I stayed with Gil in Milano a few weeks 3 years ago. Nice people, not a bad solution for stay or storage in Milano. But very large and crowded campground. Less suitable for those looking for a quiet corner...",
+            "he": "אני איכסנתי אצל גיל במילאנו כמה שבועות לפני 3 שנים. אנשים נחמדים, פתרון לא רע לשהות או איחסון במילאנו. אבל קמפינג מאוד גדול ועמוס. פחות מתאים למי שמחפש פינה שקטה..."
+          }
+        },
+        {
+          "author": "Ilan",
+          "rating": 5,
+          "text": {
+            "en": "Say hello to Gil from me... I know him from Kfar Saba, with his first wife... The campground is his and his brother's. Great guy.",
+            "he": "תמסור לגילי דש ממני... אני מכיר אותו עוד מכפר סבא, עם אשתו הראשונה... הקמפינג שלו ושל אחיו. אחלה חברה."
+          }
+        }
+      ],
+      "tips": [],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": false,
+        "lastVerified": null,
+        "addedBy": "Oren Kipnis",
+        "addedDate": "2025-02-12"
+      },
+      "sourceBatch": 4
+    },
+    {
+      "id": "contact-007",
+      "type": "storage",
+      "name": {
+        "en": "Storage Near Rome (Fiumicino Area)",
+        "he": "אחסון ליד רומא (אזור פיומיצ'ינו)"
+      },
+      "description": {
+        "en": "Private storage half hour from Fiumicino. Under canopies, owner moves vehicle every few days. Owner doesn't speak English. Very affordable - approximately 35 EUR per month (price from 3 years ago, may have increased slightly).",
+        "he": "אחסון פרטי חצי שעה מפיומיצ'ינו. תחת סככות, הבעלים מניע את הרכב פעם בכמה ימים. הבעלים לא מדבר אנגלית. משתלם מאד - כ-35 אירו לחודש (מחיר מלפני 3 שנים, בטח עלה מעט)."
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "vcfFile": "-0002893-אחסון ליד רומא.vcf"
+      },
+      "location": {
+        "city": "Near Fiumicino",
+        "region": "Lazio",
+        "country": "Italy",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        },
+        "mapLink": "https://maps.app.goo.gl/yLBq4bJinsYFM8HN6?g_st=aw"
+      },
+      "services": {
+        "en": "Covered storage, Vehicle movement every few days",
+        "he": "אחסון מקורה, הזזת רכב כל כמה ימים"
+      },
+      "pricing": {
+        "amount": 35,
+        "currency": "EUR",
+        "period": "month",
+        "notes": {
+          "en": "Price from 3 years ago - likely increased slightly. Very affordable for Rome area.",
+          "he": "מחיר מלפני 3 שנים - כנראה עלה מעט. משתלם מאד לאזור רומא."
+        }
+      },
+      "reviews": [
+        {
+          "author": "תובל אבישי",
+          "rating": 4,
+          "text": {
+            "en": "Regarding Rome, I stored for a year half hour drive from Fiumicino with a nice guy, under canopies, he moves the vehicle every few days, doesn't speak a word of English. Cost me at the time something like 35 euros per month, surely it's gone up a bit since. Sending location shortly.",
+            "he": "לגבי רומא, איכסנתי שנה במרחק חצי שעה נסיעה מפיומיצ'ינו אצל בחור נחמד, תחת סככות, מניע את הרכב פעם בכמה ימים, לא מדבר מילה אנגלית. עלה לי בזמנו משהו כמו 35 יורו לחודש, בטח מאז עלה קצת. שולח מיקום תיכף."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "type": "tip",
+          "text": {
+            "en": "Owner doesn't speak English - may need basic Italian or translator app",
+            "he": "הבעלים לא מדבר אנגלית - ייתכן שתצטרך איטלקית בסיסית או אפליקציית תרגום"
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": false,
+        "lastVerified": null,
+        "addedBy": "תובל אבישי",
+        "addedDate": "2025-02-13"
+      },
+      "sourceBatch": 4
+    },
+    {
+      "id": "contact-008",
+      "type": "storage",
+      "name": {
+        "en": "WH Caravan Storage - London Luton Area",
+        "he": "WH Caravan Storage - אזור לונדון לוטון"
+      },
+      "description": {
+        "en": "Secure motorhome storage facility closest to Luton Airport. Open-air storage (not under roof) but secure. Suitable for 2-week stays during travel.",
+        "he": "מתקן אחסון מאובטח למוטורהומים הקרוב ביותר לשדה התעופה לוטון. אחסון גלוי (לא תחת גג) אך מאובטח. מתאים לשהות של כשבועיים במהלך טיסות."
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "website": "https://www.whcaravanstorage.co.uk"
+      },
+      "location": {
+        "city": "Near London Luton Airport",
+        "region": "England",
+        "country": "United Kingdom",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      "services": {
+        "en": "Secure outdoor motorhome storage",
+        "he": "אחסון חיצוני מאובטח למוטורהומים"
+      },
+      "pricing": {
+        "amount": null,
+        "currency": "GBP",
+        "notes": {
+          "en": "Contact for current pricing",
+          "he": "צור קשר למחירים עדכניים"
+        }
+      },
+      "reviews": [],
+      "tips": [
+        {
+          "type": "tip",
+          "text": {
+            "en": "Closest option to Luton Airport if you can store without roof coverage but need security",
+            "he": "האופציה הקרובה ביותר לשדה התעופה לוטון אם אתה יכול לאחסן בלי כיסוי גג אך צריך אבטחה"
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": false,
+        "lastVerified": null,
+        "addedBy": "Oren Kipnis",
+        "addedDate": "2025-02-22"
+      },
+      "sourceBatch": 4
+    },
+    {
+      "id": "contact-009",
+      "type": "accommodation",
+      "name": {
+        "en": "Boutique Hotel Near Vatican Museum - Rome",
+        "he": "מלון בוטיק מול מוזיאון הוותיקן - רומא"
+      },
+      "description": {
+        "en": "Newly renovated boutique hotel owned by Israeli motorhome enthusiast Amir Meltzer. Opening March 15th. Welcoming to motorhome community travelers.",
+        "he": "מלון בוטיק משופץ לאחרונה בבעלות עמיר מלצר, חובב מוטורהומים ישראלי. נפתח ב-15 למרץ. מזמין למטיילי קהילת המוטורהומים."
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "website": null,
+        "instagram": "https://www.instagram.com/israel.camper"
+      },
+      "location": {
+        "city": "Rome",
+        "region": "Lazio",
+        "country": "Italy",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        },
+        "details": {
+          "en": "Facing Vatican Museum",
+          "he": "מול מוזיאון הוותיקן"
+        }
+      },
+      "services": {
+        "en": "Boutique hotel accommodation",
+        "he": "אירוח במלון בוטיק"
+      },
+      "pricing": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": {
+          "en": "Contact for rates - opening March 15th",
+          "he": "צור קשר למחירים - פותח 15 למרץ"
+        }
+      },
+      "reviews": [
+        {
+          "author": "עמיר מלצר",
+          "rating": null,
+          "text": {
+            "en": "I bought a boutique hotel facing the Vatican Museum, and now I've renovated and built a new hotel opening on the 15th of the month! So everyone who comes is welcome to stay with me!",
+            "he": "קניתי מלון בוטיק מול מוזיאון הוותיקן, ועכשיו שיפצתי ובניתי מלון חדש שיפתח ב-15 לחודש! אז כולם מוזמנים שמגיעים להתארח אצלי!"
+          }
+        }
+      ],
+      "tips": [
+        {
+          "type": "tip",
+          "text": {
+            "en": "Owner is experienced motorhome traveler who toured all of Europe - lots of travel information to exchange",
+            "he": "הבעלים הוא מטייל מוטורהום מנוסה שסייר בכל אירופה - הרבה מידע טיול להחליף"
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": false,
+        "lastVerified": null,
+        "addedBy": "עמיר מלצר",
+        "addedDate": "2025-03-04"
+      },
+      "sourceBatch": 5
+    },
+    {
+      "id": "contact-010",
+      "type": "storage",
+      "name": {
+        "en": "Professional Storage and Repairs Near Lisbon",
+        "he": "אחסון ותיקונים מקצועיים ליד ליסבון"
+      },
+      "description": {
+        "en": "Charming person who also performs professional repairs. Located about 20 minutes from Lisbon. Very affordable storage at 100 EUR per month.",
+        "he": "איש מקסים שמבצע גם תיקונים בצורה מקצועית. ממוקם כ-20 דקות מליסבון. אחסון משתלם מאד ב-100 אירו לחודש."
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "website": null
+      },
+      "location": {
+        "city": "Near Lisbon",
+        "region": "Lisbon",
+        "country": "Portugal",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        },
+        "distance": {
+          "en": "~20 minutes from Lisbon",
+          "he": "~20 דקות מליסבון"
+        }
+      },
+      "services": {
+        "en": "Storage, Professional repairs",
+        "he": "אחסון, תיקונים מקצועיים"
+      },
+      "pricing": {
+        "amount": 100,
+        "currency": "EUR",
+        "period": "month",
+        "notes": {
+          "en": "100 EUR per month for storage",
+          "he": "100 אירו לחודש לאחסון"
+        }
+      },
+      "reviews": [
+        {
+          "author": "נעמה לבב טיפול בתנועה",
+          "rating": 5,
+          "text": {
+            "en": "Charming person who also performs repairs professionally. Located about 20 minutes from Lisbon. Our caravan is parked here for 100 euros per month.",
+            "he": "איש מקסים שמבצע גם תיקונים בצורה מקצועית. ממוקם כ-20 דקות מליסבון. הקרוואן שלנו חונה כאן תמורת 100 יורו לחודש."
+          }
+        }
+      ],
+      "tips": [],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": true,
+        "lastVerified": "2025-03-28",
+        "addedBy": "נעמה לבב טיפול בתנועה",
+        "addedDate": "2025-03-28",
+        "mapLink": "https://maps.app.goo.gl/1fJtD22BPdqWCHs96?g_st=aw"
+      },
+      "sourceBatch": 6
+    },
+    {
+      "id": "contact-011",
+      "type": "service",
+      "name": {
+        "en": "Workshop in Northern Barcelona Area",
+        "he": "סדנה באזור צפון ברצלונה"
+      },
+      "description": {
+        "en": "Workshop in northern part of Barcelona. Nice people. Worth scheduling in advance.",
+        "he": "סדנה בחלק הצפוני של ברצלונה. אנשים נחמדים. שווה לתאם מראש."
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "website": null
+      },
+      "location": {
+        "city": "Barcelona",
+        "region": "Catalonia",
+        "country": "Spain",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        },
+        "details": {
+          "en": "Northern part of Barcelona",
+          "he": "חלק צפוני של ברצלונה"
+        }
+      },
+      "services": {
+        "en": "Motorhome repairs and service",
+        "he": "תיקוני מוטורהום ושירות"
+      },
+      "pricing": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": {
+          "en": "Contact for pricing - book in advance",
+          "he": "צור קשר למחירים - הזמן מראש"
+        }
+      },
+      "reviews": [
+        {
+          "author": "Ilan",
+          "rating": 4,
+          "text": {
+            "en": "This workshop is in the northern part of Barcelona. But worth scheduling with them in advance. Nice people!",
+            "he": "הסדנא הזו בחלק הצפוני של ברצלונה. אבל שווה לקבוע איתם מראש. נחמדים!"
+          }
+        }
+      ],
+      "tips": [
+        {
+          "type": "tip",
+          "text": {
+            "en": "Book appointment in advance - they are busy",
+            "he": "קבע תור מראש - הם עסוקים"
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": false,
+        "lastVerified": null,
+        "addedBy": "Ilan",
+        "addedDate": "2025-03-28",
+        "mapLink": "https://maps.app.goo.gl/LRMzi8BvkR53Lc3z6?g_st=aw"
+      },
+      "sourceBatch": 6
+    },
+    {
+      "id": "contact-012",
+      "type": "service",
+      "name": {
+        "en": "Westby Hall Motorhome Centre - Blackpool, UK",
+        "he": "Westby Hall Motorhome Centre - בלקפול, בריטניה"
+      },
+      "description": {
+        "en": "Motorhome center northwest of Manchester. Storage + very serious workshop for bodywork repairs etc. Very busy but professional and honest. Located in Blackpool area.",
+        "he": "מרכז מוטורהומים צפון-מערב למנצ'סטר. אחסון + בית מלאכה רציני ביותר לתיקוני מרכב וכו'. עסוקים מאוד אבל מקצוענים וישרים. ממוקם באזור בלקפול."
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "website": "https://www.westbyhall.co.uk/"
+      },
+      "location": {
+        "city": "Blackpool",
+        "region": "Lancashire",
+        "country": "United Kingdom",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        },
+        "distance": {
+          "en": "Northwest of Manchester",
+          "he": "צפון-מערב למנצ'סטר"
+        }
+      },
+      "services": {
+        "en": "Storage, Bodywork repairs, Motorhome service",
+        "he": "אחסון, תיקוני מרכב, שירות מוטורהום"
+      },
+      "pricing": {
+        "amount": null,
+        "currency": "GBP",
+        "notes": {
+          "en": "Contact for pricing - can be expensive for major work",
+          "he": "צור קשר למחירים - יכול להיות יקר לעבודות גדולות"
+        }
+      },
+      "reviews": [
+        {
+          "author": "רמי גלבוע",
+          "rating": 4,
+          "text": {
+            "en": "For those flying to England: In Blackpool northwest of Manchester there's a motorhome center https://www.westbyhall.co.uk/, they do storage + very serious workshop for bodywork repairs etc. Very busy but professional and honest. Our vehicle was stuck there two years during Corona, cost us dearly...",
+            "he": "להשכלת הטסים לאנגליה: ב-Blackpool צפון-מערב למנצ'סטר יש מרכז מוטורהומים https://www.westbyhall.co.uk/, הם מאחסנים + בית מלאכה רציני ביותר לתיקוני מרכב וכו'. עסוקים מאוד, אבל מקצוענים וישרים. האוטו שלנו נתקע שם שנתיים בזמן הקורונה, עלה לנו ביוקר..."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "type": "tip",
+          "text": {
+            "en": "Very busy - book well in advance",
+            "he": "עסוקים מאד - הזמן הרבה מראש"
+          }
+        },
+        {
+          "type": "warning",
+          "text": {
+            "en": "Can be expensive - professional quality comes at a price",
+            "he": "יכול להיות יקר - איכות מקצועית מגיעה עם מחיר"
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": true,
+        "lastVerified": "2025-04-13",
+        "addedBy": "רמי גלבוע",
+        "addedDate": "2025-04-13"
+      },
+      "sourceBatch": 6
+    },
+    {
+      "id": "contact-013",
+      "type": "accommodation",
+      "name": {
+        "en": "Maison Candia & 4 Lions Hotels - Rome",
+        "he": "מלונות Maison Candia ו-4 Lions - רומא"
+      },
+      "description": {
+        "en": "Two boutique hotels in Rome owned by Amir Meltzer (Israeli motorhome enthusiast). Maison Candia B&B in Rome center, and 4 Lions hotel. Special rates available for community members.",
+        "he": "שני מלונות בוטיק ברומא בבעלות עמיר מלצר (חובב מוטורהומים ישראלי). Maison Candia B&B במרכז רומא, ומלון 4 Lions. מחירים מיוחדים זמינים לחברי הקהילה."
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "website": "https://www.4lions.it/en",
+        "additionalLink": "https://search.app/LUmkj7oQWzV9SvJFA"
+      },
+      "location": {
+        "city": "Rome",
+        "region": "Lazio",
+        "country": "Italy",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        },
+        "details": {
+          "en": "Center of Rome",
+          "he": "מרכז רומא"
+        }
+      },
+      "services": {
+        "en": "Boutique hotel accommodation, B&B",
+        "he": "אירוח במלון בוטיק, B&B"
+      },
+      "pricing": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": {
+          "en": "Contact Amir directly for special rates for community members",
+          "he": "צור קשר עם עמיר ישירות למחירים מיוחדים לחברי הקהילה"
+        }
+      },
+      "reviews": [],
+      "tips": [
+        {
+          "type": "tip",
+          "text": {
+            "en": "Owner is experienced motorhome traveler - great source of travel information",
+            "he": "הבעלים הוא מטייל מוטורהום מנוסה - מקור מצוין למידע טיול"
+          }
+        },
+        {
+          "type": "tip",
+          "text": {
+            "en": "One hotel just opened recently (week of April 26, 2025)",
+            "he": "מלון אחד נפתח לאחרונה (שבוע של 26 באפריל 2025)"
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": false,
+        "lastVerified": null,
+        "addedBy": "עמיר מלצר",
+        "addedDate": "2025-04-26"
+      },
+      "sourceBatch": 6
+    },
+    {
+      "id": "contact-014",
+      "type": "service",
+      "name": {
+        "en": "Ron Kellner - Experienced European Motorhome Expert",
+        "he": "רון קלנר - מומחה מוטורהום אירופי מנוסה"
+      },
+      "description": {
+        "en": "Motorhome owner in Europe for 25 years, travels about half the year. Very knowledgeable. Has two motorhomes, both with 6 sleeping places and 6 seatbelts. Extensive information, experience and connections in European motorhome community. Willing to help.",
+        "he": "בעלים של מוטורהום באירופה כבר 25 שנים, מטייל כחצי שנה בשנה. מכיר לא מעט. יש לו שני מוטורהומים, שניהם עם 6 מקומות לינה ו-6 חגורות בטיחות. מידע רב, נסיון וקשרים בקהילת המוטורהום האירופית. מוכן לעזור."
+      },
+      "contact": {
+        "phone": null,
+        "email": null,
+        "whatsapp": "Member of motorhome WhatsApp community"
+      },
+      "location": {
+        "city": null,
+        "region": null,
+        "country": "Europe (travels extensively)",
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      "services": {
+        "en": "Expert advice, connections, information sharing",
+        "he": "ייעוץ מומחה, קשרים, שיתוף מידע"
+      },
+      "pricing": {
+        "amount": 0,
+        "currency": "EUR",
+        "notes": {
+          "en": "Community member - shares knowledge freely",
+          "he": "חבר קהילה - משתף ידע בחינם"
+        }
+      },
+      "reviews": [],
+      "tips": [
+        {
+          "type": "tip",
+          "text": {
+            "en": "Previously also owned motorhome in USA",
+            "he": "בעבר היה גם בעלים של מוטורהום בארה\"ב"
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": true,
+        "lastVerified": "2025-05-01",
+        "addedBy": "רמי גלבוע",
+        "addedDate": "2025-05-01"
+      },
+      "sourceBatch": 7
+    },
+    {
+      "id": "contact-008-001",
+      "type": "service_provider",
+      "businessName": {
+        "en": "Carla - Camper Sales and Workshop near Rome",
+        "he": "קארלה - מכירת קמפרים וסדנה ליד רומא"
+      },
+      "category": "motorhome_sales_and_service",
+      "description": {
+        "en": "Excellent professional installer and motorhome workshop near Rome. Family business selling new and used motorhomes. Precise work with fair prices. Amazing deals for new and used equipment including upgrades. Owner Henrico has amazing YouTube channel explaining all innovations in the field, how to repair and install. Wife learned basic Hebrew thanks to relationship with Israeli travelers. Became ambassadors for Israel.",
+        "he": "מתקין מקצועי מצוין וסדנת מוטורהומים ליד רומא. עסק משפחתי שמוכר מוטורהומים חדשים ומשומשים. עבודה מדויקת עם מחירים הוגנים. עסקאות מדהימות לכלים חדשים ומשומשים כולל השבחה. לבעלים הנריקו יש ערוץ יוטיוב מדהים שמסביר על כל חידוש בתחום, איך לתקן ולהתקין. אשתו למדה עברית בסיסית בזכות ההכרות עם טיילים ישראלים. הפכו לשגרירים של ישראל."
+      },
+      "location": {
+        "city": "Near Rome",
+        "region": "Lazio",
+        "country": "Italy",
+        "fullAddress": {
+          "en": "Near Rome, Italy - contact for exact location",
+          "he": "ליד רומא, איטליה - צור קשר למיקום מדויק"
+        }
+      },
+      "contact": {
+        "owner": "Henrico and Carla",
+        "phone": null,
+        "email": null,
+        "website": null,
+        "youtube": {
+          "en": "Henrico has amazing YouTube channel with installation tutorials",
+          "he": "להנריקו יש ערוץ יוטיוב מדהים עם מדריכי התקנה"
+        },
+        "notes": {
+          "en": "VCF contact card shared in WhatsApp chat",
+          "he": "כרטיס ביקור VCF שותף בצ'אט וואטסאפ"
+        }
+      },
+      "services": [
+        {
+          "en": "Motorhome sales (new and used)",
+          "he": "מכירת מוטורהומים (חדש ומשומש)"
+        },
+        {
+          "en": "Professional installations",
+          "he": "התקנות מקצועיות"
+        },
+        {
+          "en": "Upgrades and improvements",
+          "he": "שדרוגים ושיפורים"
+        },
+        {
+          "en": "Equipment sales (new and used)",
+          "he": "מכירת ציוד (חדש ומשומש)"
+        },
+        {
+          "en": "Repairs and maintenance",
+          "he": "תיקונים ותחזוקה"
+        }
+      ],
+      "specialties": [
+        {
+          "en": "Fair pricing",
+          "he": "מחירים הוגנים"
+        },
+        {
+          "en": "High-quality work",
+          "he": "עבודה איכותית"
+        },
+        {
+          "en": "Hebrew-speaking (basic)",
+          "he": "דוברי עברית בסיסית"
+        },
+        {
+          "en": "Israeli-friendly",
+          "he": "ידידותיים לישראלים"
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Amir Meltzer",
+          "date": "2025-05-01",
+          "rating": 5,
+          "text": {
+            "en": "I know an excellent installer, one of the best, close to Rome. Built me an amazing system. I bought my motorhome from him, he upgraded the entire vehicle - installation and knowledge amazing. Highly recommend. Amazing workshop, family business, sales of used and new. Precise work and fair prices, also amazing deals for new and used tools including upgrades. Henrico has an amazing YouTube channel explaining everything about innovations in the field, how to repair and install. His wife learned basic Hebrew thanks to our acquaintance - we introduced them to Israel and they really became ambassadors.",
+            "he": "אני מכיר מתקין מעולה שבמעולים קרוב לרומא. בנה לי מערכת מדהימה. קניתי ממנו את המוטרהום שלי שידרג לי את כל הרכב התקנה וידע מדהים. ממליץ בחום. סדנה מדהימה עסק משפחתי מכירת משומשים חדשים. עבודה מדויקת ומחירים הוגנים גם עסקאות מדהימות לכלים חדשים ומשומשים כולל השבחה. להריקו יש ערוץ יוטיוב מדהים מסביר שם על כל חידוש בתחום אביזרים הסבר איך לתקן להתקין. ואשתו בזכות ההכרות שלנו למדה עברית בסיסית כרגע הכרנו להם את ישראל וממש הפכו לשגרירים."
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": false,
+        "lastVerified": null,
+        "addedBy": "Amir Meltzer",
+        "addedDate": "2025-05-01",
+        "notes": {
+          "en": "YouTube videos showcasing installations shared: https://youtube.com/shorts/45eNoanj9Wk?si=Me0xcW6gXAeGJQfB, https://youtube.com/shorts/g2-tx2Hr5t8?si=4miB2ceiGC7UTtG0, https://youtu.be/eOMHeVW9dZ0?si=1sCQ5eS5_oUre-jG, https://youtu.be/Tp5pL85EHHg?si=nONnkVDXd7iuo3FL, https://youtu.be/liAlDY8L4jA?si=Urs5WJRR6guELs4s, https://youtu.be/xaaf9GTJpHg?si=_Mz9jlDinjn6j_AZ, https://youtu.be/EvITXbVrBxg?si=LQaTx1_xPs-6x8iC, https://youtu.be/qxhPiQSJRLo?si=7vE8D1FSzoy3tJ6o, https://youtu.be/ZG7kBMIVz3w?si=O_bsJKbC5YVNvyok, https://youtu.be/g7uPaoX5FFc?si=6d9lRhlPh7t7UAge",
+          "he": "סרטוני יוטיוב המציגים התקנות שותפו"
+        }
+      },
+      "sourceBatch": 8
+    },
+    {
+      "id": "contact-015",
+      "type": "service_provider",
+      "businessName": {
+        "en": "Motorhome Workshop near Florence-Pistoia Area",
+        "he": "סדנת מוטורהומים ליד אזור פירנצה-פיסטויה"
+      },
+      "category": "motorhome_repair",
+      "description": {
+        "en": "Professional motorhome repair workshop near Florence, Italy. Recommended by community for handling complex Fiat Ducato issues. Can store motorhome at workshop while repairs are done, allowing travelers to continue trip and pick up vehicle later (3+ weeks possible).",
+        "he": "סדנת תיקון מוטורהומים מקצועית ליד פירנצה, איטליה. מומלץ על ידי הקהילה לטיפול בבעיות מורכבות של פיאט דוקאטו. יכול לאחסן מוטורהום בסדנה בזמן ביצוע תיקונים, מאפשר לנוסעים להמשיך את הטיול ולאסוף את הרכב מאוחר יותר (3+ שבועות אפשרי)."
+      },
+      "location": {
+        "city": "Florence-Lucca-Pistoia area",
+        "region": "Tuscany",
+        "country": "Italy",
+        "fullAddress": {
+          "en": "Florence-Lucca-Pistoia region - contact for exact location",
+          "he": "אזור פירנצה-לוקה-פיסטויה - צור קשר למיקום מדויק"
+        }
+      },
+      "contact": {
+        "notes": {
+          "en": "Contact details available through Ron Kellner or community members. ChatGPT recommendations also provided.",
+          "he": "פרטי קשר זמינים דרך רון קלנר או חברי קהילה. המלצות ChatGPT סופקו גם כן."
+        }
+      },
+      "services": [
+        {
+          "en": "Fiat Ducato specialist repairs",
+          "he": "תיקוני מומחה פיאט דוקאטו"
+        },
+        {
+          "en": "Complex diagnostic troubleshooting",
+          "he": "פתרון בעיות אבחוני מורכב"
+        },
+        {
+          "en": "Long-term motorhome storage during repairs",
+          "he": "אחסון מוטורהום לטווח ארוך במהלך תיקונים"
+        },
+        {
+          "en": "Transmission repairs",
+          "he": "תיקוני תיבת הילוכים"
+        },
+        {
+          "en": "Engine diagnostics",
+          "he": "אבחון מנוע"
+        }
+      ],
+      "specialties": [
+        {
+          "en": "Recurring/complex issues",
+          "he": "בעיות חוזרות/מורכבות"
+        },
+        {
+          "en": "Flexible storage options",
+          "he": "אפשרויות אחסון גמישות"
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Shay Goren",
+          "date": "2025-05-22",
+          "rating": null,
+          "text": {
+            "en": "Our camper (Fiat Ducato) broke down for the third time in a row, after being repaired twice at workshops and supposedly everything was fine. Looking for professional and reliable workshop in Florence-Lucca-Pistoia area where vehicle can be towed and preferably left parked at workshop until we return to pick it up in about three weeks.",
+            "he": "הקמפר שלנו (פיאט דוקאטו) נתקע בפעם השלישית ברצף, לאחר פעמיים שתוקן במוסכים ולכאורה הכול היה תקין. מחפש מוסך מקצועי ואמין באזור פירנצה-לוקה-פיסטויה אליו ניתן יהיה לגרור את הרכב ובעדיפות רבה להשאירו חונה במוסך, עד שנגיע לאוספו בעוד כשלושה שבועות."
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": false,
+        "lastVerified": null,
+        "addedBy": "Shay Goren",
+        "addedDate": "2025-05-22",
+        "notes": {
+          "en": "Community assistance mobilized through Ron Kellner and Amir Meltzer. Real-world case: 5-year-old Ducato with 30K km, recurring transmission and engine issues.",
+          "he": "סיוע קהילתי גויס דרך רון קלנר ועמיר מלצר. מקרה מהעולם האמיתי: דוקאטו בן 5 שנים עם 30K ק\"מ, בעיות תיבת הילוכים ומנוע חוזרות."
+        }
+      },
+      "sourceBatch": 9
+    },
+    {
+      "id": "contact-016",
+      "type": "service_provider",
+      "businessName": {
+        "en": "Motorhome Workshop near Rome (with Fiat dealer)",
+        "he": "סדנת מוטורהומים ליד רומא (עם סוכנות פיאט)"
+      },
+      "category": "motorhome_service",
+      "description": {
+        "en": "Motorhome service provider one hour north of Rome with adjacent authorized Fiat dealership. Community members have had positive experiences here. Friend can help facilitate service. Convenient for Fiat Ducato repairs with factory-authorized expertise.",
+        "he": "ספק שירות מוטורהומים שעה צפונית לרומא עם סוכנות פיאט מורשית צמודה. לחברי קהילה היו חוויות חיוביות כאן. חבר יכול לעזור לתאם שירות. נוח לתיקוני פיאט דוקאטו עם מומחיות מורשית מהמפעל."
+      },
+      "location": {
+        "city": "One hour north of Rome",
+        "region": "Lazio",
+        "country": "Italy",
+        "fullAddress": {
+          "en": "Approximately 1 hour north of Rome - contact for exact location",
+          "he": "כשעה צפונית לרומא - צור קשר למיקום מדויק"
+        }
+      },
+      "contact": {
+        "referral": "Amir Meltzer (can facilitate contact)",
+        "notes": {
+          "en": "Part of community members have already experienced good service here. Friend can help facilitate.",
+          "he": "חלק מחברי הקהילה כבר התנסו בשירות טוב כאן. חבר יכול לעזור לתאם."
+        }
+      },
+      "services": [
+        {
+          "en": "Motorhome service and repairs",
+          "he": "שירות ותיקון מוטורהומים"
+        },
+        {
+          "en": "Authorized Fiat dealership (adjacent)",
+          "he": "סוכנות פיאט מורשית (צמודה)"
+        },
+        {
+          "en": "Factory-authorized repairs",
+          "he": "תיקונים מורשים מהמפעל"
+        }
+      ],
+      "specialties": [
+        {
+          "en": "Fiat Ducato expertise",
+          "he": "מומחיות פיאט דוקאטו"
+        },
+        {
+          "en": "Community-tested service",
+          "he": "שירות נבדק על ידי קהילה"
+        }
+      ],
+      "reviews": [
+        {
+          "author": "Amir Meltzer",
+          "date": "2025-05-22",
+          "rating": 4,
+          "text": {
+            "en": "Not relevant but one hour north of Rome, besides motorhome workshop that some of the friends here have already experienced positively, there's also an adjacent authorized Fiat dealership. Friend can help. For information.",
+            "he": "לא רלוונטי אבל שעה מרומא לכיוון צפון יש לי חבר בנוסף לסדנה מוטרהום שחלק מהחברים פה כבר התנסו לטובה יש גם מוסך פיאט צמוד מורשה חבר יכול לעזור לידיעה"
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": false,
+        "lastVerified": null,
+        "addedBy": "Amir Meltzer",
+        "addedDate": "2025-05-22",
+        "notes": {
+          "en": "Recommended in context of Fiat Ducato breakdown case. Community members have positive experience.",
+          "he": "הומלץ בהקשר של מקרה התמוטטות פיאט דוקאטו. לחברי קהילה יש ניסיון חיובי."
+        }
+      },
+      "sourceBatch": 9
+    },
+    {
+      "id": "contact-010-001",
+      "type": "individual",
+      "businessName": {
+        "en": "Nirit and Yariv - Full-Time RV Living North America",
+        "he": "נירית ויריב - חיים במשרה מלאה ברכב פנאי צפון אמריקה"
+      },
+      "category": "community_resource",
+      "description": {
+        "en": "Israeli couple (50+) with 4 adult children living full-time in fifth wheel RV in North America for nearly 3 years while working remotely. Willing to share experiences, costs, and information about RV living and traveling with families in US.",
+        "he": "זוג ישראלי (50+) עם 4 ילדים בוגרים החיים במשרה מלאה ברכב פנאי גלגל חמישי בצפון אמריקה כמעט 3 שנים תוך עבודה מרחוק. מוכנים לשתף חוויות, עלויות ומידע על חיי רכב פנאי וטיול עם משפחות בארה\"ב."
+      },
+      "location": {
+        "city": "Mobile - North America",
+        "region": "Various",
+        "country": "United States/Canada",
+        "fullAddress": {
+          "en": "Traveling throughout North America",
+          "he": "מטיילים ברחבי צפון אמריקה"
+        }
+      },
+      "contact": {
+        "name": "Nirit and Yariv",
+        "phone": null,
+        "email": null,
+        "whatsapp": "Member of motorhome WhatsApp group",
+        "notes": {
+          "en": "Currently in Israel as of May 31, 2025. Contact card shared in group. Joined group on May 31, 2025.",
+          "he": "כרגע בארץ נכון ל-31 במאי 2025. כרטיס ביקור שותף בקבוצה. הצטרפו לקבוצה ב-31 במאי 2025."
+        }
+      },
+      "services": [
+        {
+          "en": "Information sharing about US RV living",
+          "he": "שיתוף מידע על חיי רכב פנאי בארה\"ב"
+        },
+        {
+          "en": "Cost information and budgeting advice",
+          "he": "מידע עלויות וייעוץ תקציבי"
+        },
+        {
+          "en": "Family RV travel experiences",
+          "he": "חוויות טיול משפחתי ברכב פנאי"
+        },
+        {
+          "en": "Remote work while traveling",
+          "he": "עבודה מרחוק תוך כדי טיול"
+        }
+      ],
+      "specialties": [
+        {
+          "en": "Fifth wheel RV living",
+          "he": "חיים ברכב פנאי גלגל חמישי"
+        },
+        {
+          "en": "Long-term full-time travel (3 years)",
+          "he": "טיול ארוך טווח במשרה מלאה (3 שנים)"
+        },
+        {
+          "en": "Work-life balance while traveling",
+          "he": "איזון עבודה-חיים תוך כדי טיול"
+        },
+        {
+          "en": "Traveling with grown children in Israel",
+          "he": "טיול עם ילדים בוגרים בישראל"
+        }
+      ],
+      "reviews": [],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": false,
+        "lastVerified": null,
+        "addedBy": "Efraim Lior",
+        "addedDate": "2025-05-31",
+        "notes": {
+          "en": "Introduced to group by Efraim Lior. Know several other Israeli families who traveled with children in US. VCF contact card attached in chat.",
+          "he": "הוצגו לקבוצה על ידי אפרים ליאור. מכירים כמה משפחות ישראליות נוספות שטיילו עם ילדים בארה\"ב. כרטיס ביקור VCF מצורף בצ'אט."
+        }
+      },
+      "sourceBatch": 10
+    },
+    {
+      "id": "contact-010-002",
+      "type": "individual",
+      "businessName": {
+        "en": "Aviv Tsalim - MEGAL Organization Manager",
+        "he": "אביב צאלים - מנהל ארגון מעג'ל"
+      },
+      "category": "community_organization",
+      "description": {
+        "en": "Young manager of MEGAL (מעג'ל), an association of caravan owners in Israel. Organizes events and gatherings for Israeli motorhome community.",
+        "he": "מנהל צעיר של מעג'ל, עמותה של בעלי קרוואנים בישראל. מארגן אירועים ומפגשים לקהילת המוטורהום הישראלית."
+      },
+      "location": {
+        "city": "Israel",
+        "region": "Various",
+        "country": "Israel",
+        "fullAddress": {
+          "en": "Based in Israel",
+          "he": "בישראל"
+        }
+      },
+      "contact": {
+        "name": "Aviv Tsalim",
+        "phone": null,
+        "email": null,
+        "organization": "MEGAL (מעג'ל)",
+        "notes": {
+          "en": "Contact for Israeli motorhome events and community",
+          "he": "איש קשר לאירועי מוטורהום ישראלים וקהילה"
+        }
+      },
+      "services": [
+        {
+          "en": "Organizing motorhome gatherings",
+          "he": "ארגון מפגשי מוטורהום"
+        },
+        {
+          "en": "Community events coordination",
+          "he": "תיאום אירועי קהילה"
+        },
+        {
+          "en": "Israeli caravan owner networking",
+          "he": "יצירת קשרים בין בעלי קרוואנים ישראלים"
+        }
+      ],
+      "specialties": [
+        {
+          "en": "Israeli motorhome community",
+          "he": "קהילת מוטורהום ישראלית"
+        },
+        {
+          "en": "Event organization",
+          "he": "ארגון אירועים"
+        }
+      ],
+      "reviews": [],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": false,
+        "lastVerified": null,
+        "addedBy": "Haggai",
+        "addedDate": "2025-06-01"
+      },
+      "sourceBatch": 10
+    },
+    {
+      "id": "contact-013-001",
+      "name": "Ron Kellner",
+      "expertise": {
+        "en": [
+          "Travel insurance",
+          "Gas refilling procedures",
+          "Norway travel tips",
+          "European travel knowledge",
+          "Motorhome technical support"
+        ],
+        "he": [
+          "ביטוח נסיעות",
+          "הליכי מילוי גז",
+          "טיפים לנורווגיה",
+          "ידע נסיעות אירופאיות",
+          "תמיכה טכנית קמפרוון"
+        ]
+      },
+      "contact": "Available via WhatsApp for private messages",
+      "sharedBy": "Group chat participants",
+      "dateShared": "2025-06-29",
+      "sourceBatch": 13
+    },
+    {
+      "id": "contact-013-002",
+      "name": "Weizmann Institute Research Team",
+      "expertise": {
+        "en": [
+          "Climate research",
+          "Mobile laboratory setup",
+          "Africa expedition planning",
+          "Extended international travel documentation"
+        ],
+        "he": [
+          "מחקר אקלים",
+          "התקנת מעבדה ניידת",
+          "תכנון משלחת אפריקאי",
+          "תיעוד נסיעות בינלאומיות ממושכות"
+        ]
+      },
+      "notes": {
+        "en": "Planning motorhome expedition with research laboratory for Africa",
+        "he": "תכנון משלחת קמפרוון עם מעבדת מחקר לאפריקה"
+      },
+      "association": "Rami Galboa and others",
+      "dateShared": "2025-06-27",
+      "sourceBatch": 13
+    },
+    {
+      "id": "contact-013-003",
+      "name": "Amir Meltzer",
+      "expertise": {
+        "en": [
+          "Motorhome equipment setup",
+          "Autonomous vehicle systems",
+          "Practical field experience"
+        ],
+        "he": [
+          "הגדרת ציוד קמפרוון",
+          "מערכות רכבים אוטונומיות",
+          "ניסיון שדה מעשי"
+        ]
+      },
+      "currentStatus": "Currently living in motorhome in Israel near Gaza border, traveled 11 countries in 7 months",
+      "notes": {
+        "en": "Also active military reserves, home hit by attack, family living in motorhome temporarily",
+        "he": "גם במילואים צבאיים פעילים, הבית היה מטרה פגיעה, משפחה גרה בקמפרוון בזמני"
+      },
+      "dateShared": "2025-06-29",
+      "sourceBatch": 13
+    },
+    {
+      "id": "contact-014-001",
+      "name": "Vincent Morel",
+      "type": "motorhome-parking",
+      "location": {
+        "en": "Paris area, near Charles de Gaulle Airport",
+        "he": "אזור פריס, ליד נמל התעופה Charles de Gaulle"
+      },
+      "distance": "10 minutes from airport",
+      "email": "vincent.morel.ms@gmail.com",
+      "phone": "+33 686 423 172",
+      "service": "Motorhome parking/storage",
+      "status": {
+        "en": "Currently full, looking for alternatives",
+        "he": "כרגע מלא, מחפש חלופות"
+      },
+      "sharedBy": "Jorge",
+      "dateShared": "2025-07-12",
+      "sourceBatch": 14
+    },
+    {
+      "id": "contact-014-002",
+      "name": "Constant",
+      "type": "farm-storage",
+      "location": {
+        "en": "Rambouillet farm near Paris",
+        "he": "חווה Rambouillet ליד פריס"
+      },
+      "service": "Long-term motorhome storage",
+      "vcf_attached": true,
+      "contact_format": "VCF card provided",
+      "distance": "Approximately 1.5 hours from city center",
+      "pricing": "€70/month",
+      "sharedBy": "Amit Raphaeli",
+      "dateShared": "2025-07-12",
+      "notes": {
+        "en": "Recommended by Rami Galboa. Family-like treatment with flexible terms.",
+        "he": "מומלץ על ידי רמי גלבוע. יחס משפחתי עם תנאים גמישים."
+      },
+      "sourceBatch": 14
+    },
+    {
+      "id": "contact-014-003",
+      "name": "Owner at Pretoria Farm",
+      "type": "technical-expert",
+      "location": {
+        "en": "Near Pretoria, South Africa",
+        "he": "ליד פרטוריה, דרום אפריקה"
+      },
+      "specialty": "Motorhome and Sprinter mechanics",
+      "services": [
+        "Technical repairs",
+        "Enclosed storage",
+        "Post-journey maintenance"
+      ],
+      "contact_method": "Through Elisha (Aba)",
+      "local_network": "Extensive connections in the Pretoria area",
+      "sharedBy": "Elisha (Aba)",
+      "dateShared": "2025-07-15",
+      "notes": {
+        "en": "Technical expert with excellent local network. Good for serious mechanical work and advice.",
+        "he": "מומחה טכני עם רשת מקומית מעולה. טוב לעבודות מכניות רציניות וייעוץ."
+      },
+      "sourceBatch": 14
+    },
+    {
+      "id": "contact-014-004",
+      "name": "Rieti Workshop Family (Owner: Barbara)",
+      "type": "service-workshop",
+      "location": {
+        "en": "Rieti, Italy",
+        "he": "Rieti, איטליה"
+      },
+      "specialty": "Motorhome repairs, modifications, LPG installation",
+      "services": [
+        "Motorhome service",
+        "Camper repairs",
+        "Caravan work",
+        "LPG installation",
+        "Camping accommodation"
+      ],
+      "contact_method": "Through Amir Malzer (referral)",
+      "owner": "Barbara (highly respected family owner)",
+      "pricing": "Fair and reasonable",
+      "special_offers": [
+        "VIP treatment available",
+        "Evening dining at local restaurant",
+        "Discounted rates for referred customers"
+      ],
+      "testimonials": {
+        "en": "Excellent service, warm family treatment, professional work",
+        "he": "שירות מעולה, יחס משפחתי חם, עבודה מקצועית"
+      },
+      "sharedBy": "Ravid paz, Amir Malzer",
+      "dateShared": "2025-07-17",
+      "notes": {
+        "en": "Highly recommended for comprehensive motorhome service in Italy. Owner Barbara is excellent.",
+        "he": "מומלץ מאוד לשירות קמפרוון מקיף באיטליה. בעלת ברברה מעולה."
+      },
+      "sourceBatch": 14
+    },
+    {
+      "id": "contact-014-005",
+      "name": "Amir Malzer",
+      "type": "facilitator-referral",
+      "service": "Motorhome service connections and recommendations",
+      "specialties": [
+        "Italian workshop connections",
+        "Professional referrals",
+        "VIP arrangement coordination"
+      ],
+      "notes": {
+        "en": "Can arrange VIP treatment and special rates at partner workshops in Italy",
+        "he": "יכול לסדר טיפול VIP ותעריפים מיוחדים בסדנות בשותפות באיטליה"
+      },
+      "sharedBy": "Ravid paz, Amir Malzer",
+      "dateShared": "2025-07-17",
+      "sourceBatch": 14
+    },
+    {
+      "id": "contact-015-001",
+      "name": "Navot Menachem",
+      "vcfPath": "-0001451-נבות מנחם.vcf",
+      "status": "newly joined group",
+      "context": {
+        "en": "New group member from Israel. Traveling with wife and infant for month-long European tour starting Thessaloniki, Greece. Motorhome currently in Greece.",
+        "he": "חברה חדשה בקבוצה מישראל. נוסעת עם אשה ותינוקת לסיור אירופאי חודשי החל מסלוניקי, יוון. קמפרוון כרגע ביוון."
+      },
+      "sharedBy": "Tuval Avishi",
+      "dateShared": "2025-08-04",
+      "sourceBatch": 15
+    },
+    {
+      "id": "contact-015-002",
+      "name": "Gil Albaz (ג ִיל אלבז)",
+      "phone": "+393474059030",
+      "services": {
+        "en": "Large camping site in Milan, Italy with motorhome storage services",
+        "he": "אתר קמפינג גדול במילאנו, איטליה עם שירותי אחסון קמפרוון"
+      },
+      "recommendation": {
+        "en": "Oren Kipnis recommended for Milan storage solutions",
+        "he": "המלצה של אורן קיפניס לפתרונות אחסון במילאנו"
+      },
+      "sharedBy": "Oren Kipnis",
+      "dateShared": "2025-07-30",
+      "sourceBatch": 15
+    },
+    {
+      "id": "contact-016-001",
+      "type": "business",
+      "name": {
+        "en": "Angela Bradl Camper Storage Munich",
+        "he": "אחסון קמפר Angela Bradl מינכן"
+      },
+      "location": {
+        "en": "Near Munich Airport, Germany",
+        "he": "ליד שדה תעופה מינכן, גרמניה"
+      },
+      "category": "motorhome-storage",
+      "description": {
+        "en": "Professional motorhome and camper storage facility in Munich area. Specializes in secure storage for European travelers.",
+        "he": "מתקן אחסון קמפרוון וקמפר מקצועי באזור מינכן. התמחה בסטוריג בטוח לנוסעים אירופיים."
+      },
+      "vcfCard": "Yes - shared as VCF attachment",
+      "sharedBy": "Oren Kipnis",
+      "dateShared": "2025-09-01",
+      "sourceBatch": 16
+    },
+    {
+      "id": "contact-016-002",
+      "type": "person",
+      "name": {
+        "en": "Reni (Citroën Collector & Restorer)",
+        "he": "רני (אוסף ומרמם סיטרואנים)"
+      },
+      "expertise": {
+        "en": [
+          "Citroën vehicles",
+          "Vehicle restoration",
+          "Balkan travel"
+        ],
+        "he": [
+          "רכבי סיטרואן",
+          "שיקום רכבים",
+          "נסיעות בלקן"
+        ]
+      },
+      "currentActivity": {
+        "en": "Summer travel in Balkans with collection of classic Citroëns and Land Cruiser escort",
+        "he": "נסיעה בקיץ בבלקן עם אוסף סיטרואנים קלסיים וליווי Land Cruiser"
+      },
+      "sharedBy": "Ilan",
+      "dateShared": "2025-08-29",
+      "sourceBatch": 16
+    },
+    {
+      "id": "contact-016-003",
+      "type": "person",
+      "name": {
+        "en": "Nadav",
+        "he": "נדב"
+      },
+      "expertise": {
+        "en": [
+          "GPS navigation",
+          "Motorhome technology",
+          "Off-grid living",
+          "UK travel"
+        ],
+        "he": [
+          "ניווט GPS",
+          "טכנולוגיית קמפרוון",
+          "חיים מחוץ לרשת",
+          "נסיעות בבריטניה"
+        ]
+      },
+      "currentActivity": {
+        "en": "Extended motorhome travel in UK with dual home office setup for remote work",
+        "he": "נסיעת קמפרוון ממושכת בבריטניה עם הגדרת משרד כפול למעל עבודה"
+      },
+      "sharedContent": {
+        "en": [
+          "GPS app comparisons",
+          "Navigation system reviews",
+          "Parking locations"
+        ],
+        "he": [
+          "השוואות אפליקציות GPS",
+          "סקירות מערכות ניווט",
+          "מיקומי חניה"
+        ]
+      },
+      "dateShared": "2025-08-19",
+      "sourceBatch": 16
+    },
+    {
+      "id": "contact-017-001",
+      "name": "Jorge (חורחה)",
+      "role": "Motorhome traveler",
+      "context": "In Switzerland, entering Germany, needs Citroën mechanic assistance",
+      "information": {
+        "en": "Traveling with Citroën motorhome from Switzerland to Germany, seeking serious Citroën mechanic along Basel-Hamburg route",
+        "he": "נוסע עם קמפרוון סיטרואן משוויץ לגרמניה, מחפש מכונאי סיטרואן רציני לאורך מסלול באזל-המבורג"
+      },
+      "dateShared": "2025-09-10",
+      "sourceBatch": 17
+    },
+    {
+      "id": "contact-017-002",
+      "name": "Tom Lerner",
+      "role": "Motorhome traveler, family adventurer",
+      "context": "Seven-month South America motorhome expedition with family and three young children",
+      "information": {
+        "en": "Completed epic seven-month motorhome journey through South America with wife and three children (ages 2, 5, 8). Experienced with family motorhome travel in remote regions.",
+        "he": "השלים מסע קמפרוון אפי של שבעה חודשים דרך דרום אמריקה עם אשתו ושלוש ילדים (בגילאי 2, 5, 8). בעל ניסיון בנסיעות קמפרוון משפחתיות באזורים מרוחקים."
+      },
+      "expertise": [
+        "Family motorhome travel",
+        "South America routes",
+        "Remote region navigation",
+        "Extended travel logistics"
+      ],
+      "dateShared": "2025-09-27",
+      "sourceBatch": 17
+    },
+    {
+      "id": "contact-017-003",
+      "name": "Ron Kellner",
+      "role": "Motorhome enthusiast, equipment specialist",
+      "context": "Owns motorhome with extensive solar and battery system",
+      "information": {
+        "en": "Knowledgeable about motorhome equipment, solar systems, and batteries. Owns well-equipped motorhome with 500 amp battery system and solar panels. Known for practical advice and humor.",
+        "he": "בעל ידע על ציוד קמפרוונים, מערכות סולריות וסוללות. בעלים של קמפרוון מצויד היטב עם מערכת סוללות 500 אמפר ופנלים סולריים. ידוע בעצות מעשיות וחוש הומור."
+      },
+      "expertise": [
+        "Solar systems",
+        "Battery systems",
+        "Equipment installation",
+        "Motorhome design"
+      ],
+      "dateShared": "2025-09-24",
+      "sourceBatch": 17
+    },
+    {
+      "id": "contact-017-004",
+      "name": "Ilan",
+      "role": "Experienced motorhome traveler",
+      "context": "Extensive European and international motorhome travel",
+      "information": {
+        "en": "Experienced motorhome traveler. Recently traveled from Mongolia to Italy via Western Italy, Sicily, and Greece. Uses AXA travel insurance and ADAC vehicle insurance. Known for detailed travel knowledge and practical experience.",
+        "he": "נוסע קמפרוון מנוסה. בחר לאחרונה ממונגוליה לאיטליה דרך איטליה המערבית, סיציליה ויוון. משתמש בביטוח נסיעות AXA וביטוח רכבים ADAC. ידוע בידע נסיעות מפורט וניסיון מעשי."
+      },
+      "expertise": [
+        "European motorhome routes",
+        "Insurance options",
+        "Travel planning",
+        "International travel"
+      ],
+      "dateShared": "2025-09-15",
+      "sourceBatch": 17
+    },
+    {
+      "id": "contact-017-005",
+      "name": "Amir Meltzer",
+      "role": "Motorhome traveler, location scout",
+      "context": "Actively discovering and sharing motorhome-friendly locations in Italy",
+      "information": {
+        "en": "Sharing high-quality locations in Italy including mineral springs, free parking areas, and cultural sites. Discovered Saturnia and Viterbo mineral springs areas with excellent facilities.",
+        "he": "שיתוף מיקומים ברמה גבוהה באיטליה כולל מעיינות מינרלים, אזורי חנייה חינם ואתרים תרבותיים. גילה אזורי מעיינות מינרלים בסטורניה וויטרבו עם תשתיות מעולות."
+      },
+      "expertise": [
+        "Location discovery",
+        "Italian destinations",
+        "Free parking spots",
+        "Mineral springs"
+      ],
+      "dateShared": "2025-09-24",
+      "sourceBatch": 17
+    },
+    {
+      "id": "contact-017-006",
+      "name": "Itay",
+      "role": "Motorhome traveler, storage seeker",
+      "context": "Looking for secure vehicle storage facility near Budapest",
+      "information": {
+        "en": "Seeking temporary motorhome storage near Budapest with specific requirements: free storage, covered garage, and free shuttle service to city.",
+        "he": "מחפש אחסון קמפרוון זמני ליד בודפשט עם דרישות ספציפיות: אחסון חינם, סככה מכוסה ושירות הסעות חינם לעיר."
+      },
+      "requirements": [
+        "Free storage",
+        "Covered garage/facility",
+        "Free shuttle service",
+        "Near Budapest"
+      ],
+      "dateShared": "2025-09-15",
+      "sourceBatch": 17
+    },
+    {
+      "id": "contact-018-001",
+      "name": "Tom Lerner",
+      "type": "individual",
+      "expertise": [
+        "south-america-travel",
+        "family-motorhome",
+        "ecuador"
+      ],
+      "recentActivity": {
+        "en": "Completed extended family motorhome journey through South America including Ecuador, Amazon, and Cotopaxi volcano region",
+        "he": "השלים מסע משפחתי ממושך בקמפרוון בדרום אמריקה כולל אקוודור, אמזונס ואזור הר הגעש קוטופקסי"
+      },
+      "lastSeen": "2025-09-27",
+      "sourceBatch": 18
+    },
+    {
+      "id": "contact-018-002",
+      "name": "Boaz Gutman",
+      "type": "individual",
+      "expertise": [
+        "north-america-travel",
+        "family-motorhome",
+        "chile",
+        "mexico",
+        "vehicle-maintenance",
+        "battery-systems"
+      ],
+      "recentActivity": {
+        "en": "Recently returned from 6-month North America motorhome journey. Currently managing vehicle refurbishment and seeking solutions for mouse-related issues",
+        "he": "חזר לאחרונה מטיול קמפרוון של 6 חודשים בצפון אמריקה. כרגע מנהל שיפוץ רכב וחיפוש פתרונות לבעיות הקשורות לעכברים"
+      },
+      "lastSeen": "2025-09-28",
+      "sourceBatch": 18
+    },
+    {
+      "id": "contact-018-003",
+      "name": "Dvori Pshednovak Hulkashe",
+      "type": "individual",
+      "expertise": [
+        "south-africa-travel",
+        "family-motorhome",
+        "south-america",
+        "farm-property-search",
+        "4-children-family"
+      ],
+      "recentActivity": {
+        "en": "Selling motorhome after 18-month South Africa journey with 4 children. Planning transition to farm property search in USA (New York to Georgia region)",
+        "he": "מוכר קמפרוון לאחר נסיעה של 18 חודשים בדרום אפריקה עם 4 ילדים. תכנון מעבר לחיפוש קרקע חווה בארה\"ב (ניו יורק לאזור ג'ורג'יה)"
+      },
+      "lastSeen": "2025-09-28",
+      "sourceBatch": 18
+    },
+    {
+      "id": "contact-018-004",
+      "name": "Nadav",
+      "type": "individual",
+      "expertise": [
+        "portugal-travel",
+        "spain-travel",
+        "battery-systems",
+        "solar-power",
+        "autonomous-living"
+      ],
+      "recentActivity": {
+        "en": "Currently traveling Portugal and Spain with weekend driving pattern. Working on solar panel roof installation to reduce generator dependency",
+        "he": "כרגע נוסע בפורטוגל וספרד עם דפוס נסיעה של סופי שבוע. עובד על התקנת גג פאנל סולרי להפחתת תלות בגנרטור"
+      },
+      "autonomyCapabilities": {
+        "freshWater": "2-3 weeks",
+        "greyWater": "1 week",
+        "electricityWithoutGenerator": "3 days",
+        "toiletCapacity": "8-10 days"
+      },
+      "lastSeen": "2025-09-28",
+      "sourceBatch": 18
+    },
+    {
+      "id": "contact-018-005",
+      "name": "Ron Kellner",
+      "type": "individual",
+      "expertise": [
+        "iceland-travel",
+        "planning"
+      ],
+      "recentActivity": {
+        "en": "Planning to transport motorhome to Iceland for spring/summer 6-month journey. Seeking advice from experienced travelers",
+        "he": "תוכנן להעביר קמפרוון לאיסלנד לטיול של 6 חודשים באביב/קיץ. ביקוש לעצות מנוסעים בעלי ניסיון"
+      },
+      "lastSeen": "2025-09-28",
+      "sourceBatch": 18
+    },
+    {
+      "id": "contact-018-006",
+      "name": "Amir Meltzer",
+      "type": "individual",
+      "expertise": [
+        "battery-systems",
+        "solar-power",
+        "electrical-systems",
+        "autonomous-living",
+        "advanced-power-setup"
+      ],
+      "recentActivity": {
+        "en": "Operating advanced 900Ah lithium battery system with 900W roof solar panels. Multiple charge sources (alternator, solar, 3x chargers). Generator-free operation",
+        "he": "מפעיל מערכת סוללה ליתיום מתקדמת של 900Ah עם פאנלים סולריים לגג של 900W. מקורות טעינה מרובים (אלטרנטור, סולר, 3x מטענים). תפעול ללא גנרטור"
+      },
+      "lastSeen": "2025-09-28",
+      "sourceBatch": 18
+    },
+    {
+      "id": "contact-018-007",
+      "name": "Ezy",
+      "type": "individual",
+      "expertise": [
+        "european-motorhome-purchasing",
+        "american-motorhome-experience",
+        "class-a-motorhomes",
+        "woodworking"
+      ],
+      "recentActivity": {
+        "en": "New group member with extensive international motorhome experience (Bedford Blitz, Class A diesel, multiple rental trips). Currently seeking German integrated motorhome for purchase in Europe",
+        "he": "חבר חדש בקבוצה עם ניסיון בינלאומי נרחב בקמפרוונים (Bedford Blitz, Class A diesel, מספר טיולים שכורים). כרגע חיפוש קמפרוון משולב גרמני לרכישה באירופה"
+      },
+      "lastSeen": "2025-09-30",
+      "sourceBatch": 18
+    },
+    {
+      "id": "contact-019-001",
+      "name": "Roni",
+      "type": "vehicle-seller",
+      "phone": "054-475-0612",
+      "location": "Biqneem, Israel",
+      "item": "Caravan Hobby 495 Deluxe (2021)",
+      "dateShared": "2025-10-06",
+      "sourceBatch": 19
+    },
+    {
+      "id": "contact-020-001",
+      "name": {
+        "en": "Rami Galboa",
+        "he": "רמי גלבוע"
+      },
+      "role": {
+        "en": "Community member, travel guide, cooking expert",
+        "he": "חבר קהילה, מדריך נסיעות, מומחה בישול"
+      },
+      "expertise": [
+        "motorhome-travel",
+        "destinations",
+        "cooking",
+        "locations",
+        "equipment"
+      ],
+      "contributions": [
+        "Lisbon café recommendations",
+        "Tuscany vineyard location",
+        "Apple cake recipe",
+        "Equipment recommendations"
+      ],
+      "dateActive": "2025-10-08 to 2025-10-16",
+      "sourceBatch": 20
+    },
+    {
+      "id": "contact-020-002",
+      "name": {
+        "en": "Ilan",
+        "he": "אילן"
+      },
+      "role": {
+        "en": "Experienced motorhome traveler, technical expert",
+        "he": "מטייל קמפרוון מנוסה, מומחה טכני"
+      },
+      "expertise": [
+        "electrical-systems",
+        "vehicle-registration",
+        "travel-routes",
+        "equipment-recommendations",
+        "starlink-technology"
+      ],
+      "contributions": [
+        "Inverter installation guide",
+        "German registration advice",
+        "Tuscany locations and camping",
+        "Water pump recommendations",
+        "E-bike transportation solutions",
+        "Starlink integration"
+      ],
+      "dateActive": "2025-10-07 to 2025-10-16",
+      "location": "Currently traveling in Tuscany",
+      "sourceBatch": 20
+    },
+    {
+      "id": "contact-020-003",
+      "name": {
+        "en": "Amit Rapali",
+        "he": "עמית רפאלי"
+      },
+      "role": {
+        "en": "Motorhome user, service provider reviewer",
+        "he": "משתמש קמפרוון, מעריך ספקי שירות"
+      },
+      "vehicleInfo": {
+        "model": "Weinsberg CaraSuite 700",
+        "type": "motorhome"
+      },
+      "contributions": [
+        "Madrid mechanic shop recommendation",
+        "Water pump repair experience"
+      ],
+      "dateActive": "2025-10-07",
+      "sourceBatch": 20
+    },
+    {
+      "id": "contact-020-004",
+      "name": {
+        "en": "Iti (עיתי)",
+        "he": "עיתי"
+      },
+      "role": {
+        "en": "Motorhome traveler, Netherlands-Germany registration expert",
+        "he": "מטייל קמפרוון, מומחה בנושא רישום הולנד-גרמניה"
+      },
+      "expertise": [
+        "vehicle-registration",
+        "netherlands-services",
+        "long-term-travel"
+      ],
+      "vehicleInfo": {
+        "registration": "Through local family business in Netherlands",
+        "parkingLocation": "Romania-Hungary border region"
+      },
+      "contributions": [
+        "Harry Roini Europe service information",
+        "3-year experience with registration solution",
+        "Local intermediary approach success story"
+      ],
+      "dateActive": "2025-10-15",
+      "sourceBatch": 20
+    },
+    {
+      "id": "contact-020-005",
+      "name": {
+        "en": "Tuval Avishi",
+        "he": "תובל אבישי"
+      },
+      "role": {
+        "en": "Community member, travel experience",
+        "he": "חבר קהילה, חוויית נסיעות"
+      },
+      "expertise": [
+        "south-america-travel",
+        "motorhome-experience"
+      ],
+      "contributions": [
+        "Warnings about vehicle height in narrow places (Peru experience)",
+        "German registration process discussion"
+      ],
+      "dateActive": "2025-10-15 to 2025-10-16",
+      "sourceBatch": 20
+    },
+    {
+      "id": "contact-020-006",
+      "name": {
+        "en": "Tom Lerner",
+        "he": "טום לרנר"
+      },
+      "role": {
+        "en": "Motorhome cook, Omnia enthusiast",
+        "he": "טבח קמפרוון, חובב Omnia"
+      },
+      "expertise": [
+        "motorhome-cooking",
+        "omnia-cooker"
+      ],
+      "contributions": [
+        "Omnia cooking experience",
+        "Apple cake recipe requests"
+      ],
+      "dateActive": "2025-10-14 to 2025-10-15",
+      "sourceBatch": 20
+    },
+    {
+      "id": "contact-020-007",
+      "name": {
+        "en": "Efraim Lior (אפרים ליאור)",
+        "he": "אפרים ליאור"
+      },
+      "role": {
+        "en": "Motorhome traveler, equipment evaluator",
+        "he": "מטייל קמפרוון, מעריך ציוד"
+      },
+      "expertise": [
+        "electrical-equipment",
+        "cooking-devices",
+        "power-consumption"
+      ],
+      "location": "Austria",
+      "contributions": [
+        "Equipment evaluation questions",
+        "Power consumption analysis",
+        "Electric cooking options"
+      ],
+      "dateActive": "2025-10-14 to 2025-10-16",
+      "sourceBatch": 20
+    },
+    {
+      "id": "contact-020-008",
+      "name": {
+        "en": "Boaz Gutman",
+        "he": "בועז גוטמן"
+      },
+      "role": {
+        "en": "Equipment expert, electrical systems",
+        "he": "מומחה ציוד, מערכות חשמל"
+      },
+      "expertise": [
+        "electrical-systems",
+        "battery-management",
+        "12v-equipment",
+        "ali-express-products"
+      ],
+      "contributions": [
+        "12V soldering iron recommendation",
+        "Electric oven power management",
+        "Battery sizing advice"
+      ],
+      "dateActive": "2025-10-12 to 2025-10-16",
+      "sourceBatch": 20
+    },
+    {
+      "id": "contact-021-001",
+      "name": {
+        "en": "Rami Galboa",
+        "he": "רמי גלבוע"
+      },
+      "role": {
+        "en": "Experienced motorhome traveler (11+ years Europe)",
+        "he": "נוסע קמפרוון מנוסה (11+ שנים באירופה)"
+      },
+      "expertise": [
+        "Europe travel",
+        "gas-management",
+        "lpg-systems",
+        "long-term-motorhoming"
+      ],
+      "dateShared": "2025-10-22",
+      "sourceBatch": 21
+    },
+    {
+      "id": "contact-021-002",
+      "name": {
+        "en": "Nadav",
+        "he": "נדב"
+      },
+      "role": {
+        "en": "Gas system specialist, DIY external fill port designer",
+        "he": "מומחה מערכות גז, מעצב פתח מילוי חיצוני DIY"
+      },
+      "expertise": [
+        "lpg-systems",
+        "gas-safety",
+        "diy-solutions",
+        "external-fill-ports"
+      ],
+      "dateShared": "2025-10-22",
+      "sourceBatch": 21
+    },
+    {
+      "id": "contact-021-003",
+      "name": {
+        "en": "Amit Rapali",
+        "he": "עמית רפאלי"
+      },
+      "role": {
+        "en": "Gas filling calculations specialist",
+        "he": "מומחה חישובי מילוי גז"
+      },
+      "expertise": [
+        "gas-calculations",
+        "tank-sizing",
+        "lpg-volume-conversion"
+      ],
+      "dateShared": "2025-10-22",
+      "sourceBatch": 21
+    },
+    {
+      "id": "contact-021-004",
+      "name": {
+        "en": "Efraim Lior",
+        "he": "אפרים ליאור"
+      },
+      "role": {
+        "en": "Winter travel and parking specialist",
+        "he": "מומחה נסיעות חורף וחניה"
+      },
+      "expertise": [
+        "winter-travel",
+        "parking-spots",
+        "snow-management",
+        "austria-regions"
+      ],
+      "dateShared": "2025-10-17",
+      "sourceBatch": 21
+    },
+    {
+      "id": "contact-021-005",
+      "name": {
+        "en": "Ilan",
+        "he": "אילן"
+      },
+      "role": {
+        "en": "Multi-specialist: routes, equipment, heating, gas management",
+        "he": "מומחה רב-תחומי: מסלולים, ציוד, חימום, ניהול גז"
+      },
+      "expertise": [
+        "routes",
+        "equipment",
+        "heating",
+        "gas-services",
+        "practical-solutions"
+      ],
+      "dateShared": "2025-10-16",
+      "sourceBatch": 21
+    },
+    {
+      "id": "contact-021-006",
+      "name": {
+        "en": "Offer Bindel",
+        "he": "אופר בינדל"
+      },
+      "role": {
+        "en": "Local service provider reference (Israel-based)",
+        "he": "התייחסות ספק שירות מקומי (מבוסס בישראל)"
+      },
+      "expertise": [
+        "israel-services"
+      ],
+      "location": {
+        "en": "Raanana Industrial Zone, Rabbi Shalom Grupi 12",
+        "he": "אזור תעשייה חדש ראשון, הרב שלום גרופי 12"
+      },
+      "businessName": "Simel Auto Garage",
+      "dateShared": "2025-10-22",
+      "sourceBatch": 21
+    },
+    {
+      "id": "contact-021-007",
+      "name": {
+        "en": "Boaz Gutman",
+        "he": "בועז גוטמן"
+      },
+      "role": {
+        "en": "Patagonia/South America winter travel expert",
+        "he": "מומחה נסיעות חורף בפטגוניה/דרום אמריקה"
+      },
+      "expertise": [
+        "patagonia-travel",
+        "winter-conditions",
+        "4wd-vehicles",
+        "extreme-weather"
+      ],
+      "dateShared": "2025-10-28",
+      "sourceBatch": 21
+    },
+    {
+      "id": "contact-021-008",
+      "name": {
+        "en": "Izzy",
+        "he": "איזי"
+      },
+      "role": {
+        "en": "Alpine winter experience expert, snow chain installation specialist",
+        "he": "מומחה חוויה חורף אלפית, מומחה התקנת שרשראות שלג"
+      },
+      "expertise": [
+        "alpine-winter",
+        "snow-chains",
+        "emergency-preparation",
+        "diy-installation"
+      ],
+      "dateShared": "2025-10-28",
+      "sourceBatch": 21
+    },
+    {
+      "id": "contact-021-009",
+      "name": {
+        "en": "Oren Kipnis",
+        "he": "אורן קipnis"
+      },
+      "role": {
+        "en": "Brittany/France coastal route specialist, tire expert",
+        "he": "מומחה מסלול החוף בבריטני/צרפת, מומחה צמיגים"
+      },
+      "expertise": [
+        "brittany-routes",
+        "france-travel",
+        "winter-tires",
+        "coastal-travel"
+      ],
+      "dateShared": "2025-10-27",
+      "sourceBatch": 21
+    },
+    {
+      "id": "contact-021-010",
+      "name": {
+        "en": "Sylvie",
+        "he": "סילביה"
+      },
+      "role": {
+        "en": "Long-term storage inquirer",
+        "he": "משאל על אחסון ממושך"
+      },
+      "interests": [
+        "storage",
+        "london-area",
+        "northwest-france",
+        "paris-region"
+      ],
+      "dateShared": "2025-10-28",
+      "sourceBatch": 21
+    },
+    {
+      "id": "contact-021-011",
+      "name": {
+        "en": "Amir Meltzer",
+        "he": "עמיר מלצר"
+      },
+      "role": {
+        "en": "Community advocate, group dynamics commentator",
+        "he": "תומך קהילה, מגיב דינמיקה קבוצה"
+      },
+      "expertise": [
+        "community-management",
+        "interpersonal-dynamics"
+      ],
+      "dateShared": "2025-10-26",
+      "sourceBatch": 21
+    },
+    {
+      "id": "contact-021-012",
+      "name": {
+        "en": "Jorge (Jorge)",
+        "he": "חורחה"
+      },
+      "role": {
+        "en": "Storage inquirer for Lithuania/Latvia",
+        "he": "משאל על אחסון בליטא/לטביה"
+      },
+      "interests": [
+        "lithuania-storage",
+        "latvia-storage",
+        "caravan-storage"
+      ],
+      "dateShared": "2025-10-26",
+      "sourceBatch": 21
+    },
+    {
+      "id": "contact-022-001",
+      "type": "business",
+      "name": "Yaakov Kobi Khaimowitz",
+      "name_he": "יעקב קובי חיימוביץ",
+      "profession": {
+        "en": "Motorhome storage provider",
+        "he": "ספק אחסנה למוטורהום"
+      },
+      "location": "Mainz, Germany",
+      "description": {
+        "en": "Israeli resident in Mainz, Germany. Provides motorhome storage with flexible monthly rates.",
+        "he": "תושב ישראלי במיינץ, גרמניה. מספק אחסנה למוטורהום עם שיעורים חודשיים גמישים."
+      },
+      "services": [
+        "motorhome-storage",
+        "long-term-parking"
+      ],
+      "sharedBy": "Amit Rafali",
+      "dateShared": "2025-10-28",
+      "sourceFormat": "VCF card",
+      "sourceBatch": 22
+    },
+    {
+      "id": "contact-023-001",
+      "name": "John Steinbeck",
+      "type": "historical-literary",
+      "role": "Author of 'Travels with Charley'",
+      "association": {
+        "en": "American author who documented motorhome journey across America in 1960s",
+        "he": "סופר אמריקאי שתיעד את מסע קמפרוון על פני אמריקה בשנות ה-60"
+      },
+      "notableMention": "Rocinante (motorhome) journey with dog Charley",
+      "dateReference": "2025-11-04",
+      "sourceBatch": 23
+    },
+    {
+      "id": "contact-023-002",
+      "name": "Frank Lescher (Lesser)",
+      "type": "historical-literary",
+      "role": "Correspondent/friend of John Steinbeck",
+      "association": {
+        "en": "Recipient of Steinbeck's letter explaining motivation for Travels with Charley journey",
+        "he": "נמען של מכתב סטיינבק המסביר את המוטיבציה למסע 'מסעותי עם צ'רלי'"
+      },
+      "notableMention": "Received detailed letter describing journey plans",
+      "dateReference": "2025-11-04",
+      "sourceBatch": 23
+    },
+    {
+      "id": "contact-023-003",
+      "name": "Charley (Dog)",
+      "type": "travel-companion",
+      "breed": "Standard Poodle",
+      "association": {
+        "en": "John Steinbeck's traveling companion during cross-America motorhome journey",
+        "he": "בן לוואי המסע של ג'ון סטיינבק במהלך מסע קמפרוון על פני אמריקה"
+      },
+      "notableMention": "Traveled in motorhome Rocinante",
+      "dateReference": "2025-11-04",
+      "sourceBatch": 23
+    },
+    {
+      "id": "contact-024-001",
+      "name": "Rami Galboa",
+      "role": {
+        "en": "Storage facility contact for Lisbon",
+        "he": "איש קשר לעיצור אחסון בליסבון"
+      },
+      "services": {
+        "en": "Storage facility near Lisbon airport - indoor, covered",
+        "he": "מתקן אחסון ליד שדה התעופה בליסבון - פנימי, מכוסה"
+      },
+      "location": "Portugal",
+      "canProvide": [
+        "storage information",
+        "facility contact details",
+        "pricing negotiation"
+      ],
+      "sourceBatch": 24
+    },
+    {
+      "id": "contact-024-002",
+      "name": "Boaz Gutman",
+      "role": {
+        "en": "Starlink contact and sourcing",
+        "he": "איש קשר וסיוע בקבלת Starlink"
+      },
+      "expertise": {
+        "en": "Sourced Starlink Mini for $190 in South America - knows best pricing",
+        "he": "סיפק Starlink מיני ב-$190 בדרום אמריקה - מכיר את המחיר הטוב ביותר"
+      },
+      "canHelp": [
+        "Starlink purchasing advice",
+        "South America sourcing",
+        "price negotiation"
+      ],
+      "sourceBatch": 24
+    },
+    {
+      "id": "contact-024-003",
+      "name": "Yochai Batsha",
+      "role": {
+        "en": "Portugal storage options researcher",
+        "he": "חוקר אפשרויות אחסון בפורטוגל"
+      },
+      "services": {
+        "en": "Found budget storage option near Lisbon (€60/month) through Israeli community networks",
+        "he": "מצא אפשרות אחסון תקציב ליד ליסבון (€60 לחודש) דרך רשתות הקהילה הישראלית"
+      },
+      "sourceBatch": 24
+    },
+    {
+      "id": "contact-024-004",
+      "name": "Jorge",
+      "role": {
+        "en": "Caravan storage in Rostock, Germany",
+        "he": "אחסון קרוואן בְרוסטוק, גרמניה"
+      },
+      "location": "Rostock, Germany",
+      "distance": "2 hours from Hamburg",
+      "sourceBatch": 24
+    },
+    {
+      "id": "contact-024-005",
+      "name": "Amit Raphali",
+      "role": {
+        "en": "Storage facility negotiator",
+        "he": "משא ומתן על מקומות אחסון"
+      },
+      "services": {
+        "en": "Contact for SCD-Parking Hamburg for motorhome rate discussions",
+        "he": "איש קשר עם SCD-Parking המבורג לדיונים בתעריפי מוטורהום"
+      },
+      "sourceBatch": 24
+    },
+    {
+      "id": "contact-025-001",
+      "name": "Liran Marcos",
+      "role": {
+        "en": "Fiat Ducato Expert",
+        "he": "מומחה פיאט דוקאטו"
+      },
+      "organization": {
+        "en": "Adventure Group",
+        "he": "קבוצת הרפתקה"
+      },
+      "expertise": {
+        "en": [
+          "Fiat Ducato technical diagnosis",
+          "mechanical troubleshooting"
+        ],
+        "he": [
+          "אבחון טכני פיאט דוקאטו",
+          "פתרון בעיות מכניות"
+        ]
+      },
+      "mentionedBy": "Tuval Avishi, Ilan",
+      "dateMentioned": "2025-11-16",
+      "sourceBatch": 25
+    },
+    {
+      "id": "contact-025-002",
+      "name": "Ron Kellner",
+      "role": {
+        "en": "Fiat Specialist / Professor",
+        "he": "מומחה פיאט / פרופסור"
+      },
+      "expertise": {
+        "en": [
+          "Fiat vehicles",
+          "motorhome modifications",
+          "technical expertise"
+        ],
+        "he": [
+          "רכבי פיאט",
+          "שינויים בקמפרוונים",
+          "ידע טכני"
+        ]
+      },
+      "notes": {
+        "en": "Referred to as 'Fiat professor' in community. Unavailable during this period.",
+        "he": "מכונה 'פרופסור פיאט' בקהילה. לא זמין בתקופה זו."
+      },
+      "mentionedBy": "Amir Meltzer, Ilan",
+      "dateMentioned": "2025-11-16",
+      "sourceBatch": 25
+    },
+    {
+      "id": "contact-025-003",
+      "name": "Rami Galboa",
+      "role": {
+        "en": "Storage Map Coordinator / Community Leader",
+        "he": "רכז מפת אחסון / מנהיג קהילה"
+      },
+      "expertise": {
+        "en": [
+          "Storage location coordination",
+          "community resource management",
+          "interactive map maintenance"
+        ],
+        "he": [
+          "ריכוז מיקומי אחסון",
+          "ניהול משאבי קהילה",
+          "תחזוקת מפה אינטראקטיבית"
+        ]
+      },
+      "notes": {
+        "en": "Co-maintains Europe-wide motorhome storage interactive map with Ilan",
+        "he": "שותף בתחזוקת מפת אחסון קמפרוון אינטראקטיבית ברחבי אירופה עם אילן"
+      },
+      "contributions": {
+        "en": [
+          "Storage location database",
+          "community coordination",
+          "workshops and mechanics information"
+        ],
+        "he": [
+          "בסיס נתונים של מיקומי אחסון",
+          "ריכוז קהילה",
+          "מידע על סדנאות ומכניקים"
+        ]
+      },
+      "sourceBatch": 25
+    },
+    {
+      "id": "contact-025-004",
+      "name": "Ilan",
+      "role": {
+        "en": "Storage Map Coordinator / Content Manager",
+        "he": "רכז מפת אחסון / מנהל תוכן"
+      },
+      "expertise": {
+        "en": [
+          "Water system management",
+          "technical advice",
+          "cold weather travel",
+          "community moderation"
+        ],
+        "he": [
+          "ניהול מערכות מים",
+          "ייעוץ טכני",
+          "נסיעה בקרה",
+          "הנהלת קהילה"
+        ]
+      },
+      "notes": {
+        "en": "Co-maintains Europe-wide motorhome storage interactive map with Rami. Recently passed C1 truck license test.",
+        "he": "שותף בתחזוקת מפת אחסון קמפרוון אינטראקטיבית ברחבי אירופה עם רמי. עבר לאחרונה בדיקת רשיון משאית C1."
+      },
+      "recentActivities": {
+        "en": [
+          "Passed C1 truck license exam",
+          "provided gray water management advice"
+        ],
+        "he": [
+          "עבר בחינת רשיון משאית C1",
+          "סיפק ייעוץ בניהול מים אפורים"
+        ]
+      },
+      "sourceBatch": 25
+    },
+    {
+      "id": "contact-025-005",
+      "name": "Shulamit Harpaz (Abba)",
+      "role": {
+        "en": "Community Resource Expert",
+        "he": "מומחה משאבי קהילה"
+      },
+      "expertise": {
+        "en": [
+          "Travel documentation",
+          "app recommendations",
+          "resource organization"
+        ],
+        "he": [
+          "תיעוד נסיעות",
+          "המלצות על אפליקציות",
+          "ארגון משאבים"
+        ]
+      },
+      "notes": {
+        "en": "Recommended Ioverland app for international motorhome travel documentation in non-European regions",
+        "he": "המליץ על אפליקציית Ioverland לתיעוד נסיעות קמפרוון בינלאומיות באזורים מחוץ לאירופה"
+      },
+      "dateMentioned": "2025-11-22",
+      "sourceBatch": 25
+    },
+    {
+      "id": "contact-026-001",
+      "name": "Amir Meltzer",
+      "role": "Travel advisor & Insurance agent",
+      "expertise": [
+        "Italian insurance arrangements",
+        "Motorhome purchasing advice",
+        "Autonomous motorhome equipment setup"
+      ],
+      "info": {
+        "en": "Provides insurance connections through Italian agents with 24/7 WhatsApp availability. Helps with insurance documentation and real-time support.",
+        "he": "מספק חיבורי ביטוח דרך סוכנים איטלקיים עם זמינות 24/7 וואטסאפ. עוזר בתיעוד ביטוח וסיוע בזמן אמת."
+      },
+      "dateShared": "2025-12-11",
+      "sharedBy": "Amir Meltzer",
+      "sourceBatch": 26
+    },
+    {
+      "id": "contact-026-002",
+      "name": "Italian Insurance Agent (via Amir Meltzer)",
+      "organization": "Italy-based motorhome insurance",
+      "expertise": [
+        "Italian and European motorhome insurance",
+        "24/7 support via WhatsApp",
+        "Multi-country vehicle coverage"
+      ],
+      "info": {
+        "en": "Available 24/7 for insurance questions and setup. Handles documentation in real-time. Useful reference: Contact via Amir Meltzer with PDF documentation.",
+        "he": "זמין 24/7 לשאלות ביטוח והגדרה. מטפל בתיעוד בזמן אמת. התייחסות שימושית: פנה דרך אמיר מלצר עם תיעוד PDF."
+      },
+      "document": "GM779WG.pdf",
+      "dateShared": "2025-12-11",
+      "sharedBy": "Amir Meltzer",
+      "sourceBatch": 26
+    },
+    {
+      "id": "contact-026-003",
+      "name": "Amos",
+      "role": "New motorhome traveler",
+      "expertise": [
+        "Planning first European to Asia journey",
+        "French registration motorhome",
+        "Insurance and border crossing preparation"
+      ],
+      "info": {
+        "en": "New member of community, preparing to depart in 4 days with French-registered motorhome. Looking for insurance solutions and overland travel advice. Has Israeli driver's license and French passport.",
+        "he": "חבר חדש בקהילה, מתכונן ליציאה ב-4 ימים עם קמפרוון רשום בצרפת. מחפש פתרונות ביטוח ועצות לנסיעה יבשתית. בעל רישיון נהיגה ישראלי ודרכון צרפתי."
+      },
+      "dateShared": "2025-12-11",
+      "sharedBy": "Group members",
+      "sourceBatch": 26
+    },
+    {
+      "id": "contact-026-004",
+      "name": "Aba (Abraham)",
+      "role": "Experienced overland traveler",
+      "expertise": [
+        "2013 overland route Turkey-Russia-Mongolia",
+        "Central Asia travel experience",
+        "Border crossing procedures",
+        "Visa strategies"
+      ],
+      "info": {
+        "en": "Previous overland journey in 2013 with truck through Turkey, Georgia, Russia, Kyrgyzstan, Kazakhstan, and Mongolia. Israeli passport provided visa advantages at that time. Can advise on current route challenges.",
+        "he": "מסע יבשתי קודם ב-2013 עם משאית דרך תורכיה, גיאורגיה, רוסיה, קירגיזסטן, קזחסטן ומונגוליה. דרכון ישראלי סיפק יתרונות ויזה בעת זו. יכול להמליץ על אתגרי מסלול נוכחיים."
+      },
+      "dateShared": "2025-12-12",
+      "sharedBy": "Amos",
+      "sourceBatch": 26
+    },
+    {
+      "id": "contact-027-001",
+      "name": {
+        "en": "Oren Crispin",
+        "he": "אורן קריספין"
+      },
+      "role": {
+        "en": "Custom Motorhome Builder",
+        "he": "בונה קמפרוונים מותאמים"
+      },
+      "description": {
+        "en": "World-class motorhome builder known for building to international standards. Offers custom builds and return logistics options for travelers.",
+        "he": "בונה קמפרוונים בעל מחלקה עולמית שידוע בבנייה לסטנדרטים בינלאומיים. מציע בניות מותאמות ואפשרויות לוגיסטיקה חזרה לנוסעים."
+      },
+      "contactInfo": {
+        "reference": "https://photos.app.goo.gl/5qDKyKReXsMykpp48"
+      },
+      "mentionedBy": "Amir Meltzer",
+      "dateShared": "2025-12-13",
+      "sourceBatch": 27
+    }
+  ]
+}

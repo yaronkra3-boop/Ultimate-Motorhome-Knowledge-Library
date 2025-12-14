@@ -93,7 +93,7 @@ class App {
         });
     }
 
-    performSearch(query) {
+    async performSearch(query) {
         const resultsContainer = document.getElementById('search-results');
 
         if (!query || query.length < 2) {
@@ -101,7 +101,9 @@ class App {
             return;
         }
 
-        const results = this.dataLoader.search(query);
+        resultsContainer.innerHTML = '<p style="color: #666; padding: 20px;">Searching...</p>';
+
+        const results = await this.dataLoader.search(query);
 
         if (results.length === 0) {
             resultsContainer.innerHTML = '<p style="color: #666; padding: 20px;">No results found</p>';

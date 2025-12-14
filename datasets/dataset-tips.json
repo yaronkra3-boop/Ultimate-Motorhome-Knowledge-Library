@@ -1,0 +1,2055 @@
+{
+  "metadata": {
+    "category": "tips",
+    "description": "Quick practical advice, warnings, and recommendations",
+    "totalItems": 83,
+    "extractionDate": "2025-12-14",
+    "dataVersion": "1.0",
+    "language": "Bilingual (Hebrew + English)"
+  },
+  "tips": [
+    {
+      "id": "tip-012-001",
+      "category": "repairs",
+      "title": {
+        "en": "Emergency Repair Solutions: The Duct Tape Guide",
+        "he": "פתרונות תיקון חירום: מדריך האיזולירבנד"
+      },
+      "content": {
+        "en": "In remote areas (like Tanzania), even modern vehicles (Mercedes, Ford, Iveco) will have difficulty getting parts and service. Older vehicles can be fixed with simple means like duct tape and basic tools. Consider this when choosing between newer high-tech vs older simpler vehicles for remote travel.",
+        "he": "באזורים מרוחקים (כמו טנזניה), אפילו רכבים מודרניים (מרצדס, פורד, איווקו) יתקשו להשיג חלקים ושירות. רכבים ישנים יותר ניתנים לתיקון באמצעים פשוטים כמו איזולירבנד וכלים בסיסיים. שקול זאת בבחירה בין רכבים חדשים הייטק לעומת ישנים פשוטים יותר לנסיעות מרוחקות."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Nadav",
+      "dateShared": "2025-06-26",
+      "tags": [
+        "repairs",
+        "emergency",
+        "remote-travel",
+        "maintenance"
+      ],
+      "relatedLinks": [
+        "https://images.app.goo.gl/bWpURANrXZvtMofj6"
+      ],
+      "sourceBatch": 12
+    },
+    {
+      "id": "tip-012-002",
+      "category": "travel-style",
+      "title": {
+        "en": "Small Rural Roads Strategy for Better Travel Experience",
+        "he": "אסטרטגיית כבישים כפריים קטנים לחוויית נסיעה טובה יותר"
+      },
+      "content": {
+        "en": "Take small rural roads instead of highways. The scenery is stunning, you meet locals more often, and you can still access easy trails (KKL-style) for light adventure without needing 4x4. This approach works throughout Europe and Morocco.",
+        "he": "נסע בכבישים כפריים קטנים במקום כבישים מהירים. הנוף מדהים, אתה פוגש מקומיים יותר, ועדיין יכול לגשת לשבילים קלים (בסגנון קק\"ל) להרפתקה קלה ללא צורך ב-4x4. גישה זו עובדת בכל אירופה ובמרוקו."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Ilan",
+      "dateShared": "2025-06-26",
+      "tags": [
+        "travel-strategy",
+        "rural-roads",
+        "cultural-experience"
+      ],
+      "sourceBatch": 12
+    },
+    {
+      "id": "tip-012-003",
+      "category": "purchasing",
+      "title": {
+        "en": "Age vs Capability: The 4x4 Dilemma",
+        "he": "גיל לעומת יכולת: הדילמה של ה-4x4"
+      },
+      "content": {
+        "en": "When budget is limited, consider: newer 2x4 motorhome (2023+) for €50K vs older 4x4 (15-20 years old) at same price. Unless traveling to remote Africa or serious off-road, the newer 2x4 provides better reliability, fuel economy, and modern features. Most European and Morocco travel doesn't require 4x4.",
+        "he": "כשהתקציב מוגבל, שקול: קמפרוון 2x4 חדש יותר (2023+) ב-€50K לעומת 4x4 ישן יותר (15-20 שנה) באותו מחיר. אלא אם נוסע לאפריקה מרוחקת או שטח רציני, ה-2x4 החדש יותר מספק אמינות טובה יותר, חיסכון בדלק ותכונות מודרניות. רוב הנסיעות באירופה ובמרוקו לא דורשות 4x4."
+      },
+      "difficulty": "intermediate",
+      "sharedBy": "Ilan",
+      "dateShared": "2025-06-26",
+      "tags": [
+        "purchasing",
+        "4x4",
+        "budget",
+        "decision-making"
+      ],
+      "sourceBatch": 12
+    },
+    {
+      "id": "tip-013-001",
+      "category": "parking",
+      "title": {
+        "en": "Vehicle Clearance Testing at Mountain Passes",
+        "he": "בדיקת גובה גחון הרכב במעברים הרריים"
+      },
+      "content": {
+        "en": "2x4 motorhomes may have difficulty parking at certain mountain pass parking areas due to chassis ground clearance. Even a raised Sprinter 4x4 may need maneuvering to fit. Trucks handle these tight spaces more easily. Before committing to a parking spot at high-altitude passes, test carefully or choose alternative locations.",
+        "he": "קמפרוונים 2x4 עלולים להתקשות בחנייה בחניונים מסוימים של מעברים הרריים בגלל גובה גחון השסיס. אפילו ספרינטר 4x4 מוגבה עלול להזדקק לתמרון כדי להתאים. משאיות מתמודדות עם מרחבים צפופים אלה בקלות רבה יותר. לפני התחייבות לחנייה במעברים בגובה גבוה, בדוק בזהירות או בחר מקומות חלופיים."
+      },
+      "difficulty": "intermediate",
+      "sharedBy": "Nadav",
+      "dateShared": "2025-06-27",
+      "tags": [
+        "parking",
+        "mountain-passes",
+        "vehicle-clearance",
+        "practical-advice"
+      ],
+      "sourceBatch": 13
+    },
+    {
+      "id": "tip-013-002",
+      "category": "travel-strategy",
+      "title": {
+        "en": "Escape Summer Heat: Travel North in July",
+        "he": "בריחה מחום קיץ: נסע צפונה ביולי"
+      },
+      "content": {
+        "en": "In July, Spain experiences extreme heat. If traveling in the Pyrenees/southern France region, move north quickly to escape the intense heat. Mountain regions like the Pyrenees provide cooler air and better summer conditions. Plan routes that climb in elevation during peak summer months.",
+        "he": "ביולי, בספרד חוויה חום קיצוני. אם נוסע באזור הפירינאים/דרום צרפת, נעו צפונה במהירות כדי להימלט מחום אינטנסיבי. אזורים הרריים כמו הפירינאים מספקים אוויר קרר ותנאים קיץ טובים יותר. תכנן מסלולים שטיפוסים בגובה בחודשי הקיץ הקשה."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Rami Galboa",
+      "dateShared": "2025-07-02",
+      "tags": [
+        "weather",
+        "travel-planning",
+        "seasonality",
+        "heat-avoidance"
+      ],
+      "sourceBatch": 13
+    },
+    {
+      "id": "tip-013-003",
+      "category": "equipment",
+      "title": {
+        "en": "Insect Repellent for Scottish Midges",
+        "he": "דוחה חרקים לנמושים סקוטיים"
+      },
+      "content": {
+        "en": "Scottish midges are small and aggressive with painful bites. Standard repellent Smidge (75ml) was effective when traveling in Scotland. Carries locally available and worth keeping in stock for UK travel. Midges are particularly active in Scotland due to damp climate.",
+        "he": "נמושים סקוטיים קטנים וגרוזים עם נשיכות כואבות. דוחה סטנדרטי Smidge (75 מ\"ל) היה יעיל בנסיעה בסקוטלנד. זמינים בזמן ומעסיק לשמור במלאי לנסיעות בריטיש. נמושים פעילים במיוחד בסקוטלנד בגלל אקלים לח."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Tuval Avishi, Oren Kipnis",
+      "dateShared": "2025-06-28",
+      "tags": [
+        "insects",
+        "scotland",
+        "health",
+        "travel-preparation"
+      ],
+      "productLinks": [
+        "https://www.fruugo.co.il/smidge-insect-repellent-75ml/p-229916431-490657802"
+      ],
+      "sourceBatch": 13
+    },
+    {
+      "id": "tip-013-004",
+      "category": "vehicle-selection",
+      "title": {
+        "en": "Motorhome vs Pickup Truck Camper: Investment and Practicality",
+        "he": "קמפרוון לעומת קאמפר על משאית: השקעה ויכולת משמעותית"
+      },
+      "content": {
+        "en": "Converting a pickup truck (e.g., Toyota Hilux, Mitsubishi pickup) to a camper can be more practical and cost-effective than buying a full motorhome. Example: Cost of camper shell on Hilux = Price of motorhome camper. Provides flexibility to leave vehicle at home when not traveling. Easier to park and maneuver in urban areas. Many successful travelers build custom truck campers based on their specific needs rather than buying pre-built motorhomes.",
+        "he": "המרת משאית קטנה (למשל Toyota Hilux, קאמפר Mitsubishi) לקאמפר יכולה להיות מעשית וחסכונית יותר מקנייה של קמפרוון מלא. דוגמה: עלות של קליפה קאמפר על Hilux = מחיר של קמפרוון קאמפר. מספק גמישות להשאיר רכב בבית כשלא מטיילים. קל יותר לחנות ולתמרן באזורים עירוניים. מטיילים מוצלחים רבים בונים קאמפרי משאיות מותאמים אישית בהתאם לצרכים ספציפיים שלהם ולא קונים קמפרוונים בנויים מראש."
+      },
+      "difficulty": "intermediate",
+      "sharedBy": "Ilan, Boaz Gutman",
+      "dateShared": "2025-06-27",
+      "tags": [
+        "vehicle-selection",
+        "cost-comparison",
+        "diy-camper",
+        "investment"
+      ],
+      "references": [
+        "Rami Galboa's article about truck camper conversion",
+        "Boaz Gutman's experience with Hilux camper"
+      ],
+      "sourceBatch": 13
+    },
+    {
+      "id": "tip-013-005",
+      "category": "travel-philosophy",
+      "title": {
+        "en": "Small Rural Roads Over Highways for Better Experiences",
+        "he": "כבישים כפריים קטנים על כבישים מהירים לחוויות טובות יותר"
+      },
+      "content": {
+        "en": "Taking small rural roads instead of highways leads to better travel experiences even with 2x4 motorhomes. You encounter more locals, see stunning scenery, and can access easy trails (KKL-style) without needing 4x4. This approach works throughout Europe and Morocco. While on rural roads, you can still enjoy light off-road adventures and meet more local people compared to highway travel.",
+        "he": "נסיעה בכבישים כפריים קטנים במקום כבישים מהירים מובילה לחוויות נסיעה טובות יותר אפילו עם קמפרוונים 2x4. אתה פוגש יותר מקומיים, רואה נופים מדהימים, ויכול לגשת לשבילים קלים (בסגנון קק\"ל) ללא צורך ב-4x4. גישה זו עובדת בכל אירופה ובמרוקו. בזמן שנתת בכבישים כפריים, אתה עדיין יכול ליהנות מהרפתקאות שטח קלות וליפגוש עם יותר אנשים מקומיים בהשוואה לנסיעת כביש מהיר."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Ilan",
+      "dateShared": "2025-07-02",
+      "tags": [
+        "travel-strategy",
+        "roads",
+        "local-experience",
+        "philosophy"
+      ],
+      "sourceBatch": 13
+    },
+    {
+      "id": "tip-014-001",
+      "category": "photography",
+      "title": {
+        "en": "Photo Location Documentation: Identifying Scenic Spots",
+        "he": "תיעוד מקום צילום: זיהוי אתרים נוף"
+      },
+      "content": {
+        "en": "When sharing beautiful motorhome or travel photos, include information about the location where the photo was taken. This helps other group members identify scenic spots they might want to visit. Example: Stegastein Viewpoint in Norway (near Flam) on scenic E16 road that bypasses a 20+ km tunnel.",
+        "he": "כאשר משתפים תמונות קמפרוון או נסיעה יפות, כללו מידע על המקום בו צולמה התמונה. זה עוזר לחברים בקבוצה לזהות אתרים נוף שהם אולי ירצו לבקר. דוגמה: נקודת תצפית Stegastein בנורבגיה (ליד Flam) בכביש נופי E16 המעוקף נהרה של למעלה מ-20 ק\"מ."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Efraim Lior",
+      "dateShared": "2025-07-09",
+      "tags": [
+        "photography",
+        "documentation",
+        "sharing",
+        "community-building"
+      ],
+      "value": "High - helps community discover new destinations",
+      "sourceBatch": 14
+    },
+    {
+      "id": "tip-014-002",
+      "category": "weather-management",
+      "title": {
+        "en": "Heat Management Strategy: Geographic Route Planning",
+        "he": "אסטרטגיית ניהול חום: תכנון מסלול גיאוגרפי"
+      },
+      "content": {
+        "en": "Instead of complex AC installations, follow the 'chasing 70s' strategy: travel north in summer for cooler weather and south in winter for warmth. In southern France with extreme heat, drive 2-4 hours to mountain areas for significantly better climate. This geographic solution is often more practical than mechanical cooling and provides better quality of life.",
+        "he": "במקום התקנות AC מורכבות, עקוב אחר אסטרטגיית 'chasing 70s': נסע צפונה בקיץ למזג אוויר קריר ודרומה בחורף לחום. בדרום צרפת עם חום קיצוני, נסע 2-4 שעות לאזורי הרים למזג אוויר משמעותית טוב יותר. פתרון גיאוגרפי זה לעתים קרובות מעשי יותר מקירור מכני ומספק איכות חיים טובה יותר."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Tuval Avishi, Ilan, Rami Galboa",
+      "dateShared": "2025-07-17",
+      "tags": [
+        "travel-strategy",
+        "weather",
+        "planning",
+        "lifestyle"
+      ],
+      "practicalExample": {
+        "en": "Northern Europe strategy: focus on cooler northern regions rather than Mediterranean summer heat",
+        "he": "אסטרטגיית צפון אירופה: התמקדות באזורים צפוניים קרירים יותר במקום חום קיץ ים תיכוני"
+      },
+      "sourceBatch": 14
+    },
+    {
+      "id": "tip-014-003",
+      "category": "power-management",
+      "title": {
+        "en": "Inverter Size Matters: 2000W Minimum for AC Appliances",
+        "he": "גודל הממיר חשוב: 2000W מינימום לשימושי AC"
+      },
+      "content": {
+        "en": "When planning solar + battery system, don't skimp on inverter size. A 1000W inverter is too limiting - use minimum 2000W. This allows flexibility for AC appliances like kettles without constantly managing power limitations. As they say: 'With food comes appetite' - once you have solar power, you'll want the ability to use it for more than basics.",
+        "he": "בתכנון מערכת סולר + סוללה, אל תחסכו בגודל הממיר. ממיר 1000W מוגבל מדי - השתמשו בעמוד 2000W. זה מאפשר גמישות לשימושי AC כמו קומקום ללא ניהול כוח קבוע. כמו שהם אומרים: 'עם האוכל בא התאבון' - ברגע שיש לך כוח סולר, תרצה את היכולת להשתמש בו ליותר מבסיסים."
+      },
+      "difficulty": "intermediate",
+      "sharedBy": "Boaz Gutman",
+      "dateShared": "2025-07-16",
+      "tags": [
+        "power-system",
+        "inverter",
+        "solar",
+        "planning",
+        "practical-advice"
+      ],
+      "learningPoint": "Higher initial investment in good inverter pays off in flexibility and reduced limitations",
+      "sourceBatch": 14
+    },
+    {
+      "id": "tip-014-004",
+      "category": "starlink-management",
+      "title": {
+        "en": "Starlink Pause Strategy: Timing is Everything",
+        "he": "אסטרטגיית Starlink Pause: הזמן הוא הכל"
+      },
+      "content": {
+        "en": "If pausing Starlink subscription for extended home visits or low-travel periods: pause 1-2 days before month-end. This stops auto-renewal while you're home and you don't pay for unused service. Pausing doesn't refund the current month or extend dates, but it prevents charges during absence. Resume charges start on the original renewal date, not when you restart.",
+        "he": "אם מקפיאים מנוי Starlink לביקורי בית ממושכים או תקופות נסיעה נמוכות: הקפאו 1-2 ימים לפני סוף החודש. זה עוצר חידוש אוטומטי בזמן שאתה בבית ולא משלם על שירות לא מנוצל. הקפאה לא מחזירה את החודש הנוכחי או מאריכה תאריכים, אך זה מונע חיובים בזמן היעדרות. חיובי המשך מתחילים בתאריך החידוש המקורי, לא בעת התחדשות."
+      },
+      "difficulty": "intermediate",
+      "sharedBy": "Ilan, Nirit",
+      "dateShared": "2025-07-08",
+      "tags": [
+        "starlink",
+        "subscription-management",
+        "cost-saving",
+        "practical-tip"
+      ],
+      "moneySavingTip": {
+        "en": "Can save 1-2 months of subscription cost for home stays",
+        "he": "יכול לחסוך 1-2 חודשי מנוי לעמידות בבית"
+      },
+      "sourceBatch": 14
+    },
+    {
+      "id": "tip-015-001",
+      "category": "security",
+      "title": {
+        "en": "Never Leave Documents in Motorhome Unattended",
+        "he": "אל תעזוב מסמכים בקמפרוון ללא השגחה"
+      },
+      "content": {
+        "en": "Critical safety tip from real break-in incident in Lyon, France. Two Israeli tourists' rental motorhome was broken into at museum. Passports, documents, and clothes were stolen. Keep all travel documents and valuables on person at all times, especially during tourist activities.",
+        "he": "טיפ ביטחוני קריטי מאירוע פריצה בעולם בליון, צרפת. קמפרוון שכור של שני תיירים ישראלים נפרץ במוזיאון. דרכונים, מסמכים בגדים נגנבו. שמור את כל מסמכי הנסיעה וערך כסף על הגוף בכל עת, במיוחד במהלך פעולות תיירות."
+      },
+      "difficulty": "critical",
+      "sharedBy": "Ilan",
+      "dateShared": "2025-07-26",
+      "tags": [
+        "security",
+        "valuables",
+        "travel-documents"
+      ],
+      "sourceBatch": 15
+    },
+    {
+      "id": "tip-015-002",
+      "category": "security",
+      "title": {
+        "en": "Install Motorhome Safe: Protection Against Theft and Fire",
+        "he": "התקן כספת קמפרוון: הגנה נגד גניבה ואש"
+      },
+      "content": {
+        "en": "Install a secure safe (lockbox) attached to motorhome chassis/floor. Store money, laptops, passports, documents. Provides dual protection: deters thieves (hard to remove quickly) and protects contents in case of fire. Ron Kellner uses this in old motorhome and installing in new one.",
+        "he": "התקן כספת מאובטחת (קופסה נעולה) מחוברת לשלדה/רצפת קמפרוון. שמור כסף, לפטופ, דרכונים, מסמכים. מספק הגנה כפולה: מרתיע גנבים (קשה להוציא במהירות) ומגן תוכן במקרה שריפה. רון קלנר משתמש בזה בקמפרוון ישן ומתקין בחדש."
+      },
+      "difficulty": "intermediate",
+      "sharedBy": "Ron Kellner, Nirit",
+      "dateShared": "2025-07-26",
+      "tags": [
+        "security",
+        "equipment",
+        "fire-safety",
+        "theft-prevention"
+      ],
+      "sourceBatch": 15
+    },
+    {
+      "id": "tip-015-003",
+      "category": "travel-planning",
+      "title": {
+        "en": "Storage Solutions: Milan Contact and Park4Night Resource",
+        "he": "פתרונות אחסון: איש קשר מילאנו ומשאב Park4Night"
+      },
+      "content": {
+        "en": "Need motorhome storage in Europe? Gil Albaz (+393474059030) operates large camping/storage facility in Milan. For general motorhome parking/overnight options, check Park4Night website (https://park4night.com) for user-reviewed spots and parking recommendations across Europe.",
+        "he": "צורך אחסון קמפרוון באירופה? ג'יל אלבז (+393474059030) מפעיל מתקן קמפינג/אחסון גדול במילאנו. לאפשרויות חניה כללית/לילה קמפרוון, בדוק את אתר Park4Night (https://park4night.com) לאתרים שהוערכו על ידי משתמשים ואפשרויות חניה ברחבי אירופה."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Ilan, Oren Kipnis",
+      "dateShared": "2025-07-30",
+      "tags": [
+        "storage",
+        "parking",
+        "europe",
+        "travel-planning"
+      ],
+      "resources": [
+        "https://park4night.com/en/lieu/336980/open/",
+        "https://maps.app.goo.gl/7GLwRK3AHSsCKFdn9?g_st=aw"
+      ],
+      "sourceBatch": 15
+    },
+    {
+      "id": "tip-015-004",
+      "category": "destination",
+      "title": {
+        "en": "Piemonte Agriturismo: Outstanding Value for Wine Country Stay",
+        "he": "אגריטוריזמו בפיימונטה: ערך יוצא מן הכלל לשהיה בגינת יין"
+      },
+      "content": {
+        "en": "Exceptional destination in Piemonte, Italy: 150,000-bottle-per-year vineyard + macadamia nut farm with agriturismo. Only 15€/night including electricity, water, excellent shower in antique wine barrel. Beautiful views. Wonderful local family. Great for wine lovers. Real bonus: 3kg macadamia nuts as gift!",
+        "he": "יעד יוצא דופן בפיימונטה, איטליה: יקב המייצר 150,000 בקבוקים בשנה + חווה אגוזי מקדמיה עם אגריטוריזמו. רק 15€ בלילה כולל חשמל, מים, מקלחת מעולה בחבית יין עתיקה. נופים יפים. משפחה מקומית נחמדה. מעולה לאוהבי יין. בונוס אמיתי: 3 קילו אגוזי מקדמיה כמתנה!"
+      },
+      "difficulty": "beginner",
+      "rating": 5,
+      "pricePerNight": "15 EUR",
+      "location": "Piemonte, Italy",
+      "sharedBy": "Ilan",
+      "dateShared": "2025-07-30",
+      "tags": [
+        "destination",
+        "italy",
+        "wine",
+        "agriturismo",
+        "value",
+        "food-tour"
+      ],
+      "resources": [
+        "https://maps.app.goo.gl/7GLwRK3AHSsCKFdn9?g_st=aw"
+      ],
+      "sourceBatch": 15
+    },
+    {
+      "id": "tip-015-005",
+      "category": "logistics",
+      "title": {
+        "en": "Airport Transit from Milan: Turate Train Connection",
+        "he": "תחבורה נמל תעופה ממילאנו: חיבור רכבת מטוראטה"
+      },
+      "content": {
+        "en": "If parking motorhome near Milan and need airport transport: Direct train from Turate to Malpensa Airport (Milan's main airport). Convenient for leaving or arriving with motorhome parked elsewhere.",
+        "he": "אם חניית קמפרוון ליד מילאנו וצריך תחבורת נמל: רכבת ישירה מטוראטה לשדה התעופה מלפנסה (נמל ראשי של מילאנו). נוח לעזיבה או הגעה עם קמפרוון חנוי במקום אחר."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Ilan",
+      "dateShared": "2025-08-06",
+      "tags": [
+        "travel-logistics",
+        "milan",
+        "airport",
+        "trains"
+      ],
+      "sourceBatch": 15
+    },
+    {
+      "id": "tip-015-006",
+      "category": "equipment",
+      "title": {
+        "en": "Motorcycle/Scooter Carrier: Availability and Trading",
+        "he": "מנשא אופנוע/קטנוע: זמינות ותחלופה"
+      },
+      "content": {
+        "en": "Need a motorcycle carrier for motorhome? Tuval Avishi has one mounted on their motorhome in Thessaloniki and is willing to pass it along. Ron Kellner interested in obtaining one for Amir Meltzer, offering to arrange transport from Greece to Germany (Munich). Good example of group members sharing equipment and resources.",
+        "he": "צורך מנשא אופנוע לקמפרוון? לתובל אבישי יש אחד המותקן על קמפרוון שלהם בסלוניקי והוא מוכן להעביר אותו. רון קלנר מעוניין להשיג אחד עבור עמיר מלצר, מציע לארגן הובלה מיוון לגרמניה (מינכן). דוגמה טובה לחברי קבוצה שונים ציוד ומשאבים."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Tuval Avishi, Ron Kellner",
+      "dateShared": "2025-08-06",
+      "tags": [
+        "equipment",
+        "vehicles",
+        "scooter",
+        "community"
+      ],
+      "sourceBatch": 15
+    },
+    {
+      "id": "tip-015-007",
+      "category": "equipment",
+      "title": {
+        "en": "Bottle Adapters for German LPG: International Refilling",
+        "he": "מתאמים בקבוק לגז גרמני: מילוי בינלאומי"
+      },
+      "content": {
+        "en": "Have German LPG bottles on motorhome? Ofer Nov offering set of adapters for international refilling outside Germany. 'Foundation price' (special rate). Good resource for travelers needing to refill gas in multiple countries with same bottle system.",
+        "he": "יש בקבוקי גז גרמניים בקמפרוון? אופר נוב מציע סט מתאמים למילוי בינלאומי מחוץ לגרמניה. מחיר 'קרן' (שיעור מיוחד). משאב טוב לנוסעים שצריכים מילוי גז במדינות מרובות עם אותו מערכת בקבוקים."
+      },
+      "difficulty": "intermediate",
+      "sharedBy": "Ofer Nov",
+      "dateShared": "2025-08-11",
+      "tags": [
+        "equipment",
+        "gas",
+        "lpg",
+        "logistics"
+      ],
+      "sourceBatch": 15
+    },
+    {
+      "id": "tip-016-001",
+      "category": "vehicle-registration",
+      "title": {
+        "en": "Seasonal Registration for German Motorhomes (April-November)",
+        "he": "רישום עונתי לקמפרוונים גרמניים (אפריל-נובמבר)"
+      },
+      "content": {
+        "en": "German motorhomes can be registered seasonally (April through November) with special license plates restricted to these months. This is a cost-saving registration option that allows motorhomes to remain parked during winter without testing or inspection requirements. When seasonal registration is active, owners don't need to use all-season tires - summer tires are permitted. Owner must comply with all regulations and can resume standard registration in spring.",
+        "he": "קמפרוונים גרמניים יכולים להיות רשומים עונתית (אפריל עד נובמבר) עם לוחיות רישוי מיוחדות המוגבלות לחודשים אלה. זו אפשרות רישום חסכונית המאפשרת לקמפרוונים להישאר חונים בחורף ללא דרישות בדיקה או בדיקה. כאשר הרישום העונתי פעיל, בעלים לא צריכים להשתמש בצמיגים בכל העונות - צמיגי קיץ מותרים. בעל חייב לעמוד בכל התקנות ויכול לחזור לרישום סטנדרטי בעיץ."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Efraim Liyor, Ron Kellner",
+      "dateShared": "2025-08-16",
+      "tags": [
+        "registration",
+        "legal",
+        "cost-saving",
+        "germany"
+      ],
+      "sourceBatch": 16
+    },
+    {
+      "id": "tip-016-002",
+      "category": "maintenance",
+      "title": {
+        "en": "Test (Inspection) Requirements for Vehicles Outside Home Country",
+        "he": "דרישות בדיקה (inspection) לרכבים מחוץ למדינה מגורים"
+      },
+      "content": {
+        "en": "German motorhome owners can continue traveling without returning to Germany for mandatory vehicle inspection (TÜV/Test) as long as they remain outside Germany. Insurance remains valid and police will not stop drivers for expired inspection. However, the moment the vehicle re-enters Germany, any expired inspection must be renewed at nearest inspection station before driving further. Insurance companies may have additional restrictions - check with your insurer. Some insurers only cover vehicles outside home country for maximum 6 months continuous travel. German authorities sometimes allow formal extensions by mail to the local Zulassungsstelle (registration office) but this is rare practice in reality.",
+        "he": "בעלי קמפרוונים גרמניים יכולים להמשיך לנסוע ללא חזרה לגרמניה לבדיקת רכב חובה (TÜV/בדיקה) כל עוד הם נשארים מחוץ לגרמניה. הביטוח נשאר תקף והשוטרים לא יעצרו נהגים לבדיקה שפג תוקפה. עם זאת, ברגע שהרכב חוזר לגרמניה, כל בדיקה שפגה בתוקפה חייבת להיחדש בתחנת בדיקה הקרובה ביותר לפני הנסיעה הלאה. חברות ביטוח עשויות להיות בעלות הגבלות נוספות - בדוק עם ביטוחך. חלק מחברות הביטוח מכסות רכבים מחוץ למדינת מגורים רק ל-6 חודשים מקסימום נסיעה רציפה. הרשויות הגרמניות לעתים קרובות מאפשרות הרחבות רשמיות בדואר ל-Zulassungsstelle (משרד הרישום) המקומי אבל זה פרקטיקה נדירה במציאות."
+      },
+      "difficulty": "intermediate",
+      "sharedBy": "Nadav, Ilan, Ron Kellner, Neama Lev",
+      "dateShared": "2025-08-30",
+      "tags": [
+        "legal",
+        "registration",
+        "insurance",
+        "germany"
+      ],
+      "warnings": {
+        "en": [
+          "Check insurance policy for restrictions on continuous travel outside home country",
+          "In case of accident while inspection expired, insurance may deny coverage",
+          "Must return to Germany eventually for inspection - cannot travel indefinitely"
+        ],
+        "he": [
+          "בדוק פוליסת ביטוח להגבלות על נסיעה רציפה מחוץ למדינת מגורים",
+          "במקרה של תאונה בזמן בדיקה שפגה, ביטוח עשוי לשלול כיסוי",
+          "חייב לחזור לגרמניה בסופו של דבר לבדיקה - לא יכול לנסוע לאנסוף"
+        ]
+      },
+      "sourceBatch": 16
+    },
+    {
+      "id": "tip-016-003",
+      "category": "equipment",
+      "title": {
+        "en": "Motorhome Office Setup: Dual Desk Strategy for Remote Work Couples",
+        "he": "הגדרת משרד קמפרוון: אסטרטגיית שולחן כפול לזוגות עבודה מרחוק"
+      },
+      "content": {
+        "en": "For couples working remotely during weekday and traveling weekends, create two separate office desks in motorhome to avoid workspace conflicts. One desk can be installed in front of passenger seat (folds down for travel). Second desk positioned elsewhere. Assembly takes 15 minutes per week, disassembly 10 minutes. Use butterfly bolts (or 'Mickey Mouse' bolts) for tool-free installation without drilling. Benefits the comfort and separation needed for couples in close quarters.",
+        "he": "לזוגות העובדים מרחוק בחודשיים וניסיעה בסופי שבוע, צרו שני שולחני משרד נפרדים בקמפרוון כדי למנוע קונפליקטים בחלל העבודה. ניתן להתקין שולחן אחד מול מושב הנוסע (מתקפל לנסיעה). שולחן שני ממוקם במקום אחר. הרכבה לוקחת 15 דקות לשבוע, פירוק 10 דקות. השתמש בברגי פרפר (או 'ברגי מיקי-מאוס') להתקנה ללא כלים ללא קידוח. תעודות את הנוחות וההפרדה הדרושים לזוגות במרחקים קרובים."
+      },
+      "difficulty": "intermediate",
+      "sharedBy": "Nadav",
+      "dateShared": "2025-09-05",
+      "tags": [
+        "workspace",
+        "office",
+        "remote-work",
+        "comfort",
+        "couples"
+      ],
+      "sourceBatch": 16
+    },
+    {
+      "id": "tip-016-004",
+      "category": "technology",
+      "title": {
+        "en": "Video Link Sharing: YouTube Video for 4x4 Modifications",
+        "he": "שיתוף קישור וידאו: וידאו YouTube לשינויים 4x4"
+      },
+      "content": {
+        "en": "Shared YouTube video about 4x4 motorhome modifications and customizations. Community members sharing technical resources and inspiration for vehicle customization projects.",
+        "he": "וידאו YouTube משותף על שינויים והתאמות קמפרוון 4x4. חברי קהילה משתפים משאבים טכניים והשראה לפרויקטי התאמה רכב."
+      },
+      "difficulty": "intermediate",
+      "sharedBy": "Ron Kellner",
+      "dateShared": "2025-08-17",
+      "links": [
+        "https://youtu.be/XyI2GPDDLWc?si=gPWgTMZgdtrq3w0d"
+      ],
+      "tags": [
+        "4x4",
+        "modifications",
+        "customization",
+        "video"
+      ],
+      "sourceBatch": 16
+    },
+    {
+      "id": "tip-016-005",
+      "category": "culture",
+      "title": {
+        "en": "Classic Car Nostalgia: Citroën 2CV Sahara Historical Appeal",
+        "he": "נוסטלגיה רכב קלסי: אטרקציה היסטורית של סיטרואן 2CV סהרה"
+      },
+      "content": {
+        "en": "The Citroën 2CV Sahara represents a special moment in automotive history - a dual-engine design specifically engineered for Sahara desert travel. Today's enthusiasts collect and restore these vehicles for adventure travel, combining mechanical simplicity with historic appeal. The vehicles inspire motorhomers seeking alternatives to modern motorhomes.",
+        "he": "סיטרואן 2CV סהרה מייצג רגע מיוחד בהיסטוריית הרכבים - עיצוב בעל שני מנועים שתוכנן במיוחד לנסיעות במדבר סהרה. חובבי ימינו אוספים ומשחררים רכבים אלה לנסיעות הרפתקנויות, חוברים פשטות מכנית עם אטרקציה היסטורית. הרכבים מעוררים השראה לנוסעי קמפרוון המחפשים חלופות לקמפרוונים מודרניים."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Ilan, Oren Kipnis",
+      "dateShared": "2025-08-29",
+      "tags": [
+        "classic-cars",
+        "history",
+        "culture",
+        "inspiration"
+      ],
+      "relatedLinks": [
+        "https://www.automag.co.il/1965-citroen-2cv-sahara/",
+        "https://www.icar.co.il/news/bkgjis6yll/"
+      ],
+      "sourceBatch": 16
+    },
+    {
+      "id": "tip-017-001",
+      "category": "travel-preparation",
+      "title": {
+        "en": "Winter Preparation for Mongolian Climate",
+        "he": "הכנה לחורף בתנאי מונגוליה"
+      },
+      "content": {
+        "en": "Before leaving Mongolia for winter, ensure motorhome and crew are well-prepared for harsh Mongolian winter conditions. It's important to have a Mongolian friend who understands the specific preparation requirements for extreme cold weather survival.",
+        "he": "לפני עזיבת מונגוליה לחורף, ודא שהקמפרוון והצוות מוכנים היטב לתנאי החורף הקשים של מונגוליה. חשוב שיהיה לך חבר מונגולי שמבין את דרישות ההכנה הספציפיות להישרדות בקור קיצוני."
+      },
+      "difficulty": "intermediate",
+      "sharedBy": "Father (Dad)",
+      "dateShared": "2025-09-15",
+      "tags": [
+        "preparation",
+        "climate",
+        "winter",
+        "safety"
+      ],
+      "sourceBatch": 17
+    },
+    {
+      "id": "tip-017-002",
+      "category": "cultural-experience",
+      "title": {
+        "en": "Understanding Tribal Calendar Systems",
+        "he": "הבנת מערכות יומן שבטיות"
+      },
+      "content": {
+        "en": "Mongolia's Nadam festival dates are determined by tribal calendar, not modern calendar. This means the festival can occur multiple times in the same calendar month (three concurrent festivals in this case), creating unique authentic experiences that cannot be artificially staged.",
+        "he": "תאריכי פסטיבל נדם של מונגוליה נקבעים על ידי יומן שבטי, לא יומן מודרני. פירוש הדבר שהפסטיבל יכול להתרחש מספר פעמים באותו חודש קלנדרי (שלוש פסטיבלים בו זמנית במקרה זה), יוצר חוויות אותנטיות ייחודיות שלא ניתן ליים באופן מלאכותי."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Fat Adventurer",
+      "dateShared": "2025-09-13",
+      "tags": [
+        "cultural-experience",
+        "festival",
+        "calendar",
+        "traditions"
+      ],
+      "sourceBatch": 17
+    },
+    {
+      "id": "tip-017-003",
+      "category": "travel-style",
+      "title": {
+        "en": "Ending is Always a New Beginning",
+        "he": "כל סוף הוא התחלה חדשה"
+      },
+      "content": {
+        "en": "Don't mourn the end of one travel adventure - each ending marks the beginning of another. After Mongolia, transition to celebrating in Italy. This attitude keeps the motorhome lifestyle fresh and exciting.",
+        "he": "אל תתאבל על סיום של הרפתקה אחת - כל סוף מסמן התחלה של הרפתקה אחרת. אחרי מונגוליה, עבור לחגיגה באיטליה. עמדה זו שומרת על סגנון חיי קמפרוון טרי ומעניין."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Ilan",
+      "dateShared": "2025-09-15",
+      "tags": [
+        "mindset",
+        "travel-philosophy",
+        "adventure"
+      ],
+      "sourceBatch": 17
+    },
+    {
+      "id": "tip-017-004",
+      "category": "locations",
+      "title": {
+        "en": "Add General Locations to Photo Sharing",
+        "he": "הוסף מיקומים כלליים לשיתוף תמונות"
+      },
+      "content": {
+        "en": "When sharing travel photos in the group, include general location information (without precise coordinates if privacy is preferred). This adds context and meaning to images, helping others understand where photos were taken and enhancing discussion.",
+        "he": "בעת שיתוף תמונות נסיעה בקבוצה, כללו מידע מיקום כללי (ללא קואורדינטות מדויקות אם עדיפה פרטיות). זה מוסיף הקשר ומשמעות לתמונות, עוזר לאחרים להבין היכן צולמו התמונות ומשפר דיון."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Ephraim Lior",
+      "dateShared": "2025-09-23",
+      "tags": [
+        "photo-sharing",
+        "communication",
+        "group-etiquette"
+      ],
+      "sourceBatch": 17
+    },
+    {
+      "id": "tip-017-005",
+      "category": "vehicles",
+      "title": {
+        "en": "The Art of Motorhome Roof Solar Installation",
+        "he": "אמנות התקנת פנלים סולריים על גג קמפרוון"
+      },
+      "content": {
+        "en": "When your motorhome roof becomes a mobile power station with multiple solar panels, you've achieved optimal autonomy. Ron Kellner's roof is 'crowded' with solar panels, suggesting he can add more. This indicates excellent solar coverage for extended off-grid living.",
+        "he": "כאשר גג הקמפרוון שלך הופך לתחנת כח ניידת עם מספר פנלים סולריים, השגת אוטונומיה אופטימלית. גגו של Ron Kellner 'צפוף' בפנלים סולריים, מה שמעיד שהוא יכול להוסיף עוד. זה מצביע על כיסוי סולארי מעולה לחיים ממושכים מחוץ לרשת."
+      },
+      "difficulty": "intermediate",
+      "sharedBy": "Rami Galboa, Oren Kipnis, Ron Kellner",
+      "dateShared": "2025-09-24",
+      "tags": [
+        "solar",
+        "equipment",
+        "autonomy",
+        "power-systems"
+      ],
+      "sourceBatch": 17
+    },
+    {
+      "id": "tip-017-006",
+      "category": "cultural-experience",
+      "title": {
+        "en": "Fermented Horse Milk - A Cultural Experience",
+        "he": "חלב סוסים מוססם - חוויה תרבותית"
+      },
+      "content": {
+        "en": "Nadam festival in Mongolia offers authentic cultural experiences like fermented horse milk (kumiss), the local traditional drink. However, be warned - it's very difficult to digest. This authentic experience comes with digestive challenges but is part of the genuine cultural immersion.",
+        "he": "פסטיבל נדם במונגוליה מציע חוויות תרבותיות אותנטיות כמו חלב סוסים מוססם (קומיס), המשקה המסורתי המקומי. עם זאת, הזהר - זה קשה מאוד לעיכול. חוויה אותנטית זו מגיעה עם אתגרים של עיכול אך היא חלק מהטבילה התרבותית האמיתית."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Fat Adventurer",
+      "dateShared": "2025-09-13",
+      "tags": [
+        "cultural-experience",
+        "food",
+        "authentic-travel",
+        "traditions"
+      ],
+      "warning": {
+        "en": "May cause digestive issues",
+        "he": "עלול לגרום לבעיות עיכול"
+      },
+      "sourceBatch": 17
+    },
+    {
+      "id": "tip-018-001",
+      "category": "driving",
+      "title": {
+        "en": "Driving Pace and Fuel Economy Strategy",
+        "he": "אסטרטגיית קצב נסיעה וחסכון בדלק"
+      },
+      "content": {
+        "en": "Extended motorhome travel should not be about speed. Rami's preference: less than 100 km per day, ideally 0 km (stationary camping). The journey itself is the value, not reaching destinations quickly. Weekend-based travel pattern (work weeks, travel weekends) allows for week-long stays at single locations, improving experience and fuel economy.",
+        "he": "נסיעת קמפרוון ממושכת לא צריכה להיות על המהירות. העדפתו של רמי: פחות מ-100 קמ ליום, בעדיפות 0 קמ (קמפינג נייח). המסע עצמו הוא הערך, לא הגעה ליעדים במהירות. דפוס נסיעה המבוסס על סופי שבוע (שבועות עבודה, סופי שבוע נסיעה) מאפשר שהיות שבוע שלם במקום אחד, משפר חוויה וחסכון בדלק."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Rami Galboa",
+      "dateShared": "2025-09-28",
+      "tags": [
+        "driving-strategy",
+        "fuel-economy",
+        "travel-philosophy"
+      ],
+      "sourceBatch": 18
+    },
+    {
+      "id": "tip-018-002",
+      "category": "power-management",
+      "title": {
+        "en": "Generator Noise Management for Peaceful Camping",
+        "he": "ניהול רעש גנרטור לקמפינג שקט"
+      },
+      "content": {
+        "en": "Generators are problematic in shared camping spaces - they disturb neighbors and negatively impact travel experience. Prioritize solar power systems as alternative. Even partial solar coverage (e.g., 305W) combined with battery management can significantly reduce generator usage, creating more peaceful camping environments.",
+        "he": "גנרטורים בעייתיים בחללי קמפינג משותפים - הם מטרידים שכנים ומשפיעים לרעה על חוויית הנסיעה. העדיפו מערכות סולריות כחלופה. אפילו כיסוי סולרי חלקי (למשל 305W) בשילוב עם ניהול סוללה יכול להפחית משמעותית שימוש בגנרטור, יוצר סביבות קמפינג שקטות יותר."
+      },
+      "difficulty": "intermediate",
+      "sharedBy": "Ilan, Nadav",
+      "dateShared": "2025-09-28",
+      "tags": [
+        "generator-alternatives",
+        "noise-pollution",
+        "solar-power",
+        "community-consideration"
+      ],
+      "sourceBatch": 18
+    },
+    {
+      "id": "tip-018-003",
+      "category": "planning",
+      "title": {
+        "en": "Realistic Timeline for Property Search and Settlement",
+        "he": "ציר זמן ריאליסטי לחיפוש קרקע והתיישבות"
+      },
+      "content": {
+        "en": "If planning to transition from motorhome travel to settled property ownership (farm, homestead), allow 2+ years for the process. Finding suitable land with right climate, negotiating purchases or long-term leases, and establishing infrastructure takes considerable time. 1-2 years may not be sufficient to achieve full settlement goals.",
+        "he": "אם מתכננים מעבר מנסיעת קמפרוון להבעלות קרקע יושבת (חווה, בית חקלאי), הקצה 2+ שנים לתהליך. מציאת קרקע מתאימה עם אקלים נכון, משא ומתן רכישות או חכירה ארוכת טווח, והקמת תשתית דורשות זמן ניכר. 1-2 שנים עלולות לא להיות מספיקות להשגת יעדי התיישבות מלאים."
+      },
+      "difficulty": "intermediate",
+      "sharedBy": "Rami Galboa",
+      "dateShared": "2025-09-28",
+      "tags": [
+        "property-search",
+        "settlement-planning",
+        "realistic-expectations",
+        "life-transition"
+      ],
+      "sourceBatch": 18
+    },
+    {
+      "id": "tip-018-004",
+      "category": "experience",
+      "title": {
+        "en": "Life-Changing Value of Extended Family Motorhome Travel",
+        "he": "ערך שינוי חיים של נסיעת קמפרוון משפחתית ממושכת"
+      },
+      "content": {
+        "en": "Extended motorhome journeys (6-18 months) with families create life-changing experiences. The combination of travel freedom, family bonding, exposure to diverse cultures, and sustained engagement with nature produces profound personal growth. These journeys provide unique education impossible in traditional settings.",
+        "he": "מסעות קמפרוון ממושכים (6-18 חודשים) עם משפחות יוצרים חוויות המשנות חיים. השילוב של חופש נסיעה, קשרי משפחה, חשיפה לתרבויות מגוונות והתמדה בהתקשרות לטבע מייצר גדילה אישית עמוקה. מסעות אלה מספקים חינוך ייחודי בלתי אפשרי בהגדרות מסורתיות."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Tom Lerner, Tuval Avishi, Dvori Pshednovak Hulkashe",
+      "dateShared": "2025-09-27",
+      "tags": [
+        "family-travel",
+        "personal-growth",
+        "life-experience",
+        "cultural-exchange",
+        "education"
+      ],
+      "sourceBatch": 18
+    },
+    {
+      "id": "tip-018-005",
+      "category": "purchasing",
+      "title": {
+        "en": "Shared Ownership Model for Seasonal Motorhome Use",
+        "he": "מודל בעלות משותפת לשימוש קמפרוון עונתי"
+      },
+      "content": {
+        "en": "If motorhome will sit unused for extended periods, consider partnership/shared ownership model. Multiple owners can split costs and coordinate seasonal usage, improving vehicle utilization and reducing idle time. This approach works successfully for aircraft and yacht ownership and can be applied to motorhomes.",
+        "he": "אם קמפרוון יישב בשימוש לתקופות ארוכות, שקול שותפות/מודל בעלות משותפת. בעלים מרובים יכולים לחלק עלויות ולתאם שימוש עונתי, משפר ניצול רכב והפחתת זמן סרק. גישה זו פועלת בהצלחה לבעלות מטוס ויאכטה וניתן להחיל על קמפרוונים."
+      },
+      "difficulty": "intermediate",
+      "sharedBy": "Ezy",
+      "dateShared": "2025-09-30",
+      "tags": [
+        "ownership-models",
+        "cost-sharing",
+        "utilization",
+        "alternative-ownership"
+      ],
+      "sourceBatch": 18
+    },
+    {
+      "id": "tip-018-006",
+      "category": "batteries",
+      "title": {
+        "en": "Lithium Battery Cold Weather Precautions",
+        "he": "אמצעי הזהירות לסוללות ליתיום בעת קור"
+      },
+      "content": {
+        "en": "Lithium batteries cannot be charged in sub-freezing temperatures (below 5°C). If planning winter travel in cold climates, ensure batteries have internal heating systems or are stored in climate-controlled spaces. Replace lead-acid batteries with heated lithium alternatives to maintain charging capability in cold weather.",
+        "he": "סוללות ליתיום לא יכולות להטען בטמפרטורות קרות מתחת לנקודת הקפיאה (מתחת ל-5°C). אם תכננתם נסיעה בחורף בעיליויות קרות, ודאו שלסוללות יש מערכות חימום פנימיות או שהן מאוחסנות במקומות מבוקרי אקלים. החליפו סוללות עופרת בחלופות ליתיום מחוממות כדי לשמור על יכולת טעינה בעבר קר."
+      },
+      "difficulty": "intermediate",
+      "sharedBy": "Nadav",
+      "dateShared": "2025-09-28",
+      "tags": [
+        "lithium-batteries",
+        "cold-weather",
+        "winter-travel",
+        "battery-maintenance"
+      ],
+      "sourceBatch": 18
+    },
+    {
+      "id": "tip-019-001",
+      "category": "travel-planning",
+      "title": {
+        "en": "European Free Parking and Municipal Caravan Areas",
+        "he": "חנייה חינם באירופה ואזורי קרוואנים עירוניים"
+      },
+      "content": {
+        "en": "Spain and Portugal offer abundant free parking options for motorhomes. Most European towns have municipal caravan parking areas with free water refill and dump stations. Look for 'free caravan area' in the town you're interested in. Multiple camping grounds available in both countries. Very motorhome-friendly region.",
+        "he": "ספרד ופורטוגל מציעות הרבה אפשרויות חנייה חינם לקמפרוונים. לרוב העיירות האירופאיות יש אזורי חנייה עירוניים לקרוואנים עם מילוי מים ופקק תחנות חינמיים. חפש 'free caravan area' בעיר שמעניינת אותך. מגרשי קמפינג מרובים זמינים בשתי המדינות. אזור ידידותי מאוד לקמפרוונים."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Ilan, Rami Galboa",
+      "dateShared": "2025-10-06",
+      "tags": [
+        "parking",
+        "free-camping",
+        "spain",
+        "portugal",
+        "travel-tips"
+      ],
+      "sourceBatch": 19
+    },
+    {
+      "id": "tip-019-002",
+      "category": "travel-style",
+      "title": {
+        "en": "Low Annual Mileage Lifestyle of European Motorhomers",
+        "he": "אורח חיים קילומטראז נמוך של מטיילי קמפרוונים אירופאיים"
+      },
+      "content": {
+        "en": "European motorhomers typically drive 6,000-8,000 km per year across 1-2 month trips, resulting in very low annual mileage compared to regular vehicle owners. Example: A 2002 motorhome with 170,000 km = ~7,500 km/year average. In contrast, private vehicles in Israel often accumulate that much in less than 2 months. This low-usage pattern extends vehicle lifespan and makes older vehicles viable for long-term travel.",
+        "he": "מטיילי קמפרוונים אירופאיים בדרך כלל נוסעים 6,000-8,000 קמ בשנה על פני טיולים של 1-2 חודשים, וכתוצאה מכך קילומטראז שנתי נמוך מאוד בהשוואה לבעלי רכבים רגילים. דוגמה: קמפרוון משנת 2002 עם 170,000 קמ = ממוצע ~7,500 קמ/שנה. לעומת זאת, רכבים פרטיים בישראל לעתים קרובות צברים את זה בפחות מ-2 חודשים. דפוס שימוש נמוך זה מאריך את אורך חיי הרכב ועושה רכבים ישנים יותר בדיוק לנסיעות ארוכות."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Izzy, Ilan, Rami Galboa",
+      "dateShared": "2025-10-02",
+      "tags": [
+        "mileage",
+        "usage-patterns",
+        "vehicle-longevity",
+        "travel-lifestyle"
+      ],
+      "sourceBatch": 19
+    },
+    {
+      "id": "tip-019-003",
+      "category": "vehicle-maintenance",
+      "title": {
+        "en": "Timing Belt Maintenance in Older Fiat Ducato Motorhomes",
+        "he": "תחזוקת חגורת טיימינג בקמפרוונים פיאט דוקאטו ישנים"
+      },
+      "content": {
+        "en": "Fiat Ducato is the most common motorhome platform in Europe. Timing belts require periodic replacement (manufacturer specs: 100-120 km, but typically done earlier at ~90 km for safety). Age also deteriorates belts. Unlike commercial vehicles, motorhomes accumulate low annual mileage, so timing is often measured in years not distance. A 2002 motorhome with 170,000 km driven over ~22 years shows low usage pattern. Replacement frequency should account for both mileage and age, typically every 5-7 years for occasional users.",
+        "he": "פיאט דוקאטו היא הפלטפורמה הנפוצה ביותר לקמפרוונים באירופה. חגורות טיימינג דורשות החלפה תקופתית (מפרט היצרן: 100-120 ק\"מ, אך בדרך כלל נעשה מוקדם יותר ב~90 ק\"מ לבטיחות). גיל גם מחליש חגורות. בניגוד לרכבים מסחריים, קמפרוונים צברים קילומטראז נמוך שנתית, כך שהתזמון לעתים קרובות נמדד בשנים ולא במרחק. קמפרוון משנת 2002 עם 170,000 קמ שנסעו במשך ~22 שנים מציג דפוס שימוש נמוך. תדירות ההחלפה צריכה להביא בחשבון גם קילומטראז וגיל, בדרך כלל כל 5-7 שנים למשתמשים ספורדיים."
+      },
+      "difficulty": "intermediate",
+      "sharedBy": "Rami Galboa, Afrim Liur",
+      "dateShared": "2025-10-02",
+      "tags": [
+        "maintenance",
+        "timing-belt",
+        "fiat-ducato",
+        "motorhome-care"
+      ],
+      "sourceBatch": 19
+    },
+    {
+      "id": "tip-019-004",
+      "category": "testing-regulations",
+      "title": {
+        "en": "TÜV Inspection Concerns for Low-Mileage Motorhomes",
+        "he": "חששות בדיקה TÜV לקמפרוונים בקילומטראז נמוך"
+      },
+      "content": {
+        "en": "In Germany, TÜV inspectors may flag unusually low mileage as suspicious. Example: 2019 motorhome with only 20,000 km (~2,800 km/year average) was criticized during inspection. While legitimate for occasional travelers, inspectors may question vehicle condition. Explanation: Wars, pandemics, travel restrictions affected travel patterns. Solution: Plan to increase usage or be prepared to explain low mileage patterns during re-inspection.",
+        "he": "בגרמניה, בוחני TÜV עלולים להסמן קילומטראז נמוך בחריגות כחשוד. דוגמה: קמפרוון משנת 2019 עם רק 20,000 קמ (ממוצע ~2,800 קמ/שנה) זכה בהערה במהלך בדיקה. למרות שלגיטימי למטיילים ספורדיים, בוחנים עלולים לשאול את מצב הרכב. הסבר: מלחמות, קורונה, הגבלות נסיעה השפיעו על דפוסי נסיעה. פתרון: תכנן להגביר שימוש או היה מוכן להסביר דפוסי קילומטראז נמוכים בעת בדיקה חוזרת."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Afrim Liur",
+      "dateShared": "2025-10-02",
+      "tags": [
+        "inspection",
+        "tuv",
+        "regulations",
+        "mileage",
+        "germany"
+      ],
+      "sourceBatch": 19
+    },
+    {
+      "id": "tip-020-001",
+      "category": "safety",
+      "title": {
+        "en": "Winter Water System Winterization",
+        "he": "הכנת מערכת מים לחורף"
+      },
+      "content": {
+        "en": "To prepare motorhome water systems for winter storage: Open drainage buttons and all taps/faucets. This prevents freezing and cracking of pipes and water system components. Essential step depends on storage location (how far north, elevation) and expected minimum temperatures below 0°C.",
+        "he": "להכנת מערכות מים של קמפרוון לאחסון חורף: פתח כפתורי ריקון וכל הברזים/ברזים. זה מונע קפיאה וסדיקה של צינורות ורכיבי מערכת מים. שלב חיוני תלוי במיקום אחסון (כמה רחוק צפונה, גובה) וטמפרטורות מינימום צפויות מתחת ל-0°C."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Shumon Harpatan, Rami Galboa",
+      "dateShared": "2025-10-16",
+      "tags": [
+        "maintenance",
+        "winter",
+        "water-system",
+        "seasonal-care"
+      ],
+      "actionItems": [
+        "Open all drainage points",
+        "Open all taps/faucets completely",
+        "Leave open during cold storage period"
+      ],
+      "sourceBatch": 20
+    },
+    {
+      "id": "tip-020-002",
+      "category": "equipment",
+      "title": {
+        "en": "12V Soldering Iron from Ali Express",
+        "he": "מלחם 12V מ-Ali Express"
+      },
+      "content": {
+        "en": "There are excellent 12V soldering irons available on Ali Express that reach high temperatures and provide adequate maintenance time for one or two repairs. Compact and ideal for motorhome electrical work. Eliminates need for gas soldering iron during European travel.",
+        "he": "יש מלחמות 12V מעולות זמינות ב-Ali Express שמגיעות לטמפרטורות גבוהות ומספקות זמן תחזוקה מספיק לתיקון אחד או שניים. קומפקטי ואידיאלי לעבודות חשמל בקמפרוון. מבטל את הצורך במלחם גז בנסיעה באירופה."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Boaz Gutman",
+      "dateShared": "2025-10-12",
+      "tags": [
+        "tools",
+        "electrical-repair",
+        "equipment",
+        "purchasing"
+      ],
+      "recommendation": {
+        "en": "Recommended for motorhome travelers doing electrical repairs",
+        "he": "מומלץ למטיילי קמפרוון שמבצעים תיקונים חשמליים"
+      },
+      "sourceBatch": 20
+    },
+    {
+      "id": "tip-020-003",
+      "category": "power-management",
+      "title": {
+        "en": "Power Inverter Limitations for Large Appliances",
+        "he": "מגבלות ממיר חשמל לציוד גדול"
+      },
+      "content": {
+        "en": "Power inverters have significant limitations when running high-power devices. Air conditioning units drain battery banks very quickly. Ovens and air conditioners will rapidly deplete lithium batteries. Limit use to small appliances like coffee makers, laptops, and limited AC device use. Plan high-power usage around campground electrical hookups.",
+        "he": "ממירי חשמל יש מגבלות משמעותיות בהפעלת ציוד בעוצמה גבוהה. יחידות מיזוג אוויר מרוקנות בנקי סוללה במהירות רבה. תנורים ומיזוג אוויר מרוקנים סוללות ליתיום במהירות. הגבל שימוש למכשירים קטנים כמו קומקום קפה, מחשבים ניידים, ושימוש מוגבל בציוד AC. תכנן שימוש בעוצמה גבוהה סביב חיבורי חשמל של קמפינג."
+      },
+      "difficulty": "intermediate",
+      "sharedBy": "Ilan, Izzy",
+      "dateShared": "2025-10-12",
+      "tags": [
+        "electrical-systems",
+        "power-management",
+        "battery-care",
+        "limitations"
+      ],
+      "recommendations": {
+        "en": [
+          "Use gas-powered cooking alternatives (Omnia, gas grill)",
+          "Avoid air conditioning when on battery power",
+          "Use campground electrical hookups for high-power needs",
+          "Prioritize portable battery charging during travel"
+        ],
+        "he": [
+          "השתמש באלטרנטיבות בישול מופעלות גז (Omnia, גריל גז)",
+          "הימנע ממיזוג אוויר בזמן הנעת סוללה",
+          "השתמש בחיבורי חשמל של קמפינג לצרכי עוצמה גבוהה",
+          "תעדוף טעינת סוללה ניידת במהלך הנסיעה"
+        ]
+      },
+      "sourceBatch": 20
+    },
+    {
+      "id": "tip-020-004",
+      "category": "transportation",
+      "title": {
+        "en": "Electric Bicycles as Motorhome Mobility Solution",
+        "he": "אופניים חשמליות כפתרון ניידות לקמפרוון"
+      },
+      "content": {
+        "en": "Electric bicycles are the most significant upgrade for motorhome life. Offers substantial mobility improvement without leaving the motorhome. Recommend balloon tires for versatility and comfort. Install 12V charging line with 10-amp fuse for slow charging while driving. Ensures arrival at parking spot with charged batteries. Carries second regular bike (non-electric) and fold electric bikes when storage is limited.",
+        "he": "אופניים חשמליות הן השדרוג המשמעותי ביותר לחיי קמפרוון. מציעה שיפור ניידות משמעותי ללא עזיבת הקמפרוון. מומלץ צמיגי בלון לגמישות ונוחות. התקן קו 12V עם נתיך 10 אמפר לטעינה איטית במהלך הנסיעה. מבטיח הגעה לחניה עם סוללות טעונות. סחוב אופניים שני רגילים (לא-חשמלי) וקפל אופניים חשמליות כאשר אחסון מוגבל."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Izzy, Nirit",
+      "dateShared": "2025-10-16",
+      "tags": [
+        "bikes",
+        "mobility",
+        "transportation",
+        "motorhome-upgrades"
+      ],
+      "specifications": {
+        "type": "foldable-e-bikes",
+        "range": "50 km",
+        "charging": "12V charging during drive",
+        "tires": "balloon-tires-recommended"
+      },
+      "recommendations": {
+        "en": [
+          "Foldable e-bikes for compact storage",
+          "Balloon tires for ride comfort",
+          "Slow 12V charging keeps batteries topped up",
+          "Reduces need for motorhome fuel",
+          "Excellent for local exploration"
+        ],
+        "he": [
+          "אופניים חשמליות מתקפלות לאחסון קומפקטי",
+          "צמיגי בלון לנוחות רכיבה",
+          "טעינה איטית של 12V שומרת על סוללות מלאות",
+          "מפחית את צורך בדלק קמפרוון",
+          "מעולה לחקר מקומי"
+        ]
+      },
+      "sourceBatch": 20
+    },
+    {
+      "id": "tip-020-005",
+      "category": "cooking",
+      "title": {
+        "en": "Gas vs Electric Cooking Tools: The Great Motorhome Debate",
+        "he": "בישול גז לעומת חשמלי: הדיון הגדול של קמפרוון"
+      },
+      "content": {
+        "en": "Gas-powered cooking is superior to electric inverter-based cooking for motorhomes. Options include: Omnia (direct gas stovetop), gas grill, Victor stove, Ninja grill. Each has unique advantages. Electric air fryers and ovens consume significant power (250-800W) and will rapidly drain battery systems. Community consensus: Gas-powered solutions are better for autonomous travel and battery preservation.",
+        "he": "בישול מופעל גז עדיף על בישול חשמלי מבוסס ממיר לקמפרוונים. האפשרויות כוללות: Omnia (כיריה ישירה גז), גריל גז, תנור Victor, גריל Ninja. לכל אחד יתרונות ייחודיים. מכונות אוויר חשמליות ותנורים צורכים עוצמה משמעותית (250-800W) ויעשו רוקנו מהיר מערכות סוללה. קונסנסוס קהילה: פתרונות מופעלים גז טובים יותר לנסיעה אוטונומית ושימור סוללה."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Rami Galboa, Ilan, Boaz Gutman, Ofer Nov",
+      "dateShared": "2025-10-14 to 2025-10-15",
+      "tags": [
+        "cooking",
+        "gas",
+        "electric",
+        "power-management",
+        "equipment-choice"
+      ],
+      "options": {
+        "en": [
+          "Omnia stovetop cooker - direct gas, most popular",
+          "Gas grill - compact, efficient",
+          "Victor stove - reliable gas option",
+          "Ninja grill - space-efficient but bulky",
+          "Electric ovens - only with campground 220V hookup"
+        ],
+        "he": [
+          "בישול Omnia על הכיריים - גז ישיר, הפופולרי ביותר",
+          "גריל גז - קומפקטי, יעיל",
+          "תנור Victor - אפשרות גז אמינה",
+          "גריל Ninja - יעיל במרחב אך נפחי",
+          "תנורים חשמליים - רק עם חיבור 220V של קמפינג"
+        ]
+      },
+      "powerComparison": {
+        "gasOptions": "No battery drain",
+        "electricAirFryer": "250W = significant drain",
+        "electricOven": "800W = rapid depletion"
+      },
+      "sourceBatch": 20
+    },
+    {
+      "id": "tip-020-006",
+      "category": "travel-planning",
+      "title": {
+        "en": "South America Motorhome Travel Preparation",
+        "he": "הכנה לנסיעת קמפרוון בדרום אמריקה"
+      },
+      "content": {
+        "en": "Planning South America motorhome journey? Consider building knowledge through films about history and culture of Chile and Argentina. Recommendations: Che Guevara documentaries and films. Multi-caravan expeditions recommended for safety and group travel support. Vehicle registration requirements differ (Chilean vs American plates possible). First week of December ideal departure window.",
+        "he": "תכנון מסע קמפרוון בדרום אמריקה? שקול בניית ידע דרך סרטים על היסטוריה ותרבות של צ'ילה וארגנטינה. המלצות: דוקומנטרים וסרטים על צ'ה גווארה. משלחות רב-קראוואנים מומלצות לבטיחות ותמיכת נסיעה בקבוצה. דרישות רישום רכבים שונות (ישויות צ'ילאיות לעומת אמריקניות אפשריות). שבוע הראשון של דצמבר החלון יציאה אידיאלי."
+      },
+      "difficulty": "advanced",
+      "sharedBy": "Shumon Harpatan, Rami Galboa",
+      "dateShared": "2025-10-11",
+      "tags": [
+        "south-america",
+        "travel-planning",
+        "cultural-preparation",
+        "multi-caravan"
+      ],
+      "culturalResources": {
+        "en": [
+          "Che Guevara documentary films",
+          "Chile and Argentina history resources",
+          "Easter Island (mentioned as point of interest)"
+        ],
+        "he": [
+          "סרטי דוקומנטרי על צ'ה גווארה",
+          "משאבי היסטוריה של צ'ילה וארגנטינה",
+          "איי פסחא (מוזכר כנקודת עניין)"
+        ]
+      },
+      "recommendations": {
+        "en": [
+          "Travel in multi-caravan groups for safety",
+          "Prepare with cultural research",
+          "Depart first week of December",
+          "Coordinate vehicle registrations in advance",
+          "Consider 2-3 month journey duration"
+        ],
+        "he": [
+          "נסיעה בקבוצות רב-קראוואנים לבטיחות",
+          "הכנה עם מחקר תרבותי",
+          "יציאה בשבוע הראשון של דצמבר",
+          "תיאום רישום רכבים מראש",
+          "שקול משך מסע של 2-3 חודשים"
+        ]
+      },
+      "sourceBatch": 20
+    },
+    {
+      "id": "tip-020-007",
+      "category": "logistics",
+      "title": {
+        "en": "Starlink for Reliable Motorhome Internet",
+        "he": "Starlink לאינטרנט אמין של קמפרוון"
+      },
+      "content": {
+        "en": "Starlink satellite internet provides excellent motorhome connectivity even in rural areas. Antenna mounted on roof window/roof hatch. Works well while driving. Cellular signal is weak or unavailable in many European travel areas, making Starlink the superior choice. Current setup includes mounting antenna to roof for continuous coverage.",
+        "he": "אינטרנט לוויני של Starlink מספק קישוריות קמפרוון מעולה גם באזורים כפריים. אנטנה הותקנה בחלון גג/פתח גג. עובד טוב בזמן נסיעה. אות סלולר חלש או בלתי זמין בהרבה אזורי נסיעה אירופים, הופך את Starlink לבחירה העליונה. ההגדרה הנוכחית כוללת התקנת אנטנה לגג לכיסוי מתמשך."
+      },
+      "difficulty": "intermediate",
+      "sharedBy": "Ilan",
+      "dateShared": "2025-10-15",
+      "tags": [
+        "internet",
+        "starlink",
+        "connectivity",
+        "technology"
+      ],
+      "installation": {
+        "en": "Roof window or roof hatch mounted antenna",
+        "he": "אנטנה הותקנה בחלון גג או פתח גג"
+      },
+      "advantages": {
+        "en": [
+          "Works in remote areas",
+          "Functions while driving",
+          "Superior to cellular coverage",
+          "Reliable connection for work/streaming",
+          "Coverage across European travel routes"
+        ],
+        "he": [
+          "עובד באזורים מרוחקים",
+          "פונקציות בזמן נסיעה",
+          "עדיף על כיסוי סלולר",
+          "חיבור אמין לעבודה/סטרימינג",
+          "כיסוי על פני מסלולי נסיעה אירופיים"
+        ]
+      },
+      "sourceBatch": 20
+    },
+    {
+      "id": "tip-021-001",
+      "category": "winter-preparation",
+      "title": {
+        "en": "Early Winter Travel Preparation: Know Your Tire Requirements",
+        "he": "הכנה לנסיעה בחורף מוקדמת: הכר דרישות הצמיגים שלך"
+      },
+      "content": {
+        "en": "Winter tires with snow symbol are mandatory throughout Europe during winter months (typically October-March). This is a legal requirement. AT (All-Terrain) tires count as winter tires. Winter-specific tires have different rubber compounds optimized for cold temperatures compared to summer tires. AT tires are acceptable but winter-specific tires grip slightly better in freezing conditions.",
+        "he": "צמיגי חורף עם סמל שלג הם חובה בכל אירופה בחודשי החורף (בדרך כלל אוקטובר-מרץ). זה דרישה חוקית. צמיגי AT נחשבים לצמיגי חורף. צמיגים ספציפיים לחורף כוללים תרכובות גומי שונות המותאמות לטמפרטורות קרות בהשוואה לצמיגי קיץ. צמיגי AT מקובלים אך צמיגים ספציפיים לחורף אחיזה קצת טובה יותר בתנאים קופאים."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Oren Kipnis, Rami Galboa",
+      "dateShared": "2025-10-28",
+      "tags": [
+        "winter-tires",
+        "legal-requirements",
+        "safety",
+        "preparation"
+      ],
+      "actionItems": {
+        "en": [
+          "Check tire requirements before October",
+          "Confirm winter tire installation before travel",
+          "Verify legal compliance in each country"
+        ],
+        "he": [
+          "בדוק דרישות צמיגים לפני אוקטובר",
+          "אשר התקנת צמיגי חורף לפני נסיעה",
+          "אמת עמידה בדין בכל מדינה"
+        ]
+      },
+      "sourceBatch": 21
+    },
+    {
+      "id": "tip-021-002",
+      "category": "gas-management",
+      "title": {
+        "en": "LPG Tank Standard Workaround: Find Multi-Standard Filling Centers",
+        "he": "פתרון תקן מיכל LPG: מצא מרכזי מילוי רב-תקנים"
+      },
+      "content": {
+        "en": "If your motorhome has incompatible gas tank standards with most European stations, identify filling centers that accept all standard types (like the Slovenia-Italy border facility). These centers solve compatibility issues and prevent the expense of purchasing additional cylinders. Keep their locations saved for future reference.",
+        "he": "אם למוטורהום שלך יש תקנים בלתי תואמים של מיכלי גז עם רוב התחנות האירופאיות, זהה מרכזי מילוי המקבלים את כל סוגי התקנים (כמו המתקן בגבול סלובניה-איטליה). מרכזים אלה פותרים בעיות תאימות ומונעים את ההוצאה על קניית גלילים נוספים. שמור את המיקומים שלהם לעדכון עתידי."
+      },
+      "difficulty": "intermediate",
+      "sharedBy": "Ilan",
+      "dateShared": "2025-10-22",
+      "tags": [
+        "gas-management",
+        "lpg-standards",
+        "practical-solutions"
+      ],
+      "relatedLocations": [
+        "loc-021-002"
+      ],
+      "sourceBatch": 21
+    },
+    {
+      "id": "tip-021-003",
+      "category": "winter-preparation",
+      "title": {
+        "en": "Winter Chain Survival: Practice Installation in Pleasant Weather",
+        "he": "הישרדות שרשראות חורף: תרגל התקנה במזג אויר נעים"
+      },
+      "content": {
+        "en": "Never attempt your first snow chain installation during a snowstorm emergency. The complexity will surprise you, and freezing temperatures make it extremely difficult (frostbite risk on exposed hands, gloves prevent proper manipulation of components). Practice installing and removing chains on dry ground before winter. Take a short test drive on gravel to verify proper installation and get comfortable with the noise and vibration chains create.",
+        "he": "אל תנסה אף פעם התקנת שרשראות שלג לראשונה בעת סערת שלג בחירום. המורכבות תפתיע אותך, וטמפרטורות קפיאה הופכות את זה לקשה מאוד (סיכון כוויות קור על ידיים חשופות, כפפות מונעות תמרון נכון של רכיבים). תרגל התקנה והסרה של שרשראות על קרקע יבשה לפני חורף. קח נסיעת בדיקה קצרה על חצץ כדי לאמת התקנה נכונה והרגל את עצמך לרעש וגער שהשרשראות יוצרות."
+      },
+      "difficulty": "intermediate",
+      "sharedBy": "Izzy, Rami Galboa",
+      "dateShared": "2025-10-28",
+      "tags": [
+        "winter-safety",
+        "preparation",
+        "emergency-prevention"
+      ],
+      "actionItems": {
+        "en": [
+          "Purchase chains before October",
+          "Practice installation on dry ground",
+          "Test-drive on rough surface",
+          "Get comfortable with noise/vibration"
+        ],
+        "he": [
+          "קנה שרשראות לפני אוקטובר",
+          "תרגל התקנה על קרקע יבשה",
+          "נסעות בדיקה על משטח גס",
+          "הרגל את עצמך לרעש/רעידות"
+        ]
+      },
+      "sourceBatch": 21
+    },
+    {
+      "id": "tip-021-004",
+      "category": "winter-preparation",
+      "title": {
+        "en": "Critical: Winterize Water Systems Before Freezing Temperatures",
+        "he": "קריטי: בצע winterization של מערכות מים לפני טמפרטורות קפיאה"
+      },
+      "content": {
+        "en": "If you'll be traveling to regions where temperatures drop below 0°C, drain all water tanks and lines BEFORE the first freeze. Failing to winterize water systems causes catastrophic damage to plumbing. This is not optional. Consult your motorhome manual for the specific winterization procedure for your system.",
+        "he": "אם תנסע לאזורים שבהם טמפרטורות יירדו מתחת ל-0°C, רוקן את כל מיכלי המים וצינורות לפני ההקפאה הראשונה. כשלון ב-winterization של מערכות מים גורם לנזק קטסטרופי לאינסטלציה. זה לא אפציונלי. עיין בעיתון הקמפרוון שלך להליך winterization ספציפי למערכת שלך."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Rami Galboa",
+      "dateShared": "2025-10-28",
+      "tags": [
+        "winter-maintenance",
+        "water-systems",
+        "critical"
+      ],
+      "actionItems": {
+        "en": [
+          "Review motorhome manual for winterization procedure",
+          "Drain water tanks before October",
+          "Set reminder before first freeze"
+        ],
+        "he": [
+          "בדוק הוראות ספר הקמפרוון לנהל winterization",
+          "רוקן מיכלי מים לפני אוקטובר",
+          "הגדר תזכורת לפני הקפאה ראשונה"
+        ]
+      },
+      "sourceBatch": 21
+    },
+    {
+      "id": "tip-021-005",
+      "category": "travel-strategy",
+      "title": {
+        "en": "Bicycles and Scooters: Essential Tools for Motorhome Mobility",
+        "he": "אופניים וקטנועים: כלים חיוניים לניידות קמפרוון"
+      },
+      "content": {
+        "en": "Include bicycles and/or e-bikes/scooters in your motorhome equipment when planning autonomous travel. These tools enable local exploration from parking spots without moving the motorhome. Bicycles work for short distances; electric scooters provide medium-range exploration. This strategy makes off-grid camping more enjoyable and reduces unnecessary motorhome movement.",
+        "he": "כלול אופניים ו/או אופניים חשמליים/קטנועים בציוד הקמפרוון שלך בעת תכנון נסיעות אוטונומיות. כלים אלה מאפשרים סיור מקומי מנקודות חניה ללא הנעת הקמפרוון. אופניים עובדים למרחקים קצרים; קטנועים חשמליים מספקים סיור בטווח בינוני. אסטרטגיה זו הופכת קמפינג אוף-גריד למהנה יותר ומפחיתה תנועת קמפרוון מיותרת."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Ilan, Amir Meltzer",
+      "dateShared": "2025-10-16",
+      "tags": [
+        "equipment",
+        "mobility",
+        "off-grid",
+        "convenience"
+      ],
+      "relatedGuides": [
+        "guide-021-003"
+      ],
+      "sourceBatch": 21
+    },
+    {
+      "id": "tip-021-006",
+      "category": "vehicle-selection",
+      "title": {
+        "en": "Older Vehicles in Extreme Climates: Simplicity Has Advantages",
+        "he": "רכבים ישנים במזג אויר קיצוני: לפשטות יש יתרונות"
+      },
+      "content": {
+        "en": "When traveling to very remote areas like Tanzania where parts and service are extremely difficult to obtain, older vehicles with simpler systems have advantages. Modern high-tech vehicles (Mercedes, Ford, Iveco) will struggle to find compatible parts and qualified technicians. Older vehicles can often be repaired with basic tools and improvised solutions (like duct tape). Consider vehicle simplicity vs. comfort when planning remote travel.",
+        "he": "בעת נסיעה לאזורים מרוחקים מאוד כמו טנזניה שבהם חלקים ושירותים קשים מאוד להשגה, רכבים ישנים עם מערכות פשוטות יותר יש יתרונות. רכבים מודרניים בעלי טכנולוגיה גבוהה (מרצדס, פורד, איווקו) יתקשו למצוא חלקים תואמים וטכנאים מוסמכים. רכבים ישנים יותר ניתן לעתים קרובות לתקן עם כלים בסיסיים וליישומים משודרגים (כמו אישור). שקול פשטות רכב לעומת נוחות בעת תכנון נסיעות מרוחקות."
+      },
+      "difficulty": "intermediate",
+      "sharedBy": "Nadav",
+      "dateShared": "2025-10-26",
+      "tags": [
+        "vehicle-selection",
+        "remote-travel",
+        "reliability",
+        "repair"
+      ],
+      "sourceBatch": 21
+    },
+    {
+      "id": "tip-022-001",
+      "category": "storage",
+      "title": {
+        "en": "European Storage Flexibility and Monthly Rates",
+        "he": "גמישות אחסנה אירופאית ותעריפים חודשיים"
+      },
+      "content": {
+        "en": "Storage facilities across Europe (Cologne, Mainz, Stuttgart area, Strasbourg) offer flexible monthly rates. Typical rate: €70/month. Facilities vary in minimum stay requirements - some allow short-term, others require long-term storage only.",
+        "he": "מתקני אחסנה בכל אירופה (קלן, מיינץ, אזור שטוטגארט, שטרסבורג) מציעים שיעורים חודשיים גמישים. תעריף טיפוסי: €70/חודש. מתקנים משתנים בדרישות הנעת חנייה מינימלית - חלקם מאפשרים קצרה טווח, אחרים דורשים אחסנה ארוכת טווח בלבד."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Group members (Rami Galboa, Shay Goren, Sylvie)",
+      "dateShared": "2025-10-28",
+      "tags": [
+        "storage",
+        "europe",
+        "cost-saving",
+        "facilities"
+      ],
+      "sourceBatch": 22
+    },
+    {
+      "id": "tip-022-002",
+      "category": "electrical",
+      "title": {
+        "en": "Battery Disconnect: Simple Negative Terminal Method",
+        "he": "ניתוק מצבר: שיטת טרמינל מינוס פשוטה"
+      },
+      "content": {
+        "en": "For long-term motorhome storage, disconnecting the negative terminal of the engine battery is sufficient. Isolate with cloth/rag to prevent accidental contact. This simple approach is validated by Fiat's factory installation and recommended by German mechanics.",
+        "he": "לאחסנה ארוכת טווח של מוטורהום, ניתוק טרמינל המינוס של סוללת המנוע מספיק. בודד עם בד/סמרטוט כדי למנוע נגיעה מקרית. גישה פשוטה זו מאומתת על ידי התקנה מפעל של פיאט והמלצה על ידי טכנאים גרמנים."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Rami Galboa, Nadav, Ephraim Lior, Boaz Gutman",
+      "dateShared": "2025-10-29",
+      "tags": [
+        "electrical",
+        "storage",
+        "maintenance",
+        "battery"
+      ],
+      "sourceBatch": 22
+    },
+    {
+      "id": "tip-022-003",
+      "category": "welding",
+      "title": {
+        "en": "Welding Safety: Disconnect All Batteries",
+        "he": "בטיחות ריתוך: ניתוק כל הסוללות"
+      },
+      "content": {
+        "en": "Before welding or high-power electrical work on a motorhome, always disconnect both engine and house batteries (and alternator if possible). Current can flow through the chassis and damage motorhome electrical systems and computers. Real example: welding without disconnecting caused significant damage to camper batteries in Chile.",
+        "he": "לפני ריתוך או עבודות חשמל בהספק גבוה על מוטורהום, תמיד נתק את סוללות המנוע והבית (והאלטרנטור אם אפשר). זרם יכול לזרום דרך השסי וגרום לנזק למערכות חשמליות במוטורהום וכמputerים. דוגמה אמיתית: ריתוך ללא ניתוק גרם לנזק משמעותי לסוללות קמפר בצ'ילה."
+      },
+      "difficulty": "intermediate",
+      "sharedBy": "Tuval Avishi, Oren Kipnis",
+      "dateShared": "2025-10-29",
+      "tags": [
+        "electrical",
+        "safety",
+        "welding",
+        "maintenance"
+      ],
+      "sourceBatch": 22
+    },
+    {
+      "id": "tip-022-004",
+      "category": "insurance",
+      "title": {
+        "en": "German Winter-Break Insurance: Save €350/Year",
+        "he": "ביטוח הפסקת חורף גרמני: חיסכון €350/שנה"
+      },
+      "content": {
+        "en": "If your motorhome doesn't travel during winter (December-March), consider German winter-break insurance. Vehicle remains insured year-round but cannot move during 4 consecutive winter months. Cost reduction: approximately €350/year. Standing coverage only (theft, break-in, fire). Requires plate change to indicate traveling season.",
+        "he": "אם הקמפרוון שלך לא נוסע בחורף (דצמבר-מרץ), שקול ביטוח הפסקת חורף גרמני. הרכב נשאר מבוטח כל השנה אך לא יכול להינוע במשך 4 חודשים רצופים בחורף. הפחתת עלויות: בערך €350/שנה. כיסוי עמידה בלבד (גניבה, פריצה, שריפה). דורש החלפת לוחית כדי לציין עונת נסיעה."
+      },
+      "difficulty": "intermediate",
+      "sharedBy": "Ephraim Lior",
+      "dateShared": "2025-10-30",
+      "tags": [
+        "insurance",
+        "germany",
+        "cost-saving",
+        "seasonal"
+      ],
+      "sourceBatch": 22
+    },
+    {
+      "id": "tip-022-005",
+      "category": "insurance",
+      "title": {
+        "en": "ADAC Better Than Commercial Insurers for Motorhomes",
+        "he": "ADAC טוב יותר מביטוחים מסחריים לקמפרוונים"
+      },
+      "content": {
+        "en": "In Germany, choose ADAC (auto club equivalent to AAA) over commercial insurers like ALLIANZ. ADAC typically costs €800/year vs €1400-1500 for commercial full coverage. Service quality is exceptional: claims processed quickly (windshield replaced in Spain, reimbursed in 2 hours minus deductible). ADAC has no profit-exploitation motive.",
+        "he": "בגרמניה, בחר ADAC (מועדון אוטו שקול ל-AAA) על פני מבטחים מסחריים כמו ALLIANZ. ADAC עולה בדרך כלל €800/שנה לעומת €1400-1500 לכיסוי מלא מסחרי. איכות השירות יוצאת דופן: תביעות מעובדות במהירות (שמשה הוחלפה בספרד, החזר תשלום תוך שעתיים מינוס התשלום העצמי). ADAC אין לה מניע ניצול רווח."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Ilan, Ephraim Lior, Avraham",
+      "dateShared": "2025-10-30",
+      "tags": [
+        "insurance",
+        "germany",
+        "adac",
+        "cost-saving",
+        "service-quality"
+      ],
+      "sourceBatch": 22
+    },
+    {
+      "id": "tip-023-001",
+      "category": "cooking",
+      "title": {
+        "en": "Dual-Level Cooking Technique for Slow Cooking",
+        "he": "טכניקה בישול דו-מפלסית לבישול איטי"
+      },
+      "content": {
+        "en": "Traditional double-boiler technique used for long, slow cooking: Place forks between two pots to create air space, allowing heat to rise evenly. Heat source below, larger pot on top, smaller cooking pot on forks inside. Creates oven-like environment for dishes like cholent (Jewish stew) and slow-cooked meat dishes.",
+        "he": "טכניקה דלי כפול מסורתית המשמשת לבישול ארוך וא איטי: מניח מזלגות בין שני סירים ליצירת חלל אוויר, המאפשר חום לעלות באופן שווה. מקור חום בתחתון, סיר גדול בחוץ, סיר בישול קטן על מזלגות בתוכו. יוצר סביבה דומה לתנור לתבשילים כמו צ'ולנט (תבשיל יהודי) ותבשילי בשר מבושלים."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Ilan",
+      "dateShared": "2025-11-05",
+      "tags": [
+        "cooking-technique",
+        "slow-cooking",
+        "traditional",
+        "low-fuel"
+      ],
+      "sourceBatch": 23
+    },
+    {
+      "id": "tip-023-002",
+      "category": "religious-practice",
+      "title": {
+        "en": "Mezuzah Installation in Motorhomes",
+        "he": "התקנת מזוזה בקמפרוונים"
+      },
+      "content": {
+        "en": "Halakhic (Jewish law) guidance on mezuzah requirements for motorhomes: If motorhome is temporary residence (stays less than 30 days per location), no mezuzah required. If permanent residence or stays over 30 days in one location, mezuzah is required on main entrance. No blessing should be recited when installing in mobile dwellings. Some install as spiritual protection rather than strict halakhic requirement.",
+        "he": "הנחיות הלכתיות (דין יהודי) בנוגע לדרישות מזוזה בקמפרוונים: אם קמפרוון הוא מגורים זמניים (שהייה פחות מ-30 יום למיקום), לא נדרשת מזוזה. אם מגורים קבועים או שהייה למעלה מ-30 יום במיקום אחד, נדרשת מזוזה בכניסה הראשית. אסור לברך בעת התקנה בדירות ניידות. חלקם מתקינים כהגנה רוחנית ולא דרישה הלכתית קפדנית."
+      },
+      "difficulty": "intermediate",
+      "sharedBy": "Ilan, Nirit, Dvori Pshednovak Hulkashe, Izzi",
+      "dateShared": "2025-11-05",
+      "tags": [
+        "religious-practice",
+        "jewish-law",
+        "halakha",
+        "motorhome-living"
+      ],
+      "relatedLink": "https://chatgpt.com/share/690ae7f5-2188-8008-afdb-f900457f508f",
+      "sourceBatch": 23
+    },
+    {
+      "id": "tip-023-003",
+      "category": "terminology",
+      "title": {
+        "en": "Distinguishing Motorhome from Caravan",
+        "he": "הבחנה בין קמפרוון נגרר לקמפרוון עצמי-הנעה"
+      },
+      "content": {
+        "en": "Clear practical distinction for travel community: Use 'motorhome' or 'camper' for self-propelled vehicles where driver lives inside. Use 'caravan' or 'trailer' for towed units that are separate from driving vehicle. This distinction matters for route planning, parking, and maneuvering. Avoid invented Hebrew terms that don't naturally adopt.",
+        "he": "הבחנה מעשית ברורה לקהילת הנוסעים: השתמש ב'קמפרוון' או 'קמפר' לרכבים עצמי-הנעה שבהם התושב גר בפנים. השתמש ב'קרוואן' או 'גרור' ליחידות מובללות שנפרדות מרכב הנהיגה. הבחנה זו חשובה לתכנון מסלול, חנייה ותמרון. הימנע מ'מונחים עברית המומצאים שלא מאומצים באופן טבעי."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Nadav, Ilan",
+      "dateShared": "2025-11-04",
+      "tags": [
+        "terminology",
+        "motorhome-classification",
+        "travel-planning"
+      ],
+      "sourceBatch": 23
+    },
+    {
+      "id": "tip-023-004",
+      "category": "navigation",
+      "title": {
+        "en": "Download Maps Before European Travel",
+        "he": "הורד מפות לפני נסיעה אירופאית"
+      },
+      "content": {
+        "en": "Always download offline maps to your phone using HERE Maps before departing for European motorhome travel. Cellular coverage in rural areas is unreliable, and offline maps ensure navigation capability even in dead zones. Automatic fallback to offline mode when signal is weak.",
+        "he": "הורד תמיד מפות עובדות לא מקוונות לטלפון שלך באמצעות HERE Maps לפני יציאה לנסיעת קמפרוון אירופאית. כיסוי סלולרי בחיזוק כפרי לא אמין, ומפות עובדות לא מקוונת מבטיחות יכולת ניווט אפילו באזורי מוות."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Oren Kipnis",
+      "dateShared": "2025-11-05",
+      "tags": [
+        "navigation",
+        "travel-preparation",
+        "technology"
+      ],
+      "sourceBatch": 23
+    },
+    {
+      "id": "tip-024-001",
+      "category": "storage",
+      "title": {
+        "en": "Covered Storage Protection Benefits",
+        "he": "יתרונות הגנה אחסון מכוסה"
+      },
+      "content": {
+        "en": "Invest in covered storage for long-term motorhome parking. Protect against roof leaks (common in 24+ year old vehicles), UV damage from 35°C heat, and hail damage. Some vehicles in group suffered total loss from hail impact during unprotected storage. Cost of covered storage is worth the insurance.",
+        "he": "השקיע באחסון מכוסה להחנייה ארוכת טווח של קמפרוון. הגן מפני נזילות גג (נפוץ בכלים בני 24+ שנים), נזק UV מחום של 35 מעלות צלזיוס ונזק מברד. כמה רכבים בקבוצה סבלו מהפסד כולל מהשפעת ברד בעת אחסון לא מוגן. עלות אחסון מכוסה שווה את הביטוח."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Rami Galboa, Tuviel Avishi",
+      "dateShared": "2025-11-11",
+      "tags": [
+        "storage",
+        "maintenance",
+        "protection",
+        "long-term-parking"
+      ],
+      "sourceBatch": 24
+    },
+    {
+      "id": "tip-024-002",
+      "category": "emergency",
+      "title": {
+        "en": "Stuck in Mud: Emergency Recovery Protocol",
+        "he": "תקיעה בבוץ: פרוטוקול חילוץ חירום"
+      },
+      "content": {
+        "en": "Get stuck in mud with motorhome at night? Don't panic. Jeep community wisdom: First thing to do is make coffee. In motorhome world, upgrade: First sleep, wake up in morning, make coffee (for Israelis: Lifesat), THEN deal with the situation. Example: Recent recovery took ~3 hours to dig exit path, 5 minutes to exit (with repositioned jacks), 2.5 hours cleanup with garden hose. Air jacks/hydraulic levelers can double as recovery tools.",
+        "he": "תקיעה בבוץ עם קמפרוון בלילה? אל תפחד. חוכמת קהילת הג'יפ: הדבר הראשון לעשות זה לעשות קפה. בעולם קמפרוונים, שדרוג: תחילה לישון, התעורר בבוקר, לעשות קפה (לישראלים: ליפעת), וַאַז להתמודד עם המצב. דוגמה: חילוץ אחרון לקח ~3 שעות לחפור נתיב יציאה, 5 דקות לצאת (עם גברים מחודשים), ניקוי 2.5 שעות עם צינור גינה. שפאלות אוויר/הגבהות הידראוליות יכולות להכפיל כחלקי חילוץ."
+      },
+      "difficulty": "intermediate",
+      "sharedBy": "Nadav",
+      "dateShared": "2025-11-07",
+      "tags": [
+        "emergency",
+        "recovery",
+        "repairs",
+        "outdoor-skills"
+      ],
+      "sourceBatch": 24
+    },
+    {
+      "id": "tip-024-003",
+      "category": "technology",
+      "title": {
+        "en": "Starlink Mini Power: Reality vs Theory",
+        "he": "חשמל Starlink מיני: מציאות לעומת תיאוריה"
+      },
+      "content": {
+        "en": "While Starlink Mini theoretically operates on 12V, real-world performance requires 24V power circuit for optimal results. Don't rely on 12V alone for reliable connectivity in South America. Ensure good power supply infrastructure - this is critical planning parameter for solar-powered motorhomes. High power consumption means sizing solar panels and battery bank accordingly.",
+        "he": "בעוד ש-Starlink מיני פועל תיאורטית ב-12V, ביצוע בעולם האמיתי דורש מעגל חשמל 24V לתוצאות אופטימליות. אל תסתמך על 12V לבדו לחיבור אמין בדרום אמריקה. ודא תשתית חשמל טובה - זה פרמטר תכנון קריטי לקמפרוונים בחשמל סולארי. צריכת חשמל גבוהה פירושה גודל פנלים סולאריים ובנק סוללות בהתאם."
+      },
+      "difficulty": "intermediate",
+      "sharedBy": "Nadav, Ilan",
+      "dateShared": "2025-11-13",
+      "tags": [
+        "starlink",
+        "power",
+        "off-grid",
+        "technology",
+        "planning"
+      ],
+      "sourceBatch": 24
+    },
+    {
+      "id": "tip-024-004",
+      "category": "storage",
+      "title": {
+        "en": "Battery Disconnection During Storage",
+        "he": "ניתוק סוללה בעת אחסון"
+      },
+      "content": {
+        "en": "When storing motorhome for extended periods (multiple months), disconnect both batteries. They maintain charge well when disconnected and can be recharged when vehicle is taken out again. This prevents parasitic drain and battery degradation during storage.",
+        "he": "כאשר אוחסנים קמפרוון לתקופות ממושכות (חודשים מרובים), ניתק את שתי הסוללות. הם שומרים על טעינה היטב כאשר מנותקים וניתן לטעון מחדש כאשר הרכב משובש שוב. זה מונע ניתוק סטרנולי והידרדרות סוללה בעת אחסון."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Rami Galboa",
+      "dateShared": "2025-11-11",
+      "tags": [
+        "storage",
+        "batteries",
+        "maintenance",
+        "preparation"
+      ],
+      "sourceBatch": 24
+    },
+    {
+      "id": "tip-024-005",
+      "category": "planning",
+      "title": {
+        "en": "International SIM Strategy for South America",
+        "he": "אסטרטגיית SIM בינלאומית לדרום אמריקה"
+      },
+      "content": {
+        "en": "Frequent travel between Argentina and Chile requires global connectivity solution. Two options: 1) Multiple country SIM cards, 2) Global/regional SIM solution covering multiple South American countries. Research which providers offer best coverage and pricing for your route. Starlink Mini can supplement cellular connectivity in remote areas.",
+        "he": "נסיעה תכופה בין ארגנטינה וצ'ילה דורשת פתרון חיבור גלובלי. שתי אפשרויות: 1) כרטיסי SIM מרובי מדינות, 2) פתרון SIM גלובלי/אזורי המכסה מדינות דרום-אמריקאיות מרובות. חקור אילו ספקים מציעים כיסוי ותמחור הטובים ביותר לנתיב שלך. Starlink מיני יכול להשלים חיבור סלולארי בחיבור בשטחים מרוחקים."
+      },
+      "difficulty": "intermediate",
+      "sharedBy": "Shmen the Adventurer",
+      "dateShared": "2025-11-13",
+      "tags": [
+        "connectivity",
+        "sim-cards",
+        "south-america",
+        "planning",
+        "technology"
+      ],
+      "sourceBatch": 24
+    },
+    {
+      "id": "tip-024-006",
+      "category": "technology",
+      "title": {
+        "en": "Interactive Google Maps: Community Storage Database Project",
+        "he": "מפות גוגל אינטראקטיביות: פרויקט מאגר אחסון קהילתי"
+      },
+      "content": {
+        "en": "Group is creating interactive Google Map database of motorhome storage facilities across Europe and beyond. Ilan Molcho building the model, Rami Galboa collecting data. Storage locations data organized in shared spreadsheet for easy conversion to map interface. Public release planned after initial data verification. Members encouraged to add new storage locations with detailed information.",
+        "he": "הקבוצה יוצרת מאגר מפות גוגל אינטראקטיבי של מתקני אחסון קמפרוון בכל אירופה ובעולם. אילן מולכו בונה את המודל, רמי גלבוע אוסף נתונים. נתוני מיקומי אחסון מאורגנים בגיליון משותף להמרה קלה לממשק מפה. שחרור ציבורי מתוכנן לאחר אימות נתונים ראשוני. חברים מעודדים להוסיף מיקומי אחסון חדשים עם מידע מפורט."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Rami Galboa, Ilan Molcho",
+      "dateShared": "2025-11-11",
+      "tags": [
+        "database",
+        "community-project",
+        "storage",
+        "mapping",
+        "collaboration"
+      ],
+      "status": "In Development",
+      "notes": {
+        "en": "Initial mockup shows good interface. Currently in data collection phase with member feedback.",
+        "he": "דוגמה ראשונית מציגה ממשק טוב. כרגע בשלב איסוף נתונים עם משוב חברים."
+      },
+      "sourceBatch": 24
+    },
+    {
+      "id": "tip-025-001",
+      "category": "water-systems",
+      "title": {
+        "en": "Open Gray Water Valve in Cold Weather",
+        "he": "פתח שסתום מים אפורים בקרה"
+      },
+      "content": {
+        "en": "Leave the gray water valve open in cold weather to prevent freezing. While not technically legal, it prevents serious water system damage. Ensure proper distance from water sources when dumping.",
+        "he": "השאר את שסתום המים האפורים פתוח בקרה כדי למנוע הקפאה. אע\"פ שאינו חוקי מבחינה טכנית, זה מונע נזק רציני למערכת המים. וודא מרחק הולם ממקורות מים בעת שפיכה."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Ilan",
+      "dateShared": "2025-11-26",
+      "tags": [
+        "water-systems",
+        "cold-weather",
+        "maintenance"
+      ],
+      "sourceBatch": 25
+    },
+    {
+      "id": "tip-025-002",
+      "category": "water-systems",
+      "title": {
+        "en": "Midnight Shower Protocol for Cold Climates",
+        "he": "פרוטוקול מקלחת חצות לאקלימים קרים"
+      },
+      "content": {
+        "en": "Shower in the evening instead of morning in cold weather. Shower right before sleep to maintain warmth overnight. Pour hot water into tank in evening. This strategy works effectively for extended cold-weather travel.",
+        "he": "קח מקלחת בערב במקום בבוקר בקרה. קח מקלחת ממש לפני השינה כדי לשמור על חום בלילה. שפוך מים חמים לתוך מיכל בערב. אסטרטגיה זו עובדת בהצלחה לנסיעות ממושכות בקרה."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Izzy",
+      "dateShared": "2025-11-26",
+      "tags": [
+        "water-systems",
+        "cold-weather",
+        "lifestyle"
+      ],
+      "sourceBatch": 25
+    },
+    {
+      "id": "tip-025-003",
+      "category": "technical",
+      "title": {
+        "en": "Jump Start Safety - Booster Requirements",
+        "he": "בטיחות התנעה קפיצה - דרישות בוסטר"
+      },
+      "content": {
+        "en": "Failed jump start attempts require proper amperage boosters. Standard boosters are inadequate for large vehicle batteries. Use boosters specifically designed for high-amperage starting to avoid vehicle damage.",
+        "he": "ניסיונות התנעה קפיצה כושלים דורשים בוסטרים עם אמפר מתאימים. בוסטרים סטנדרטיים אינם מספקים לסוללות רכב גדולות. השתמש בבוסטרים שתוכננו במיוחד להתנעה עם אמפראז גבוה כדי להימנע מנזק לרכב."
+      },
+      "difficulty": "intermediate",
+      "sharedBy": "Nadav",
+      "dateShared": "2025-11-16",
+      "tags": [
+        "technical",
+        "maintenance",
+        "safety"
+      ],
+      "sourceBatch": 25
+    },
+    {
+      "id": "tip-025-004",
+      "category": "purchasing",
+      "title": {
+        "en": "Truck License C1 for Large Motorhomes",
+        "he": "רשיון משאית C1 לקמפרוונים גדולים"
+      },
+      "content": {
+        "en": "C1 truck license allows operation of vehicles up to 12 tons in Israel (10.6 tons permit weight, 9 tons practical). While obtaining the license is an achievement, it's often a 'fun challenge' rather than practical necessity for most motorhome travel. License training and testing took 6 hours.",
+        "he": "רשיון משאית C1 מאפשר הפעלת רכבים עד 12 טון בישראל (10.6 טון משקל רשיון, 9 טון מעשי). אע\"פ שקבלת הרשיון היא הישג, היא לעתים קרובות 'אתגר כיף' ולא הכרח מעשי לרוב נסיעות הקמפרוון. הדרכה והבדיקה של רשיון נמשכה 6 שעות."
+      },
+      "difficulty": "intermediate",
+      "sharedBy": "Ilan",
+      "dateShared": "2025-11-25",
+      "tags": [
+        "licensing",
+        "documentation",
+        "motorhome-regulations"
+      ],
+      "sourceBatch": 25
+    },
+    {
+      "id": "tip-025-005",
+      "category": "lifestyle",
+      "title": {
+        "en": "RV Configurations: From Single to Extreme Multi-Vehicle Setups",
+        "he": "תצורות RV: מרכב יחיד לתצורות קיצוניות רב-רכביות"
+      },
+      "content": {
+        "en": "Some travelers operate extreme configurations: large RV motorhome with Harley-Davidson motorcycle towed behind, and additional vehicle (jeep) or speedboat in tow. Example: San Diego couple traveling USA for ~4 years with RV + Harley + Jeep + speedboat. Some configurations include ultralight aircraft on roof. These are uncommon but represent the breadth of motorhome lifestyle options.",
+        "he": "כמה נוסעים מפעילים תצורות קיצוניות: קמפרוון RV ענק עם אופנוע Harley-Davidson משתלשל מאחור, ורכב נוסף (ג'יפ) או סירת מהירות בגרירה. דוגמה: זוג מסן דייגו המטייל בארה\"ב במשך ~4 שנים עם RV + Harley + Jeep + speedboat. כמה תצורות כוללות מטוס אולטרה-לייט על הגג. אלה נדירים אך מייצגים את המגוון של אפשרויות סגנון חיים הקמפרוון."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Ilan, Yoni",
+      "dateShared": "2025-11-25",
+      "tags": [
+        "lifestyle",
+        "travel-styles",
+        "motorhome-configurations"
+      ],
+      "sourceBatch": 25
+    },
+    {
+      "id": "tip-026-001",
+      "category": "vehicle-preferences",
+      "title": {
+        "en": "Comfort vs Capability: The Motorhome Design Philosophy",
+        "he": "נוחות לעומת יכולת: פילוסופיית עיצוב קמפרוון"
+      },
+      "content": {
+        "en": "Most motorhome life is on roads or comfortable trails. Prioritize modern comfort features (shower, toilet, kitchen, heating) over extreme off-road capability. Unless planning serious Africa exploration, a modern 2WD is often better than an older 4x4. Consider comfort over adventure capability.",
+        "he": "רוב חיי קמפרוון על כבישים או שבילים נוחים. העדף תכונות נוחות מודרניות (מקלחת, שירותים, מטבח, חימום) על יכולת שטח קיצונית. אלא אם מתכננים חקר אפריקה רציני, 2WD מודרני לעתים קרובות טוב יותר מ-4x4 ישן. שקול נוחות על יכולת הרפתקה."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Amir Meltzer",
+      "dateShared": "2025-12-10",
+      "tags": [
+        "purchasing",
+        "comfort",
+        "philosophy",
+        "4x4-vs-2x4"
+      ],
+      "sourceBatch": 26
+    },
+    {
+      "id": "tip-026-002",
+      "category": "internet-management",
+      "title": {
+        "en": "WiFi Auto-Download Problem: Turn Off StarLink When Not Needed",
+        "he": "בעיית הורדה אוטומטית ב-WiFi: כבה את סטארלינק כשלא צריך"
+      },
+      "content": {
+        "en": "When connected to StarLink WiFi, phones and computers automatically download updates and sync data in background. This causes massive data consumption (40GB in 7 days observed). Simple solution: Turn off StarLink when not actively using internet. Cellular data often cheaper.",
+        "he": "בעת חיבור ל-WiFi של סטארלינק, טלפונים ומחשבים מורידים אוטומטית עדכונים וסינכרון נתונים ברקע. זה גורם לצריכת נתונים ענקית (40GB ב-7 ימים נצפה). פתרון פשוט: כבה את סטארלינק כשאין שימוש פעיל בinternet. נתונים סלולריים לעתים קרובות זולים יותר."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Boaz Gutman, Ilan",
+      "dateShared": "2025-12-11",
+      "tags": [
+        "internet",
+        "starlink",
+        "data-management",
+        "wifi"
+      ],
+      "sourceBatch": 26
+    },
+    {
+      "id": "tip-026-003",
+      "category": "road-navigation",
+      "title": {
+        "en": "Google Maps Toll Road Filtering for Route Variety",
+        "he": "סינון כבישי אגרות של Google Maps לגיוון מסלול"
+      },
+      "content": {
+        "en": "In Google Maps settings, check 'Avoid toll roads' option. This shows alternative scenic routes instead of major highways. Toll roads appear highlighted in green on map, making them easy to identify. Use this feature to find beautiful rural roads instead of monotonous expressways.",
+        "he": "בהגדרות Google Maps, סמן אפשרות 'הימנע מכבישי אגרות'. זה מציג מסלולים מהנדסים חלופיים במקום כבישים מהירים עיקריים. כבישי אגרות מופיעים מודגשים בירוק על המפה, מה שמקל על זיהוי. השתמש בתכונה זו כדי למצוא כבישים כפריים יפים במקום כבישי הסעה משעממים."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Ofer Nov",
+      "dateShared": "2025-12-10",
+      "tags": [
+        "navigation",
+        "route-planning",
+        "maps",
+        "tools"
+      ],
+      "sourceBatch": 26
+    },
+    {
+      "id": "tip-026-004",
+      "category": "regional-costs",
+      "title": {
+        "en": "Germany vs France: Tax Burden and Registration Differences",
+        "he": "גרמניה לעומת צרפת: נטל מס והבדלי רישום"
+      },
+      "content": {
+        "en": "Germany has annual motorhome registration tax of €240 (or €72-84 depending on vehicle size) plus significant insurance and parking costs (totaling ~€1,600/year). France offers much better deal: only €230 ONE-TIME registration fee. If planning long-term European travel, consider France-registered vehicles to save substantially on annual costs.",
+        "he": "לגרמניה יש מס רישום קמפרוון שנתי של €240 (או €72-84 בהתאם לגודל רכב) בנוסף לעלויות ביטוח וחניה משמעותיות (סך הכל ~€1,600/שנה). צרפת מציעה עסקה הרבה יותר טובה: רק €230 עמלה חד פעמית לרישום. אם מתכננים נסיעה אירופאית ארוכת טווח, שקול רכבים רשומים בצרפת לחיסכון משמעותי בעלויות שנתיות."
+      },
+      "difficulty": "intermediate",
+      "sharedBy": "Tuval Avishi, Ilan",
+      "dateShared": "2025-12-08",
+      "tags": [
+        "costs",
+        "taxes",
+        "germany",
+        "france",
+        "purchasing"
+      ],
+      "sourceBatch": 26
+    },
+    {
+      "id": "tip-026-005",
+      "category": "travel-connectivity",
+      "title": {
+        "en": "Local SIM Cards vs Global Roaming: Mongolia Case Study",
+        "he": "כרטיסי SIM מקומיים לעומת רומינג גלובלי: מקרה מעשה מונגוליה"
+      },
+      "content": {
+        "en": "Global SIM roaming promised coverage but failed completely in Mongolia. Local SIM card (cost: ~$1.50 NIS equivalent) proved highly reliable and functional. When traveling remote areas, don't rely entirely on global roaming plans. Purchase local SIM cards as backup - often cheaper and more reliable.",
+        "he": "רומינג SIM גלובלי הבטיח כיסוי אך נכשל לחלוטין במונגוליה. כרטיס SIM מקומי (עלות: ~$1.50 שווה ערך NIS) התברר אמין ופעיל מאוד. בעת נסיעה לאזורים מרוחקים, אל תסמוך לחלוטין על תוכניות רומינג גלובליות. קנה כרטיסי SIM מקומיים כגיבוי - לעתים קרובות זול יותר ואמין יותר."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Ilan",
+      "dateShared": "2025-11-16",
+      "tags": [
+        "connectivity",
+        "sim-cards",
+        "roaming",
+        "asia",
+        "mongolia"
+      ],
+      "sourceBatch": 26
+    },
+    {
+      "id": "tip-026-006",
+      "category": "maintenance",
+      "title": {
+        "en": "Equipment Quality: Cooking Device Performance",
+        "he": "איכות ציוד: ביצועי מכשיר בישול"
+      },
+      "content": {
+        "en": "Modern cooking devices (like Hajka stove) offer significant improvements over older camping equipment. Features like even heat distribution and smart construction enable better cooking results. Consider quality equipment upgrades - the taste difference is worth it for extended travel. Device should arrive by end of month (pre-order status).",
+        "he": "מכשירי בישול מודרניים (כמו תנור Hajka) מציעים שיפורים משמעותיים על פני ציוד קמפינג ישן יותר. תכונות כמו חלוקת חום אחידה ובנייה חכמה מאפשרות תוצאות בישול טובות יותר. שקול שדרוגי ציוד איכותיים - הבדל הטעם שווה לנסיעה ממושכת. המכשיר צריך להגיע בתחזוקת החודש (מצב pre-order)."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Ilan, Nadav",
+      "dateShared": "2025-12-02",
+      "tags": [
+        "equipment",
+        "cooking",
+        "upgrades",
+        "comfort"
+      ],
+      "sourceBatch": 26
+    },
+    {
+      "id": "tip-026-007",
+      "category": "travel-insurance",
+      "title": {
+        "en": "New Motorhome Owner Seeking Insurance Solutions",
+        "he": "בעלים חדשים של קמפרוון מחפשים פתרונות ביטוח"
+      },
+      "content": {
+        "en": "For new motorhome owners (especially with no insurance history): Connect with local insurance agents who specialize in motorhomes. Italian agents can provide support 24/7 via WhatsApp. If vehicle is registered in France, may have different insurance requirements than Germany. Start insurance search early, before collecting vehicle.",
+        "he": "לבעלים חדשים של קמפרוון (במיוחד ללא היסטוריית ביטוח): התחבר לסוכני ביטוח מקומיים המתמחים בקמפרוונים. סוכנים איטלקיים יכולים לספק תמיכה 24/7 דרך וואטסאפ. אם הרכב רשום בצרפת, עשוי להיות בעל דרישות ביטוח שונות מגרמניה. התחל חיפוש ביטוח מוקדם, לפני איסוף רכב."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Amir Meltzer, Group members",
+      "dateShared": "2025-12-11",
+      "tags": [
+        "insurance",
+        "new-traveler",
+        "contacts",
+        "onboarding"
+      ],
+      "sourceBatch": 26
+    },
+    {
+      "id": "tip-027-001",
+      "category": "purchasing",
+      "title": {
+        "en": "One-Year Motorhome Journey with Return Option",
+        "he": "טיול קמפרוון בן שנה עם אפשרות חזרה"
+      },
+      "content": {
+        "en": "When building a custom motorhome with Oren Crispin, you can negotiate to have it returned to Israel after your travels. Option: spend 6 months traveling, then spend 6 months driving back to Israel (total 1 year journey with built-in return plan).",
+        "he": "בעת בנייה של קמפרוון מותאם עם אורן קריספין, תוכל לתאם שיוחזר לישראל לאחר הנסיעות שלך. אפשרות: בילה 6 חודשים לנסיעה, ואז בילה 6 חודשים בנסיעה חזרה לישראל (סה\"כ טיול בן שנה עם תכנית חזרה מובנית)."
+      },
+      "difficulty": "intermediate",
+      "sharedBy": "Amir Meltzer",
+      "dateShared": "2025-12-13",
+      "tags": [
+        "purchasing",
+        "planning",
+        "custom-builds",
+        "logistics",
+        "one-year-journey"
+      ],
+      "sourceBatch": 27
+    },
+    {
+      "id": "tip-027-002",
+      "category": "purchasing",
+      "title": {
+        "en": "World Standard Custom Motorhome Building",
+        "he": "בנייה קמפרוון מותאמת בסטנדרט עולמי"
+      },
+      "content": {
+        "en": "Oren Crispin builds motorhomes to world standard specifications. This means international quality, reliability, and finishes that compare to the best global motorhome manufacturers. Good choice for serious long-term travelers.",
+        "he": "אורן קריספין בונה קמפרוונים על פי מפרט סטנדרט עולמי. זה אומר איכות בינלאומית, אמינות וגימורים המשתווים ליצרני הקמפרוונים הגדולים ביותר בעולם. בחירה טובה לנוסעים ממושכים קשובים."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Amir Meltzer",
+      "dateShared": "2025-12-13",
+      "tags": [
+        "quality",
+        "custom-builds",
+        "specifications",
+        "purchasing"
+      ],
+      "sourceBatch": 27
+    },
+    {
+      "id": "tip-027-003",
+      "category": "new-member",
+      "title": {
+        "en": "Welcome Message to New Group Members",
+        "he": "הודעת ברוכים הבאים לחברים חדשים בקבוצה"
+      },
+      "content": {
+        "en": "When new members join the motorhome group (like Rami Galboa welcoming Doron), the group emphasizes: 'There's an ocean of information and good will to share knowledge here. You're invited to share some words about your journeys and plans. If you have concrete questions, talk with us.' This indicates a very supportive, knowledge-sharing community.",
+        "he": "כאשר חברים חדשים מצטרפים לקבוצת הקמפרוון (כמו רמי גלבוע המברך את דורון), הקבוצה מדגישה: 'יש כאן אוקיינוס של מידע ורצון טוב לחלוק ידע. אתה מוזמן להעלות כמה מילים על מסעותייך ותכניותייך. אם יש לך שאלות קונקרטיות, דבר איתנו.' זה מצביע על קהילה תומכת מאוד ודורשת שיתוף ידע."
+      },
+      "difficulty": "beginner",
+      "sharedBy": "Rami Galboa (welcoming Doron Golan)",
+      "dateShared": "2025-12-13",
+      "tags": [
+        "community",
+        "welcome",
+        "knowledge-sharing",
+        "support"
+      ],
+      "sourceBatch": 27
+    }
+  ]
+}

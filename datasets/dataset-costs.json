@@ -1,0 +1,2468 @@
+{
+  "metadata": {
+    "category": "costs",
+    "description": "Price comparisons for services, equipment, insurance, and facilities",
+    "totalItems": 77,
+    "extractionDate": "2025-12-14",
+    "dataVersion": "1.0",
+    "language": "Bilingual (Hebrew + English)"
+  },
+  "costs": [
+    {
+      "id": "cost-esim-001",
+      "category": "esim",
+      "provider": {
+        "name": "Airalo",
+        "website": "https://www.airalo.com"
+      },
+      "title": {
+        "en": "Airalo Global eSIM Plans",
+        "he": "תוכניות eSIM גלובליות של Airalo"
+      },
+      "description": {
+        "en": "Global eSIM coverage with excellent performance across Europe. Used successfully from Greece to Northern Norway and from Germany to Portugal and Spain. Includes hotspot functionality for sharing with other devices.",
+        "he": "כיסוי eSIM גלובלי עם ביצועים מצוינים ברחבי אירופה. נבדק בהצלחה מיוון ועד נורבגיה הצפונית ומגרמניה לפורטוגל וספרד. כולל אפשרות hotspot לשיתוף עם מכשירים נוספים."
+      },
+      "coverage": {
+        "regions": [
+          "Europe",
+          "Global"
+        ],
+        "worldwide": true
+      },
+      "pricing": {
+        "currency": "EUR",
+        "plans": [
+          {
+            "name": {
+              "en": "Global 20GB Annual",
+              "he": "גלובאל 20GB שנתי"
+            },
+            "amount": 68,
+            "details": {
+              "en": "20GB valid for 1 year, can top up when needed",
+              "he": "20GB תקף לשנה, ניתן להוסיף כאשר נדרש"
+            }
+          }
+        ]
+      },
+      "rating": 5,
+      "pros": [
+        {
+          "en": "Excellent coverage throughout Europe",
+          "he": "כיסוי מצוין ברחבי אירופה"
+        },
+        {
+          "en": "Hotspot functionality works perfectly",
+          "he": "פונקציית hotspot עובדת מצוין"
+        },
+        {
+          "en": "Flexible top-up options",
+          "he": "אפשרויות גמישות להוספת נפח"
+        },
+        {
+          "en": "Manual or automatic renewal",
+          "he": "חידוש ידני או אוטומטי"
+        },
+        {
+          "en": "Reasonable pricing compared to Israeli providers",
+          "he": "מחירים הגונים בהשוואה לספקים ישראליים"
+        }
+      ],
+      "cons": [],
+      "userExperiences": [
+        {
+          "author": "Ilan",
+          "date": "2024-12-31",
+          "text": {
+            "en": "I've been using Airalo Global for the last year and a half. Worked excellently all over Europe, from Greece to northern Norway and from Germany to Portugal and Spain. Really excellent browsing (including use as hotspot for the second phone) and of course need to add browsing extension each time the package ends, but even then the prices are reasonable",
+            "he": "אני כבר כשנתיים עם גלובאל של airalo, עבד מצויין בכל אירופה, מיוון לצפון נורבגיה ומגרמניה לפורטוגל וספרד. ממש מצויין, גלישה טובה (כולל שימוש כ hotspot לטלפון השני) וכמובן צריך להוסיף הרחבת גלישה כל פעם שמסתיימת החבילה, אבל גם אז המחירים הגונים"
+          }
+        },
+        {
+          "author": "Ilan",
+          "date": "2024-12-31",
+          "text": {
+            "en": "We traveled the Silk Road with Global SIM. Except for Turkmenistan which has no network access, it also worked excellently in China, of course with Google blocks or VPN workaround, and Mongolia which is supposed to be included in the service but disappointed and we bought local there. But all the way from Europe to Mongolia through the Stans it paid off.",
+            "he": "אנחנו נסענו על דרך המשי עם גלובל סים. למעט טורקמניסטן שבה אין גישה לרשת, גם בסין עבד מעולה, כמובן עם חסימות גוגל או עקיפה עם vpn, ומונגוליה שאמורה להיכלל בשירות אבל הכזיבה ושם רכשנו מקומי. אבל כל הדרך מאירופה עד מונגוליה דרך הסטאנים השתלם."
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "dateAdded": "2024-12-31",
+        "lastVerified": "2024-12-31"
+      },
+      "sourceBatch": 2
+    },
+    {
+      "id": "cost-esim-002",
+      "category": "esim",
+      "provider": {
+        "name": "Bezeq WORLD8",
+        "website": null
+      },
+      "title": {
+        "en": "Bezeq WORLD8 International eSIM",
+        "he": "Bezeq WORLD8 סים בינלאומי"
+      },
+      "description": {
+        "en": "International eSIM from Israeli provider Bezeq. Valid for 4 years, supports hotspot. Main drawback: losing Israeli phone number access.",
+        "he": "eSIM בינלאומי מספק ישראלי Bezeq. תקף ל-4 שנים, תומך ב-hotspot. חסרון עיקרי: אובדן גישה למספר הטלפון הישראלי."
+      },
+      "coverage": {
+        "regions": [
+          "Global"
+        ],
+        "worldwide": true
+      },
+      "pricing": {
+        "currency": "ILS",
+        "plans": [
+          {
+            "name": {
+              "en": "Initial SIM + 50 ILS credit",
+              "he": "סים ראשוני + 50 ₪ טעינה"
+            },
+            "amount": 70,
+            "details": {
+              "en": "20 ILS for SIM (physical or virtual) + 50 ILS initial credit, valid 4 years",
+              "he": "20 ₪ לסים (פלסטיק או וירטואלי) + 50 ₪ טעינה ראשונית, תקף 4 שנים"
+            }
+          },
+          {
+            "name": {
+              "en": "Monthly 10GB",
+              "he": "10GB חודשי"
+            },
+            "amount": 49,
+            "details": {
+              "en": "49 ILS for 10GB valid for 30 days, can reload monthly including from abroad",
+              "he": "49 ₪ לטעון 10 ג'יגה לתקופה של 30 יום, אפשר לטעון בכל חודש מחדש גם מחו\"ל"
+            }
+          }
+        ]
+      },
+      "rating": 4,
+      "pros": [
+        {
+          "en": "Good price per GB",
+          "he": "מחיר טוב לג'יגה"
+        },
+        {
+          "en": "Can reload monthly from abroad",
+          "he": "ניתן לטעון מחדש מחו\"ל"
+        },
+        {
+          "en": "Hotspot support",
+          "he": "תמיכה ב-hotspot"
+        }
+      ],
+      "cons": [
+        {
+          "en": "Lose access to Israeli phone number - 'follow me' feature doesn't work reliably",
+          "he": "אובדן גישה למספר הטלפון הישראלי - תכונת 'עקוב אחריי' לא עובדת באמינות"
+        },
+        {
+          "en": "Best for 4-5 months max per year, not full-time travelers",
+          "he": "הכי טוב למקסימום 4-5 חודשים בשנה, לא לטיילים קבועים"
+        }
+      ],
+      "userExperiences": [
+        {
+          "author": "Rami Galboa",
+          "date": "2024-12-31",
+          "text": {
+            "en": "It usually works excellently, the only problem is that you lose your Israeli number. They have some 'follow me' procedure, but it never worked well for me.",
+            "he": "זה בדרך כלל עובד מצוין, הבעיה היחידה היא שאתה מאבד את המספר הישראלי שלך. יש להם איזו פרוצדורה ל'עקוב אחריי', אבל זה אף פעם לא עבד לי טוב."
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "dateAdded": "2024-12-31"
+      },
+      "sourceBatch": 2
+    },
+    {
+      "id": "cost-esim-003",
+      "category": "esim",
+      "provider": {
+        "name": "WE4G",
+        "website": null
+      },
+      "title": {
+        "en": "WE4G International Package",
+        "he": "חבילת WE4G בינלאומית"
+      },
+      "description": {
+        "en": "Israeli eSIM provider with international roaming. Keeps Israeli number active, works as regular SIM in Israel.",
+        "he": "ספק eSIM ישראלי עם נדידה בינלאומית. שומר על המספר הישראלי פעיל, עובד כסים רגיל בישראל."
+      },
+      "coverage": {
+        "regions": [
+          "According to provider list"
+        ],
+        "worldwide": false
+      },
+      "pricing": {
+        "currency": "ILS",
+        "plans": [
+          {
+            "name": {
+              "en": "Monthly 5GB International",
+              "he": "5GB בינלאומי חודשי"
+            },
+            "amount": 130,
+            "details": {
+              "en": "50 ILS/month (4G) with 5GB international roaming + 80 ILS one-time setup fee. Regular SIM in Israel, no need to swap",
+              "he": "50 ₪ לחודש (4G) עם 5 ג'יגה גלישה בחו\"ל + 80 ₪ דמי מעבר חד פעמיים. סים רגיל בישראל, אין צורך בהחלפה"
+            }
+          }
+        ]
+      },
+      "rating": 4,
+      "pros": [
+        {
+          "en": "Keep Israeli number",
+          "he": "שומר על המספר הישראלי"
+        },
+        {
+          "en": "Works as regular SIM in Israel, no swapping needed",
+          "he": "עובד כסים רגיל בישראל, אין צורך בהחלפה"
+        },
+        {
+          "en": "Saves payment on regular Israeli package",
+          "he": "חוסך את התשלום על החבילה הרגילה בארץ"
+        }
+      ],
+      "cons": [
+        {
+          "en": "Only 5GB per month",
+          "he": "רק 5GB לחודש"
+        }
+      ],
+      "userExperiences": [
+        {
+          "author": "Yaron",
+          "date": "2024-12-31",
+          "text": {
+            "en": "WE4G has a package for 50 ILS/month (4G) with 5GB browsing abroad (according to list). Keep the Israeli number and when you're in Israel it's the regular SIM, no need to swap SIMs and you save the payment on the regular package in Israel.",
+            "he": "לWE4G יש חבילה ב50 ש\"ח(4G) לחודש עם 5 ג'יגה גלישה בחו\"ל(לפי רשימה) בחודש. שומרים על המספר הישראלי וכשנמצאים בארץ זה הסים הרגיל, אין צורך בהחלפת סים וחוסכים את התשלום על החבילה הרגילה בארץ."
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "dateAdded": "2024-12-31"
+      },
+      "sourceBatch": 2
+    },
+    {
+      "id": "cost-esim-004",
+      "category": "esim",
+      "provider": {
+        "name": "GlobalYO",
+        "website": "https://www.globalyo.com/"
+      },
+      "title": {
+        "en": "GlobalYO eSIM",
+        "he": "GlobalYO eSIM"
+      },
+      "description": {
+        "en": "eSIM provider with good coverage in France, Spain, Portugal, and Italy.",
+        "he": "ספק eSIM עם כיסוי טוב בצרפת, ספרד, פורטוגל ואיטליה."
+      },
+      "coverage": {
+        "countries": [
+          "France",
+          "Spain",
+          "Portugal",
+          "Italy"
+        ],
+        "regions": [
+          "Europe"
+        ]
+      },
+      "pricing": {
+        "currency": "EUR",
+        "plans": []
+      },
+      "rating": 4,
+      "pros": [
+        {
+          "en": "Good coverage in tested countries",
+          "he": "כיסוי טוב במדינות שנוסו"
+        }
+      ],
+      "cons": [],
+      "userExperiences": [
+        {
+          "author": "Amit Refaeli",
+          "date": "2024-12-31",
+          "text": {
+            "en": "We recently use yo eSIM. Provide very good service in France, Spain, Portugal and Italy (only where we tried recently)...",
+            "he": "אנחנו לאחרונה משתמשים ב esim של yo. נותנים מענה טוב מאוד בצרפת ספרד פורטוגל ואיטליה (רק שם ניסינו לאחרונה)..."
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "dateAdded": "2024-12-31"
+      },
+      "sourceBatch": 2
+    },
+    {
+      "id": "cost-esim-005",
+      "category": "esim",
+      "provider": {
+        "name": "Mobi Matter",
+        "website": null
+      },
+      "title": {
+        "en": "Mobi Matter Annual eSIM",
+        "he": "Mobi Matter eSIM שנתי"
+      },
+      "description": {
+        "en": "Annual eSIM plan with excellent value - 40GB for one year covering all of Europe and USA.",
+        "he": "תוכנית eSIM שנתית עם ערך מצוין - 40GB לשנה המכסה את כל אירופה וארה\"ב."
+      },
+      "coverage": {
+        "regions": [
+          "Europe",
+          "USA"
+        ],
+        "worldwide": false
+      },
+      "pricing": {
+        "currency": "USD",
+        "plans": [
+          {
+            "name": {
+              "en": "40GB Annual",
+              "he": "40GB שנתי"
+            },
+            "amount": 40,
+            "details": {
+              "en": "40GB valid for 1 year, covers all Europe and USA",
+              "he": "40GB תקף לשנה, מכסה את כל אירופה וארה\"ב"
+            }
+          }
+        ]
+      },
+      "rating": 5,
+      "pros": [
+        {
+          "en": "Excellent value - 40GB for $40/year",
+          "he": "ערך מצוין - 40GB ב-$40 לשנה"
+        },
+        {
+          "en": "Covers Europe and USA",
+          "he": "מכסה אירופה וארה\"ב"
+        },
+        {
+          "en": "Works excellently",
+          "he": "עובד מצוין"
+        }
+      ],
+      "cons": [],
+      "userExperiences": [
+        {
+          "author": "Elisha",
+          "date": "2025-01-01",
+          "text": {
+            "en": "We tried all kinds of eSIM providers. Found Mobi Matter and they have a deal of 40G for $40 valid for a year and covers all of Europe and more and USA. Works excellently",
+            "he": "אנחנו ניסינו כל מיני ספקי esim. מצאנו את Mobi Matter ולהם יש דיל של 40G ב 40$ תקף לשנה ומכסה את כל אירופה ועוד ואת USA. עובד מצויין"
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "dateAdded": "2025-01-01"
+      },
+      "sourceBatch": 2
+    },
+    {
+      "id": "cost-satellite-001",
+      "category": "other",
+      "provider": {
+        "name": "Starlink",
+        "website": null
+      },
+      "title": {
+        "en": "Starlink Satellite Internet for Motorhomes",
+        "he": "אינטרנט לוויני Starlink למוטורהומים"
+      },
+      "description": {
+        "en": "Satellite internet system for motorhomes. Starlink Mini runs on 12V with minimal power consumption. Main consideration is monthly cost. Coverage still not continuous in all areas.",
+        "he": "מערכת אינטרנט לוויני למוטורהומים. Starlink Mini עובד על 12V עם צריכת חשמל מינימלית. שיקול עיקרי הוא עלות חודשית. כיסוי עדיין לא רציף בכל האזורים."
+      },
+      "coverage": {
+        "worldwide": true
+      },
+      "pricing": {
+        "currency": "USD",
+        "plans": [
+          {
+            "name": {
+              "en": "Starlink Mini",
+              "he": "Starlink Mini"
+            },
+            "amount": null,
+            "details": {
+              "en": "Monthly subscription required, 100 Mbps stable speeds, runs on 12V",
+              "he": "דורש מנוי חודשי, מהירות יציבה של 100 Mbps, עובד על 12V"
+            }
+          }
+        ]
+      },
+      "rating": 4,
+      "pros": [
+        {
+          "en": "Works excellently at high speeds",
+          "he": "עובד מצויין במהירויות גבוהות"
+        },
+        {
+          "en": "Very easy to set up when positioning",
+          "he": "מאוד קל להפעלה כשמתמקמים"
+        },
+        {
+          "en": "Starlink Mini runs on 12V - minimal power consumption",
+          "he": "Starlink Mini עובד על 12V - צריכת חשמל מינימלית"
+        },
+        {
+          "en": "100 Mbps stable and excellent speeds",
+          "he": "100 Mbps יציב ונהדר"
+        }
+      ],
+      "cons": [
+        {
+          "en": "Only limitation is obstructions - trees/mountains/coverage",
+          "he": "המגבלה היחידה היא הסתרות - עצים/הרים/תכסית"
+        },
+        {
+          "en": "Monthly cost to consider",
+          "he": "עלות חודשית לשקול"
+        },
+        {
+          "en": "Coverage not yet continuous everywhere",
+          "he": "כיסוי עדיין לא רציף בכל מקום"
+        },
+        {
+          "en": "Worth waiting - coverage still developing",
+          "he": "שווה לחכות - כיסוי עדיין מתפתח"
+        }
+      ],
+      "userExperiences": [
+        {
+          "author": "Omer Cnaani",
+          "date": "2024-12-29",
+          "text": {
+            "en": "I used it for a year. Works excellently at high speeds. Very easy to set up when positioning. The only limitation I experienced is obstructions - when there are trees/mountains/coverage. I bought a large pole to raise the antenna, it helped partially",
+            "he": "אני השתמשתי במשך שנה. עובד מצויין בקצבים מהירים. מאוד קל להפעלה כשמתמקמים. המגבלה היחידה שאני חוויתי היא הסתרות- כשיש עצים/הרים/תכסית. קניתי מוט גדול להרמת האנטנה, זה עזר חלקית"
+          }
+        },
+        {
+          "author": "Boaz Gutman",
+          "date": "2024-12-30",
+          "text": {
+            "en": "Starlink mini is magic.. I helped people here install.. The mini works on 12V... doesn't consume any power.. 100 Mbps stable and excellent. Just need to swallow the monthly cost.",
+            "he": "Starlink mini זה קסם.. יצא לי לעזור לאנשים פה להתקין.. המיני עובד על 12 v...  לא צורך כלום חשמל.. 100 mb/s יציב ונהדר. רק צריך לבלוע את העלות החודשית."
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "dateAdded": "2024-12-29"
+      },
+      "sourceBatch": 2
+    },
+    {
+      "id": "cost-007",
+      "category": "insurance",
+      "name": {
+        "en": "Mastercard Alit Credit Card - Travel Medical Insurance",
+        "he": "כרטיס אשראי מסטרקארד עלית - ביטוח רפואי לנסיעות"
+      },
+      "description": {
+        "en": "Credit card providing full medical insurance for trips up to 60 days, unlimited times per year. Covers cardholder + spouse. Recommended alternative for older travelers with pre-existing medical conditions.",
+        "he": "כרטיס אשראי הנותן ביטוח רפואי מלא לכל נסיעה עד 60 יום, כמה פעמים בשנה שתרצה. מכסה מבוטח + בן/בת זוג. חלופה מומלצת לטיילים מבוגרים עם בעיות עבר רפואיות."
+      },
+      "costBreakdown": {
+        "baseAmount": 65,
+        "currency": "USD",
+        "period": "month",
+        "notes": {
+          "en": "Monthly fee - works out to ~2.1 USD per day. Cheaper than alternative medical insurance for travelers with pre-existing conditions.",
+          "he": "דמי חודשי - יוצא כ-2.1 דולר ליום. זול יותר מביטוחים רפואיים חלופיים לטיילים עם בעיות עבר רפואיות."
+        }
+      },
+      "provider": {
+        "name": "Mastercard Alit",
+        "country": "Israel",
+        "type": "Credit Card"
+      },
+      "coverage": {
+        "en": "Full medical coverage up to 60 days per trip, unlimited trips annually, covers cardholder + spouse",
+        "he": "כיסוי רפואי מלא עד 60 יום לכל נסיעה, נסיעות בלתי מוגבלות בשנה, מכסה מבוטח + בן/בת זוג"
+      },
+      "limitations": {
+        "en": "60-day maximum per trip",
+        "he": "מקסימום 60 יום לכל נסיעה"
+      },
+      "reviews": [
+        {
+          "author": "Rami Galboa",
+          "rating": 5,
+          "text": {
+            "en": "Much cheaper than alternative medical insurance for older travelers with pre-existing conditions. Another golden recommendation from Elisha.",
+            "he": "הרבה יותר זול מהביטוחים הרפואיים החלופיים לנוסעים מבוגרים עם בעיות עבר רפואיות. עוד המלצת זהב של אלישע."
+          }
+        },
+        {
+          "author": "דורית מטק",
+          "rating": 5,
+          "text": {
+            "en": "We got this card through Bank Hapoalim and it was 20 USD cheaper per month for the first year or two.",
+            "he": "אנחנו עשינו את הכרטיס הנ\"ל דרך הבנק הבינלאומי והיה זול ב-20 דולר לחודש למשך שנה או שנתיים ראשונות."
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": false,
+        "lastVerified": null,
+        "addedBy": "Rami Galboa",
+        "addedDate": "2025-02-08"
+      },
+      "sourceBatch": 4
+    },
+    {
+      "id": "cost-008",
+      "category": "connectivity",
+      "name": {
+        "en": "Maroc Telecom SIM Card - Morocco",
+        "he": "כרטיס סים Maroc Telecom - מרוקו"
+      },
+      "description": {
+        "en": "Local Moroccan SIM card with data and call packages. Very affordable connectivity solution for Morocco travel.",
+        "he": "כרטיס סים מקומי מרוקאי עם חבילות דאטה ושיחות. פתרון קישוריות משתלם מאד לטיול במרוקו."
+      },
+      "costBreakdown": {
+        "baseAmount": 2,
+        "currency": "EUR",
+        "period": "one-time",
+        "additionalCosts": [
+          {
+            "item": "30GB data package",
+            "amount": 10,
+            "currency": "EUR",
+            "notes": {
+              "en": "200 dirhams for 30GB",
+              "he": "200 דירהם ל-30 ג'יגה"
+            }
+          },
+          {
+            "item": "Call package",
+            "amount": 5,
+            "currency": "EUR",
+            "notes": {
+              "en": "100 dirhams for calls",
+              "he": "100 דירהם לשיחות"
+            }
+          }
+        ],
+        "notes": {
+          "en": "SIM card costs 20 dirhams (~2 EUR). Total setup with 30GB data and calls: ~17 EUR",
+          "he": "כרטיס סים עולה 20 דירהם (~2 אירו). סה\"כ הקמה עם 30 ג'יגה ושיחות: ~17 אירו"
+        }
+      },
+      "provider": {
+        "name": "Maroc Telecom",
+        "country": "Morocco",
+        "type": "Mobile Network Operator"
+      },
+      "coverage": {
+        "en": "Morocco nationwide coverage",
+        "he": "כיסוי ארצי במרוקו"
+      },
+      "reviews": [
+        {
+          "author": "Ilan",
+          "rating": 5,
+          "text": {
+            "en": "Local SIM card costs 20 dirhams (2 euros) Maroc Telecom. Then you load for data and calls. 200 dirhams for 30 gigs, and another 100 dirhams for calls. I'm all set.",
+            "he": "סים כארד מקומי, עולה 20 דירהם (2 אירו) Maroc Telecom. ואז מטעינים לגלישה ושיחות. 200 דירהם ל-30 גיג, ועוד 100 דירהם לשיחות. אני מסודר."
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": true,
+        "lastVerified": "2025-02-16",
+        "addedBy": "Ilan",
+        "addedDate": "2025-02-16"
+      },
+      "sourceBatch": 4
+    },
+    {
+      "id": "cost-009",
+      "category": "living",
+      "name": {
+        "en": "Restaurant/Cafe Costs - Agadir, Morocco",
+        "he": "עלויות מסעדה/בית קפה - אגאדיר, מרוקו"
+      },
+      "description": {
+        "en": "Cost of eating out at modern cafes in Agadir. Extremely affordable compared to European prices.",
+        "he": "עלות אכילה בחוץ בבתי קפה מודרניים באגאדיר. משתלם ביותר בהשוואה למחירים אירופיים."
+      },
+      "costBreakdown": {
+        "baseAmount": 2,
+        "currency": "EUR",
+        "period": "meal",
+        "notes": {
+          "en": "Full breakfast (egg, tomatoes, cheese, butter, fresh Moroccan bread, coffee) at modern cafe: 20 dirhams (~2 EUR)",
+          "he": "ארוחת בוקר מלאה (ביצה, עגבניות, גבינה, חמאה, לחם מרוקאי טרי, קפה) בבית קפה מודרני: 20 דירהם (~2 אירו)"
+        }
+      },
+      "provider": {
+        "name": "Cafes in Agadir",
+        "country": "Morocco",
+        "type": "Restaurant/Cafe"
+      },
+      "reviews": [
+        {
+          "author": "Ilan",
+          "rating": 5,
+          "text": {
+            "en": "Waiting for laundry. Settling down for a light breakfast facing the laundromat... Egg, tomatoes, cheese, butter, fresh Moroccan bread, and coffee... Asking for the bill... 20 dirhams... (about 2 euros) at a beautiful modern cafe in Agadir... Life never stops surprising...",
+            "he": "ממתין לכביסה. מתיישב לארוחת בוקר קלה מול המכבסה... ביצה, עגבניות, גבינה, חמאה, לחם מרוקאי טרי, וקפה... מבקש חשבון... 20 דירהם... (2 אירו בערך) בבית קפה יפה ומודרני באגאדיר... החיים לא מפסיקים להפתיע..."
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": true,
+        "lastVerified": "2025-02-27",
+        "addedBy": "Ilan",
+        "addedDate": "2025-02-27"
+      },
+      "sourceBatch": 4
+    },
+    {
+      "id": "cost-010",
+      "category": "transportation",
+      "name": {
+        "en": "Can-Am Spyder - Motorcycle/Trike in Israel",
+        "he": "Can-Am Spyder - אופנוע/טרייק בישראל"
+      },
+      "description": {
+        "en": "Three-wheeled motorcycle (trike) manufactured by Can-Am, maker of tractors and buggies. Requires motorcycle license. Recently available in Israel.",
+        "he": "אופנוע תלת-גלגלי (טרייק) מתוצרת Can-Am, יצרני טרקטורונים ובאגי. דורש רישיון אופנוע. זמין לאחרונה בישראל."
+      },
+      "costBreakdown": {
+        "baseAmount": null,
+        "currency": "ILS",
+        "period": "purchase",
+        "additionalCosts": [
+          {
+            "item": "Mandatory insurance (חובה)",
+            "amount": 12000,
+            "currency": "ILS",
+            "period": "year",
+            "notes": {
+              "en": "Mandatory insurance only: ~12,000 ILS annually",
+              "he": "ביטוח חובה בלבד: כ-12,000 ש\"ח בשנה"
+            }
+          },
+          {
+            "item": "Third party insurance (צד ג')",
+            "amount": 1000,
+            "currency": "ILS",
+            "period": "year",
+            "notes": {
+              "en": "Additional third-party coverage: 1,000 ILS",
+              "he": "כיסוי צד שלישי נוסף: 1,000 ש\"ח"
+            }
+          }
+        ],
+        "notes": {
+          "en": "Not cheap. Purchase price not specified. Annual insurance total: ~13,000 ILS",
+          "he": "לא זול. מחיר רכישה לא צוין. סך הכל ביטוח שנתי: ~13,000 ש\"ח"
+        }
+      },
+      "provider": {
+        "name": "Can-Am",
+        "country": "Israel",
+        "type": "Vehicle Manufacturer"
+      },
+      "requirements": {
+        "en": "Motorcycle license required",
+        "he": "נדרש רישיון אופנוע"
+      },
+      "reviews": [
+        {
+          "author": "אפרים ליאור",
+          "rating": 3,
+          "text": {
+            "en": "They started bringing these 'motorcycles' to Israel. Not cheap. Made by Can-Am, manufacturers of tractors and buggies. Requires motorcycle license. Mandatory insurance only - about 12,000 ILS per year. Third party - 1000 additional.",
+            "he": "התחילו להביא את ה'אופנועים' הללו לישראל. לא זול. תוצרת 'קנאם', יצרני טרקטורונים ובאגי. דורש רשיון אופנוע. ביטוח חובה בלבד- כ-12,000 שח בשנה. צד ג- 1000 נוספים."
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": false,
+        "lastVerified": null,
+        "addedBy": "אפרים ליאור",
+        "addedDate": "2025-02-19"
+      },
+      "sourceBatch": 4
+    },
+    {
+      "id": "cost-011",
+      "category": "upgrades",
+      "name": {
+        "en": "Lithium Battery Upgrade with App",
+        "he": "שדרוג סוללת ליתיום עם אפליקציה"
+      },
+      "description": {
+        "en": "Replacement of rear battery with lithium battery including cool monitoring app. Provides peace of mind and better battery management.",
+        "he": "החלפת סוללה אחורית בסוללת ליתיום כולל אפליקציית ניטור מגניבה. מספק שקט נפשי וניהול סוללה טוב יותר."
+      },
+      "costBreakdown": {
+        "baseAmount": 690,
+        "currency": "EUR",
+        "period": "one-time",
+        "notes": {
+          "en": "690 EUR including installation labor at motorhome manufacturer dealership",
+          "he": "690 אירו כולל עבודת התקנה בסוכנות של יצרן הקרון"
+        }
+      },
+      "provider": {
+        "name": "Motorhome Manufacturer Dealership",
+        "country": "Europe",
+        "type": "Service & Parts"
+      },
+      "reviews": [
+        {
+          "author": "Ilan",
+          "rating": 5,
+          "text": {
+            "en": "I replaced the rear battery with lithium. It has a cool app... Fun and peace of mind.",
+            "he": "החלפתי את המצבר האחורי לליתיום. יש לו אפליקציה מגניבה... כייף וראש שקט."
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": true,
+        "lastVerified": "2025-03-06",
+        "addedBy": "Ilan",
+        "addedDate": "2025-03-06"
+      },
+      "sourceBatch": 5
+    },
+    {
+      "id": "cost-012",
+      "category": "technology",
+      "name": {
+        "en": "Starlink Satellite Internet - Plans Comparison",
+        "he": "אינטרנט לוויין Starlink - השוואת תוכניות"
+      },
+      "description": {
+        "en": "Satellite internet service for motorhomes with multiple plan options. Provides internet connectivity in remote areas where cellular is unavailable.",
+        "he": "שירות אינטרנט לוויין למוטורהומים עם מספר אופציות תוכניות. מספק קישוריות אינטרנט באזורים מרוחקים בהם אין כיסוי סלולרי."
+      },
+      "costBreakdown": {
+        "baseAmount": null,
+        "currency": "USD",
+        "period": "month",
+        "additionalCosts": [
+          {
+            "item": "Mini 50GB Plan",
+            "amount": 55,
+            "currency": "USD",
+            "period": "month",
+            "notes": {
+              "en": "50-55 USD/month, 50GB data cap, cannot add more data mid-cycle",
+              "he": "50-55 דולר לחודש, מגבלת 50GB, אי אפשר להוסיף דאטה באמצע התקופה"
+            }
+          },
+          {
+            "item": "Mini Unlimited",
+            "amount": 79,
+            "currency": "CAD",
+            "period": "month",
+            "notes": {
+              "en": "~79 CAD/month (~60 USD), unlimited data. Terms may change if moving countries.",
+              "he": "~79 דולר קנדי לחודש (~60 דולר), דאטה בלתי מוגבל. התנאים עשויים להשתנות במעבר מדינות."
+            }
+          },
+          {
+            "item": "Standard Unlimited",
+            "amount": 165,
+            "currency": "USD",
+            "period": "month",
+            "notes": {
+              "en": "165 USD/month, unlimited data with no restrictions, better performance",
+              "he": "165 דולר לחודש, דאטה בלתי מוגבל ללא הגבלות, ביצועים טובים יותר"
+            }
+          },
+          {
+            "item": "Mini Equipment",
+            "amount": 500,
+            "currency": "USD",
+            "period": "one-time",
+            "notes": {
+              "en": "One-time purchase of Starlink Mini equipment",
+              "he": "רכישה חד פעמית של ציוד Starlink Mini"
+            }
+          },
+          {
+            "item": "Standard Equipment",
+            "amount": 360,
+            "currency": "USD",
+            "period": "one-time",
+            "notes": {
+              "en": "One-time purchase of Starlink Standard equipment",
+              "he": "רכישה חד פעמית של ציוד Starlink Standard"
+            }
+          }
+        ],
+        "notes": {
+          "en": "Cost varies by plan and country. Cellular data is often cheaper alternative in well-covered areas.",
+          "he": "העלות משתנה לפי תוכנית ומדינה. דאטה סלולרי לרוב חלופה זולה יותר באזורים עם כיסוי טוב."
+        }
+      },
+      "provider": {
+        "name": "Starlink (SpaceX)",
+        "country": "Global",
+        "type": "Satellite Internet Service"
+      },
+      "dataUsage": {
+        "en": "Typical family usage: maximum 34GB/month even with movie downloads and frequent video calls",
+        "he": "שימוש טיפוסי למשפחה: מקסימום 34GB לחודש אפילו עם הורדת סרטים ושיחות וידאו תכופות"
+      },
+      "reviews": [
+        {
+          "author": "Boaz Gutman",
+          "rating": 4,
+          "text": {
+            "en": "50GB plan at 55 USD/month sounds reasonable and on the high side. In countries without cellular reception it's worthwhile. In countries with cellular everywhere, buying a huge cellular data package is significantly cheaper.",
+            "he": "תוכנית 50GB ב-55 דולר לחודש נשמעת סבירה והצד הגבוה. במדינות שאין קליטה סלולארית זה משתלם. במדינות שיש סלולרי בכל פינה, לקנות חבילת גלישה ענקית בסלולרי משמעותית זול יותר."
+          }
+        },
+        {
+          "author": "Ilan",
+          "rating": 3,
+          "text": {
+            "en": "I've been debating this from the beginning... Prices in most places are plus minus what you mentioned. But it removes headaches, seems like the moment will come when the Yemenite will give in.",
+            "he": "אני מתלבט עם זה כבר מהתחלה... המחירים ברוב המקומות פלוס מינוס מה שציינת. אבל זה מוריד כאב ראש, נראה לי שיגיע הרגע שהתימני יכנע."
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": true,
+        "lastVerified": "2025-03-09",
+        "addedBy": "Multiple contributors",
+        "addedDate": "2025-03-09"
+      },
+      "sourceBatch": 5
+    },
+    {
+      "id": "cost-003",
+      "category": "app_subscription",
+      "item": {
+        "en": "Snooper GPS Navigation - Lifetime License",
+        "he": "Snooper GPS ניווט - רישיון לכל החיים"
+      },
+      "amount": 350,
+      "currency": "EUR",
+      "frequency": "one-time",
+      "description": {
+        "en": "Specialized motorhome/caravan navigation app with offline maps. Lifetime license includes 3 version updates per year and unlimited map downloads by country. Also has modules for buses and trucks.",
+        "he": "אפליקציית ניווט מיוחדת למוטורהום/קרוואן עם מפות אופליין. רישיון לכל החיים כולל 3 עידכוני גירסה בשנה והורדת מפות ללא הגבלה לפי מדינות. יש גם מודולים לאוטובוסים ומשאיות."
+      },
+      "metadata": {
+        "source": "whatsapp-community",
+        "dateReported": "2025-04-26",
+        "reportedBy": "רמי גלבוע",
+        "verified": false,
+        "notes": {
+          "en": "French product. URL: https://www.snooper.fr/GPS.pour.camping.car-GPS-camping-cars.html",
+          "he": "מוצר צרפתי. כתובת: https://www.snooper.fr/GPS.pour.camping.car-GPS-camping-cars.html"
+        }
+      },
+      "sourceBatch": 7
+    },
+    {
+      "id": "cost-008-001",
+      "category": "fines",
+      "item": {
+        "en": "France Speed Camera Fines",
+        "he": "קנסות מצלמות מהירות צרפת"
+      },
+      "amount": 80,
+      "currency": "EUR",
+      "perUnit": "per violation",
+      "description": {
+        "en": "Speed camera fines in France for minor violations (even a few km/h over limit). Recent experience: 4 fines in one trip for small speed exceedances.",
+        "he": "קנסות מצלמות מהירות בצרפת על עבירות קלות (אפילו כמה קמ\"ש מעל המגבלה). ניסיון אחרון: 4 דוחות בנסיעה אחת על חריגות מהירות קטנות."
+      },
+      "location": {
+        "en": "France - nationwide",
+        "he": "צרפת - ברחבי המדינה"
+      },
+      "dateRecorded": "2025-05-17",
+      "metadata": {
+        "source": "whatsapp-community",
+        "reportedBy": "Rami Galboa",
+        "notes": {
+          "en": "Be very careful with speed limits - cameras are strict and fines add up quickly",
+          "he": "היזהר מאוד ממגבלות מהירות - מצלמות קפדניות וקנסות מצטברים מהר"
+        }
+      },
+      "sourceBatch": 8
+    },
+    {
+      "id": "cost-013",
+      "category": "subscription",
+      "item": {
+        "en": "Viber Call World - International Calling Subscription",
+        "he": "Viber Call World - מנוי שיחות בינלאומיות"
+      },
+      "amount": 20,
+      "currency": "ILS",
+      "perUnit": "per month",
+      "description": {
+        "en": "Monthly subscription for unlimited calling to 60 countries including local calls in travel countries and calls to Israel. No commitment, cancel anytime. Caller ID displays your number. Perfect for motorhome travelers after Skype shutdown.",
+        "he": "מנוי חודשי לשיחות ללא הגבלה ל-60 מדינות כולל שיחות מקומיות במדינות טיול ושיחות לישראל. ללא התחייבות, ביטול בכל עת. מזהה מתקשר מציג את המספר שלך. מושלם לטיילי מוטורהום לאחר סגירת סקייפ."
+      },
+      "location": {
+        "en": "Global - 60 countries covered",
+        "he": "גלובלי - 60 מדינות מכוסות"
+      },
+      "dateRecorded": "2025-05-19",
+      "metadata": {
+        "source": "whatsapp-community",
+        "reportedBy": "Ron Kellner",
+        "notes": {
+          "en": "Recipients don't need Viber installed. No commitment required.",
+          "he": "מקבלים לא צריכים Viber מותקן. ללא התחייבות נדרשת."
+        }
+      },
+      "sourceBatch": 9
+    },
+    {
+      "id": "cost-014",
+      "category": "equipment",
+      "item": {
+        "en": "LPG Gas Refilling Adapter Kit (Amazon Germany)",
+        "he": "ערכת מתאם מילוי גז LPG (אמזון גרמניה)"
+      },
+      "amount": 49,
+      "currency": "EUR",
+      "perUnit": "one-time purchase",
+      "description": {
+        "en": "Complete adapter kit for refilling motorhome gas bottles at LPG stations. Includes connectors for almost all European standards. Connects to German-standard bottles. Significantly cheaper than dedicated motorhome gas refilling stations.",
+        "he": "ערכת מתאמים מלאה למילוי בלוני גז במוטורהום בתחנות LPG. כולל מחברים לכמעט כל התקנים האירופאיים. מתחבר לבלונים בתקן גרמני. זול משמעותית מתחנות מילוי גז ייעודיות למוטורהומים."
+      },
+      "location": {
+        "en": "Europe-wide (works in Spain, Portugal, France, most of Europe except Austria)",
+        "he": "ברחבי אירופה (עובד בספרד, פורטוגל, צרפת, רוב אירופה מלבד אוסטריה)"
+      },
+      "dateRecorded": "2025-05-18",
+      "metadata": {
+        "source": "whatsapp-community",
+        "reportedBy": "Ron Kellner, Ilan",
+        "notes": {
+          "en": "Available on Amazon Germany. Covers almost all European standards.",
+          "he": "זמין באמזון גרמניה. מכסה כמעט את כל התקנים האירופאיים."
+        }
+      },
+      "sourceBatch": 9
+    },
+    {
+      "id": "cost-015",
+      "category": "equipment",
+      "item": {
+        "en": "Type 2 EV Charging Adapter for Motorhome Power",
+        "he": "מתאם טעינת רכב חשמלי Type 2 לחשמל מוטורהום"
+      },
+      "amount": 148.77,
+      "currency": "ILS",
+      "perUnit": "one-time purchase",
+      "description": {
+        "en": "IEC62196 Type 2 to 220V adapter allowing motorhomes to use EV charging stations for power. Provides up to 3.5kW, enough for air conditioning and heaters. Can use free and paid EV charging stations.",
+        "he": "מתאם IEC62196 Type 2 ל-220V המאפשר למוטורהומים להשתמש בתחנות טעינת רכב חשמלי לחשמל. מספק עד 3.5kW, מספיק למיזוג אוויר ומפזרי חום. ניתן להשתמש בתחנות טעינת רכב חשמלי חינמיות ובתשלום."
+      },
+      "location": {
+        "en": "Europe-wide (wherever Type 2 EV charging stations available)",
+        "he": "ברחבי אירופה (בכל מקום שבו תחנות טעינת Type 2 זמינות)"
+      },
+      "dateRecorded": "2025-05-19",
+      "metadata": {
+        "source": "whatsapp-community",
+        "reportedBy": "Ron Kellner",
+        "notes": {
+          "en": "Available on AliExpress. Example: Full night charging in Berlin for 1.5 EUR. Different wattage versions available.",
+          "he": "זמין ב-AliExpress. דוגמה: טעינת לילה שלם בברלין תמורת 1.5 יורו. גרסאות הספק שונות זמינות."
+        }
+      },
+      "sourceBatch": 9
+    },
+    {
+      "id": "cost-016",
+      "category": "equipment",
+      "item": {
+        "en": "EV Charging Station Usage - Berlin Example",
+        "he": "שימוש בתחנת טעינת רכב חשמלי - דוגמת ברלין"
+      },
+      "amount": 1.5,
+      "currency": "EUR",
+      "perUnit": "per full night charge",
+      "description": {
+        "en": "Cost example from Berlin in April 2025 during cold wave (3°C outdoor temperature). Full night charging for motorhome heating when solar charging insufficient due to heavy cloud cover. Extremely cost-effective compared to alternatives.",
+        "he": "דוגמת עלות מברלין באפריל 2025 במהלך גל קור (3°C טמפרטורה חיצונית). טעינת לילה שלם לחימום מוטורהום כאשר טעינה סולארית לא מספיקה עקב עננות כבדה. חסכוני ביותר לעומת חלופות."
+      },
+      "location": {
+        "en": "Berlin, Germany",
+        "he": "ברלין, גרמניה"
+      },
+      "dateRecorded": "2025-04-01",
+      "metadata": {
+        "source": "whatsapp-community",
+        "reportedBy": "Ron Kellner",
+        "notes": {
+          "en": "Real-world example during cold weather with insufficient solar. Many free EV charging stations also available.",
+          "he": "דוגמה מהעולם האמיתי במזג אוויר קר עם סולארי לא מספיק. תחנות טעינת רכב חשמלי חינמיות רבות זמינות גם כן."
+        }
+      },
+      "sourceBatch": 9
+    },
+    {
+      "id": "cost-017",
+      "category": "app_subscription",
+      "item": {
+        "en": "Sygic Truck Navigation - Premium Subscription",
+        "he": "Sygic Truck Navigation - מנוי פרמיום"
+      },
+      "amount": 44,
+      "currency": "USD",
+      "perUnit": "one-time lifetime payment",
+      "description": {
+        "en": "Lifetime premium subscription for Sygic Truck navigation app. Unlocks vehicle dimension configuration, route optimization for large vehicles, and map downloads (Europe maps included at no extra cost). Essential for motorhomes over 3.5 tons. Free trial available before purchase.",
+        "he": "מנוי פרמיום לכל החיים לאפליקציית ניווט Sygic Truck. פותח הגדרת ממדי רכב, אופטימיזציה של מסלול לרכבים גדולים והורדות מפות (מפות אירופה כלולות ללא עלות נוספת). חיוני למוטורהומים מעל 3.5 טון. ניסיון חינמי זמין לפני רכישה."
+      },
+      "location": {
+        "en": "Global - Europe maps included",
+        "he": "גלובלי - מפות אירופה כלולות"
+      },
+      "dateRecorded": "2025-05-21",
+      "metadata": {
+        "source": "whatsapp-community",
+        "reportedBy": "Efraim Lior, Nadav, Ilan",
+        "notes": {
+          "en": "Maps included in premium price - no additional costs. Free trial period available.",
+          "he": "מפות כלולות במחיר פרמיום - ללא עלויות נוספות. תקופת ניסיון חינמית זמינה."
+        }
+      },
+      "sourceBatch": 9
+    },
+    {
+      "id": "cost-018",
+      "category": "equipment",
+      "item": {
+        "en": "Ancel AS500 OBD2 Diagnostic Scanner",
+        "he": "סורק אבחון Ancel AS500 OBD2"
+      },
+      "amount": 165,
+      "currency": "ILS",
+      "perUnit": "one-time purchase",
+      "description": {
+        "en": "OBD2 diagnostic scanner for motorhome troubleshooting. Automatically identifies vehicle, reads engine fault codes, points to problem source. Lifetime free updates. Essential for immediate issue diagnosis and avoiding incorrect repairs. Works with Fiat from 2006 onwards.",
+        "he": "סורק אבחון OBD2 לאיתור תקלות במוטורהום. מזהה רכב אוטומטית, קורא קודי תקלות מנוע, מצביע על מקור הבעיה. עדכונים חינמיים לכל החיים. חיוני לאבחון בעיה מיידי והימנעות מתיקונים שגויים. עובד עם פיאט משנת 2006 ואילך."
+      },
+      "location": {
+        "en": "Worldwide - compatible with most vehicles from 1995+",
+        "he": "ברחבי העולם - תואם לרוב הרכבים מ-1995 ומעלה"
+      },
+      "dateRecorded": "2025-05-22",
+      "metadata": {
+        "source": "whatsapp-community",
+        "reportedBy": "Ron Kellner, Ilan",
+        "notes": {
+          "en": "Available on AliExpress: https://a.aliexpress.com/_mrN4wpv. Check compatibility with seller before purchase.",
+          "he": "זמין ב-AliExpress. בדוק תאימות עם המוכר לפני רכישה."
+        }
+      },
+      "sourceBatch": 9
+    },
+    {
+      "id": "cost-011-001",
+      "category": "insurance",
+      "item": {
+        "en": "German Motorhome Insurance - Comprehensive + Liability",
+        "he": "ביטוח מוטורהום גרמני - מקיף + חובה"
+      },
+      "amount": 672,
+      "currency": "EUR",
+      "perUnit": "per year",
+      "description": {
+        "en": "Insurance cost for motorhome registered in Germany (on German friend's name). Includes mandatory liability (Haftpflicht) and comprehensive coverage (Kasko). Price remained stable for 5 years (2020-2025) for new motorhome. Insurance company discontinued motorhome policies in 2025 due to much higher costs than before.",
+        "he": "עלות ביטוח למוטורהום רשום בגרמניה (על שם חבר גרמני). כולל חובה ומקיף. מחיר נשאר יציב במשך 5 שנים (2020-2025) למוטורהום חדש. חברת ביטוח הפסיקה פוליסות מוטורהומים ב-2025 עקב עלויות גבוהות בהרבה מאשר בעבר."
+      },
+      "location": {
+        "en": "Germany",
+        "he": "גרמניה"
+      },
+      "dateRecorded": "2025-06-18",
+      "metadata": {
+        "source": "whatsapp-community",
+        "reportedBy": "Efraim Lior",
+        "notes": {
+          "en": "Original policy cancelled by insurance company in 2025. 5-year-old motorhome purchased new. Friend is German citizen (not Israeli).",
+          "he": "פוליסה מקורית בוטלה על ידי חברת ביטוח ב-2025. מוטורהום בן 5 שנרכש חדש. חבר הוא אזרח גרמני (לא ישראלי)."
+        }
+      },
+      "sourceBatch": 11
+    },
+    {
+      "id": "cost-011-002",
+      "category": "insurance",
+      "item": {
+        "en": "German Motorhome Insurance - Replacement Policy 2025",
+        "he": "ביטוח מוטורהום גרמני - פוליסה חלופית 2025"
+      },
+      "amount": 855,
+      "currency": "EUR",
+      "perUnit": "per year",
+      "description": {
+        "en": "New insurance policy found in Germany for 2025 after original insurer discontinued coverage. Includes mandatory liability (Haftpflicht), comprehensive (Kasko), and roadside assistance including towing service. Represents 27% increase over previous 672 EUR policy.",
+        "he": "פוליסה חדשה שנמצאה בגרמניה ל-2025 לאחר שהמבטח המקורי הפסיק כיסוי. כולל חובה, מקיף ושירותי דרך כולל שירות גרירה. מייצג עלייה של 27% על פני הפוליסה הקודמת של 672 יורו."
+      },
+      "location": {
+        "en": "Germany",
+        "he": "גרמניה"
+      },
+      "dateRecorded": "2025-06-18",
+      "metadata": {
+        "source": "whatsapp-community",
+        "reportedBy": "Efraim Lior",
+        "notes": {
+          "en": "Confirmed as reasonable price by Ron Kellner. Still cheaper than private insurance in Israel.",
+          "he": "אושר כמחיר סביר על ידי רון קלנר. עדיין זול יותר מביטוח פרטי בישראל."
+        }
+      },
+      "sourceBatch": 11
+    },
+    {
+      "id": "cost-011-003",
+      "category": "insurance",
+      "item": {
+        "en": "ADAC Motorhome Insurance - Germany",
+        "he": "ביטוח מוטורהום ADAC - גרמניה"
+      },
+      "amount": 770,
+      "currency": "EUR",
+      "perUnit": "per year",
+      "description": {
+        "en": "Current ADAC insurance policy covering comprehensive, third party liability, and mandatory liability plus green card (for travel outside Germany). Policy renews in November. ADAC is Germany's major automobile club similar to AAA in USA.",
+        "he": "פוליסת ביטוח ADAC נוכחית המכסה מקיף, צד ג' וחובה + גרין כארד (לנסיעות מחוץ לגרמניה). פוליסה מתחדשת בנובמבר. ADAC הוא מועדון רכב גדול בגרמניה דומה ל-AAA בארה\"ב."
+      },
+      "location": {
+        "en": "Germany",
+        "he": "גרמניה"
+      },
+      "dateRecorded": "2025-06-18",
+      "metadata": {
+        "source": "whatsapp-community",
+        "reportedBy": "Ilan",
+        "notes": {
+          "en": "Considering switching to AXA when policy expires in November 2025. ADAC is highly reputable organization.",
+          "he": "שוקל מעבר ל-AXA כאשר הפוליסה תפוג בנובמבר 2025. ADAC הוא ארגון בעל מוניטין גבוה."
+        }
+      },
+      "sourceBatch": 11
+    },
+    {
+      "id": "cost-011-004",
+      "category": "insurance",
+      "item": {
+        "en": "AXA Travel Insurance - 30 days",
+        "he": "ביטוח נסיעות AXA - 30 יום"
+      },
+      "amount": 125,
+      "currency": "EUR",
+      "perUnit": "per 30 days",
+      "description": {
+        "en": "AXA travel insurance for trips abroad. Online purchase. Excellent customer service - trip cancellation resulted in full refund approved within one day. AXA also offers annual travel insurance (12 months) with option to pause for periods when not abroad.",
+        "he": "ביטוח נסיעות AXA לנסיעות לחו\"ל. רכישה אונליין. שירות לקוחות מצוין - ביטול נסיעה הביא להחזר מלא שאושר תוך יום. ל-AXA יש גם ביטוח נסיעות שנתי (12 חודשים) עם אפשרות להשהות לתקופות שלא בחו\"ל."
+      },
+      "location": {
+        "en": "Europe-wide",
+        "he": "ברחבי אירופה"
+      },
+      "dateRecorded": "2025-06-18",
+      "metadata": {
+        "source": "whatsapp-community",
+        "reportedBy": "Ilan",
+        "notes": {
+          "en": "Positive experience with cancellation refund. Considering AXA for vehicle insurance as well when ADAC expires.",
+          "he": "חוויה חיובית עם החזר ביטול. שוקל AXA גם לביטוח רכב כאשר ADAC יפוג."
+        }
+      },
+      "sourceBatch": 11
+    },
+    {
+      "id": "cost-011-005",
+      "category": "insurance",
+      "item": {
+        "en": "France Motorhome Insurance - Minimum Required",
+        "he": "ביטוח מוטורהום צרפת - מינימום נדרש"
+      },
+      "amount": null,
+      "currency": "EUR",
+      "perUnit": "per year",
+      "description": {
+        "en": "Minimum required insurance in France - cannot insure less than this, and cannot freeze policy (at least not with current insurance company). When motorhome parked in Greece and owner in Israel, only minimum required coverage maintained. In France, less insurance than minimum is not allowed and freezing policy not permitted.",
+        "he": "ביטוח מינימלי נדרש בצרפת - לא ניתן לבטח פחות מזה, ולא ניתן להקפיא פוליסה (לפחות לא בחברת הביטוח הנוכחית). כאשר הקמפר חונה ביוון והבעלים בארץ, רק כיסוי מינימלי נדרש נשמר. בצרפת לא מאפשרים פחות מזה, ולא מאפשרים להקפיא."
+      },
+      "location": {
+        "en": "France",
+        "he": "צרפת"
+      },
+      "dateRecorded": "2025-06-18",
+      "metadata": {
+        "source": "whatsapp-community",
+        "reportedBy": "Tuval Avishi",
+        "notes": {
+          "en": "French law requires minimum coverage at all times. Policy freezing not available with this insurer.",
+          "he": "החוק הצרפתי דורש כיסוי מינימלי בכל עת. הקפאת פוליסה לא זמינה אצל מבטח זה."
+        }
+      },
+      "sourceBatch": 11
+    },
+    {
+      "id": "cost-013-001",
+      "category": "accommodation",
+      "description": {
+        "en": "Bivouac near Andorra (Seix) - All-inclusive camp fees",
+        "he": "בקמפ ליד אנדורה (סיקס) - דמי קמפ הכל כלול"
+      },
+      "amount": 17.3,
+      "currency": "EUR",
+      "unit": "per night",
+      "includes": {
+        "en": [
+          "Water fill and drainage",
+          "Electrical hookup",
+          "All facilities",
+          "Peaceful setting",
+          "1450m elevation"
+        ],
+        "he": [
+          "מילוי וניקוז מים",
+          "חיבור חשמל",
+          "כל המתקנים",
+          "סביבה שקטה",
+          "גובה 1450 מטר"
+        ]
+      },
+      "notes": {
+        "en": "Excellent value for well-maintained European campground near mountain pass",
+        "he": "ערך מעולה לקמפינג אירופאי מטופח ליד מעבר הרים"
+      },
+      "sharedBy": "Ilan",
+      "dateShared": "2025-07-07",
+      "sourceBatch": 13
+    },
+    {
+      "id": "cost-013-002",
+      "category": "accommodation",
+      "description": {
+        "en": "Sella Ronda circuit parking (Passo Fedare)",
+        "he": "חנייה במסלול סלה רונדה (פאסו פדראה)"
+      },
+      "amount": 10,
+      "currency": "EUR",
+      "unit": "per day",
+      "notes": {
+        "en": "Day parking at mountain pass head",
+        "he": "חנייה ליום בראש מעבר הרים"
+      },
+      "sharedBy": "Nadav",
+      "dateShared": "2025-06-27",
+      "sourceBatch": 13
+    },
+    {
+      "id": "cost-013-003",
+      "category": "accommodation",
+      "description": {
+        "en": "Sella Ronda circuit parking overnight fee (Passo Fedare)",
+        "he": "דמי הלינה במסלול סלה רונדה (פאסו פדראה)"
+      },
+      "amount": 20,
+      "currency": "EUR",
+      "unit": "per night",
+      "notes": {
+        "en": "Overnight parking fee at mountain pass",
+        "he": "דמי חנייה בלילה במעבר הרים"
+      },
+      "sharedBy": "Nadav",
+      "dateShared": "2025-06-27",
+      "sourceBatch": 13
+    },
+    {
+      "id": "cost-013-004",
+      "category": "communication",
+      "description": {
+        "en": "Starlink Mini satellite internet monthly subscription",
+        "he": "מנוי חודשי לאינטרנט לווייני Starlink Mini"
+      },
+      "amount": 49,
+      "currency": "USD",
+      "unit": "per month",
+      "includes": {
+        "en": [
+          "Satellite internet connectivity",
+          "Global coverage (works in Europe)",
+          "50GB data overage allowance",
+          "Portable equipment"
+        ],
+        "he": [
+          "חיבור אינטרנט לווייני",
+          "כיסוי גלובלי (עובד באירופה)",
+          "50GB הקצבה קיצוני לנתונים",
+          "ציוד נייד"
+        ]
+      },
+      "performance": {
+        "en": "180 Mbps download / 40 Mbps upload (exterior), 110 Mbps download / 25 Mbps upload (through roof)",
+        "he": "180 Mbps הורדה / 40 Mbps העלאה (חיצוני), 110 Mbps הורדה / 25 Mbps העלאה (דרך גג)"
+      },
+      "sharedBy": "Ilan",
+      "dateShared": "2025-07-08",
+      "sourceBatch": 13
+    },
+    {
+      "id": "cost-014-001",
+      "category": "connectivity",
+      "item": {
+        "en": "O2 Germany Prepaid SIM - 999GB Monthly",
+        "he": "O2 גרמניה SIM קדים - 999GB חודשי"
+      },
+      "price": "€75",
+      "currency": "EUR",
+      "frequency": "monthly",
+      "coverage": {
+        "en": "Entire European Union",
+        "he": "כל האיחוד האירופי"
+      },
+      "benefits": {
+        "en": [
+          "999GB data per month",
+          "No auto-renewal (simple prepaid model)",
+          "Good signal in remote areas",
+          "Phone number preserved 1 year without recharge",
+          "Flexible reload via internet/app/kiosk"
+        ],
+        "he": [
+          "999GB נתונים לחודש",
+          "ללא חידוש אוטומטי (מודל קדים פשוט)",
+          "אות טוב באזורים מרוחקים",
+          "מספר טלפון שמור שנה ללא טעינה",
+          "טעינה גמישה דרך אינטרנט/אפליקציה/קיוסק"
+        ]
+      },
+      "provider": "O2 Germany",
+      "sharedBy": "Ron Kellner",
+      "dateShared": "2025-07-08",
+      "comparison": {
+        "en": "More expensive than Starlink Limited (€50/month for 50GB) but cheaper than Starlink Unlimited, offers full EU coverage",
+        "he": "יקר יותר מStarlink Limited (€50/חודש ל-50GB) אך זול יותר מStarlink Unlimited, מציע כיסוי מלא של ה-EU"
+      },
+      "sourceBatch": 14
+    },
+    {
+      "id": "cost-014-002",
+      "category": "storage",
+      "item": {
+        "en": "Motorhome Storage - Farm Near Paris (Rambouillet)",
+        "he": "אחסון קמפרוון - חווה ליד פריס (Rambouillet)"
+      },
+      "price": "€70",
+      "currency": "EUR",
+      "frequency": "monthly",
+      "duration": {
+        "min": 1,
+        "max": 24,
+        "unit": "months",
+        "notes": {
+          "en": "Flexible from weeks to months",
+          "he": "גמיש מחודשים לשבועות"
+        }
+      },
+      "facility": {
+        "en": "Farm-style storage facility",
+        "he": "מתקן אחסון בסגנון חווה"
+      },
+      "location": {
+        "en": "Approximately 1.5 hours from Paris city center",
+        "he": "בערך שעה וחצי מעיר פריס"
+      },
+      "contact": "Constant (provided by Amit Raphaeli)",
+      "sharedBy": "Amit Raphaeli, Rami Galboa",
+      "dateShared": "2025-07-12",
+      "recommendations": {
+        "en": [
+          "Good facility for long-term storage",
+          "Farm environment, not urban lot",
+          "Reasonable pricing for Paris area"
+        ],
+        "he": [
+          "מתקן טוב לאחסון ארוך טווח",
+          "סביבה חווה, לא חניון עירוני",
+          "מחירים סבירים לאזור פריס"
+        ]
+      },
+      "sourceBatch": 14
+    },
+    {
+      "id": "cost-014-003",
+      "category": "service",
+      "item": {
+        "en": "Motorhome Service/Repairs - Rieti, Italy Workshop",
+        "he": "שירות/תיקון קמפרוון - סדנה Rieti, איטליה"
+      },
+      "description": {
+        "en": "Family-run workshop offering LPG installations and general motorhome maintenance. Fair and reasonable pricing.",
+        "he": "סדנה משפחתית המציעה התקנות LPG ותחזוקה כללית של קמפרוון. מחירים הוגנים ויחסיים."
+      },
+      "currency": "EUR",
+      "pricing": {
+        "en": "Reasonable/Fair rates for Italian workshop",
+        "he": "תעריפים הוגנים ליחסיים לסדנה איטלקית"
+      },
+      "services": [
+        "LPG installation",
+        "General repairs",
+        "Motorhome modifications",
+        "Caravan service"
+      ],
+      "location": "Rieti, Italy",
+      "contact": "Through Amir Malzer",
+      "sharedBy": "Ravid paz, Amir Malzer",
+      "dateShared": "2025-07-17",
+      "specialOffers": {
+        "en": "VIP treatment and discounted rates available through Amir Malzer referral. Evening dining at local restaurant included.",
+        "he": "טיפול VIP ותעריפים מנוכים זמינים דרך הפנייה של עמיר מלצר. ארוחה בערב במסעדה מקומית כלולה."
+      },
+      "sourceBatch": 14
+    },
+    {
+      "id": "cost-015-001",
+      "category": "accommodation",
+      "location": "Piemonte (Piedmont), Italy",
+      "item": "Agriturismo nightly rate",
+      "amount": 15,
+      "currency": "EUR",
+      "includes": [
+        "electricity",
+        "water",
+        "shower",
+        "wine barrel shower facility"
+      ],
+      "description": {
+        "en": "Farm stay accommodation at giant macadamia nut and wine farm",
+        "he": "אירוח חווה בחווה ענקית של אגוזי מקדמיה ויין"
+      },
+      "notes": {
+        "en": "Exceptionally good value. Farm produces 150,000 bottles wine/year. Includes shower in ancient wine barrel.",
+        "he": "ערך יוצא מן הכלל. חווה מייצרת 150,000 בקבוקי יין בשנה. כולל מקלחת בחבית יין קדומה."
+      },
+      "sharedBy": "Ilan",
+      "dateShared": "2025-07-30",
+      "sourceBatch": 15
+    },
+    {
+      "id": "cost-015-002",
+      "category": "insurance",
+      "location": "Germany",
+      "item": "Annual motorhome insurance (comprehensive)",
+      "amount": 736,
+      "currency": "EUR",
+      "vehicleValue": "50,000 EUR",
+      "includes": [
+        "third-party liability",
+        "comprehensive coverage"
+      ],
+      "driver": "single driver",
+      "notes": {
+        "en": "Best rate for non-EU residents. German address + ADAC combination.",
+        "he": "התעריף הטוב ביותר לתושבים שאינם EU. שילוב כתובת גרמנית + ADAC."
+      },
+      "sharedBy": "Ilan",
+      "dateShared": "2025-08-14",
+      "sourceBatch": 15
+    },
+    {
+      "id": "cost-015-003",
+      "category": "insurance",
+      "location": "Germany",
+      "item": "ADAC annual membership",
+      "amount": 94,
+      "currency": "EUR",
+      "notes": {
+        "en": "Roadside assistance and discounted insurance",
+        "he": "סיוע כביש וביטוח בהנחה"
+      },
+      "sharedBy": "Ilan",
+      "dateShared": "2025-08-14",
+      "sourceBatch": 15
+    },
+    {
+      "id": "cost-015-004",
+      "category": "insurance",
+      "location": "Germany",
+      "item": "Insurance driver expansion (single to all drivers)",
+      "amount": 36,
+      "currency": "EUR",
+      "duration": "3 months",
+      "notes": {
+        "en": "Additional cost to extend insurance to all drivers",
+        "he": "עלות נוספת להרחבת ביטוח לכל הנהגים"
+      },
+      "sharedBy": "Ilan",
+      "dateShared": "2025-08-14",
+      "sourceBatch": 15
+    },
+    {
+      "id": "cost-015-005",
+      "category": "insurance",
+      "location": "Germany",
+      "item": "Seasonal motorhome insurance (8 months travel + 4 months storage)",
+      "amount": 548,
+      "currency": "EUR",
+      "duration": "12 months",
+      "notes": {
+        "en": "German seasonal insurance option covering 8 months of driving and 4 months winter storage",
+        "he": "אפשרות ביטוח עונתי גרמנית המכסה 8 חודשי נסיעה ו-4 חודשי אחסון חורף"
+      },
+      "sharedBy": "Ephraim Lior",
+      "dateShared": "2025-08-14",
+      "sourceBatch": 15
+    },
+    {
+      "id": "cost-015-006",
+      "category": "insurance",
+      "location": "France",
+      "item": "Annual motorhome insurance (comprehensive)",
+      "amount": 1620,
+      "currency": "EUR",
+      "vehicleValue": "60,000-65,000 EUR",
+      "vehicle": "Fiat Ducato, 5 years old",
+      "notes": {
+        "en": "Quoted by Allianz. Considered expensive by travelers.",
+        "he": "מצוטט על ידי Allianz. נחשב יקר על ידי תיירים."
+      },
+      "sharedBy": "Shay Goren",
+      "dateShared": "2025-08-14",
+      "sourceBatch": 15
+    },
+    {
+      "id": "cost-015-007",
+      "category": "insurance",
+      "location": "United Kingdom",
+      "item": "Annual motorhome insurance",
+      "amount": 3000,
+      "currency": "GBP",
+      "vehicleValue": "Estimated €60,000+",
+      "vehicle": "Truck-converted motorhome, 35 years old",
+      "notes": {
+        "en": "Non-resident Israeli rate. British owner paid 300 GBP/year. Non-resident premium = 10x cost.",
+        "he": "תעריף תושב שאינו ישראלי. בעלים בריטי שילם 300 פאונד בשנה. פרמיה לתושב שאינו = 10x עלות."
+      },
+      "sharedBy": "Nadav",
+      "dateShared": "2025-08-14",
+      "sourceBatch": 15
+    },
+    {
+      "id": "cost-016-001",
+      "category": "storage",
+      "item": {
+        "en": "Motorhome Storage in Leutkirsh, Germany",
+        "he": "אחסון קמפרוון בLeutkirsh, גרמניה"
+      },
+      "price": {
+        "value": 1.7,
+        "currency": "EUR",
+        "unit": "per day"
+      },
+      "description": {
+        "en": "Daily storage rate for motorhome parking under cover in Leutkirsh, southern Germany. Relatively cheap option for extended storage.",
+        "he": "שיעור אחסון יומי לחניית קמפרוון תחת סככה ב-Leutkirsh, דרום גרמניה. אפשרות זולה יחסית לאחסון ממושך."
+      },
+      "source": "Efraim Liyor",
+      "dateShared": "2025-09-01",
+      "sourceBatch": 16
+    },
+    {
+      "id": "cost-016-002",
+      "category": "memberships",
+      "item": {
+        "en": "CoPilot GPS Navigation Premium Membership",
+        "he": "חברות CoPilot GPS Navigation פרימיום"
+      },
+      "price": {
+        "value": 30,
+        "currency": "EUR",
+        "unit": "per year"
+      },
+      "description": {
+        "en": "Annual subscription for CoPilot premium navigation app with vehicle dimension support (height, width, weight awareness).",
+        "he": "מנוי שנתי לאפליקציית ניווט CoPilot פרימיום עם תמיכה במידות רכב (מודעות גובה, רוחב, משקל)."
+      },
+      "source": "Yochai Batsha",
+      "dateShared": "2025-08-19",
+      "sourceBatch": 16
+    },
+    {
+      "id": "cost-016-003",
+      "category": "tools",
+      "item": {
+        "en": "ABNR TIOP02 Thermal Imaging Camera",
+        "he": "מצלמת תמונה תרמית ABNR TIOP02"
+      },
+      "price": {
+        "value": 418.9,
+        "currency": "NIS",
+        "unit": "one-time"
+      },
+      "priceAlternative": {
+        "value": 115,
+        "currency": "USD",
+        "unit": "one-time"
+      },
+      "description": {
+        "en": "Thermal imaging camera for smartphone with -20°C to +1000°C range and 32x32 resolution. Available on AliExpress. Reasonable cost for heat loss diagnostics in motorhomes.",
+        "he": "מצלמת תמונה תרמית לסמארטפון עם טווח -20°C עד +1000°C ורזולוציה 32x32. זמינה ב-AliExpress. עלות סבירה לאבחון הפסד חום בקמפרוונים."
+      },
+      "source": "Ron Kellner",
+      "dateShared": "2025-08-23",
+      "links": [
+        "https://www.aliexpress.com/ (search ABNR TIOP02)"
+      ],
+      "sourceBatch": 16
+    },
+    {
+      "id": "cost-016-004",
+      "category": "equipment",
+      "item": {
+        "en": "Portable Ceiling Fan with LED Light and Remote Control",
+        "he": "מאווררר תקרה נייד עם אור LED ובקרה רחוקה"
+      },
+      "price": {
+        "value": 54.51,
+        "currency": "NIS",
+        "unit": "one-time"
+      },
+      "description": {
+        "en": "Small rechargeable portable ceiling fan suitable for camping tents and small motorhomes. Good alternative to full AC systems. Sold on AliExpress.",
+        "he": "מאווררר תקרה נייד קטן וניתן לטעינה מחדש המתאים לאוהלי קמפינג וקמפרוונים קטנים. חלופה טובה למערכות AC מלאות. נמכר ב-AliExpress."
+      },
+      "source": "Ilan",
+      "dateShared": "2025-08-31",
+      "links": [
+        "https://a.aliexpress.com/_onGL2rR"
+      ],
+      "sourceBatch": 16
+    },
+    {
+      "id": "cost-017-001",
+      "category": "insurance",
+      "description": {
+        "en": "ADAC vehicle insurance for German-registered motorhome",
+        "he": "ביטוח רכבים ADAC לקמפרוון רשום בגרמניה"
+      },
+      "amount": {
+        "value": 760,
+        "currency": "EUR",
+        "period": "annual",
+        "perYear": true
+      },
+      "coverage": {
+        "en": "Mandatory liability + third-party + comprehensive coverage, all drivers",
+        "he": "אחריות חובה + צד שלישי + כיסוי מקיף, כל נהגים"
+      },
+      "vehicleValue": "50,000 EUR",
+      "mentionedBy": "Ilan",
+      "dateShared": "2025-09-10",
+      "sourceBatch": 17
+    },
+    {
+      "id": "cost-018-001",
+      "category": "transportation",
+      "description": {
+        "en": "Ferry crossing cost from Haifa, Israel to Piraeus, Greece",
+        "he": "עלות חצייה מעבורת מחיפה, ישראל לפיראוס, יוון"
+      },
+      "item": "Motorhome ferry passage",
+      "amount": 160,
+      "currency": "USD",
+      "notes": {
+        "en": "Expensive one-way crossing for motorhome transport",
+        "he": "חצייה בדרך אחת יקרה לתחבור קמפרוון"
+      },
+      "period": "one-time",
+      "sharedBy": "Ezy",
+      "dateShared": "2025-09-30",
+      "sourceBatch": 18
+    },
+    {
+      "id": "cost-018-002",
+      "category": "insurance",
+      "description": {
+        "en": "Green Card insurance for European travel with motorhome",
+        "he": "ביטוח גרין קארד לנסיעה אירופאית עם קמפרוון"
+      },
+      "item": "Green Card (International Motor Insurance)",
+      "amount": 45,
+      "currency": "USD",
+      "notes": {
+        "en": "International motor insurance for European travel",
+        "he": "ביטוח מוטור בינלאומי לנסיעה אירופאית"
+      },
+      "period": "per-crossing",
+      "sharedBy": "Ezy",
+      "dateShared": "2025-09-30",
+      "sourceBatch": 18
+    },
+    {
+      "id": "cost-019-001",
+      "category": "vehicle-sale",
+      "item": {
+        "en": "Caravan Hobby 495 Deluxe (2021)",
+        "he": "קרוואן Hobby 495 Deluxe (2021)"
+      },
+      "price": {
+        "amount": 120000,
+        "currency": "ILS",
+        "unit": "total"
+      },
+      "details": {
+        "en": "5m length caravan, 1.5 ton weight, equipped with solar system, separate bathroom and shower, ready for travel and parking. All original parts in good condition.",
+        "he": "קרוואן באורך 5 מטר, משקל 1.5 טון, מצויד במערכת סולארית, חדר שירותים ומקלחת נפרדים, מוכן לנסיעה וחנייה. כל החלקים המקוריים בתנאי טוב."
+      },
+      "seller": {
+        "name": "Roni",
+        "contact": "054-475-0612",
+        "location": "Biqneem, Israel"
+      },
+      "features": [
+        "Solar system",
+        "Separate bathroom and shower",
+        "5m length",
+        "1.5 ton weight",
+        "Original parts"
+      ],
+      "sharedBy": "Haggai",
+      "dateShared": "2025-10-06",
+      "sourceBatch": 19
+    },
+    {
+      "id": "cost-020-001",
+      "category": "equipment",
+      "item": {
+        "en": "Electric Air Fryer (250W, 12V)",
+        "he": "טוסטר אוויר חשמלי (250W, 12V)"
+      },
+      "price": {
+        "amount": 250,
+        "currency": "not-specified",
+        "note": {
+          "en": "Price described as excessive",
+          "he": "מחיר תואר כמוגזם"
+        }
+      },
+      "specifications": {
+        "power": "250W",
+        "voltage": "12V",
+        "amperage": "21A"
+      },
+      "assessment": {
+        "en": "Not recommended - excessive price, too power-hungry for motorhome battery systems. Alternative options using gas preferred.",
+        "he": "לא מומלץ - מחיר מוגזם, יותר מדי צרכן חשמל למערכות סוללה של קמפרוון. אפשרויות חלופיות של גז מועדפות."
+      },
+      "sharedBy": "Ilan, Rami Galboa",
+      "dateShared": "2025-10-16",
+      "sourceBatch": 20
+    },
+    {
+      "id": "cost-020-002",
+      "category": "transportation",
+      "item": {
+        "en": "Lisbon Taxi from Waterfront",
+        "he": "מונית בליסבון מהטיילת"
+      },
+      "price": {
+        "amount": 6,
+        "max": 8,
+        "currency": "EUR",
+        "notes": {
+          "en": "For two people to Praça do Comércio",
+          "he": "לשני אנשים לכיכר COMMERCE"
+        }
+      },
+      "sharedBy": "Rami Galboa",
+      "dateShared": "2025-10-08",
+      "sourceBatch": 20
+    },
+    {
+      "id": "cost-020-003",
+      "category": "vehicles",
+      "item": {
+        "en": "German Vehicle Registration Service (Monthly)",
+        "he": "שירות רישום רכבים גרמני (חודשי)"
+      },
+      "price": {
+        "amount": 90,
+        "currency": "EUR",
+        "frequency": "monthly",
+        "annual": 1080
+      },
+      "service": {
+        "en": "mygermancar.com - local company registration with TÜV",
+        "he": "mygermancar.com - רישום חברה מקומית עם TÜV"
+      },
+      "assessment": {
+        "en": "Expensive long-term - €1,080/year. Local intermediary solution recommended as cheaper alternative.",
+        "he": "יקר בטווח ארוך - €1,080/שנה. פתרון בינוי מקומי מומלץ כחלופה זולה יותר."
+      },
+      "sharedBy": "Ilan",
+      "dateShared": "2025-10-15",
+      "sourceBatch": 20
+    },
+    {
+      "id": "cost-020-004",
+      "category": "bikes",
+      "item": {
+        "en": "E-Bikes from Decathlon",
+        "he": "אופניים חשמליות מדקתלון"
+      },
+      "price": {
+        "amount": 990,
+        "currency": "EUR",
+        "quantity": 2,
+        "totalPrice": 1980
+      },
+      "specifications": {
+        "foldable": true,
+        "range": "50 km",
+        "type": "foldable-e-bikes"
+      },
+      "details": {
+        "en": "Foldable electric bikes with 50 km range",
+        "he": "אופניים חשמליות מתקפלות עם טווח של 50 ק\"מ"
+      },
+      "sharedBy": "Ilan",
+      "dateShared": "2025-10-16",
+      "sourceBatch": 20
+    },
+    {
+      "id": "cost-020-005",
+      "category": "water-system",
+      "item": {
+        "en": "Submersible Water Pump Replacement",
+        "he": "החלפת משאבת מים טבולה"
+      },
+      "price": {
+        "amount": 75,
+        "currency": "EUR",
+        "note": {
+          "en": "Typical cost for replacement pump",
+          "he": "עלות טיפוסית לחלפת משאבה"
+        }
+      },
+      "details": {
+        "en": "High-quality submersible water pump costs around €75. DIY replacement is not complicated. Spare pump recommended for emergencies.",
+        "he": "משאבת מים טבולה באיכות גבוהה עולה סביב €75. החלפה לעצמאות אינה מסובכת. משאבה חילופית מומלצת לחירום."
+      },
+      "sharedBy": "Ilan",
+      "dateShared": "2025-10-07",
+      "sourceBatch": 20
+    },
+    {
+      "id": "cost-021-001",
+      "category": "lpg-gas",
+      "item": {
+        "en": "LPG Gas Refill - Per Kilogram",
+        "he": "מילוי גז LPG - לק\"ג"
+      },
+      "price": "€2",
+      "unit": "per kg",
+      "currency": "EUR",
+      "description": {
+        "en": "Typical LPG gas pricing across European gas stations, approximately €1 per liter or €2 per kilogram",
+        "he": "תמחור LPG גז טיפוסי בתחנות גז אירופאיות, בערך €1 לליטר או €2 לק\"ג"
+      },
+      "reference": "Generic Europe average",
+      "dateShared": "2025-10-22",
+      "sharedBy": "Nadav, Amit Rapali",
+      "sourceBatch": 21
+    },
+    {
+      "id": "cost-021-002",
+      "category": "lpg-gas",
+      "item": {
+        "en": "LPG Gas Refill - Per Liter",
+        "he": "מילוי גז LPG - לליטר"
+      },
+      "price": "€1",
+      "unit": "per liter",
+      "currency": "EUR",
+      "description": {
+        "en": "LPG gas cost per liter at European stations. Each liter equals approximately 0.5 kg, making per-kilogram cost roughly double",
+        "he": "עלות גז LPG לליטר בתחנות אירופאיות. כל ליטר שווה בערך 0.5 ק\"ג, מה שהופך את העלות לק\"ג לכפליים בערך"
+      },
+      "reference": "Generic Europe average",
+      "dateShared": "2025-10-22",
+      "sharedBy": "Nadav",
+      "sourceBatch": 21
+    },
+    {
+      "id": "cost-021-003",
+      "category": "lpg-gas",
+      "item": {
+        "en": "LPG Tank Refill - 13kg Tank in France",
+        "he": "מילוי מיכל LPG - מיכל 13 ק\"ג בצרפת"
+      },
+      "price": "€42",
+      "unit": "per full 13kg tank",
+      "currency": "EUR",
+      "description": {
+        "en": "Typical cost to fill or exchange 13kg LPG tank in France. Full tank refill costs approximately €42. More economical than buying new tanks.",
+        "he": "עלות טיפוסית למילוי או החלפה של מיכל LPG בגודל 13 ק\"ג בצרפת. מילוי מיכל מלא עולה בערך €42. משתלם יותר מאשר קניית מיכלים חדשים."
+      },
+      "region": "France",
+      "tankSize": "13kg",
+      "dateShared": "2025-10-22",
+      "sharedBy": "Rami Galboa",
+      "sourceBatch": 21
+    },
+    {
+      "id": "cost-021-004",
+      "category": "lpg-gas",
+      "item": {
+        "en": "LPG Consumption Rate - Average Usage",
+        "he": "קצב צריכה גז LPG - שימוש ממוצע"
+      },
+      "consumption": "1.5 months",
+      "unit": "per 13kg tank",
+      "description": {
+        "en": "Average motorhome consumption: One 13kg tank lasts approximately 1.5 months with typical usage (cooking, occasional heating)",
+        "he": "צריכה ממוצעת קמפרוון: מיכל בודד 13 ק\"ג נמשך כ-1.5 חודשים עם שימוש טיפוסי (בישול, חימום זמני)"
+      },
+      "usage": "cooking, occasional heating",
+      "dateShared": "2025-10-22",
+      "sharedBy": "Rami Galboa",
+      "sourceBatch": 21
+    },
+    {
+      "id": "cost-022-001",
+      "category": "storage",
+      "item": {
+        "en": "Monthly storage near Cologne, Germany",
+        "he": "אחסנה חודשית ליד קלן, גרמניה"
+      },
+      "price": 70,
+      "currency": "EUR",
+      "period": "monthly",
+      "notes": {
+        "en": "Flexible rates at Cologne storage facility",
+        "he": "שיעורים גמישים ביתקן אחסנה בקלן"
+      },
+      "sourceBatch": 22
+    },
+    {
+      "id": "cost-022-002",
+      "category": "insurance",
+      "item": {
+        "en": "ADAC annual motorhome insurance (all-inclusive)",
+        "he": "ביטוח ADAC שנתי לקמפרוון (כולל הכל)"
+      },
+      "price": 800,
+      "currency": "EUR",
+      "period": "annual",
+      "details": {
+        "vehicleValue": 50000,
+        "coverage": "Mandatory, third-party, comprehensive",
+        "coverage_he": "חובה, צד שלישי, מקיף"
+      },
+      "notes": {
+        "en": "€800/year for €50,000 vehicle value through ADAC",
+        "he": "€800/שנה עבור רכב בשווי €50,000 דרך ADAC"
+      },
+      "sourceBatch": 22
+    },
+    {
+      "id": "cost-022-003",
+      "category": "insurance",
+      "item": {
+        "en": "Multi-driver extension (ADAC)",
+        "he": "הרחבת נהגים מרובים (ADAC)"
+      },
+      "price": 36,
+      "currency": "EUR",
+      "period": "one-time",
+      "notes": {
+        "en": "Cost to extend single-driver policy to multiple drivers after 5 months",
+        "he": "עלות להרחבת פוליסה של נהג יחיד לנהגים מרובים לאחר 5 חודשים"
+      },
+      "sourceBatch": 22
+    },
+    {
+      "id": "cost-022-004",
+      "category": "insurance",
+      "item": {
+        "en": "Winter-break motorhome insurance (December-March)",
+        "he": "ביטוח קמפרוון הפסקת חורף (דצמבר-מרץ)"
+      },
+      "price": 550,
+      "currency": "EUR",
+      "period": "annual",
+      "notes": {
+        "en": "€550/year for vehicle not moving 4 winter months (standing coverage only)",
+        "he": "€550/שנה לרכב שלא נוסע 4 חודשי חורף (כיסוי עמידה בלבד)"
+      },
+      "details": {
+        "vehicleYear": 2019,
+        "originalPrice": 70000,
+        "parkingMonths": "December-March",
+        "coverageType": "Standing only (theft, break-in, fire)"
+      },
+      "sourceBatch": 22
+    },
+    {
+      "id": "cost-022-005",
+      "category": "insurance",
+      "item": {
+        "en": "Partial motorhome insurance (ALLIANZ commercial)",
+        "he": "ביטוח קמפרוון חלקי (ALLIANZ מסחרי)"
+      },
+      "price_range": {
+        "min": 800,
+        "max": 900
+      },
+      "currency": "EUR",
+      "period": "annual",
+      "notes": {
+        "en": "Partial coverage (mandatory, third-party, theft, weather only) for €55,000 vehicle",
+        "he": "כיסוי חלקי (חובה, צד שלישי, גניבה, מזג אוויר בלבד) לרכב €55,000"
+      },
+      "sourceBatch": 22
+    },
+    {
+      "id": "cost-022-006",
+      "category": "insurance",
+      "item": {
+        "en": "Comprehensive motorhome insurance (ALLIANZ commercial)",
+        "he": "ביטוח קמפרוון מקיף (ALLIANZ מסחרי)"
+      },
+      "price_range": {
+        "min": 1400,
+        "max": 1500
+      },
+      "currency": "EUR",
+      "period": "annual",
+      "notes": {
+        "en": "Full coverage (mandatory, third-party, comprehensive, theft, vandalism, own damages) for €55,000 vehicle",
+        "he": "כיסוי מלא (חובה, צד שלישי, מקיף, גניבה, וונדליזם, נזקים עצמיים) לרכב €55,000"
+      },
+      "sourceBatch": 22
+    },
+    {
+      "id": "cost-022-007",
+      "category": "insurance",
+      "item": {
+        "en": "Multi-driver insurance extension (Roei)",
+        "he": "הרחבת ביטוח נהגים מרובים (רועי)"
+      },
+      "price": 1100,
+      "currency": "EUR",
+      "period": "annual",
+      "notes": {
+        "en": "Annual insurance cost reported by Roei (new group member with German-registered vehicle)",
+        "he": "עלות ביטוח שנתית דווחה על ידי רועי (חבר קבוצה חדש עם רכב בן רישוי גרמני)"
+      },
+      "sourceBatch": 22
+    },
+    {
+      "id": "cost-022-008",
+      "category": "insurance",
+      "item": {
+        "en": "Motorhome insurance (France - la MAAF)",
+        "he": "ביטוח קמפרוון (צרפת - la MAAF)"
+      },
+      "price": 130,
+      "currency": "EUR",
+      "period": "monthly",
+      "notes": {
+        "en": "€130/month with all add-ons for €60,000 vehicle (paid from Sylvie)",
+        "he": "€130/חודש עם כל התוספות לרכב €60,000 (שולם מסילבי)"
+      },
+      "details": {
+        "vehicleValue": 60000,
+        "country": "France",
+        "deductible": "No deductible (zero excess)",
+        "coverage": "Comprehensive"
+      },
+      "sourceBatch": 22
+    },
+    {
+      "id": "cost-023-001",
+      "category": "equipment",
+      "item": {
+        "en": "Hajka Oven (Portable Oven)",
+        "he": "Hajka Oven (תנור נייד)"
+      },
+      "description": {
+        "en": "Specialized portable oven for motorhome and outdoor cooking",
+        "he": "תנור נייד מיוחד לבישול קמפרוון וחוץ"
+      },
+      "vendor": "Hajka",
+      "website": "https://hajkaoven.com/",
+      "priceRange": {
+        "currency": "EUR/USD",
+        "estimated": true,
+        "notes": {
+          "en": "Price not explicitly stated in chat; visit website for current pricing",
+          "he": "המחיר לא ציין בחד-משמעות בצ'אט; בקר באתר העברת מחירים עדכניים"
+        }
+      },
+      "sharedBy": "Nadav, Ilan",
+      "dateShared": "2025-11-05",
+      "sourceBatch": 23
+    },
+    {
+      "id": "cost-024-001",
+      "category": "storage",
+      "item": {
+        "en": "Winter Storage in Lisbon",
+        "he": "אחסון חורף בליסבון"
+      },
+      "price": 180,
+      "currency": "EUR",
+      "period": "month",
+      "notes": {
+        "en": "Covered storage near airport. Summer rates lower than winter.",
+        "he": "אחסון מכוסה ליד שדה התעופה. תעריפי קיץ נמוכים מחורף."
+      },
+      "vendor": {
+        "en": "Private facility near Lisbon airport",
+        "he": "מתקן פרטי ליד נמל התעופה בליסבון"
+      },
+      "contact": {
+        "en": "Contact Rami Galboa for details",
+        "he": "פנה לרמי גלבוע לפרטים"
+      },
+      "sourceBatch": 24
+    },
+    {
+      "id": "cost-024-002",
+      "category": "storage",
+      "item": {
+        "en": "Budget Storage Near Lisbon",
+        "he": "אחסון בתקציב ליד ליסבון"
+      },
+      "price": 60,
+      "currency": "EUR",
+      "period": "month",
+      "notes": {
+        "en": "Recommended by Israeli community in Portugal. Very affordable option.",
+        "he": "מומלץ על ידי הקהילה הישראלית בפורטוגל. אפשרות זולה מאוד."
+      },
+      "vendor": {
+        "en": "Israeli farms or community members in Portugal",
+        "he": "חוות ישראליות או חברי קהילה בפורטוגל"
+      },
+      "source": {
+        "en": "Israeli Facebook group for Portugal",
+        "he": "קבוצת פייסבוק ישראלים בפורטוגל"
+      },
+      "sourceBatch": 24
+    },
+    {
+      "id": "cost-024-003",
+      "category": "storage",
+      "item": {
+        "en": "SCD-Parking Hamburg - Personal Vehicle Rate",
+        "he": "SCD-Parking המבורג - תעריף רכב אישי"
+      },
+      "price": 2.5,
+      "currency": "EUR",
+      "period": "day",
+      "notes": {
+        "en": "Secured parking facility near Hamburg airport. Motorhome rates being negotiated separately.",
+        "he": "מקום חנייה מאובטח ליד נמל התעופה במבורג. תעריפי מוטורהום בשיחות נפרדות."
+      },
+      "vendor": "SCD-Parking",
+      "contact": {
+        "phone": "+49040-221006"
+      },
+      "sourceBatch": 24
+    },
+    {
+      "id": "cost-024-004",
+      "category": "technology",
+      "item": {
+        "en": "Starlink Mini in South America",
+        "he": "Starlink מיני בדרום אמריקה"
+      },
+      "price": 230,
+      "currency": "USD",
+      "notes": {
+        "en": "Includes first month service and shipping to motorhome. South America pricing advantage.",
+        "he": "כולל חודש ראשון ומשלוח לקמפרוון. יתרון בתמחור של דרום אמריקה."
+      },
+      "component": "Hardware + first month service",
+      "purchaseLocation": {
+        "en": "South America (Argentina/Chile)",
+        "he": "דרום אמריקה (ארגנטינה/צ'ילה)"
+      },
+      "sourceBatch": 24
+    },
+    {
+      "id": "cost-024-005",
+      "category": "technology",
+      "item": {
+        "en": "Starlink Mini Monthly Plan",
+        "he": "תכנית חודשית של Starlink מיני"
+      },
+      "price": 50,
+      "currency": "EUR",
+      "period": "month",
+      "notes": {
+        "en": "Basic plan with 50GB monthly data. Additional data €18 if needed. Plan can be frozen during off-season.",
+        "he": "תכנית בסיסית עם 50GB נתונים חודשיים. €18 נתונים נוספים אם יש צורך. התכנית יכולה להיות מוקפאת בעונה מתות."
+      },
+      "sourceBatch": 24
+    },
+    {
+      "id": "cost-024-006",
+      "category": "technology",
+      "item": {
+        "en": "Starlink Mini Accessories (AliExpress)",
+        "he": "אביזרי Starlink מיני (AliExpress)"
+      },
+      "notes": {
+        "en": "Ball mount, sun roof brackets, power cables with switches. Cost varies by item. Good prices on AliExpress.",
+        "he": "תושבת כדור, סוגריים גג שמש, כבלי חשמל עם מתגים. עלות משתנה לפי פריט. מחירים טובים ב-AliExpress."
+      },
+      "currency": "USD",
+      "priceRange": "Variable",
+      "vendor": "AliExpress",
+      "sourceBatch": 24
+    },
+    {
+      "id": "cost-024-007",
+      "category": "technology",
+      "item": {
+        "en": "LevelMate MAX Wireless Leveling System",
+        "he": "מערכת יישור אלחוטית LevelMate MAX"
+      },
+      "price": 150,
+      "currency": "USD",
+      "notes": {
+        "en": "Modern electronic leveling system with mobile app. Popular among truck-based motorhome users.",
+        "he": "מערכת יישור אלקטרונית מודרנית עם אפליקציה נייד. פופולרית בקרב משתמשי קמפרוונים מבוססי משאית."
+      },
+      "vendor": "LevelMate",
+      "link": "https://levelmate.com/products/levelmatemax-wireless-vehicle-leveling-system",
+      "sourceBatch": 24
+    },
+    {
+      "id": "cost-025-001",
+      "category": "storage",
+      "description": {
+        "en": "Daily storage parking fee in South Germany near Munich airport",
+        "he": "תעריף חניה יומי לאחסון בדרום גרמניה ליד שדה התעופה של מינכן"
+      },
+      "price": 1.75,
+      "currency": "EUR",
+      "timeUnit": "day",
+      "location": "South Germany (Munich area)",
+      "notes": {
+        "en": "Covered parking facility",
+        "he": "מתקן חניה מכוסה"
+      },
+      "submittedBy": "Efraim Leor",
+      "dateSubmitted": "2025-11-19",
+      "sourceBatch": 25
+    },
+    {
+      "id": "cost-026-001",
+      "category": "vehicle-registration",
+      "title": {
+        "en": "Germany Annual Motorhome Registration and Tax Fees",
+        "he": "דמי רישום ומיסים שנתיים לקמפרוון בגרמניה"
+      },
+      "items": [
+        {
+          "description": {
+            "en": "Annual registration tax (Kfz-Steuer) for motorhome",
+            "he": "מס רישום שנתי לקמפרוון"
+          },
+          "amount": "€240",
+          "frequency": "annually",
+          "notes": {
+            "en": "Varies by vehicle value: €50K vehicle = €240; larger vehicles may be €72-84",
+            "he": "משתנה לפי ערך הרכב: רכב €50K = €240; רכבים גדולים יותר עשויים להיות €72-84"
+          }
+        },
+        {
+          "description": {
+            "en": "Insurance (Versicherung) - comprehensive motorhome coverage",
+            "he": "ביטוח - כיסוי קמפרוון מקיף"
+          },
+          "amount": "€570-600",
+          "frequency": "annually"
+        },
+        {
+          "description": {
+            "en": "Parking/storage fees (Parkplatz)",
+            "he": "דמי חניה/אחסון"
+          },
+          "amount": "€708",
+          "frequency": "annually"
+        },
+        {
+          "description": {
+            "en": "Legal protection insurance",
+            "he": "ביטוח הגנה משפטית"
+          },
+          "amount": "€47.40",
+          "frequency": "annually"
+        },
+        {
+          "description": {
+            "en": "Contents insurance",
+            "he": "ביטוח תוכן"
+          },
+          "amount": "€65",
+          "frequency": "annually"
+        }
+      ],
+      "totalAnnualCost": "€1,590-1,620",
+      "notes": {
+        "en": "Mandatory fee paid to Bundes Kasse (federal treasury). Not optional. France has significantly lower: €230 one-time registration fee only.",
+        "he": "דמי חובה המשולמים ל-Bundes Kasse (גזבון פדרלי). לא אופציונלי. לצרפת עלויות נמוכות משמעותית: רק €230 עמלה חד פעמית."
+      },
+      "sharedBy": "Ilan, Ephraim Lior, Ofer Nov",
+      "dateShared": "2025-12-08",
+      "sourceBatch": 26
+    },
+    {
+      "id": "cost-026-002",
+      "category": "internet-connectivity",
+      "title": {
+        "en": "StarLink Data Plans Pricing Comparison by Country",
+        "he": "השוואת תמחור תוכניות נתונים של סטארלינק לפי מדינה"
+      },
+      "items": [
+        {
+          "description": {
+            "en": "StarLink 50GB/month - Chile",
+            "he": "סטארלינק 50GB/חודש - צ'ילה"
+          },
+          "amount": "$45",
+          "frequency": "monthly",
+          "region": "Chile"
+        },
+        {
+          "description": {
+            "en": "StarLink 50GB/month - United States",
+            "he": "סטארלינק 50GB/חודש - ארה\"ב"
+          },
+          "amount": "$50",
+          "frequency": "monthly",
+          "region": "USA"
+        },
+        {
+          "description": {
+            "en": "StarLink Unlimited/month - United States",
+            "he": "סטארלינק ללא הגבלה/חודש - ארה\"ב"
+          },
+          "amount": "$180",
+          "frequency": "monthly",
+          "region": "USA"
+        },
+        {
+          "description": {
+            "en": "Data overage cost",
+            "he": "עלות נתונים עודפים"
+          },
+          "amount": "~$18",
+          "frequency": "per extra GB in current month",
+          "notes": {
+            "en": "Approximate additional cost when exceeding plan limit",
+            "he": "עלות נוסף משוער כאשר חוצים גבול תוכנית"
+          }
+        }
+      ],
+      "sharedBy": "Nadav, Nirit",
+      "dateShared": "2025-12-11",
+      "sourceBatch": 26
+    },
+    {
+      "id": "cost-026-003",
+      "category": "cellular-data",
+      "title": {
+        "en": "Cellular Data Plans Pricing - South America",
+        "he": "תמחור תוכניות נתונים סלולריים - דרום אמריקה"
+      },
+      "items": [
+        {
+          "description": {
+            "en": "Cellular data plan - Argentina",
+            "he": "תוכנית נתונים סלולריים - ארגנטינה"
+          },
+          "amount": "~$25",
+          "frequency": "per 40GB/60 days",
+          "notes": {
+            "en": "Cellular often cheaper than StarLink overages; no unlimited plans available in Argentina",
+            "he": "סלולארי לעתים קרובות זול יותר מעודפי סטארלינק; ללא תוכניות ללא הגבלה בארגנטינה"
+          }
+        }
+      ],
+      "sharedBy": "Boaz Gutman",
+      "dateShared": "2025-12-11",
+      "sourceBatch": 26
+    },
+    {
+      "id": "cost-026-004",
+      "category": "vehicle-maintenance",
+      "title": {
+        "en": "Engine Oil and Routine Maintenance",
+        "he": "שמן מנוע ותחזוקה שוטפת"
+      },
+      "items": [
+        {
+          "description": {
+            "en": "Engine oil for generator - ad-hoc purchase while traveling",
+            "he": "שמן מנוע לגנרטור - קנייה בהתאם לצורך בזמן נסיעה"
+          },
+          "amount": "Variable",
+          "frequency": "as needed",
+          "notes": {
+            "en": "Example: Nadav purchased while in UK (Alsted area)",
+            "he": "דוגמה: נדב קנה בזמן ששהה בבריטניה (אזור ה-Alsted)"
+          }
+        }
+      ],
+      "sourceBatch": 26
+    }
+  ]
+}

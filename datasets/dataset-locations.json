@@ -1,0 +1,4104 @@
+{
+  "metadata": {
+    "category": "locations",
+    "description": "All motorhome parking spots, campsites, storage facilities, service points, and attractions",
+    "totalItems": 110,
+    "extractionDate": "2025-12-14",
+    "dataVersion": "1.0",
+    "language": "Bilingual (Hebrew + English)"
+  },
+  "locations": [
+    {
+      "id": "loc-001-001",
+      "type": "parking",
+      "name": {
+        "en": "Free Motorhome Parking - Northern Spain",
+        "he": "חניון חינם לקמפרים - צפון ספרד"
+      },
+      "description": {
+        "en": "Free organized parking for motorhomes available in every city in northern Spain. Includes drinking water fill point, toilet waste dump station, and grey water drainage. Usually full but spots can always be found or very nearby.",
+        "he": "בכל עיר בצפון ספרד קיים חניון חינמי מסודר לקמפרים. כולל ברז מילוי למי שתיה, נקודת ריקון מיכל שרותים, וריקון מים אפורים. בדרך כלל המקומות הללו די מלאים, אבל תמיד ניתן למצוא מקום, או במיקום מאד קרוב."
+      },
+      "address": {
+        "city": "",
+        "region": "Northern Spain",
+        "country": "Spain",
+        "fullAddress": {
+          "en": "Various cities in Northern Spain",
+          "he": "ערים שונות בצפון ספרד"
+        }
+      },
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "amenities": [
+        "water",
+        "dump_station",
+        "grey_water_disposal"
+      ],
+      "cost": {
+        "type": "free",
+        "amount": 0,
+        "currency": "EUR",
+        "notes": {
+          "en": "Completely free",
+          "he": "חינם לחלוטין"
+        }
+      },
+      "contact": {},
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "reviews": [
+        {
+          "author": "Ilan",
+          "date": "2024-12-21",
+          "rating": 5,
+          "text": {
+            "en": "In recent days I'm traveling in northern Spain, and to my surprise (assuming you're not surprised) every city has a free organized parking for motorhomes. Includes drinking water fill point, toilet waste dump, and grey water drainage. Usually these spots are quite full, but you can always find a place, or a very close location. This gives a good feeling, and I hope this exists in more countries...",
+            "he": "בימים האחרונים אני מטייל בצפון ספרד, ומוצא להפתעתי (ומניח שאתם לא מופתעים😀) שבכל עיר, קיים חניון חינמי מסודר לקמפרים. כולל ברז מילוי למי שתיה, נקודת ריקון מיכל שרותים, וריקון מים אפורים. בדרך כלל המקומות הללו די מלאים, אבל תמיד ניתן למצוא מקום, או במיקום מאד קרוב. זה נותן הרגשה טובה, ומקווה שזה קיים בעוד מדינות..."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "type": "tip",
+          "text": {
+            "en": "Also very common in Italy and Portugal",
+            "he": "מאוד נפוץ גם באיטליה ובפורטוגל"
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": false,
+        "lastVerified": null,
+        "addedBy": "Ilan",
+        "addedDate": "2024-12-21"
+      },
+      "sourceBatch": 1
+    },
+    {
+      "id": "loc-002-001",
+      "type": "parking",
+      "name": {
+        "en": "Free Overnight Parking - England",
+        "he": "חניונים בחינם ללילה - אנגליה"
+      },
+      "description": {
+        "en": "Free overnight parking available in England. As the saying goes: 'Free is cheap, we still haven't checked it.'",
+        "he": "גם באנגליה יש חניוני לילה בחינם. אבל חינם זה זול, עדיין לא בדקנו."
+      },
+      "address": {
+        "country": "England",
+        "fullAddress": {
+          "en": "Various locations in England",
+          "he": "מיקומים שונים באנגליה"
+        }
+      },
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "amenities": [],
+      "cost": {
+        "type": "free",
+        "amount": 0,
+        "currency": "GBP",
+        "notes": {
+          "en": "Free overnight parking, verification needed",
+          "he": "חניית לילה חינם, נדרש אימות"
+        }
+      },
+      "contact": {},
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": false,
+        "addedBy": "Offer Bindel",
+        "addedDate": "2024-12-21"
+      },
+      "sourceBatch": 2
+    },
+    {
+      "id": "loc-002-002",
+      "type": "service",
+      "name": {
+        "en": "Chocolate Cake Place - Lisbon",
+        "he": "מקום עוגת שוקולד - ליסבון"
+      },
+      "description": {
+        "en": "Must-visit bakery/café in Lisbon serving the most delicious chocolate cake. Worth a flight just for this cake! Essential stop for anyone visiting Lisbon.",
+        "he": "בית קפה/מאפייה חובה בליסבון שמגיש את עוגת השוקולד הכי טעימה. שווה טיסה במיוחד! עצירה חובה לכל מי שמגיע לליסבון."
+      },
+      "address": {
+        "city": "Lisbon",
+        "country": "Portugal",
+        "fullAddress": {
+          "en": "Lisbon, Portugal",
+          "he": "ליסבון, פורטוגל"
+        }
+      },
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "amenities": [
+        "restaurant"
+      ],
+      "cost": {
+        "type": "paid",
+        "notes": {
+          "en": "Café/bakery pricing",
+          "he": "תמחור בית קפה/מאפייה"
+        }
+      },
+      "contact": {
+        "website": "https://maps.app.goo.gl/DjMvEAgtp6kev8zL8"
+      },
+      "reviews": [
+        {
+          "author": "Ilan",
+          "date": "2024-12-23",
+          "rating": 5,
+          "text": {
+            "en": "Chocolate cake worth a special flight... For anyone visiting Lisbon...",
+            "he": "עוגת שוקולד ששווה טיסה במיוחד... לכל מי שמגיע לליסבון..."
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": false,
+        "addedBy": "Ilan",
+        "addedDate": "2024-12-23"
+      },
+      "sourceBatch": 2
+    },
+    {
+      "id": "loc-004-001",
+      "type": "attraction",
+      "name": {
+        "en": "Coves de Sant Josep (Rio Subterráneo de San José)",
+        "he": "Coves de Sant Josep (ים תת קרקעי של סן ג'וזף)"
+      },
+      "description": {
+        "en": "Underground river system stretching 3 kilometers. A magical place near Valencia recommended for motorhome travelers.",
+        "he": "נהר תת קרקעי באורך 3 קילומטרים. מקום קסום ליד ולנסיה מומלץ לטיילי מוטורהומים."
+      },
+      "address": {
+        "city": "Near Valencia",
+        "region": "Valencia",
+        "country": "Spain",
+        "fullAddress": {
+          "en": "Coves de Sant Josep, Near Valencia, Spain",
+          "he": "Coves de Sant Josep, ליד ולנסיה, ספרד"
+        }
+      },
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "amenities": [],
+      "cost": {
+        "type": "paid",
+        "amount": null,
+        "currency": "EUR",
+        "notes": {
+          "en": "Tourist attraction with entrance fee",
+          "he": "אטרקציה תיירותית עם דמי כניסה"
+        }
+      },
+      "contact": {},
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "reviews": [
+        {
+          "author": "חורחה",
+          "date": "2025-02-12",
+          "rating": 5,
+          "text": {
+            "en": "Magical place if you haven't been there yet. Underground river of 3km.",
+            "he": "מקום קסום אם עוד לא הייתם. נהר תת קרקעי של 3 קמ."
+          }
+        },
+        {
+          "author": "שי גורן",
+          "date": "2025-02-12",
+          "rating": 5,
+          "text": {
+            "en": "I'll be in the area at the beginning of March and already adding this place to my map.",
+            "he": "אני אהיה באזור בתחילת מרץ וכבר מוסיף את המקום הזה למפה שלי."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "type": "tip",
+          "text": {
+            "en": "When searching on Google it appears as 'Coves de Sant Josep'",
+            "he": "כשמעלים את זה בגוגל מופיע Coves de Sant Josep"
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": false,
+        "lastVerified": null,
+        "addedBy": "חורחה",
+        "addedDate": "2025-02-12"
+      },
+      "sourceBatch": 4
+    },
+    {
+      "id": "loc-005-001",
+      "type": "parking",
+      "name": {
+        "en": "Overnight Parking - Charming Village, Morocco",
+        "he": "חניון ללילה - כפר מקסים, מרוקו"
+      },
+      "description": {
+        "en": "Excellent overnight parking in a charming Moroccan village. Shared by traveler during Morocco journey.",
+        "he": "חניון מעולה ללילה בכפר מקסים במרוקו. שותף על ידי מטייל במהלך מסע במרוקו."
+      },
+      "address": {
+        "city": "",
+        "region": "Morocco",
+        "country": "Morocco",
+        "fullAddress": {
+          "en": "Morocco (specific village location in map link)",
+          "he": "מרוקו (מיקום כפר ספציפי בלינק למפה)"
+        }
+      },
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "amenities": [],
+      "cost": {
+        "type": "free",
+        "amount": 0,
+        "currency": "EUR",
+        "notes": {
+          "en": "Free overnight parking",
+          "he": "חניית לילה חינם"
+        }
+      },
+      "contact": {},
+      "hours": {},
+      "rating": 5,
+      "photos": [],
+      "reviews": [
+        {
+          "author": "Ilan",
+          "date": "2025-03-07",
+          "rating": 5,
+          "text": {
+            "en": "The parking for the night... Charming village. Excellent parking!!",
+            "he": "החניון להלילה... כפר מקסים. חניון מעולה!!"
+          }
+        }
+      ],
+      "tips": [],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": false,
+        "lastVerified": null,
+        "addedBy": "Ilan",
+        "addedDate": "2025-03-07",
+        "mapLink": "https://maps.app.goo.gl/Qv9Bvr6BEYPJrD7N7?g_st=aw"
+      },
+      "sourceBatch": 5
+    },
+    {
+      "id": "loc-005-002",
+      "type": "parking",
+      "name": {
+        "en": "Campground near Berlin for Motorhomes",
+        "he": "חניון ליד ברלין למוטורהומים"
+      },
+      "description": {
+        "en": "Campground used for Berlin visits. Worth checking for availability though not specifically confirmed for long-term storage.",
+        "he": "חניון שבו נעשה שימוש לביקורים בברלין. שווה בדיקה לזמינות למרות שלא אושר במיוחד לאחסון ארוך טווח."
+      },
+      "address": {
+        "city": "Near Berlin",
+        "region": "Brandenburg/Berlin",
+        "country": "Germany",
+        "fullAddress": {
+          "en": "Near Berlin, Germany (specific location in map link)",
+          "he": "ליד ברלין, גרמניה (מיקום ספציפי בלינק למפה)"
+        }
+      },
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "amenities": [],
+      "cost": {
+        "type": "paid",
+        "amount": null,
+        "currency": "EUR",
+        "notes": {
+          "en": "Contact for pricing - not confirmed for long-term storage",
+          "he": "צור קשר למחירים - לא אושר לאחסון ארוך טווח"
+        }
+      },
+      "contact": {},
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "reviews": [
+        {
+          "author": "Ilan",
+          "date": "2025-03-09",
+          "rating": null,
+          "text": {
+            "en": "We stayed there during a Berlin visit. Not sure about long term but worth checking.",
+            "he": "אנחנו בילינו שם בביקור בברלין. לא סגור על לונג טרם אבל שווה בדיקה."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "type": "warning",
+          "text": {
+            "en": "Storage near Berlin is difficult - most places are full, likely to have availability in June",
+            "he": "אחסון ליד ברלין קשה - רוב המקומות מלאים, סביר שיהיה זמינות ביוני"
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": false,
+        "lastVerified": null,
+        "addedBy": "Ilan",
+        "addedDate": "2025-03-09",
+        "mapLink": "https://maps.app.goo.gl/pvDHv2MogirRPPoJ8?g_st=iw"
+      },
+      "sourceBatch": 5
+    },
+    {
+      "id": "loc-006-001",
+      "type": "parking",
+      "name": {
+        "en": "Overnight Parking Near Girona, Spain",
+        "he": "חניון לילה ליד ג'ירונה, ספרד"
+      },
+      "description": {
+        "en": "Excellent overnight parking one meter from the sea! Near Girona, Spain. Has everything and quality. Includes restaurant (not bad) and excellent mini-market. Highly recommended.",
+        "he": "חניון לילה מעולה מטר מהים! ליד ג'ירונה/ספרד. יש הכל ובאיכות! כולל מסעדה לא רעה ומינימרקט מצויין. מומלץ ביותר."
+      },
+      "address": {
+        "city": "Near Girona",
+        "region": "Catalonia",
+        "country": "Spain",
+        "fullAddress": {
+          "en": "Near Girona, Catalonia, Spain (specific location in map link)",
+          "he": "ליד ג'ירונה, קטלוניה, ספרד (מיקום ספציפי בלינק למפה)"
+        }
+      },
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "amenities": [
+        "restaurant",
+        "mini_market",
+        "near_beach"
+      ],
+      "cost": {
+        "type": "paid",
+        "amount": null,
+        "currency": "EUR",
+        "notes": {
+          "en": "Contact for pricing - ACSI card accepted",
+          "he": "צור קשר למחירים - כרטיס ACSI מתקבל"
+        }
+      },
+      "contact": {},
+      "hours": {},
+      "rating": 5,
+      "photos": [],
+      "reviews": [
+        {
+          "author": "Ilan",
+          "date": "2025-03-10",
+          "rating": 5,
+          "text": {
+            "en": "Friends, another excellent overnight parking!!! One meter from the sea! Near Girona/Spain. Highly recommended. Has everything and quality! Including not-bad restaurant and excellent mini-market.",
+            "he": "חברים, עוד חניון לילה מעולה!!! מטר מהים! ליד ג'ירונה/ספרד. מומלץ ביותר. יש הכל ובאיכות! כולל מסעדה לא רעה ומינימרקט מצויין."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "type": "tip",
+          "text": {
+            "en": "ACSI card is very nice but not in high season. Effective now, especially in France.",
+            "he": "כרטיס ACSI נחמד מאוד אבל לא ב-high season. אפקטיבי עכשיו, בטח בצרפת."
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": false,
+        "lastVerified": null,
+        "addedBy": "Ilan",
+        "addedDate": "2025-03-10",
+        "mapLink": "https://maps.app.goo.gl/qpWe4gStqjT3RTEN7?g_st=aw"
+      },
+      "sourceBatch": 6
+    },
+    {
+      "id": "loc-006-002",
+      "type": "parking",
+      "name": {
+        "en": "Parcheggio Pompei Zone - Pompeii Parking",
+        "he": "Parcheggio Pompei Zone - חניית פומפיי"
+      },
+      "description": {
+        "en": "Amazing parking lot that has everything! Cheap, close to train station, perfect base for visiting Amalfi Coast via train, Naples, ancient Roman city of Pompeii, and neighboring Herculaneum. Absolutely brilliant strategy.",
+        "he": "מגרש חניה מדהים שיש בו הכול! זול, קרוב לרכבת, בסיס מושלם לביקור בחוף אמלפי דרך רכבת, נאפולי, העיר הרומית העתיקה פומפיי, והעיר השכנה הרקולנאום. אסטרטגיה גאונית."
+      },
+      "address": {
+        "city": "Pompeii",
+        "region": "Campania",
+        "country": "Italy",
+        "fullAddress": {
+          "en": "Pompeii, Campania, Italy (specific location in map link)",
+          "he": "פומפיי, קמפניה, איטליה (מיקום ספציפי בלינק למפה)"
+        }
+      },
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "amenities": [
+        "near_train_station"
+      ],
+      "cost": {
+        "type": "paid",
+        "amount": null,
+        "currency": "EUR",
+        "notes": {
+          "en": "Cheap parking - contact for exact rates",
+          "he": "חניה זולה - צור קשר למחירים מדויקים"
+        }
+      },
+      "contact": {
+        "vcfFile": "-0002631-Parcheggio Pompei Zone  חניה פומפי.vcf"
+      },
+      "hours": {},
+      "rating": 5,
+      "photos": [],
+      "reviews": [
+        {
+          "author": "עמיר מלצר",
+          "date": "2025-03-17",
+          "rating": 5,
+          "text": {
+            "en": "I recommend everyone to park in Pompeii - amazing parking lot that has everything! Cheap, close to train, and simply brilliant - every day you take the train to Amalfi line, get off at any city you want along the coast, or jump to Naples. And of course, a must-visit to the Roman city Pompeii and neighboring Roman city Herculaneum - simply a must!!!",
+            "he": "ממליץ לכולם להחנות בפומפיי – מגרש חניה מדהים שיש בו הכול! זול, קרוב לרכבת, ופשוט גאוני – כל יום עולים לרכבת לקו אמלפי, יורדים בכל עיר שרוצים לאורך החוף, או קופצים לנאפולי. וכמובן, ביקור חובה בעיר הרומית פומפיי ובעיר הרומית השכנה הרקולנאום – פשוט חובהההה!"
+          }
+        },
+        {
+          "author": "שי גורן",
+          "date": "2025-03-17",
+          "rating": 5,
+          "text": {
+            "en": "We parked there the last two days, definitely recommended and very convenient.",
+            "he": "חנינו שם ביומיים האחרונים, בהחלט מומלץ ומאד נוח."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "type": "tip",
+          "text": {
+            "en": "Perfect strategy to avoid Amalfi Coast road restrictions for motorhomes - park here and use train for daily trips",
+            "he": "אסטרטגיה מושלמת להימנע ממגבלות כביש חוף אמלפי למוטורהומים - חנה כאן והשתמש ברכבת לטיולים יומיים"
+          }
+        },
+        {
+          "type": "tip",
+          "text": {
+            "en": "Say hello from Amir, Osnat from Israel and the poodle Ted",
+            "he": "תמסרו דש מעמיר ואסנת מישראל והכלב הפודל טד"
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": true,
+        "lastVerified": "2025-03-17",
+        "addedBy": "עמיר מלצר",
+        "addedDate": "2025-03-17",
+        "mapLink": "https://maps.app.goo.gl/1FPpTjFiZTdRxVTB7?g_st=iw"
+      },
+      "sourceBatch": 6
+    },
+    {
+      "id": "loc-006-003",
+      "type": "parking",
+      "name": {
+        "en": "Lisbon Port Free Parking",
+        "he": "חניה חינמית בנמל ליסבון"
+      },
+      "description": {
+        "en": "Free parking with no services at Lisbon port. Park right on the water. Beautiful promenade from port and convenient public transportation in area. Very pleasant location.",
+        "he": "חניה חינמית ללא שרותים כלל בנמל ליסבון. חניה ממש על המים. טיילת יפה מהנמל ותחבורה ציבורית נוחה באזור. מיקום נעים מאד."
+      },
+      "address": {
+        "city": "Lisbon",
+        "region": "Lisbon",
+        "country": "Portugal",
+        "fullAddress": {
+          "en": "Lisbon Port, Lisbon, Portugal (specific location in map link)",
+          "he": "נמל ליסבון, ליסבון, פורטוגל (מיקום ספציפי בלינק למפה)"
+        }
+      },
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "amenities": [
+        "waterfront",
+        "promenade",
+        "public_transport"
+      ],
+      "cost": {
+        "type": "free",
+        "amount": 0,
+        "currency": "EUR",
+        "notes": {
+          "en": "Completely free - no services available",
+          "he": "חינם לחלוטין - אין שרותים זמינים"
+        }
+      },
+      "contact": {},
+      "hours": {},
+      "rating": 4,
+      "photos": [],
+      "reviews": [
+        {
+          "author": "נעמה לבב",
+          "date": "2025-03-28",
+          "rating": 4,
+          "text": {
+            "en": "We parked in Lisbon port - free parking with no services at all. We loved it very much. There are other caravans of course, parked right on the water, from the port there's a beautiful promenade and convenient public transportation in the area.",
+            "he": "חנינו בנמל ליסבון - חניה חינמית ללא שרותים כלל. אהבנו מאד. יש עוד קרוואנים כמובן, חונים ממש על המיים, מן הנמל יוצאת טיילת יפה ויש תחבורה ציבורית נוחה באזור."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "type": "warning",
+          "text": {
+            "en": "No services available - water, electricity, or dump stations",
+            "he": "אין שרותים זמינים - מים, חשמל, או תחנות ריקון"
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": true,
+        "lastVerified": "2025-03-28",
+        "addedBy": "נעמה לבב טיפול בתנועה",
+        "addedDate": "2025-03-28",
+        "mapLink": "https://maps.app.goo.gl/1fJtD22BPdqWCHs96?g_st=aw"
+      },
+      "sourceBatch": 6
+    },
+    {
+      "id": "loc-006-004",
+      "type": "parking",
+      "name": {
+        "en": "Large Campground Near Lisbon with Full Connectivity",
+        "he": "חניון ענק ליד ליסבון עם קישוריות מלאה"
+      },
+      "description": {
+        "en": "Huge campground near Lisbon. Can connect in any way you choose. City is very large. Uber available and cheap. Decathlon across the road within morning walk distance.",
+        "he": "חניון ענק ליד ליסבון. ניתן להתחבר בכל צורה שתבחר. העיר גדולה מאוד. אובר זמין וזול. דקטלון מצד שני של הכביש במרחק צעידת בוקר."
+      },
+      "address": {
+        "city": "Near Lisbon",
+        "region": "Lisbon",
+        "country": "Portugal",
+        "fullAddress": {
+          "en": "Near Lisbon, Portugal (specific location in map link)",
+          "he": "ליד ליסבון, פורטוגל (מיקום ספציפי בלינק למפה)"
+        }
+      },
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "amenities": [
+        "full_hookup",
+        "near_decathlon",
+        "uber_access"
+      ],
+      "cost": {
+        "type": "paid",
+        "amount": null,
+        "currency": "EUR",
+        "notes": {
+          "en": "Contact for pricing",
+          "he": "צור קשר למחירים"
+        }
+      },
+      "contact": {},
+      "hours": {},
+      "rating": 4,
+      "photos": [],
+      "reviews": [
+        {
+          "author": "שומן הרפתקן חסר לאות",
+          "date": "2025-03-25",
+          "rating": 4,
+          "text": {
+            "en": "We stayed in this campground a few months ago. Huge, you can connect in any way you choose. The city is very large. Uber available and cheap. (And on the other side of the road within morning walk distance is Decathlon for supplies)",
+            "he": "אנחנו שהיינו בחניון הזה לפני כמה חודשים. ענק, ניתן להתחבר בכל צורה שתבחר. העיר גדולה מאוד. הובר זמין וזול (ומצד שני של הכביש במרחק צעידת בוקר דקטלון להשלמות)"
+          }
+        }
+      ],
+      "tips": [],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": true,
+        "lastVerified": "2025-03-25",
+        "addedBy": "שומן הרפתקן חסר לאות",
+        "addedDate": "2025-03-25",
+        "mapLink": "https://maps.app.goo.gl/u9csVCCyfJQX7FZE6?g_st=awb"
+      },
+      "sourceBatch": 6
+    },
+    {
+      "id": "loc-008-001",
+      "type": "parking",
+      "name": {
+        "en": "U Save Parking Athens - Irene",
+        "he": "חניון U Save אתונה - אירנה"
+      },
+      "description": {
+        "en": "Parking facility near Athens airport with motorhome storage. Offers pickup from airport terminal. Located 5 minutes from airport. Will NOT pick up from seaport.",
+        "he": "מתקן חניה ליד שדה התעופה באתונה עם אחסון מוטורהומים. מציע איסוף מטרמינל שדה התעופה. ממוקם 5 דקות משדה התעופה. לא יאסוף מנמל ימי."
+      },
+      "address": {
+        "city": "Athens",
+        "region": "Attica",
+        "country": "Greece",
+        "fullAddress": {
+          "en": "5 minutes from Athens Airport",
+          "he": "5 דקות משדה התעופה באתונה"
+        }
+      },
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "amenities": [
+        "storage",
+        "airport_pickup"
+      ],
+      "cost": {
+        "type": "paid",
+        "amount": null,
+        "currency": "EUR",
+        "notes": {
+          "en": "Price not specified",
+          "he": "מחיר לא צוין"
+        }
+      },
+      "contact": {
+        "name": "Irene",
+        "phone": null,
+        "email": null,
+        "notes": {
+          "en": "Contact card shared in chat (vcf file)",
+          "he": "כרטיס ביקור שותף בצ'אט (קובץ vcf)"
+        }
+      },
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "reviews": [
+        {
+          "author": "Oren Kipnis",
+          "date": "2025-05-12",
+          "rating": 4,
+          "text": {
+            "en": "We stored there for a period. 5 minutes from the airport, including pickup from the terminal. They will not pick up the vehicle from seaport.",
+            "he": "אצל אירנה איחסנו תקופה. 5 דקות מנמל התעופה, כולל איסוף מהטרמינל. לא יאספו את האוטו מנמל ימי."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "type": "warning",
+          "text": {
+            "en": "Customs clearance for vehicles arriving by ferry/maritime shipping in countries outside EU agreement requires driver/owner presence with customs fees and paperwork",
+            "he": "שחרור רכב מאנייה/הובלה ימית במדינות מחוץ להסכם האיחוד האירופי דורש נוכחות נהג/בעלים עם אגרות מכס וניירת"
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": false,
+        "lastVerified": null,
+        "addedBy": "Oren Kipnis",
+        "addedDate": "2025-05-12"
+      },
+      "sourceBatch": 8
+    },
+    {
+      "id": "loc-008-002",
+      "type": "parking",
+      "name": {
+        "en": "Greece Camper Stop",
+        "he": "Greece Camper Stop"
+      },
+      "description": {
+        "en": "Overnight parking for motorhomes near Athens. Excellent facility with amenities.",
+        "he": "חניון לינה למוטורהומים ליד אתונה. מתקן מצוין עם שירותים."
+      },
+      "address": {
+        "city": "Athens area",
+        "region": "Attica",
+        "country": "Greece",
+        "fullAddress": {
+          "en": "Near Athens - see website",
+          "he": "ליד אתונה - ראה אתר"
+        }
+      },
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "amenities": [
+        "overnight_parking"
+      ],
+      "cost": {
+        "type": "paid",
+        "amount": null,
+        "currency": "EUR",
+        "notes": {
+          "en": "Price not specified",
+          "he": "מחיר לא צוין"
+        }
+      },
+      "contact": {
+        "website": "https://greececamperstop.com/"
+      },
+      "hours": {},
+      "rating": 5,
+      "photos": [],
+      "reviews": [
+        {
+          "author": "Oren Kipnis",
+          "date": "2025-05-12",
+          "rating": 5,
+          "text": {
+            "en": "Also this is excellent. We stayed there for a night in the parking lot.",
+            "he": "גם זה מצוין. שהינו אצלו לילה בחניון."
+          }
+        }
+      ],
+      "tips": [],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": false,
+        "lastVerified": null,
+        "addedBy": "Oren Kipnis",
+        "addedDate": "2025-05-12"
+      },
+      "sourceBatch": 8
+    },
+    {
+      "id": "loc-008-003",
+      "type": "parking",
+      "name": {
+        "en": "Rolling Turtles Athens Parking",
+        "he": "חניון Rolling Turtles אתונה"
+      },
+      "description": {
+        "en": "Very organized parking facility 11 minutes from Athens airport. Less noisy than other options, suitable for overnight stays. Mentioned as alternative to U Save parking.",
+        "he": "מתקן חניה מאוד מסודר 11 דקות משדה התעופה באתונה. פחות רועש מאופציות אחרות, מתאים ללינה. הוזכר כחלופה לחניון U Save."
+      },
+      "address": {
+        "city": "Athens",
+        "region": "Attica",
+        "country": "Greece",
+        "fullAddress": {
+          "en": "11 minutes from Athens Airport",
+          "he": "11 דקות משדה התעופה באתונה"
+        }
+      },
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "amenities": [
+        "overnight_parking",
+        "quiet_location"
+      ],
+      "cost": {
+        "type": "paid",
+        "amount": null,
+        "currency": "EUR",
+        "notes": {
+          "en": "Price not specified",
+          "he": "מחיר לא צוין"
+        }
+      },
+      "contact": {
+        "website": "https://rolling-turtles.com/"
+      },
+      "hours": {},
+      "rating": 5,
+      "photos": [],
+      "reviews": [
+        {
+          "author": "אבא",
+          "date": "2025-05-12",
+          "rating": 5,
+          "text": {
+            "en": "We parked at both the mentioned parking and this other one (link below). The second is very organized 11 minutes from the airport. The first is a bit makeshift and if you stay overnight there's noise from traffic most hours of the day as it sits on a main intersection.",
+            "he": "אנחנו חנינו גם בחניון הנ״ל וגם באחר קישור למטה. השני מאד מסודר 11 דקות מהשדה. הראשון קצת פרטצ׳ ואם נשארים לישון שם ללילה אז יש רעש של תנועה ברוב שעות היממה כי הוא יושב על צומת מרכזית"
+          }
+        }
+      ],
+      "tips": [
+        {
+          "type": "tip",
+          "text": {
+            "en": "Better choice for overnight parking if you want quiet - unlike U Save which sits on busy intersection",
+            "he": "בחירה טובה יותר לחניית לילה אם רוצים שקט - בניגוד ל-U Save שיושב על צומת עמוסה"
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": false,
+        "lastVerified": null,
+        "addedBy": "אבא",
+        "addedDate": "2025-05-12"
+      },
+      "sourceBatch": 8
+    },
+    {
+      "id": "loc-008-004",
+      "type": "parking",
+      "name": {
+        "en": "Free Motorhome Parking Lisbon - Belém Area",
+        "he": "חניה חינמית למוטורהומים ליסבון - אזור בלם"
+      },
+      "description": {
+        "en": "Free parking spots in Lisbon convenient for public transport. Two nearby locations provided. Walking distance to Lidl supermarket (7 minutes). Near gas station with drinking water tap for filling motorhome tanks.",
+        "he": "מקומות חניה חינמיים בליסבון נוחים לתחבורה ציבורית. שני מיקומים סמוכים. מרחק הליכה לסופרמרקט Lidl (7 דקות). ליד תחנת דלק עם ברז מי שתיה למילוי מיכלי קמפר."
+      },
+      "address": {
+        "city": "Lisbon",
+        "region": "Lisbon",
+        "country": "Portugal",
+        "fullAddress": {
+          "en": "Belém area, Lisbon - see Google Maps links",
+          "he": "אזור בלם, ליסבון - ראה קישורי Google Maps"
+        }
+      },
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "amenities": [
+        "water",
+        "public_transport"
+      ],
+      "cost": {
+        "type": "free",
+        "amount": 0,
+        "currency": "EUR",
+        "notes": {
+          "en": "Completely free",
+          "he": "חינם לחלוטין"
+        }
+      },
+      "contact": {},
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "reviews": [
+        {
+          "author": "Ron Kellner",
+          "date": "2025-05-16",
+          "rating": 5,
+          "text": {
+            "en": "Received 2 free spots. The two first ones look excellent. The first two are close, if the parking lot is full... then park on the other side, there's a supermarket within walking distance. 7 minutes walk to Lidl - fruits and vegetables cheap, dairy cheap... and chain products cheap.",
+            "he": "קבל 2 מקומות חינמיים. שני הראשונים הם סמוכים, אם מגרש החניה מלא... אז חונים מהצד השני, יש סופר מרקט במרחק הליכה. 7 דקות הליכה ל-Lidl - פירות וירקות זולים, מוצרי חלב זולים... ומוצרי הרשת זולים."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "type": "tip",
+          "text": {
+            "en": "Two locations provided - if one is full, try the other nearby",
+            "he": "שני מיקומים סופקו - אם אחד מלא, נסה את השני בקרבת מקום"
+          }
+        },
+        {
+          "type": "tip",
+          "text": {
+            "en": "Cheap gas station with drinking water tap for tank filling nearby",
+            "he": "תחנת דלק זולה עם ברז מי שתיה למילוי מיכלי הקארוון בקרבת מקום"
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": false,
+        "lastVerified": null,
+        "addedBy": "Ron Kellner",
+        "addedDate": "2025-05-16",
+        "notes": {
+          "en": "Google Maps links provided in chat: https://maps.app.goo.gl/uXfDVLGDx3hgJJvp6, https://maps.app.goo.gl/4u8gSwxyH9pymfGu5, https://maps.app.goo.gl/aNWmMrmMuLWKG6PPA",
+          "he": "קישורי Google Maps סופקו בצ'אט"
+        }
+      },
+      "sourceBatch": 8
+    },
+    {
+      "id": "loc-009-001",
+      "type": "storage",
+      "name": {
+        "en": "Motorhome Storage and Gas Refill - South of Lisbon",
+        "he": "אחסון מוטורהומים ומילוי גז - דרומית לליסבון"
+      },
+      "description": {
+        "en": "Storage facility south of Lisbon with gas bottle refilling services. Not cheap but provides good storage. Details to be shared after user verifies quality.",
+        "he": "מתקן אחסון דרומית לליסבון עם שירותי מילוי בלוני גז. לא זול אבל מספק אחסון טוב. פרטים יישלחו לאחר שהמשתמש יוודא איכות."
+      },
+      "address": {
+        "city": "South of Lisbon",
+        "region": "Lisbon area",
+        "country": "Portugal",
+        "fullAddress": {
+          "en": "South of Lisbon - exact location to be provided",
+          "he": "דרומית לליסבון - מיקום מדויק יסופק"
+        }
+      },
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "amenities": [
+        "storage",
+        "gas_refill"
+      ],
+      "cost": {
+        "type": "paid",
+        "amount": null,
+        "currency": "EUR",
+        "notes": {
+          "en": "Not cheap - price not specified",
+          "he": "לא זול - מחיר לא צוין"
+        }
+      },
+      "contact": {},
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "reviews": [
+        {
+          "author": "Rami Galboa",
+          "date": "2025-05-18",
+          "rating": 4,
+          "text": {
+            "en": "For those arriving in the area, I have good storage here although not cheap, and also a place to fill gas bottles. South of Lisbon, there are probably more. After I see how the storage is, I'll send details.",
+            "he": "למי שיגיע לאיזור, יש לי כאן איחסון טוב אם כי לא זול, וגם מקום למילוי בלוני גז. דרומת לליסבון, יש בטח עוד. לאחר שאראה איך האיחסון אשלח פרטים"
+          }
+        }
+      ],
+      "tips": [],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": false,
+        "lastVerified": null,
+        "addedBy": "Rami Galboa",
+        "addedDate": "2025-05-18",
+        "notes": {
+          "en": "User will provide more details after verifying quality",
+          "he": "המשתמש יספק פרטים נוספים לאחר אימות איכות"
+        }
+      },
+      "sourceBatch": 9
+    },
+    {
+      "id": "loc-010-001",
+      "type": "parking",
+      "name": {
+        "en": "Parking near Geneva Airport - French Side",
+        "he": "חניה ליד שדה התעופה בז'נבה - צד צרפתי"
+      },
+      "description": {
+        "en": "Long-term parking for motorhomes near Geneva Airport on the French side. More affordable than Swiss side parking options.",
+        "he": "חניה ארוכת טווח למוטורהומים ליד שדה התעופה בז'נבה בצד הצרפתי. זול יותר מאפשרויות חניה בצד השוויצרי."
+      },
+      "address": {
+        "city": "Geneva area",
+        "region": "Haute-Savoie",
+        "country": "France",
+        "fullAddress": {
+          "en": "French side of Geneva Airport",
+          "he": "צד צרפתי של שדה התעופה בז'נבה"
+        }
+      },
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "amenities": [
+        "long_term_parking"
+      ],
+      "cost": {
+        "type": "paid",
+        "amount": null,
+        "currency": "EUR",
+        "notes": {
+          "en": "Cheaper than Swiss side",
+          "he": "זול יותר מהצד השוויצרי"
+        }
+      },
+      "contact": {},
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "reviews": [],
+      "tips": [
+        {
+          "type": "tip",
+          "text": {
+            "en": "French side of Geneva airport is cheaper for long-term parking than Swiss side",
+            "he": "הצד הצרפתי של שדה התעופה בז'נבה זול יותר לחניה ארוכת טווח מהצד השוויצרי"
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": false,
+        "lastVerified": null,
+        "addedBy": "Ron Kellner",
+        "addedDate": "2025-05-30"
+      },
+      "sourceBatch": 10
+    },
+    {
+      "id": "loc-010-002",
+      "type": "storage",
+      "name": {
+        "en": "Motorhome Storage Berlin Schönefeld Airport",
+        "he": "אחסון מוטורהומים שדה התעופה שנפלד ברלין"
+      },
+      "description": {
+        "en": "Motorhome storage facility near Schönefeld Airport in Berlin. Offers storage services with accessibility to Berlin Airport. Professional storage facility for long-term parking.",
+        "he": "מתקן אחסון מוטורהומים ליד שדה התעופה שנפלד בברלין. מציע שירותי אחסון עם נגישות לשדה התעופה ברלין. מתקן אחסון מקצועי לחניה ארוכת טווח."
+      },
+      "address": {
+        "city": "Schönefeld",
+        "region": "Brandenburg",
+        "country": "Germany",
+        "fullAddress": {
+          "en": "Waltersdorfer Ch 100, 12529 Schönefeld, Germany",
+          "he": "Waltersdorfer Ch 100, 12529 Schönefeld, גרמניה"
+        }
+      },
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "amenities": [
+        "storage",
+        "airport_proximity"
+      ],
+      "cost": {
+        "type": "paid",
+        "amount": null,
+        "currency": "EUR",
+        "notes": {
+          "en": "Price not specified - contact for rates",
+          "he": "מחיר לא צוין - צור קשר לתעריפים"
+        }
+      },
+      "contact": {
+        "phone": "+493063499150",
+        "address": "Waltersdorfer Ch 100, 12529 Schönefeld, Germany",
+        "notes": {
+          "en": "Google Maps link provided: https://maps.app.goo.gl/J1HmgvrbfjJCBSB57",
+          "he": "קישור Google Maps סופק"
+        }
+      },
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "reviews": [],
+      "tips": [
+        {
+          "type": "tip",
+          "text": {
+            "en": "Close to Berlin Schönefeld Airport, convenient for flights",
+            "he": "קרוב לשדה התעופה שנפלד ברלין, נוח לטיסות"
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": false,
+        "lastVerified": null,
+        "addedBy": "Ron Kellner",
+        "addedDate": "2025-05-30"
+      },
+      "sourceBatch": 10
+    },
+    {
+      "id": "loc-010-003",
+      "type": "parking",
+      "name": {
+        "en": "SCD-Parking Hamburg Airport",
+        "he": "SCD-Parking שדה התעופה המבורג"
+      },
+      "description": {
+        "en": "Secure parking facility with services for motorhomes near Hamburg Airport. Located about 5 minutes drive from the airport. Features 24/7 access, over 165 spacious parking spots, paved and lit parking area, security cameras. Suitable for long-term parking.",
+        "he": "מתקן חניה מאובטח עם שירותים למוטורהומים ליד שדה התעופה המבורג. ממוקם כ-5 דקות נסיעה מהשדה. כולל גישה 24/7, מעל 165 מקומות חניה רחבים, שטח חניה מרוצף ומואר, מצלמות אבטחה. מתאים לחניה ארוכת טווח."
+      },
+      "address": {
+        "city": "Norderstedt",
+        "region": "Schleswig-Holstein",
+        "country": "Germany",
+        "fullAddress": {
+          "en": "An'n Slagboom 41, 22848 Norderstedt, Germany",
+          "he": "An'n Slagboom 41, 22848 Norderstedt, גרמניה"
+        }
+      },
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "amenities": [
+        "24_7_access",
+        "security_cameras",
+        "lit_parking",
+        "paved_parking"
+      ],
+      "cost": {
+        "type": "paid",
+        "amount": 2.5,
+        "currency": "EUR",
+        "perUnit": "per day",
+        "notes": {
+          "en": "Starting from 2.50 EUR per day, varies depending on period and duration",
+          "he": "החל מ-2.50 יורו ליום, משתנה בהתאם לתקופה ומשך השהייה"
+        }
+      },
+      "contact": {
+        "phone": "+49040221006",
+        "website": "Available for online booking",
+        "notes": {
+          "en": "Can book online or by phone",
+          "he": "ניתן להזמין באינטרנט או בטלפון"
+        }
+      },
+      "hours": {
+        "note": {
+          "en": "Open 24/7",
+          "he": "פתוח 24/7"
+        }
+      },
+      "rating": null,
+      "photos": [],
+      "reviews": [],
+      "tips": [
+        {
+          "type": "tip",
+          "text": {
+            "en": "165+ spacious parking spaces - good availability",
+            "he": "מעל 165 מקומות חניה רחבים - זמינות טובה"
+          }
+        },
+        {
+          "type": "tip",
+          "text": {
+            "en": "5 minutes from Hamburg Airport",
+            "he": "5 דקות משדה התעופה המבורג"
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": false,
+        "lastVerified": null,
+        "addedBy": "Ron Kellner",
+        "addedDate": "2025-05-31"
+      },
+      "sourceBatch": 10
+    },
+    {
+      "id": "loc-011-001",
+      "type": "storage",
+      "name": {
+        "en": "Sanchez Martinez Campervan Storage - Bergen, Norway",
+        "he": "אחסון קמפרוונים סנצ'ז מרטינז - ברגן, נורבגיה"
+      },
+      "description": {
+        "en": "Storage facility near Bergen, Norway operated by Sanchez Martinez. Dealer who rents private caravans and offers long-term storage for motorhomes. Recommended for southern Norway storage needs.",
+        "he": "מתקן אחסון ליד ברגן, נורבגיה שמופעל על ידי סנצ'ז מרטינז. דילר שמשכיר קראוונים פרטיים ומציע אחסון ארוך טווח למוטורהומים. מומלץ לצרכי אחסון בדרום נורבגיה."
+      },
+      "address": {
+        "city": "Bergen area",
+        "region": "Vestland",
+        "country": "Norway",
+        "fullAddress": {
+          "en": "Near Bergen, Norway - contact Sanchez for exact location",
+          "he": "ליד ברגן, נורבגיה - צור קשר עם סנצ'ז למיקום מדויק"
+        }
+      },
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "amenities": [
+        "long_term_storage"
+      ],
+      "cost": {
+        "type": "paid",
+        "amount": null,
+        "currency": "NOK",
+        "notes": {
+          "en": "Price not specified",
+          "he": "מחיר לא צוין"
+        }
+      },
+      "contact": {
+        "name": "Sanchez Martinez",
+        "phone": null,
+        "email": null,
+        "notes": {
+          "en": "Contact card (VCF) shared in chat: -0001962-Sanchez סאנשס Martinez Campervan Bergen.vcf",
+          "he": "כרטיס ביקור (VCF) שותף בצ'אט"
+        }
+      },
+      "hours": {},
+      "rating": 4,
+      "photos": [],
+      "reviews": [
+        {
+          "author": "David Matek",
+          "date": "2025-06-13",
+          "rating": 4,
+          "text": {
+            "en": "We stored near Bergen a year ago. Contact is Sanchez. He is a dealer who rents private caravans.",
+            "he": "אנחנו איחסנו לפני שנה ליד ברגן איש הקשר סאנשס . הוא דילר שמשכיר קראונים פרטיים.."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "type": "tip",
+          "text": {
+            "en": "Suitable for long-term storage in southern Norway, Denmark, or southern Sweden region",
+            "he": "מתאים לאחסון ארוך טווח באזור דרום נורבגיה, דנמרק או דרום שוודיה"
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": false,
+        "lastVerified": null,
+        "addedBy": "David Matek, Rami Galboa",
+        "addedDate": "2025-06-13"
+      },
+      "sourceBatch": 11
+    },
+    {
+      "id": "loc-011-002",
+      "type": "attraction",
+      "name": {
+        "en": "Uluru (Ayers Rock) - Central Australia",
+        "he": "אולורו (איירס רוק) - מרכז אוסטרליה"
+      },
+      "description": {
+        "en": "Iconic red rock formation in the heart of Australia. A dream destination for adventurous motorhome travelers. Massive sandstone monolith sacred to Aboriginal people.",
+        "he": "תצורת סלע אדום איקונית בלב אוסטרליה. יעד חלומי לנוסעי מוטורהום הרפתקניים. מונוליט אבן חול ענקי קדוש לאבוריג'ינים."
+      },
+      "address": {
+        "city": "Uluru-Kata Tjuta National Park",
+        "region": "Northern Territory",
+        "country": "Australia",
+        "fullAddress": {
+          "en": "Uluru-Kata Tjuta National Park, Northern Territory, Australia",
+          "he": "פארק לאומי אולורו-קטה ג'וטה, הטריטוריה הצפונית, אוסטרליה"
+        }
+      },
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "amenities": [
+        "national_park",
+        "camping"
+      ],
+      "cost": {
+        "type": "paid",
+        "amount": null,
+        "currency": "AUD",
+        "notes": {
+          "en": "National park entry fees apply",
+          "he": "חלות אגרות כניסה לפארק לאומי"
+        }
+      },
+      "contact": {},
+      "hours": {},
+      "rating": 5,
+      "photos": [],
+      "reviews": [
+        {
+          "author": "Tzur Shoman",
+          "date": "2025-06-09",
+          "rating": 5,
+          "text": {
+            "en": "Heart of Australia. Uluru. Couldn't resist sharing this one.",
+            "he": "לב אוסטרליה. האו ל רו. באולרו לא יכולתי להתאפק."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "type": "tip",
+          "text": {
+            "en": "This trip was done with motorcycle, but location is accessible by motorhome as well",
+            "he": "הטיול הזה נעשה עם אופנוע, אך המיקום נגיש גם למוטורהום"
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": false,
+        "lastVerified": null,
+        "addedBy": "Tzur Shoman (The Adventurous Shoman)",
+        "addedDate": "2025-06-09",
+        "notes": {
+          "en": "Shared as aspirational destination - traveler has blog about the journey",
+          "he": "שותף כיעד שאפתני - לנוסע יש בלוג על המסע"
+        }
+      },
+      "sourceBatch": 11
+    },
+    {
+      "id": "loc-011-003",
+      "type": "attraction",
+      "name": {
+        "en": "Morgan Motor Company Factory Tour - Malvern, Wales",
+        "he": "סיור במפעל מורגן מוטורס - מלוורן, וואלס"
+      },
+      "description": {
+        "en": "Factory tour of Morgan Motors, a legendary British car manufacturer producing handcrafted sports cars for over 100 years using traditional methods. An experience for all craft lovers - more than 100 years of handwork just like in the old days. Cars are still built by hand with wooden frames and traditional coachbuilding techniques.",
+        "he": "סיור במפעל מורגן מוטורס, יצרן מכוניות בריטי אגדי שמייצר מכוניות ספורט בעבודת יד במשך למעלה מ-100 שנה בשיטות מסורתיות. חוויה לכל אוהבי הקראפט. יותר ממאה שנה של עבודת יד כמו פעם. מכוניות עדיין נבנות בעבודת יד עם מסגרות עץ וטכניקות בניית מרכב מסורתיות."
+      },
+      "address": {
+        "city": "Malvern",
+        "region": "Wales",
+        "country": "United Kingdom",
+        "fullAddress": {
+          "en": "Morgan Motor Company, Pickersleigh Road, Malvern, Worcestershire, UK",
+          "he": "חברת מורגן מוטור, פיקרסלי רואד, מלוורן, וורצ'סטרשייר, בריטניה"
+        }
+      },
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "amenities": [
+        "factory_tour",
+        "visitor_center"
+      ],
+      "cost": {
+        "type": "paid",
+        "amount": null,
+        "currency": "GBP",
+        "notes": {
+          "en": "Factory tour booking required - check website for pricing",
+          "he": "נדרשת הזמנת סיור במפעל - בדוק באתר למחירים"
+        }
+      },
+      "contact": {
+        "website": "https://www.morgan-motor.com/"
+      },
+      "hours": {},
+      "rating": 5,
+      "photos": [],
+      "reviews": [
+        {
+          "author": "Ilan",
+          "date": "2025-06-11",
+          "rating": 5,
+          "text": {
+            "en": "Today we visited the Morgan Motors factory. An experience for all craft lovers. More than a hundred years of handwork just like in the old days.",
+            "he": "אבל היום ביקרנו במפעל של מורגאן מוטורס. חוויה לכל אוהבי הקראפט. יותר ממאה שנה של עבודת יד כמו פעם."
+          }
+        },
+        {
+          "author": "Boaz Gutman",
+          "date": "2025-06-12",
+          "rating": 5,
+          "text": {
+            "en": "This is amazing... a skill that disappeared from the world. Everything today is CNC and laser, but it lacks the character of the curves of old cars, in my opinion.",
+            "he": "זה מדהים... יכולת שנעלמה מהעולם.. הכל היום cnc וליזר.. אבל חסר את האופי של הקימורים של מכוניות ישנות, לדעתי."
+          }
+        }
+      ],
+      "tips": [
+        {
+          "type": "tip",
+          "text": {
+            "en": "Book factory tours in advance - this is a working factory with limited visitor access",
+            "he": "הזמן סיורי מפעל מראש - זהו מפעל פעיל עם גישה מוגבלת למבקרים"
+          }
+        },
+        {
+          "type": "tip",
+          "text": {
+            "en": "Located in botanical park area of Wales - good to combine with nature visit",
+            "he": "ממוקם באזור הפארק הבוטני של וואלס - טוב לשלב עם ביקור בטבע"
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": false,
+        "lastVerified": null,
+        "addedBy": "Ilan",
+        "addedDate": "2025-06-11",
+        "notes": {
+          "en": "Multiple photos shared of handcrafted wooden frames and traditional manufacturing",
+          "he": "מספר תמונות שותפו של מסגרות עץ בעבודת יד וייצור מסורתי"
+        }
+      },
+      "sourceBatch": 11
+    },
+    {
+      "id": "loc-011-004",
+      "type": "parking",
+      "name": {
+        "en": "Breakdown Location - Belgium (Eastern region)",
+        "he": "מיקום תקלה - בלגיה (אזור מזרחי)"
+      },
+      "description": {
+        "en": "Location where diesel fuel injection pump failure occurred. Useful reference point for motorhome service needs in eastern Belgium. Coordinates provided for exact location.",
+        "he": "מיקום בו התרחשה תקלה במשאבת הזרקת סולר. נקודת ייחוס שימושית לצרכי שירות מוטורהום במזרח בלגיה. קואורדינטות סופקו למיקום מדויק."
+      },
+      "address": {
+        "city": "Eastern Belgium",
+        "region": "Belgium",
+        "country": "Belgium",
+        "fullAddress": {
+          "en": "See coordinates: 50.671955, 4.907385",
+          "he": "ראה קואורדינטות: 50.671955, 4.907385"
+        }
+      },
+      "coordinates": {
+        "lat": 50.671955,
+        "lng": 4.907385
+      },
+      "amenities": [],
+      "cost": {
+        "type": "free",
+        "amount": 0,
+        "currency": "EUR",
+        "notes": {
+          "en": "Emergency breakdown location",
+          "he": "מיקום תקלה חירום"
+        }
+      },
+      "contact": {},
+      "hours": {},
+      "rating": null,
+      "photos": [],
+      "reviews": [],
+      "tips": [
+        {
+          "type": "warning",
+          "text": {
+            "en": "Diesel fuel injection pump air leak issues can occur in this region - see related guide for troubleshooting",
+            "he": "בעיות חדירת אוויר במשאבת הזרקת סולר יכולות להתרחש באזור זה - ראה מדריך קשור לאבחון תקלות"
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "verified": true,
+        "lastVerified": "2025-06-17",
+        "addedBy": "Nadav",
+        "addedDate": "2025-06-17",
+        "notes": {
+          "en": "Location shared during active breakdown troubleshooting - Google Maps link: https://maps.google.com/?q=50.671955,4.907385",
+          "he": "מיקום שותף במהלך אבחון תקלה פעיל"
+        }
+      },
+      "sourceBatch": 11
+    },
+    {
+      "id": "loc-013-001",
+      "name": {
+        "en": "Sella Ronda Circuit",
+        "he": "מסלול סלה רונדה"
+      },
+      "region": {
+        "en": "Dolomites, Italy",
+        "he": "דולומיטים, איטליה"
+      },
+      "description": {
+        "en": "Mountain pass circuit in the Dolomites featuring multiple passes including Passo Fedare and Passo Giau. Popular motorhome route with scenic mountain roads. Parking: Passo Fedare head parking (toll €10 per day + €20 for overnight). Good parking on west side of pass.",
+        "he": "מסלול מעברים הרריים בדולומיטים המכיל מעברים מרובים כולל פאסו פדראה ופאסו ג'יאו. מסלול קמפרוון פופולרי עם כבישי הרים מרהיבים. חנייה: חנייה בראש פאסו פדראה (תשלום €10 ליום + €20 בלילה). חנייה טובה בצד מערבי של המעבר."
+      },
+      "type": "mountain-pass",
+      "highlights": {
+        "en": [
+          "Multiple scenic mountain passes",
+          "Dolomite scenery",
+          "Mountain road challenge testing vehicle clearance"
+        ],
+        "he": [
+          "מעברים הרריים מרהיבים מרובים",
+          "נופי דולומיטים",
+          "אתגר כבישי הרים בדיקת גובה הרכב"
+        ]
+      },
+      "camping": {
+        "type": "parking",
+        "cost": {
+          "en": "€10 per day (Passo Fedare) + €20 for overnight",
+          "he": "€10 ליום (פאסו פדראה) + €20 בלילה"
+        }
+      },
+      "difficulty": "challenging",
+      "sharedBy": "Nadav",
+      "dateShared": "2025-06-27",
+      "sourceBatch": 13
+    },
+    {
+      "id": "loc-013-002",
+      "name": {
+        "en": "Valloire Sculpture Park",
+        "he": "פארק הפסלים של וליואיר"
+      },
+      "region": {
+        "en": "French Alps, France",
+        "he": "האלפים הצרפתיים, צרפת"
+      },
+      "description": {
+        "en": "Temporary sculpture garden in Valloire featuring straw and hay sculptures. Located in tourist area with walking paths and sculpture installations.",
+        "he": "גן פסלים זמני בוליואיר המכיל פסלי קש וחציר. ממוקם בעיר תיירות עם שבילי הליכה והתקנות פסלים."
+      },
+      "type": "attraction",
+      "highlights": {
+        "en": [
+          "Temporary sculpture installations",
+          "Straw and hay art",
+          "Walking paths through installations",
+          "Family-friendly attraction"
+        ],
+        "he": [
+          "התקנות פסלים זמניות",
+          "אמנות קש וחציר",
+          "שבילי הליכה דרך ההתקנות",
+          "אטרקציה ידידותית למשפחות"
+        ]
+      },
+      "sharedBy": "Nadav, Ilan",
+      "dateShared": "2025-07-03",
+      "sourceBatch": 13
+    },
+    {
+      "id": "loc-013-003",
+      "name": {
+        "en": "Bivouac near Andorra (Seix)",
+        "he": "בივואק ליד אנדורה (סיקס)"
+      },
+      "region": {
+        "en": "French Pyrenees, France",
+        "he": "הפירינאים הצרפתיים, צרפת"
+      },
+      "description": {
+        "en": "Excellent motorhome campground close to Andorra border at 1450 meters elevation. Well-maintained facility with full amenities, approximately 40 motorhome capacity, peaceful location. Cost: €17.30 per night including all services (water, sewage, electricity). Cold nights (around 6-8°C in July).",
+        "he": "חנייה קמפרוונים מעולה ליד גבול אנדורה בגובה 1450 מטר מעל פני הים. מתקן מטופח היטב עם כל השירותים, קיבולת של כ-40 קמפרים, מקום שקט. עלות: €17.30 בלילה כולל כל השירותים (מים, ניקוז, חשמל). לילות קרים (כ-6-8 מעלות ביולי)."
+      },
+      "type": "campground",
+      "elevation": {
+        "value": 1450,
+        "unit": "meters"
+      },
+      "amenities": {
+        "en": [
+          "Water fill and drainage",
+          "Electrical hookups",
+          "Well-maintained facilities",
+          "Peaceful setting"
+        ],
+        "he": [
+          "מילוי וניקוז מים",
+          "חיבור חשמל",
+          "מתקנים מטופחים היטב",
+          "סביבה שקטה"
+        ]
+      },
+      "camping": {
+        "type": "campground",
+        "capacity": 40,
+        "cost": {
+          "en": "€17.30 per night (all inclusive)",
+          "he": "€17.30 בלילה (הכל כלול)"
+        }
+      },
+      "climate": {
+        "en": "Cool nights around 6-8°C in July, heating needed",
+        "he": "לילות קרים סביב 6-8 מעלות ביולי, דרוש חימום"
+      },
+      "difficulty": "easy",
+      "sharedBy": "Ilan",
+      "dateShared": "2025-07-07",
+      "sourceBatch": 13
+    },
+    {
+      "id": "loc-013-004",
+      "name": {
+        "en": "Shivaniq Camp, Ksamil",
+        "he": "קאמפ שיווניק, קזמיל"
+      },
+      "region": {
+        "en": "Albania (Ionian Coast)",
+        "he": "אלבניה (חוף יוני)"
+      },
+      "description": {
+        "en": "Excellent motorhome-friendly camp in nature reserve with private lake, warm family atmosphere. Located in Shivaniq nature reserve. Last 9km of access road is unpaved but easily passable for all vehicle types. Listed on Park4night. Israeli community present at location.",
+        "he": "קאמפ מעולה ידידותי לקמפרונים בשמורת טבע עם אגם פרטי, אווירה משפחתית חמה. ממוקם בשמורת טבע שיווניק. 9 ק\"מ האחרונים של דרך הגישה אינם סלולים אך עוברים בקלות לכל סוגי הרכבים. רשום ב-Park4night. קהילייה ישראלית נוכחת בחניה."
+      },
+      "type": "campground-resort",
+      "highlights": {
+        "en": [
+          "Private lake",
+          "Nature reserve location",
+          "Warm family atmosphere",
+          "Israeli community",
+          "Good facilities"
+        ],
+        "he": [
+          "אגם פרטי",
+          "שמורת טבע",
+          "אווירה משפחתית חמה",
+          "קהילייה ישראלית",
+          "מתקנים טובים"
+        ]
+      },
+      "access": {
+        "en": "9km unpaved but passable for all vehicle types (light vehicles fine)",
+        "he": "9ק\"מ לא סלול אך עוברים לכל סוגי הרכבים (רכבים קלים בסדר)"
+      },
+      "difficulty": "easy",
+      "sharedBy": "Ofer Nov",
+      "dateShared": "2025-07-08",
+      "sourceBatch": 13
+    },
+    {
+      "id": "loc-013-005",
+      "name": {
+        "en": "Geneva Airport Area Parking",
+        "he": "אזור חנייה ליד שדה התעופה בג'נבה"
+      },
+      "region": {
+        "en": "Geneva, Switzerland / France border",
+        "he": "ג'נבה, שוויץ / גבול צרפת"
+      },
+      "description": {
+        "en": "Monthly motorhome parking options near Geneva airport. French side is significantly cheaper than Swiss side. Multiple parking options available with advance booking.",
+        "he": "אפשרויות חנייה קמפרוון חודשיות ליד שדה התעופה בג'נבה. הצד הצרפתי משמעותית זול יותר מהצד השוויצרי. אפשרויות חנייה מרובות זמינות עם הזמנה מראש."
+      },
+      "type": "parking",
+      "recommendations": {
+        "en": [
+          "Search on French side for better prices",
+          "Use parking-agir.fr for reasonable rates",
+          "Advance booking recommended"
+        ],
+        "he": [
+          "חפש בצד הצרפתי לשיעורים טובים יותר",
+          "השתמש ב-parking-agir.fr לשיעורים סבירים",
+          "הזמנה מראש מומלצת"
+        ]
+      },
+      "difficulty": "easy",
+      "sharedBy": "Ron Kellner",
+      "dateShared": "2025-07-03",
+      "links": [
+        "https://maps.app.goo.gl/eK2ZEpLXvgxVKFqQ8",
+        "https://www.parking-agir.fr/",
+        "https://www.onepark.fr/parkings/3947-parking-discount-cheap-exterieur"
+      ],
+      "sourceBatch": 13
+    },
+    {
+      "id": "loc-014-001",
+      "name": {
+        "en": "Pyrenees, French Side",
+        "he": "פירינאים, הצד הצרפתי"
+      },
+      "type": "mountain-region",
+      "description": {
+        "en": "Mountain region in southern France where Ilan was located. Currently experiencing summer weather with rain and thunderstorms. Good for overnight camping with electric hookup.",
+        "he": "אזור הרים בדרום צרפת שבו נמצא אילן. כרגע חווה מזג קיץ עם גשם וסערות ברקים ורעמים. טוב לקמפינג לילה עם חיבור חשמל."
+      },
+      "region": "France",
+      "coordinates": {
+        "general": "Southern France, Pyrenees region"
+      },
+      "amenities": [
+        "Electric hookup",
+        "Overnight parking"
+      ],
+      "sharedBy": "Ilan",
+      "dateShared": "2025-07-12",
+      "notes": {
+        "en": "Located between Perpignan and Montpellier area",
+        "he": "ממוקם בין אזור פרפיניון למונטפלייה"
+      },
+      "sourceBatch": 14
+    },
+    {
+      "id": "loc-014-002",
+      "name": {
+        "en": "Emek Yaffo and Golan Heights",
+        "he": "עמק יעפורי וגולן"
+      },
+      "type": "scenic-region",
+      "description": {
+        "en": "Beautiful scenic area in Israel. Mentioned as a parking location with excellent views.",
+        "he": "אזור יפה ונראה טוב בישראל. הוזכר כמקום חנייה עם נופים מצוינים."
+      },
+      "region": "Israel",
+      "sharedBy": "Avi Feldman, Tuval Avishi",
+      "dateShared": "2025-07-09",
+      "notes": {
+        "en": "Romantic location with natural beauty",
+        "he": "מיקום רומנטי עם יופי טבעי"
+      },
+      "sourceBatch": 14
+    },
+    {
+      "id": "loc-014-003",
+      "name": {
+        "en": "Stegastein Viewpoint, Norway",
+        "he": "נקודת תצפית Stegastein, נורבגיה"
+      },
+      "type": "scenic-viewpoint",
+      "description": {
+        "en": "Scenic viewpoint in Norway near the town of Flam. Accessible via a scenic road (E16) that bypasses a 20+ km long tunnel. Excellent photography location with stunning mountain views.",
+        "he": "נקודת תצפית בנורבגיה ליד העיירה Flam. נגישה דרך כביש נופי (E16) המעוקף מנהרה ארוכה של למעלה מ-20 ק\"מ. מקום צילום מעולה עם נופים הרריים מדהימים."
+      },
+      "region": "Norway",
+      "coordinates": {
+        "general": "Near Flam, Norway"
+      },
+      "highlights": {
+        "en": [
+          "Scenic E16 road avoiding long tunnel",
+          "Stunning mountain photography",
+          "Beautiful views"
+        ],
+        "he": [
+          "כביש נופי E16 המעוקף נהרה",
+          "צילום הרים מדהים",
+          "נופים יפים"
+        ]
+      },
+      "sharedBy": "Efraim Lior",
+      "dateShared": "2025-07-09",
+      "tags": [
+        "scenic",
+        "photography",
+        "norway",
+        "viewpoint"
+      ],
+      "sourceBatch": 14
+    },
+    {
+      "id": "loc-014-004",
+      "name": {
+        "en": "Paris/Brussels Area - Storage Facilities",
+        "he": "אזור פריס/בריסל - מתקני אחסון"
+      },
+      "type": "motorhome-storage",
+      "description": {
+        "en": "Long-term motorhome storage options in Paris area. Several facilities available with monthly fees ranging from €70-€75.",
+        "he": "אפשרויות אחסון קמפרוון לטווח ארוך באזור פריס. מספר מתקנים זמינים עם עלויות חודשיות בטווח של €70-€75."
+      },
+      "region": "France - Paris area",
+      "storageFacilities": [
+        {
+          "name": {
+            "en": "Storage Rambouillet Mobile near Paris",
+            "he": "Storage Rambouillet Mobile ליד פריס"
+          },
+          "contact": "Constant",
+          "monthly_cost": "€70",
+          "distance": "Approximately 1.5 hours from city center",
+          "notes": {
+            "en": "Farm-like facility. Recommended by Rami Galboa.",
+            "he": "מתקן בסגנון חווה. מומלץ על ידי רמי גלבוע."
+          }
+        },
+        {
+          "name": {
+            "en": "Huttopia Rambouillet Campground",
+            "he": "Huttopia Rambouillet קמפינג"
+          },
+          "notes": {
+            "en": "Nice campground near storage facility. Accepts ACSI cards if available.",
+            "he": "קמפינג נחמד ליד המתקן. מקבל כרטיסי ACSI אם יש."
+          }
+        },
+        {
+          "name": {
+            "en": "Vincent Morel - Paris Area Parking",
+            "he": "Vincent Morel - חניה באזור פריס"
+          },
+          "contact": "vincent.morel.ms@gmail.com",
+          "phone": "33686423172",
+          "distance": "10 minutes from Charles de Gaulle Airport",
+          "notes": {
+            "en": "Option full, looking for alternatives",
+            "he": "אפשרות מלאה, מחפשים חלופות"
+          }
+        }
+      ],
+      "sharedBy": "itzik, Amit Raphaeli, Rami Galboa, Jorge",
+      "dateShared": "2025-07-12",
+      "tags": [
+        "storage",
+        "long-term",
+        "paris",
+        "expensive"
+      ],
+      "sourceBatch": 14
+    },
+    {
+      "id": "loc-014-005",
+      "name": {
+        "en": "Rieti, Italy - Workshop",
+        "he": "Rieti, איטליה - סדנה"
+      },
+      "type": "service-center",
+      "description": {
+        "en": "Family-run workshop in Rieti, Italy specializing in motorhome, camper, and caravan repairs and modifications. Excellent service and fair pricing. Recommended by Amir Malzer.",
+        "he": "סדנה משפחתית ב-Rieti, איטליה המתמחה בתיקונים והוספות לקמפרוונים, קמפרים וקרוונים. שירות מעולה ומחירים הוגנים. מומלץ על ידי עמיר מלצר."
+      },
+      "region": "Italy",
+      "coordinates": {
+        "city": "Rieti"
+      },
+      "services": [
+        "Motorhome repairs",
+        "Camper modifications",
+        "Caravan service",
+        "LPG installation",
+        "Camping accommodations"
+      ],
+      "highlights": {
+        "en": [
+          "Family-run professional workshop",
+          "Fair and reasonable pricing",
+          "Evening dining at local restaurant",
+          "VIP treatment available"
+        ],
+        "he": [
+          "סדנה משפחתית מקצועית",
+          "מחירים הוגנים ויחסיים",
+          "ארוחה בערב במסעדה מקומית",
+          "טיפול VIP זמין"
+        ]
+      },
+      "contact": "Amir Malzer can arrange",
+      "sharedBy": "Ravid paz, Amir Malzer",
+      "dateShared": "2025-07-17",
+      "tags": [
+        "service",
+        "italy",
+        "professional",
+        "workshop"
+      ],
+      "specialNote": {
+        "en": "Owner Barbara is highly respected. Family atmosphere with excellent service.",
+        "he": "בעלת הבית ברברה כבודה עמוק. אווירה משפחתית עם שירות מעולה."
+      },
+      "sourceBatch": 14
+    },
+    {
+      "id": "loc-014-006",
+      "name": {
+        "en": "Southern Africa - Pretoria Region",
+        "he": "דרום אפריקה - אזור פרטוריה"
+      },
+      "type": "service-farm",
+      "description": {
+        "en": "Farm location near Pretoria with technical expert owner. Offers closed shed storage and mechanical assistance for motorhomes. Good for post-journey repairs and maintenance.",
+        "he": "חווה ליד פרטוריה עם בעלים שהיא אדם טכני מעולה. מציעה אחסון בהנגר סגור וסיוע מכני לקמפרוונים. טוב להנדסה וטיפולים לאחר המסע."
+      },
+      "region": "South Africa",
+      "coordinates": {
+        "general": "Near Pretoria"
+      },
+      "services": [
+        "Enclosed storage",
+        "Technical repairs",
+        "Mechanical assistance",
+        "Professional network"
+      ],
+      "specialization": "Sprinter and motorhome expert",
+      "contactMethod": "Through Elisha (Aba)",
+      "sharedBy": "Elisha (Aba)",
+      "dateShared": "2025-07-15",
+      "tags": [
+        "service",
+        "south-africa",
+        "storage",
+        "technical"
+      ],
+      "notes": {
+        "en": "Good location for post-journey maintenance. Owner has extensive local connections in the area.",
+        "he": "מיקום טוב לתיקון לאחר המסע. לבעלים יש קשרים מקומיים נרחבים באזור."
+      },
+      "sourceBatch": 14
+    },
+    {
+      "id": "loc-015-001",
+      "name": {
+        "en": "Wroclaw, Poland",
+        "he": "ורוצלב, פולין"
+      },
+      "description": {
+        "en": "City in Poland mentioned as a rainy travel destination",
+        "he": "עיר בפולין שהוזכרה כיעד נסיעה גשום"
+      },
+      "country": "Poland",
+      "weatherNotes": {
+        "en": "Rain reported",
+        "he": "גשם בוורוצלב"
+      },
+      "sharedBy": "Ron Kellner",
+      "dateShared": "2025-07-21",
+      "sourceBatch": 15
+    },
+    {
+      "id": "loc-015-002",
+      "name": {
+        "en": "Vienna area (Hallstatt region), Austria",
+        "he": "אזור וינה (אזור האלשטאט), אוסטריה"
+      },
+      "description": {
+        "en": "Hotel near Hallstatt where Ron Kellner was stopped by police for arriving late (after 20:00). Illustrates local enforcement of rules and different cultural expectations.",
+        "he": "מלון ליד האלשטאט שבו חנה רון קלנר והעצור על ידי משטרה על כניסה מאוחרת (אחרי 20:00). מדגים אכיפת כללים מקומית וציפיות תרבותיות שונות."
+      },
+      "country": "Austria",
+      "anecdote": {
+        "en": "Hotel owner called police for late arrival. Officers explained it's routine - they get cases like this weekly. Emphasizes importance of respecting local rules.",
+        "he": "בעל המלון זימן משטרה על הגעה מאוחרת. השוטרים הסבירו שזה שגרתי - הם מטפלים במקרים כאלה כל שבוע. מדגיש חשיבות כבוד לכללים מקומיים."
+      },
+      "sharedBy": "Ron Kellner",
+      "dateShared": "2025-07-26",
+      "sourceBatch": 15
+    },
+    {
+      "id": "loc-015-003",
+      "name": {
+        "en": "Church parking area, Austria",
+        "he": "חניון ליד כנסייה, אוסטריה"
+      },
+      "description": {
+        "en": "Rural church parking where Ron Kellner spent the night. Local residents saw he was Israeli tourist, invited him to wedding celebration.",
+        "he": "חניה בכנסייה כפרית שבה בילה רון קלנר את הלילה. תושבים מקומיים ראו שהוא תייר ישראלי והזמינוהו לחגיגת חתונה."
+      },
+      "country": "Austria",
+      "anecdote": {
+        "en": "Invited to local wedding celebration - positive cultural exchange. Shows contrast between places that welcome travelers and those that don't.",
+        "he": "הוזמן לחגיגת חתונה מקומית - חילופי תרבות חיוביים. מציג ניגוד בין מקומות המקדמים תיירים לאלה שלא."
+      },
+      "sharedBy": "Ron Kellner",
+      "dateShared": "2025-07-26",
+      "sourceBatch": 15
+    },
+    {
+      "id": "loc-015-004",
+      "name": {
+        "en": "Lyon, France",
+        "he": "ליון, צרפת"
+      },
+      "description": {
+        "en": "City where Israeli tourists' rented motorhome was broken into and robbed while visiting a museum. Critical security warning for travelers.",
+        "he": "עיר שבה נפרץ וננבז קמפרוון שכור של תיירים ישראלים בזמן ביקור במוזיאון. אזהרה ביטחונית קריטית לנוסעים."
+      },
+      "country": "France",
+      "safetyWarning": {
+        "en": "Break-in and robbery - all documents, clothes stolen. Credit cards fortunately on person.",
+        "he": "פריצה וגניבה - כל התעודות בגדים נגנבו. כרטיסי אשראי למזלם על הגוף"
+      },
+      "sharedBy": "Ilan",
+      "dateShared": "2025-07-26",
+      "sourceBatch": 15
+    },
+    {
+      "id": "loc-015-005",
+      "name": {
+        "en": "Paris, France",
+        "he": "פריז, צרפת"
+      },
+      "description": {
+        "en": "Capital where robbed tourists were assisted by Israeli embassy on Monday. Location for embassy support for traveling citizens.",
+        "he": "בירה שבה קיבלו התיירים השדודים סיוע משגרירות ישראל ביום שני. מקום לתמיכת שגרירות עבור אזרחים טיולים."
+      },
+      "country": "France",
+      "services": {
+        "en": "Israeli embassy support for travel emergencies",
+        "he": "תמיכת שגרירות ישראל לחירום נסיעות"
+      },
+      "sharedBy": "Ilan",
+      "dateShared": "2025-07-26",
+      "sourceBatch": 15
+    },
+    {
+      "id": "loc-015-006",
+      "name": {
+        "en": "Queen's Gardens area (Sydney or similar), nearby small town",
+        "he": "אזור גני המלכה (סידני או דומה), עיירה קטנה בקרבת מקום"
+      },
+      "description": {
+        "en": "Small town near major city where motorhome was broken into and computer stolen from street parking",
+        "he": "עיירה קטנה ליד עיר גדולה שבה חדרו לקמפרוון וגנבו מחשב מחניה ברחוב"
+      },
+      "safetyWarning": {
+        "en": "Break-in and theft from street parking - loss of computer and electronics",
+        "he": "פריצה וגניבה מחניה בחוץ - אובדן מחשב וציוד אלקטרוני"
+      },
+      "sharedBy": "Amiram",
+      "dateShared": "2025-07-26",
+      "sourceBatch": 15
+    },
+    {
+      "id": "loc-015-007",
+      "name": {
+        "en": "Milan area, Italy",
+        "he": "אזור מילאנו, איטליה"
+      },
+      "description": {
+        "en": "Region where motorhome storage needed. Major city with camping facilities and storage options.",
+        "he": "אזור שבו דרוש אחסון קמפרוון. עיר גדולה עם מתקני קמפינג ואפשרויות אחסון."
+      },
+      "country": "Italy",
+      "contact": {
+        "name": "Gil Albaz",
+        "phone": "+393474059030",
+        "description": {
+          "en": "Large camping site in Milan with storage services",
+          "he": "אתר קמפינג גדול במילאנו עם שירותי אחסון"
+        }
+      },
+      "sharedBy": "Oren Kipnis",
+      "dateShared": "2025-07-30",
+      "sourceBatch": 15
+    },
+    {
+      "id": "loc-015-008",
+      "name": {
+        "en": "Iceland",
+        "he": "איסלנד"
+      },
+      "description": {
+        "en": "Remote destination where Ron Kellner seeks motorhome storage information",
+        "he": "יעד מרוחק שבו רון קלנר מחפש מידע אחסון קמפרוון"
+      },
+      "country": "Iceland",
+      "sharedBy": "Ron Kellner",
+      "dateShared": "2025-07-29",
+      "sourceBatch": 15
+    },
+    {
+      "id": "loc-015-009",
+      "name": {
+        "en": "Piemonte (Piedmont), Italy - Macadamia nut farm agriturismo",
+        "he": "פיימונטה (פידמונטה), איטליה - חווה אגוזי מקדמיה עם אגריטוריזמו"
+      },
+      "description": {
+        "en": "Enormous farm and vineyard (producing 150,000 bottles of wine per year) with macadamia nut orchards and agriturismo accommodation. Highly recommended camping and tourism destination.",
+        "he": "חווה ענקית ויקב (מייצרים 150,000 בקבוקי יין בשנה) עם מטעי אגוזי מקדמיה ומקום אגריטוריזמו. יעד קמפינג ותיירות מומלץ מאוד."
+      },
+      "country": "Italy",
+      "pricePerNight": {
+        "amount": 15,
+        "currency": "EUR",
+        "included": [
+          "electricity",
+          "water",
+          "shower",
+          "ancient wine barrel facilities"
+        ]
+      },
+      "amenities": {
+        "en": [
+          "Electricity",
+          "Water",
+          "Shower facilities in ancient wine barrel",
+          "Macadamia nut orchards",
+          "Wine vineyard (150,000 bottles/year)"
+        ],
+        "he": [
+          "חשמל",
+          "מים",
+          "מקלחת בחבית יין קדומה",
+          "מטעי אגוזי מקדמיה",
+          "יקב יין (150,000 בקבוקים בשנה)"
+        ]
+      },
+      "highlights": {
+        "en": "Beautiful scenic area, wonderful family, gift of 3kg macadamia nuts, exceptional wine tourism experience",
+        "he": "אזור נופי יפה, משפחה נחמדה מאוד, מתנה של 3 קילו אגוזי מקדמיה, חוויית תיירות יין יוצאת דופן"
+      },
+      "coordinates": {
+        "url": "https://maps.app.goo.gl/7GLwRK3AHSsCKFdn9?g_st=aw"
+      },
+      "rating": {
+        "en": "Highly recommended - exceptional value and experience",
+        "he": "מומלץ בחום - ערך וחוויה יוצאי דופן"
+      },
+      "sharedBy": "Ilan",
+      "dateShared": "2025-07-30",
+      "sourceBatch": 15
+    },
+    {
+      "id": "loc-015-010",
+      "name": {
+        "en": "Thessaloniki (Salonica), Greece",
+        "he": "סלוניקי (תסלוניקה), יוון"
+      },
+      "description": {
+        "en": "Greek city where motorhome is currently located. Base for month-long European tour planned by new group members.",
+        "he": "עיר יוונית שבה קמפרוון נמצא כרגע. בסיס לסיור אירופאי של חודש המתוכנן על ידי חברים חדשים."
+      },
+      "country": "Greece",
+      "sharedBy": "Tuval Avishi, Navot Menachem",
+      "dateShared": "2025-08-04",
+      "sourceBatch": 15
+    },
+    {
+      "id": "loc-015-011",
+      "name": {
+        "en": "Turate, Italy",
+        "he": "טוראטה, איטליה"
+      },
+      "description": {
+        "en": "Town with train connection to Milan (Malpensa) Airport for convenient airport transit",
+        "he": "עיר עם חיבור רכבת לשדה התעופה מילאנו (מלפנסה) לתחבורה נוחה"
+      },
+      "country": "Italy",
+      "transportation": {
+        "en": "Train to Malpensa Airport",
+        "he": "רכבת לשדה התעופה מלפנסה"
+      },
+      "sharedBy": "Ilan",
+      "dateShared": "2025-08-06",
+      "sourceBatch": 15
+    },
+    {
+      "id": "loc-015-012",
+      "name": {
+        "en": "Marseille (Marcy), France",
+        "he": "מרסיי (מרסי), צרפת"
+      },
+      "description": {
+        "en": "Coastal city in France where motorhome storage needed for short-term (few days)",
+        "he": "עיר חופית בצרפת שבה דרוש אחסון קמפרוון לטווח קצר (כמה ימים)"
+      },
+      "country": "France",
+      "sharedBy": "Ofer Nov",
+      "dateShared": "2025-08-06",
+      "sourceBatch": 15
+    },
+    {
+      "id": "loc-015-013",
+      "name": {
+        "en": "Porto, Portugal",
+        "he": "פורטו, פורטוגל"
+      },
+      "description": {
+        "en": "Coastal city in Portugal seeking recommendation for long-term motorhome parking area",
+        "he": "עיר חופית בפורטוגל החיפוש המלצה לאזור חניה ארוך טווח לקמפרוון"
+      },
+      "country": "Portugal",
+      "sharedBy": "Neama Levav (Movement Therapy Expert)",
+      "dateShared": "2025-08-07",
+      "sourceBatch": 15
+    },
+    {
+      "id": "loc-016-001",
+      "name": {
+        "en": "Konstanz Lake Area (Konstanz - Memmingen Region)",
+        "he": "אזור אגם קונסטנץ (קונסטנץ - ממינגן)"
+      },
+      "region": "Southern Germany",
+      "country": "Germany",
+      "type": "storage",
+      "description": {
+        "en": "Storage facility area in southern Germany between Konstanz Lake and Munich. Notable for convenient access to Memmingen airport with budget Ryanair flights to Israel.",
+        "he": "אזור מתקן איחסון בדרום גרמניה בין אגם קונסטנץ למינכן. ניכר בגישה נוחה לשדה תעופה ממינגן עם טיסות תקציב Ryanair לישראל."
+      },
+      "servicePoints": {
+        "en": [
+          "Angela Bradl Camper Storage (near Munich airport)",
+          "Leutkirsh parking facility under cover"
+        ],
+        "he": [
+          "אחסון קמפר Angela Bradl (ליד שדה תעופה מינכן)",
+          "חניון Leutkirsh תחת סככות"
+        ]
+      },
+      "details": {
+        "en": "Leutkirsh is a small town on A96 autobahn, 30 minutes north of Konstanz Lake and 30 minutes by shuttle from Memmingen airport. Cost approximately €1.70/day. Storage facility often full but worth checking for availability.",
+        "he": "Leutkirsh היא עיר קטנה על האוטוסטרדה A96, 30 דקות צפונית לאגם קונסטנץ ו-30 דקות בשטל משדה תעופה ממינגן. עלות בערך €1.70 ליום. מתקן האחסון לעתים קרובות מלא אך שווה לבדוק זמינות."
+      },
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "sharedBy": "Efraim Liyor, Rami Galboa",
+      "dateShared": "2025-09-01",
+      "contactInfo": {
+        "email": null,
+        "phone": null,
+        "website": null,
+        "notes": {
+          "en": "Contact: Angela Bradl for Munich area; Contact local German network for Leutkirsh",
+          "he": "יצור קשר: Angela Bradl לאזור מינכן; יצור קשר עם רשת גרמנית מקומית עבור Leutkirsh"
+        }
+      },
+      "sourceBatch": 16
+    },
+    {
+      "id": "loc-016-002",
+      "name": {
+        "en": "Hamburg Area Storage",
+        "he": "אחסון באזור המבורג"
+      },
+      "region": "Northern Germany",
+      "country": "Germany",
+      "type": "storage",
+      "description": {
+        "en": "Motorhome storage facility in northern Germany, Hamburg area. Details to be obtained from German local network.",
+        "he": "מתקן אחסון קמפרוון בצפון גרמניה, אזור המבורג. פרטים יתקבלו מרשת מקומית גרמנית."
+      },
+      "sharedBy": "Amit Rapali",
+      "dateShared": "2025-09-01",
+      "sourceBatch": 16
+    },
+    {
+      "id": "loc-016-003",
+      "name": {
+        "en": "Gdansk, Poland",
+        "he": "גדנסק, פולין"
+      },
+      "region": "Northern Europe",
+      "country": "Poland",
+      "type": "city/attraction",
+      "description": {
+        "en": "Cultural destination in Poland. Museum of freedom mentioned as highly recommended even for those who don't usually enjoy museums.",
+        "he": "יעד תרבותי בפולין. מוזאון החרות מומלץ מאוד גם לאלה שלא בדרך כלל נהנים ממוזאונים."
+      },
+      "attractions": {
+        "en": [
+          "Museum of Freedom"
+        ],
+        "he": [
+          "מוזאון החרות"
+        ]
+      },
+      "visitedBy": "Ron Kellner",
+      "dateVisited": "2025-08-30",
+      "sourceBatch": 16
+    },
+    {
+      "id": "loc-016-004",
+      "name": {
+        "en": "Ketobig/Katovice Area, Poland",
+        "he": "אזור קטוביץ, פולין"
+      },
+      "region": "Southern Poland",
+      "country": "Poland",
+      "type": "city/sports",
+      "description": {
+        "en": "Sports location in Poland hosting Israeli basketball national team matches.",
+        "he": "מיקום ספורט בפולין המארח משחקי נבחרת כדורסל של ישראל."
+      },
+      "events": {
+        "en": [
+          "Israel basketball matches"
+        ],
+        "he": [
+          "משחקי כדורסל של ישראל"
+        ]
+      },
+      "distanceFromGdansk": {
+        "value": 550,
+        "unit": "km"
+      },
+      "sourceBatch": 16
+    },
+    {
+      "id": "loc-016-005",
+      "name": {
+        "en": "Location: 53.632610, 0.104809",
+        "he": "מיקום: 53.632610, 0.104809"
+      },
+      "region": "England",
+      "country": "UK",
+      "type": "camping/parking",
+      "description": {
+        "en": "Motorhome parking location in England shared by Nadav. Appears to be scenic location based on photos shared.",
+        "he": "מיקום חניית קמפרוון באנגליה שהחסיך נדב. נראה כמיקום יפה על ידי התמונות שהוחסכו."
+      },
+      "coordinates": {
+        "latitude": 53.63261,
+        "longitude": 0.104809
+      },
+      "sharedBy": "Nadav",
+      "dateShared": "2025-08-31",
+      "sourceBatch": 16
+    },
+    {
+      "id": "loc-016-006",
+      "name": {
+        "en": "Montenegro - Behind Oren's Synchrony",
+        "he": "מונטנגרו - מאחורי הסינכרו של אורן"
+      },
+      "region": "Balkan Region",
+      "country": "Montenegro",
+      "type": "scenic-road",
+      "description": {
+        "en": "Beautiful mountain road in Montenegro, recommended for motorhome travel. Described as excellent route from Qutor.",
+        "he": "כביש הרים יפה במונטנגרו, מומלץ לנסיעת קמפרוון. מתואר כמסלול מעולה מקוטור."
+      },
+      "highlights": {
+        "en": [
+          "Scenic mountain road",
+          "Excellent highway conditions"
+        ],
+        "he": [
+          "כביש הרים יפה",
+          "תנאי כביש מעולים"
+        ]
+      },
+      "relatedPeople": {
+        "en": "Rami Galboa shared connection; Oran Kipnis friend collecting Citroens",
+        "he": "רמי גלבוע חלק קשר; ידיד של אורן קיפניס אוסף סיטרואנים"
+      },
+      "sharedBy": "Ilan",
+      "dateShared": "2025-08-29",
+      "sourceBatch": 16
+    },
+    {
+      "id": "loc-017-001",
+      "name": {
+        "en": "Switzerland",
+        "he": "שוויץ"
+      },
+      "description": {
+        "en": "Jorge passing through Switzerland, entering Germany in three days",
+        "he": "חורחה עובר דרך שוויץ, נכנס לגרמניה בעוד שלושה ימים"
+      },
+      "country": "Switzerland",
+      "context": "Transit point",
+      "mentionedBy": "Jorge",
+      "dateShared": "2025-09-10",
+      "sourceBatch": 17
+    },
+    {
+      "id": "loc-017-002",
+      "name": {
+        "en": "Basel to Hamburg Route",
+        "he": "מסלול מבאזל להמבורג"
+      },
+      "description": {
+        "en": "Travel route from Basel (Switzerland) to Hamburg (Germany) requiring Citroën mechanic assistance",
+        "he": "מסלול נסיעה מבאזל (שוויץ) להמבורג (גרמניה) דורש עזרה של מכונאי סיטרואן"
+      },
+      "startPoint": "Basel",
+      "endPoint": "Hamburg",
+      "country": "Germany, Switzerland",
+      "mentionedBy": "Jorge",
+      "dateShared": "2025-09-10",
+      "sourceBatch": 17
+    },
+    {
+      "id": "loc-017-003",
+      "name": {
+        "en": "Mongolia",
+        "he": "מונגוליה"
+      },
+      "description": {
+        "en": "Three-river region (Nadam festival location). Extremely difficult weather conditions. Features local customs including Mongolian horse fermented milk (kumiss)",
+        "he": "אזור שלוש הנהרות (מקום פסטיבל נדם). תנאי מזג אוויר קשים ביותר. מקורות מקומיים כולל חלב סוסים מוססם מונגולי"
+      },
+      "country": "Mongolia",
+      "highlights": {
+        "en": [
+          "Nadam festival - three concurrent festivals at once",
+          "Tribal date-based festival timing",
+          "Authentic cultural experiences",
+          "Steppe landscape and nomadic culture"
+        ],
+        "he": [
+          "פסטיבל נדם - שלוש פסטיבלים בו זמנית",
+          "תזמון פסטיבל מבוסס על תאריך שבטי",
+          "חוויות תרבותיות אותנטיות",
+          "נוף סטפה ותרבות נומדית"
+        ]
+      },
+      "warnings": {
+        "en": [
+          "Very difficult for digestion - fermented horse milk",
+          "Extreme weather conditions",
+          "Remote location with limited services"
+        ],
+        "he": [
+          "קשה מאוד לעיכול - חלב סוסים מוססם",
+          "תנאים אקלימיים קיצוניים",
+          "מיקום מרוחק עם שירותים מוגבלים"
+        ]
+      },
+      "mentionedBy": "Ilan, Fat Adventurer",
+      "dateShared": "2025-09-11",
+      "sourceBatch": 17
+    },
+    {
+      "id": "loc-017-004",
+      "name": {
+        "en": "Northern Italy",
+        "he": "צפון איטליה"
+      },
+      "description": {
+        "en": "Italy trip destination. Ilan planned to arrive from September 28th. Meeting point with coffee",
+        "he": "יעד נסיעה לאיטליה. אילן תכנן להגיע מ-28 בספטמבר. נקודת מפגש עם קפה"
+      },
+      "country": "Italy",
+      "region": "Northern Italy",
+      "mentionedBy": "Ilan",
+      "dateShared": "2025-09-15",
+      "sourceBatch": 17
+    },
+    {
+      "id": "loc-017-005",
+      "name": {
+        "en": "Umbria Region",
+        "he": "אזור אומבריה"
+      },
+      "description": {
+        "en": "Region in Italy. Jump from Mongolia to Umbria in Italy",
+        "he": "אזור באיטליה. קפיצה ממונגוליה לאומבריה באיטליה"
+      },
+      "country": "Italy",
+      "region": "Umbria",
+      "mentionedBy": "Ilan",
+      "dateShared": "2025-09-23",
+      "sourceBatch": 17
+    },
+    {
+      "id": "loc-017-006",
+      "name": {
+        "en": "Rome - Villa Doria Pamphili Park",
+        "he": "רומא - פארק וילה דוריה פמפילי"
+      },
+      "description": {
+        "en": "Free parking location with stunning park and facilities. Major attractions in Rome",
+        "he": "מיקום חנייה חינם עם פארק מדהים ותשתיות. אטרקציות עיקריות ברומא"
+      },
+      "city": "Rome",
+      "country": "Italy",
+      "coordinates": "41.887524,12.458787",
+      "amenities": {
+        "en": [
+          "Free parking",
+          "Large park area",
+          "Beautiful views"
+        ],
+        "he": [
+          "חנייה חינם",
+          "שטח פארק גדול",
+          "נוף יפה"
+        ]
+      },
+      "mentionedBy": "Amir Meltzer",
+      "dateShared": "2025-09-23",
+      "sourceBatch": 17
+    },
+    {
+      "id": "loc-017-007",
+      "name": {
+        "en": "Saturnia Mineral Springs",
+        "he": "מעיינות מינרלים סטורניה"
+      },
+      "description": {
+        "en": "Amazing mineral springs. Free parking with giant parking area. Excellent location close to group. Amazing hot springs for natural bathing",
+        "he": "מעיינות מינרלים מדהימים. חנייה חינם עם חנייה ענקית. מיקום מעולה קרוב לקבוצה. מעיינות חמים מדהימים לרחצה טבעית"
+      },
+      "city": "Saturnia",
+      "country": "Italy",
+      "description_italian": "Hotsprings with natural thermal pools",
+      "amenities": {
+        "en": [
+          "Free parking",
+          "Large parking area",
+          "Natural hot springs",
+          "No entrance fees",
+          "Excellent facilities"
+        ],
+        "he": [
+          "חנייה חינם",
+          "שטח חנייה ענק",
+          "מעיינות חמים טבעיים",
+          "ללא דמי כניסה",
+          "תשתיות מעולות"
+        ]
+      },
+      "mapLink": "https://share.google/nWmpjjo5RFZ5HSKSn",
+      "mentionedBy": "Jorge, Amir Meltzer",
+      "dateShared": "2025-09-24",
+      "recommendation": {
+        "en": "Highly recommended for those who love hot springs",
+        "he": "מומלץ בחום לאלו שאוהבים מעיינות חמים"
+      },
+      "sourceBatch": 17
+    },
+    {
+      "id": "loc-017-008",
+      "name": {
+        "en": "Viterbo - Mineral Springs Area",
+        "he": "ויטרבו - אזור מעיינות מינרלים"
+      },
+      "description": {
+        "en": "Amazing mineral springs. Free parking with giant parking area. High-quality people in the area",
+        "he": "מעיינות מינרלים מדהימים. חנייה חינם עם שטח חנייה ענק. אנשים ברמה גבוהה באזור"
+      },
+      "city": "Viterbo",
+      "country": "Italy",
+      "amenities": {
+        "en": [
+          "Free parking",
+          "Huge parking area",
+          "Mineral springs",
+          "Quality accommodations and dining"
+        ],
+        "he": [
+          "חנייה חינם",
+          "שטח חנייה ענק",
+          "מעיינות מינרלים",
+          "אקומודציות ואוכל ברמה"
+        ]
+      },
+      "mentionedBy": "Amir Meltzer",
+      "dateShared": "2025-09-24",
+      "sourceBatch": 17
+    },
+    {
+      "id": "loc-017-009",
+      "name": {
+        "en": "Budapest",
+        "he": "בודפשט"
+      },
+      "description": {
+        "en": "Storage location inquiry. User looking for free vehicle storage in secure facility near Budapest",
+        "he": "בדיקת מיקום אחסון. משתמש מחפש אחסון רכבים חינם בתשתית מאובטחת ליד בודפשט"
+      },
+      "country": "Hungary",
+      "context": "Vehicle storage point",
+      "requirement": {
+        "en": "Storage facility near city with garage coverage and free shuttle service",
+        "he": "מתקן אחסון ליד העיר עם כיסוי סככה ושירות הסעות חינם"
+      },
+      "mentionedBy": "Itay",
+      "dateShared": "2025-09-15",
+      "sourceBatch": 17
+    },
+    {
+      "id": "loc-017-010",
+      "name": {
+        "en": "Eastern Germany Storage",
+        "he": "אחסון בגרמניה המזרחית"
+      },
+      "description": {
+        "en": "Tom Lerner storing motorhome in Eastern Germany with experienced Citroën/PSA mechanic",
+        "he": "טום לרנר אחסן קמפרוון בגרמניה המזרחית עם מכונאי סיטרואן/PSA מנוסה"
+      },
+      "region": "Eastern Germany",
+      "country": "Germany",
+      "context": "Vehicle storage with mechanic services",
+      "mentionedBy": "Tom Lerner",
+      "dateShared": "2025-09-27",
+      "sourceBatch": 17
+    },
+    {
+      "id": "loc-017-011",
+      "name": {
+        "en": "South America - Motorhome Adventure Route",
+        "he": "דרום אמריקה - מסלול הרפתקת קמפרוון"
+      },
+      "description": {
+        "en": "Seven-month family motorhome journey across South America. Met motorhome in Montevideo, traveled south through Argentina and Chile via Carretera Austral and Route 40 to Torres del Paine, then north through Argentina, Chile, Andes, Peru, Ecuador, Galapagos, and Colombia",
+        "he": "מסע קמפרוון משפחתי של שבעה חודשים בדרום אמריקה. פגשו את הקמפרוון במונטיווידאו, נסעו דרומה דרך ארגנטינה וצ'ילה דרך Carretera Austral ו-Route 40 לטורוס דל פיינה, אחר כך צפונה דרך ארגנטינה, צ'ילה, אנדים, פרו, אקוודור, גלאפגוס וקולומביה"
+      },
+      "startPoint": "Montevideo, Uruguay",
+      "regions": [
+        "Argentina",
+        "Chile",
+        "Peru",
+        "Ecuador",
+        "Colombia"
+      ],
+      "duration": {
+        "value": 7,
+        "unit": "months"
+      },
+      "highlights": {
+        "en": [
+          "Carretera Austral - famous scenic route",
+          "Route 40 in Argentina",
+          "Torres del Paine in Chilean Patagonia",
+          "Andes mountain crossing",
+          "Peruvian highlands and culture",
+          "Ecuador",
+          "Galapagos Islands",
+          "Colombian Pacific coast to Caribbean"
+        ],
+        "he": [
+          "Carretera Austral - מסלול סוויני ידוע",
+          "Route 40 בארגנטינה",
+          "Torres del Paine בפטגוניה הצ'יליאנית",
+          "חציית הרי האנדים",
+          "הרים ותרבות פרואנית",
+          "אקוודור",
+          "איי גלאפגוס",
+          "חוף האוקיאנוס השקט הקולומביאני לקריביים"
+        ]
+      },
+      "familySize": 5,
+      "childrenAges": [
+        8,
+        5,
+        2
+      ],
+      "mentionedBy": "Tom Lerner",
+      "dateShared": "2025-09-27",
+      "sourceBatch": 17
+    },
+    {
+      "id": "loc-018-001",
+      "name": {
+        "en": "Cotopaxi Volcano, Ecuador",
+        "he": "הר הגעש קוטופקסי באקוודור"
+      },
+      "description": {
+        "en": "Active volcano in Ecuador, notable for dramatic mountain scenery. Sleeping location mentioned during South America motorhome journey. Rain weather experienced.",
+        "he": "הר געש פעיל באקוודור, ידוע בנופי הר דרמטיים. מיקום שינה שהוזכר בעת טיול קמפרוון בדרום אמריקה. חוויית גשם."
+      },
+      "region": "Ecuador",
+      "type": "natural-attraction",
+      "visitedBy": "Tom Lerner",
+      "dateVisited": "2025-09-27",
+      "highlights": {
+        "en": [
+          "Active volcano",
+          "Mountain scenery",
+          "Amazon proximity"
+        ],
+        "he": [
+          "הר געש פעיל",
+          "נופי הרים",
+          "קרבה לאמזונס"
+        ]
+      },
+      "sourceBatch": 18
+    },
+    {
+      "id": "loc-018-002",
+      "name": {
+        "en": "Amazon Region, Ecuador",
+        "he": "אזור אמזונס, אקוודור"
+      },
+      "description": {
+        "en": "Amazon rainforest area visited during South America motorhome journey. Featured in travel photos with remarkable nature scenery.",
+        "he": "אזור יערות הגשם של אמזונס בטיול קמפרוון בדרום אמריקה. הופיע בתמונות נסיעה עם נופים טבעיים יוצאי דופן."
+      },
+      "region": "Ecuador",
+      "type": "natural-attraction",
+      "visitedBy": "Tom Lerner",
+      "dateVisited": "2025-09-27",
+      "sourceBatch": 18
+    },
+    {
+      "id": "loc-018-003",
+      "name": {
+        "en": "Tiber, Italy (North of Rome)",
+        "he": "הר טיבור, איטליה (צפון לרומא)"
+      },
+      "description": {
+        "en": "Natural hot springs area in Tivoli, Italy. Recommendation to visit thermal springs in nature (Parco di Villa d'Este region). Near Rome.",
+        "he": "אזור מעיינות חמים בטיבולי, איטליה. המלצה לבקר במעיינות תרמיים בטבע. בקרבת רומא."
+      },
+      "region": "Lazio, Italy",
+      "type": "natural-attraction",
+      "coordinates": {
+        "latitude": 40.583481,
+        "longitude": 14.353789
+      },
+      "relatedGuides": [
+        "thermal-springs"
+      ],
+      "recommendedFor": "Ilan (motorhome traveler)",
+      "sharedBy": "Amir Meltzer",
+      "sourceBatch": 18
+    },
+    {
+      "id": "loc-018-004",
+      "name": {
+        "en": "SS163 Road, Amalfi Coast, Italy",
+        "he": "כביש SS163, חוף אמלפי, איטליה"
+      },
+      "description": {
+        "en": "One of Italy's most beautiful roads. Very narrow in many places, historically restricted from large camper traffic. Best driven with sun behind you (not facing sun). Scenic mountain road with tight curves.",
+        "he": "אחד הכבישים היפים ביותר באיטליה. צר מאוד במקומות רבים, בעבר הוגבל מתנועת קמפרים גדולים. יש להסע כשהשמש בגבך (לא מולך). כביש הרים מרהיב עם עקומות תחוקות."
+      },
+      "region": "Campania, Italy",
+      "type": "scenic-route",
+      "restrictions": {
+        "en": "Large motorhomes restricted - narrow road, max vehicle size approximately Vito-class",
+        "he": "קמפרים גדולים מוגבלים - כביש צר, גודל רכב מקסימלי בסביבות מחלקת ויטו"
+      },
+      "notes": {
+        "en": "1-hour YouTube video available about this road. Successfully driven by experienced travelers with smaller motorhomes.",
+        "he": "סרט ביוטיוב בן שעה זמין על כביש זה. הסע בהצלחה על ידי נוסעים ניסיונים עם קמפרים קטנים יותר."
+      },
+      "sharedBy": "Ephraim Lior",
+      "dateShared": "2025-09-28",
+      "sourceBatch": 18
+    },
+    {
+      "id": "loc-018-005",
+      "name": {
+        "en": "Park4Night Parking Spot 519785",
+        "he": "אתר חניה Park4Night 519785"
+      },
+      "description": {
+        "en": "Motorhome parking area accessible via Park4Night platform. Located in Europe region.",
+        "he": "אזור חניה לקמפרוון הנגיש דרך פלטפורמת Park4Night. ממוקם באזור אירופאי."
+      },
+      "amenities": {
+        "en": [
+          "Parking",
+          "Nearby services"
+        ],
+        "he": [
+          "חניה",
+          "שירותים קרובים"
+        ]
+      },
+      "resourceLink": "https://park4night.com/en/lieu/519785/open/",
+      "sharedBy": "Nadav",
+      "dateShared": "2025-09-28",
+      "sourceBatch": 18
+    },
+    {
+      "id": "loc-018-006",
+      "name": {
+        "en": "Texas, USA",
+        "he": "טקסס, ארה\"ב"
+      },
+      "description": {
+        "en": "Large state in USA with vast ranches, affordable prices relative to USA, hot summers and cold winters. Mixed weather year-round (no perfect climate). Recently visited by travelers searching for farm property.",
+        "he": "מדינה גדולה בארה\"ב עם חוות ענקיות, מחירים זולים יחסית לארה\"ב, קיץ חם וחורפים קרים. מזג אוויר מעורב כל השנה (אין אקלים מושלם). ביקור לאחרונה על ידי נוסעים החיפוש אחר קרקע חווה."
+      },
+      "region": "USA South-Central",
+      "type": "destination-region",
+      "climate": {
+        "en": "Hot summers, cold winters, no perfect weather",
+        "he": "קיץ חם, חורפים קרים, אין מזג אוויר מושלם"
+      },
+      "recommendations": {
+        "en": [
+          "Large ranches and acres available",
+          "Affordable prices",
+          "Viable for farm property rental/purchase"
+        ],
+        "he": [
+          "חוות וחלקות גדולות זמינות",
+          "מחירים זולים",
+          "כדאי לשכרה/קנייה של קרקע חווה"
+        ]
+      },
+      "sharedBy": "Boaz Gutman",
+      "dateShared": "2025-09-28",
+      "sourceBatch": 18
+    },
+    {
+      "id": "loc-018-007",
+      "name": {
+        "en": "Portugal and Spain Free Caravan Areas",
+        "he": "אזורי קרוונים חינמיים בפורטוגל וספרד"
+      },
+      "description": {
+        "en": "Extensive network of free parking areas with water and waste disposal facilities. Located on periphery of towns and villages. Search terms: 'free caravans area' or 'Municipal caravans parking' in Google Maps. Many surprise-worthy options.",
+        "he": "רשת נרחבת של אזורי חניה חינמיים עם מתקני מילוי וריקון מים. ממוקם בשולי עיירות וכפרים. תנאי חיפוש: 'free caravans area' או 'Municipal caravans parking' בגוגל מפות. אפשרויות רבות מפתיעות."
+      },
+      "region": "Portugal, Spain",
+      "type": "parking-network",
+      "amenities": {
+        "en": [
+          "Free parking",
+          "Water filling stations",
+          "Waste disposal (black & grey water)",
+          "Accessible in rural areas"
+        ],
+        "he": [
+          "חניה חינמית",
+          "תחנות מילוי מים",
+          "ריקון שפכים (מים שחורים ואפורים)",
+          "נגיש באזורים כפריים"
+        ]
+      },
+      "tips": {
+        "en": [
+          "Many free parking areas have water/disposal access",
+          "Often located on village periphery",
+          "Google Maps search yields many results"
+        ],
+        "he": [
+          "אזורי חניה חינמיים רבים עם גישה למילוי וריקון",
+          "לעתים קרובות בשולי כפרים",
+          "חיפוש גוגל מפות מניב תוצאות רבות"
+        ]
+      },
+      "sharedBy": "Ilan",
+      "dateShared": "2025-09-28",
+      "sourceBatch": 18
+    },
+    {
+      "id": "loc-019-001",
+      "name": {
+        "en": "Passo Gardena",
+        "he": "פאסו גארדנה"
+      },
+      "description": {
+        "en": "Mountain pass in the Dolomites region, modest but beautiful scenery",
+        "he": "מעבר הרים באזור הדולומיטים, צנוע אך יפיפה"
+      },
+      "region": "Dolomites, Italy",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null,
+        "mapLink": "https://maps.app.goo.gl/7PFqteFu58XwhXbF9?g_st=aw"
+      },
+      "type": "mountain-pass",
+      "accessibility": "motorhome-friendly",
+      "seasonality": "seasonal",
+      "highlights": {
+        "en": [
+          "Mountain scenery in Dolomites",
+          "Suitable for motorhomes"
+        ],
+        "he": [
+          "נופי הרים בדולומיטים",
+          "מתאים לקמפרוונים"
+        ]
+      },
+      "sharedBy": "Ilan",
+      "dateShared": "2025-10-06",
+      "sourceBatch": 19
+    },
+    {
+      "id": "loc-019-002",
+      "name": {
+        "en": "Piz Boe Viewpoint via Gondola",
+        "he": "נקודת המבט פיץ בו דרך גונדולה"
+      },
+      "description": {
+        "en": "Mountain viewpoint accessible by cable car (gondola) and hiking trails. Historic cable car available at nearby restaurant (Toni de Metz). Viewing platform at the top.",
+        "he": "נקודת תצפית בהרים הנגישה דרך רכבל (גונדולה) ושבילי טיול. רכבל ישן הפעיל בסמוך למסעדה (טוני דה מץ). מרפסת תצפית בראש."
+      },
+      "region": "Dolomites, Italy",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null,
+        "mapLink": "https://maps.app.goo.gl/ms8Sza7zBtQH3j7PA"
+      },
+      "type": "viewpoint-attraction",
+      "accessibility": "cable-car-hiking",
+      "seasonality": "seasonal",
+      "highlights": {
+        "en": [
+          "Viewing platform with restaurant",
+          "Historic cable car experience",
+          "Hiking trail to summit (1+ hour each way)",
+          "Family-friendly cable car rides",
+          "Café and restaurant facilities"
+        ],
+        "he": [
+          "מרפסת תצפית עם מסעדה",
+          "חווית רכבל היסטורית",
+          "שביל הליכה לפסגה (יותר משעה בכל כיוון)",
+          "רכיבות בגונדולה ידידותיות לחברה",
+          "מתקני קפה ומסעדה"
+        ]
+      },
+      "relatedLinks": [
+        "https://www.tonidemetz.it/en/",
+        "https://www.youtube.com/watch?v=hTAE3cAVSrE",
+        "https://youtu.be/AeQ4zXtQG-U?si=AEtQ8lANn_nKEuOm"
+      ],
+      "sharedBy": "Nadav",
+      "dateShared": "2025-10-06",
+      "sourceBatch": 19
+    },
+    {
+      "id": "loc-019-003",
+      "name": {
+        "en": "Lisbon Dock Parking (Molo)",
+        "he": "חניית המזח בליסבון"
+      },
+      "description": {
+        "en": "Free dock-side parking in Lisbon, 20 minutes from the city center by Uber. Waterfront location with tidal views (twice daily tide changes). Spacious dock suitable for large motorhomes.",
+        "he": "חנייה חינם בצד מזח בליסבון, 20 דקות מהעיר בעוקר. מיקום בחוף עם נוף לגאות ושפל (שינויי גאות פעמיים ביום). מזח מרווח המתאים לקמפרוונים גדולים."
+      },
+      "region": "Lisbon, Portugal",
+      "coordinates": {
+        "latitude": 41.264057,
+        "longitude": -6.244619,
+        "mapLink": "https://maps.google.com/?q=41.264057,-6.244619"
+      },
+      "type": "parking-dock",
+      "accessibility": "motorhome-friendly",
+      "cost": {
+        "amount": 0,
+        "currency": "EUR",
+        "period": "unlimited",
+        "notes": {
+          "en": "Free parking",
+          "he": "חנייה חינם"
+        }
+      },
+      "highlights": {
+        "en": [
+          "Free waterfront parking",
+          "Close to Lisbon city center",
+          "Tidal phenomenon viewing",
+          "Wide dock suitable for large vehicles",
+          "No reservations needed for parking"
+        ],
+        "he": [
+          "חנייה חינם בחוף",
+          "קרוב למרכז העיר ליסבון",
+          "צפייה בתופעת הגאות",
+          "מזח רחב המתאים לרכבים גדולים",
+          "אין צורך בהזמנה מראש"
+        ]
+      },
+      "sharedBy": "Rami Galboa",
+      "dateShared": "2025-10-04",
+      "sourceBatch": 19
+    },
+    {
+      "id": "loc-019-004",
+      "name": {
+        "en": "Villa Rosella Hotel - Alba, Portugal",
+        "he": "מלון וילה רוזלה - אלבה, פורטוגל"
+      },
+      "description": {
+        "en": "Restaurant and hotel in the town of Alba, not far from Lisbon. Highly recommended for dinner with advance reservation and menu ordering (at least 1 day prior). Expensive but worth every euro. Close parking available within walking distance (1 minute).",
+        "he": "מסעדה ומלון בעיירה אלבה, לא רחוק מליסבון. מומלץ מאוד לארוחת ערב עם הזמנה מראש ובחירת תפריט (לפחות יום אחד קודם לכן). יקרה אבל שווה כל יורו. חנייה קרובה ברגל (דקה אחת)."
+      },
+      "region": "Alba, Portugal",
+      "type": "restaurant-hotel",
+      "accessibility": "motorhome-parking-nearby",
+      "highlights": {
+        "en": [
+          "Fine dining restaurant",
+          "Advance reservations required",
+          "Close motorhome parking options",
+          "High-quality cuisine worth the price"
+        ],
+        "he": [
+          "מסעדת דיינינג קופת ישרו",
+          "נדרשות הזמנות מראש",
+          "אפשרויות חנייה קרובות לקמפרוון",
+          "מטבח איכותי שווה את המחיר"
+        ]
+      },
+      "sharedBy": "Nadav",
+      "dateShared": "2025-10-04",
+      "sourceBatch": 19
+    },
+    {
+      "id": "loc-019-005",
+      "name": {
+        "en": "Praia da foz de Sizandro - Free Motorhome Parking",
+        "he": "פראיה דה פוז דה סיזנדרו - חנייה חינם לקמפרוונים"
+      },
+      "description": {
+        "en": "Municipal parking 80km north of Lisbon at the confluence of a river and Atlantic Ocean. Stunning sand dunes and hiking trails. Limited to 72-hour stays. Small parking area (8-10 caravans capacity), but additional large free parking available nearby. Water refill point for caravanists. Isolated and free.",
+        "he": "חנייה עירונית 80 קמ צפונית לליסבון במפגש בין נחל לאוקיינוס האטלנטי. דיונות חול מדהימות ושבילי טיול. מוגבל להשהיות של 72 שעות. אזור חנייה קטן (קיבולת 8-10 קרוואנים), אך יש הרבה מקום נוסף חינם בסמוך. נקודת מימי לקרוואניסטים. מבודד וחינמי."
+      },
+      "region": "Sizandro, Portugal",
+      "type": "parking-beach",
+      "accessibility": "motorhome-friendly",
+      "cost": {
+        "amount": 0,
+        "currency": "EUR",
+        "period": "72-hours",
+        "notes": {
+          "en": "Free, limited to 72 hour stays",
+          "he": "חינמי, מוגבל להשהיות של 72 שעות"
+        }
+      },
+      "capacity": {
+        "official": "8-10 caravans",
+        "additional": "unlimited nearby"
+      },
+      "highlights": {
+        "en": [
+          "River and ocean confluence",
+          "Sand dunes and hiking trails",
+          "Water refill available",
+          "Isolated and secluded",
+          "Free parking"
+        ],
+        "he": [
+          "מפגש נחל ואוקיינוס",
+          "דיונות חול ושבילי טיול",
+          "מימי זמינים",
+          "מבודד ושקט",
+          "חנייה חינם"
+        ]
+      },
+      "sharedBy": "Rami Galboa",
+      "dateShared": "2025-10-06",
+      "sourceBatch": 19
+    },
+    {
+      "id": "loc-019-006",
+      "name": {
+        "en": "Aveiro - Portuguese Historic Town",
+        "he": "אווירו - עיר históricas פורטוגלית"
+      },
+      "description": {
+        "en": "Historic town 254km north of Lisbon featuring traditional waterways and decorated gondolas. Tourist destination. Large free parking areas available (asphalt fields), not very scenic but practical. Better suited for standard campers than large motorhomes.",
+        "he": "עיר היסטורית 254 קמ צפונית לליסבון עם תעלות מים מסורתיות וגונדולות מצועצעות. יעד תיירותי. אזורי חנייה חינם גדולים זמינים (שדות אספלט), לא במיוחד יפים אך פרקטיים. מתאים יותר לקרוואנים סטנדרטיים מאשר קמפרוונים גדולים."
+      },
+      "region": "Aveiro, Portugal",
+      "type": "historic-town-parking",
+      "accessibility": "motorhome-friendly-with-caveats",
+      "cost": {
+        "amount": 0,
+        "currency": "EUR",
+        "notes": {
+          "en": "Free parking",
+          "he": "חנייה חינם"
+        }
+      },
+      "highlights": {
+        "en": [
+          "Historic town with waterways",
+          "Free large parking areas",
+          "Tourist destination"
+        ],
+        "he": [
+          "עיר היסטורית עם תעלות מים",
+          "אזורי חנייה חינם גדולים",
+          "יעד תיירותי"
+        ]
+      },
+      "sharedBy": "Rami Galboa",
+      "dateShared": "2025-10-06",
+      "sourceBatch": 19
+    },
+    {
+      "id": "loc-019-007",
+      "name": {
+        "en": "Caldaria de Lobios Hot Springs - Spain",
+        "he": "מעיינות חמים קלדריה דה לוביוס - ספרד"
+      },
+      "description": {
+        "en": "Hot springs location in Spain mentioned as excellent stop despite being in urban setting. Good for motorhome travelers.",
+        "he": "מיקום מעיינות חמים בספרד המוזכר כעצירה מעולה למרות שהוא בסביבה עירונית. טוב למטיילי קמפרוונים."
+      },
+      "region": "Spain",
+      "type": "hot-springs-natural",
+      "accessibility": "motorhome-friendly",
+      "highlights": {
+        "en": [
+          "Hot springs",
+          "Urban location but excellent stop",
+          "Motorhome-friendly"
+        ],
+        "he": [
+          "מעיינות חמים",
+          "מיקום עירוני אך עצירה מעולה",
+          "ידידותי לקמפרוונים"
+        ]
+      },
+      "sharedBy": "Rami Galboa",
+      "dateShared": "2025-10-06",
+      "sourceBatch": 19
+    },
+    {
+      "id": "loc-019-008",
+      "name": {
+        "en": "Cordoba - Spain",
+        "he": "קורדובה - ספרד"
+      },
+      "description": {
+        "en": "Spanish city highly recommended for motorhome travelers visiting the Iberian Peninsula.",
+        "he": "עיר ספרדית מומלצת מאוד למטיילי קמפרוונים המבקרים בחצי האי האיברי."
+      },
+      "region": "Cordoba, Spain",
+      "type": "city",
+      "accessibility": "motorhome-friendly",
+      "highlights": {
+        "en": [
+          "Highly recommended destination",
+          "Cultural and historic significance"
+        ],
+        "he": [
+          "יעד מומלץ מאוד",
+          "חשיבות תרבותית והיסטורית"
+        ]
+      },
+      "sharedBy": "Ilan",
+      "dateShared": "2025-10-06",
+      "sourceBatch": 19
+    },
+    {
+      "id": "loc-020-001",
+      "name": {
+        "en": "Mechanic Shop in Madrid, Spain",
+        "he": "חנות תיקון במדריד, ספרד"
+      },
+      "description": {
+        "en": "Professional and efficient auto repair shop recommended by a campground in Madrid. Professional workmanship with reasonable prices. Specializes in motorhome repairs including water pump replacement.",
+        "he": "חנות תיקון רכבים מקצועית ויעילה שהומלצה על ידי קמפינג במדריד. עבודה מקצועית במחירים סבירים. מתמחה בתיקוני קמפרוונים כולל החלפת משאבת מים."
+      },
+      "address": {
+        "en": "Madrid, Spain",
+        "he": "מדריד, ספרד"
+      },
+      "type": "service-center",
+      "googleMapsLink": "https://maps.app.goo.gl/UmGB5HPZdCFq7q6c9?g_st=aw",
+      "serviceType": [
+        "motorhome-repair",
+        "water-pump",
+        "maintenance"
+      ],
+      "pricing": {
+        "en": "Reasonable prices",
+        "he": "מחירים סבירים"
+      },
+      "vehiclesRepaired": [
+        "motorhome"
+      ],
+      "quality": "professional",
+      "sharedBy": "Amit Rapali",
+      "dateShared": "2025-10-07",
+      "sourceBatch": 20
+    },
+    {
+      "id": "loc-020-002",
+      "name": {
+        "en": "Café Geronymo, Lisbon, Portugal",
+        "he": "בית קפה GERONYMO, ליסבון, פורטוגל"
+      },
+      "description": {
+        "en": "Charming café full of young people with computers, offering famous apple cake reminiscent of movies. Located 500-800 meters north along the waterfront with modern buildings on the left and water on the right. Recommended for excellent food and atmosphere.",
+        "he": "בית קפה קסום מלא צעירים עם מחשבים, מציע עוגת תפוחים מפורסמת שזוכרת סרטים. ממוקם 500-800 מטרים צפונה לאורך הטיילת עם בניינים מודרניים משמאל ומים מימין. מומלץ לאוכל וקסם מעולים."
+      },
+      "address": {
+        "en": "Lisbon, Portugal - along the waterfront north",
+        "he": "ליסבון, פורטוגל - לאורך הטיילת צפונה"
+      },
+      "type": "cafe",
+      "specialties": [
+        "apple-cake",
+        "coffee",
+        "young-crowd"
+      ],
+      "recommendations": {
+        "en": [
+          "Famous for apple cake",
+          "Great place to work with WiFi",
+          "Excellent atmosphere"
+        ],
+        "he": [
+          "מפורסם בעוגת תפוחים",
+          "מקום מעולה לעבודה עם WiFi",
+          "אטמוספירה מעולה"
+        ]
+      },
+      "transit": {
+        "en": "Direct bus to Praça do Comércio in Lisbon (bus 728), or taxi for 6-8 euros for two people",
+        "he": "אוטובוס ישיר לכיכר COMMERCE בליסבון (אוטובוס 728), או מונית ב-6-8 יורו לשניים"
+      },
+      "sharedBy": "Rami Galboa",
+      "dateShared": "2025-10-08",
+      "sourceBatch": 20
+    },
+    {
+      "id": "loc-020-003",
+      "name": {
+        "en": "Fivizzano Municipal Car Park, Tuscany, Italy",
+        "he": "חנייה עירונית Fivizzano, טוסקנה, איטליה"
+      },
+      "description": {
+        "en": "Municipal parking in Fivizzano, Tuscany with excellent facilities including electricity, waste disposal, water filling, and free WiFi. Free parking (gratuita). Perfect for exploring the Tuscan countryside and charming villages at 20 km/h.",
+        "he": "חנייה עירונית ב-Fivizzano, טוסקנה עם מתקנים מעולים כולל חשמל, פינוי פסולת, מילוי מים, וWiFi חינמי. חנייה חינמית (gratuita). מושלמת לחקור את כפרי טוסקנה המסירים במהירות של 20 קמ\"ש."
+      },
+      "address": {
+        "en": "Fivizzano, Tuscany, Italy",
+        "he": "Fivizzano, טוסקנה, איטליה"
+      },
+      "type": "municipal-carpark",
+      "facilities": [
+        "electricity",
+        "waste-disposal",
+        "water-filling",
+        "wifi"
+      ],
+      "cost": {
+        "en": "Free (gratuita)",
+        "he": "חינמי (gratuita)"
+      },
+      "amenities": {
+        "en": [
+          "Excellent municipal campground",
+          "Free WiFi",
+          "Power hookups",
+          "Water filling",
+          "Waste disposal"
+        ],
+        "he": [
+          "קמפינג עירוני מעולה",
+          "WiFi חינמי",
+          "חיבורי חשמל",
+          "מילוי מים",
+          "פינוי פסולת"
+        ]
+      },
+      "nearbyAttractions": {
+        "en": "Charming Tuscan villages, Cinque Terre area",
+        "he": "כפרים טוסקנים קסומים, אזור Cinque Terre"
+      },
+      "sharedBy": "Ilan",
+      "dateShared": "2025-10-14",
+      "sourceBatch": 20
+    },
+    {
+      "id": "loc-020-004",
+      "name": {
+        "en": "Wine Vineyard Location in Tuscany",
+        "he": "כרם יין בטוסקנה"
+      },
+      "description": {
+        "en": "Beautiful vineyard location in Tuscany with a location pin shared. Wine owner welcomes tastings for wine enthusiasts. Scenic wine region ideal for motorhome travel.",
+        "he": "מיקום כרם יפה בטוסקנה עם סיכת מיקום משותפת. בעל הכרם מברך טעימות לחובבי יין. אזור יין מרהיב אידיאלי לנסיעת קמפרוון."
+      },
+      "address": {
+        "en": "Tuscany, Italy",
+        "he": "טוסקנה, איטליה"
+      },
+      "type": "vineyard",
+      "activities": [
+        "wine-tasting",
+        "vineyard-tour"
+      ],
+      "specialization": {
+        "en": "Wine production and tasting",
+        "he": "ייצור וטעימת יין"
+      },
+      "googleMapsLink": "https://goo.gl/maps/z56T4sn9LvUjrigf6?g_st=aw",
+      "sharedBy": "Ilan",
+      "dateShared": "2025-10-12",
+      "sourceBatch": 20
+    },
+    {
+      "id": "loc-021-001",
+      "name": {
+        "en": "Parking Lot Map Location - Romania",
+        "he": "חניון ממומלץ - רומניה"
+      },
+      "description": {
+        "en": "Recommended parking spot with excellent photo documentation showing parking quality and facilities",
+        "he": "מקום חניה ממומלץ עם תיעוד תצלומים מצוין המראה איכות ותשתיות"
+      },
+      "coordinates": "Via Google Maps link",
+      "mapLink": "https://maps.app.goo.gl/QtZgdm5CD2Ngqhc59?g_st=aw",
+      "sharedBy": "Efraim Lior",
+      "dateShared": "2025-10-17",
+      "tags": [
+        "parking",
+        "recommended",
+        "documented"
+      ],
+      "sourceBatch": 21
+    },
+    {
+      "id": "loc-021-002",
+      "name": {
+        "en": "Gas Refill Service Center - Slovenia (Italy Border)",
+        "he": "מרכז שירות למילוי גז - סלובניה (גבול איטליה)"
+      },
+      "description": {
+        "en": "Gas supply center that fills all types of gas cylinders. Professional service with excellent customer relations. Solves gas filling problems for travelers with different gas tank standards across Europe.",
+        "he": "מרכז אספקת גז שממלא כל סוגי הגלילים. שירות מקצועי ויחסים טובים עם הלקוחות. פותר בעיות מילוי גז לנוסעים עם תקנים שונים של מיכלי גז באירופה."
+      },
+      "coordinates": "Via Google Maps link",
+      "mapLink": "https://maps.app.goo.gl/gQ9n4nLbttCFsMuT8?g_st=aw",
+      "serviceType": "LPG refill service",
+      "specialization": "Multi-standard gas cylinder filling",
+      "sharedBy": "Ilan",
+      "dateShared": "2025-10-22",
+      "tags": [
+        "gas-service",
+        "lpg",
+        "fuel",
+        "practical"
+      ],
+      "sourceBatch": 21
+    },
+    {
+      "id": "loc-021-003",
+      "name": {
+        "en": "Food Truck Park - Portugal",
+        "he": "פארק פוד-טראק - פורטוגל"
+      },
+      "description": {
+        "en": "Excellent food truck location with abundant parking. Parking is on a slope requiring 20cm blocks for leveling. Great for eating while traveling.",
+        "he": "מיקום פוד-טראק מצוין עם חניה בשפע. החניה בשיפוע דורשת בלוקים של 20 ס\"מ לאיזון. מעולה לאכילה בזמן נסיעה."
+      },
+      "coordinates": "Via Google Maps link",
+      "mapLink": "https://maps.app.goo.gl/uXABSJPKHHghRrQw7",
+      "amenities": [
+        "Food truck",
+        "Abundant parking",
+        "Slope parking"
+      ],
+      "sharedBy": "Nadav",
+      "dateShared": "2025-10-27",
+      "tags": [
+        "food",
+        "dining",
+        "parking",
+        "portugal"
+      ],
+      "sourceBatch": 21
+    },
+    {
+      "id": "loc-021-004",
+      "name": {
+        "en": "Enclosed Hangar Storage - Ablis, France",
+        "he": "אחסון בהנגר סגור - אבליס, צרפת"
+      },
+      "description": {
+        "en": "Closed hangar storage with nice facilities. Located 70km and 1.5 hours southwest of Paris. Suitable for monthly/bi-monthly motorhome storage near Paris region.",
+        "he": "אחסון בהנגר סגור עם מתקנים נחמדים. ממוקם 70 ק\"מ ושעה וחצי דרומית-מערבית לפריס. מתאים לאחסון קמפרוון לחודש או חודשיים ליד אזור פריס."
+      },
+      "city": "Ablis",
+      "region": "Paris Region",
+      "distanceFromParis": {
+        "km": 70,
+        "hours": 1.5
+      },
+      "direction": "Southwest",
+      "serviceType": "Hangar storage",
+      "storageCapacity": "For motorhome (1+ months)",
+      "sharedBy": "Rami Galboa",
+      "dateShared": "2025-10-28",
+      "tags": [
+        "storage",
+        "france",
+        "paris",
+        "hangar"
+      ],
+      "sourceBatch": 21
+    },
+    {
+      "id": "loc-022-001",
+      "name": {
+        "en": "Storage near Mainz, Germany",
+        "he": "אחסנה ליד מיינץ, גרמניה"
+      },
+      "description": {
+        "en": "Storage facility for motorhome near Mainz, Germany. Contact: Yaakov Kobi Khaimowitz (Israeli resident in Mainz). Flexible monthly rates.",
+        "he": "מתקן אחסנה למוטורהום ליד מיינץ, גרמניה. אנשי קשר: יעקב קובי חיימוביץ (תושב ישראלי במיינץ). שיעורים חודשיים גמישים."
+      },
+      "type": "storage",
+      "location": "Mainz, Germany",
+      "contact": "Yaakov Kobi Khaimowitz",
+      "phoneCountryCode": "+49",
+      "cost": {
+        "amount": null,
+        "currency": null,
+        "period": "monthly",
+        "notes": {
+          "en": "Flexible monthly rates, no fixed amount mentioned",
+          "he": "שיעורים חודשיים גמישים, לא צוין סכום קבוע"
+        }
+      },
+      "accessibility": {
+        "en": "Only long-term storage allowed",
+        "he": "רק אחסנה ארוכת טווח מותרת"
+      },
+      "sharedBy": "Amit Rafali",
+      "dateShared": "2025-10-28",
+      "coordinates": null,
+      "sourceBatch": 22
+    },
+    {
+      "id": "loc-022-002",
+      "name": {
+        "en": "Storage near Stuttgart, Germany (70km south)",
+        "he": "אחסנה ליד שטוטגארט, גרמניה (70 ק\"מ דרומית)"
+      },
+      "description": {
+        "en": "Storage facility for motorhome approximately 70km south of Stuttgart, Germany. Owner uncertain about availability, but willing to check.",
+        "he": "מתקן אחסנה למוטורהום בערך 70 ק\"מ דרומית לשטוטגארט, גרמניה. הבעלים אינו בטוח בעניין זמינות, אך מוכן לבדוק."
+      },
+      "type": "storage",
+      "location": "Stuttgart, Germany (70km south)",
+      "distance": "70",
+      "distanceUnit": "km",
+      "distanceDirection": "south",
+      "cost": null,
+      "sharedBy": "Shay Goren",
+      "dateShared": "2025-10-28",
+      "sourceBatch": 22
+    },
+    {
+      "id": "loc-022-003",
+      "name": {
+        "en": "Storage near Strasbourg, France",
+        "he": "אחסנה ליד שטרסבורג, צרפת"
+      },
+      "description": {
+        "en": "Storage facility available near Strasbourg, France. For inquiries about availability.",
+        "he": "מתקן אחסנה זמין ליד שטרסבורג, צרפת. לשאלות בנוגע לזמינות."
+      },
+      "type": "storage",
+      "location": "Strasbourg, France",
+      "sharedBy": "Sylvie",
+      "dateShared": "2025-10-28",
+      "sourceBatch": 22
+    },
+    {
+      "id": "loc-022-004",
+      "name": {
+        "en": "Storage near Cologne, Germany - Flexible monthly rate €70",
+        "he": "אחסנה ליד קלן, גרמניה - תעריף חודשי גמיש €70"
+      },
+      "description": {
+        "en": "Flexible storage facility near Cologne with monthly rate of €70. Owner (Rami Galboa) says rates were €70 per month at last check.",
+        "he": "מתקן אחסנה גמיש ליד קלן עם תעריף חודשי של €70. הבעלים (רמי גלבוע) אומר ששיעורים היו €70 לחודש בבדיקה האחרונה."
+      },
+      "type": "storage",
+      "location": "Cologne (Köln), Germany",
+      "cost": {
+        "amount": 70,
+        "currency": "EUR",
+        "period": "monthly",
+        "notes": {
+          "en": "€70 per month, flexible rates",
+          "he": "€70 לחודש, שיעורים גמישים"
+        }
+      },
+      "accessibility": {
+        "en": "Flexible, offers short and long-term options",
+        "he": "גמיש, מציע אפשרויות קצרות וארוכות טווח"
+      },
+      "sharedBy": "Rami Galboa",
+      "dateShared": "2025-10-28",
+      "sourceBatch": 22
+    },
+    {
+      "id": "loc-022-005",
+      "name": {
+        "en": "Farm near Mainz, Germany",
+        "he": "חווה ליד מיינץ, גרמניה"
+      },
+      "description": {
+        "en": "Currently parking on a farm close to Mainz, Germany. Suitable for motorhome parking.",
+        "he": "חנייה נוכחית בחווה קרובה למיינץ, גרמניה. מתאימה לחנייה של מוטורהום."
+      },
+      "type": "parking",
+      "location": "Mainz, Germany",
+      "sharedBy": "Naama Lavav",
+      "dateShared": "2025-10-29",
+      "sourceBatch": 22
+    },
+    {
+      "id": "loc-022-006",
+      "name": {
+        "en": "Storage in Perth, Australia",
+        "he": "אחסנה בפרת, אוסטרליה"
+      },
+      "description": {
+        "en": "Seeking storage facility for Prado vehicle in Perth, Australia for 1-2 months. Safe and reliable facility needed.",
+        "he": "חיפוש מתקן אחסנה עבור רכב פראדו בפרת, אוסטרליה למשך חודש-חודשיים. נדרש מתקן בטוח ואמין."
+      },
+      "type": "storage",
+      "location": "Perth, Australia",
+      "vehicleType": "Prado",
+      "duration": {
+        "min": 1,
+        "max": 2,
+        "unit": "months"
+      },
+      "sharedBy": "Ravit",
+      "dateShared": "2025-10-31",
+      "sourceBatch": 22
+    },
+    {
+      "id": "loc-023-001",
+      "name": {
+        "en": "Zurich Chabad House",
+        "he": "בית חב\"ד בציריך"
+      },
+      "description": {
+        "en": "Chabad house in Zurich where a rabbi visited to install mezuzahs in a motorhome (camper)",
+        "he": "בית חב\"ד בציריך שם ביקר רב והתקין מזוזות בכניסה וחדר שינה של קמפר"
+      },
+      "type": "religious-services",
+      "country": "Switzerland",
+      "relatedContent": "mezuzah-installation-discussion",
+      "sharedBy": "Amir Meltzer",
+      "dateShared": "2025-11-13",
+      "sourceBatch": 23
+    },
+    {
+      "id": "loc-023-002",
+      "name": {
+        "en": "Fairbanks, Alaska",
+        "he": "פיירבנקס, אלסקה"
+      },
+      "description": {
+        "en": "Location in Alaska where motorhome travelers parked and lived",
+        "he": "מיקום באלסקה שבו נחנו נוסעי קמפרוונים"
+      },
+      "type": "camping-destination",
+      "country": "USA",
+      "region": "Alaska",
+      "mentions": [
+        "motorhome-living",
+        "remote-destination"
+      ],
+      "sharedBy": "Yoni",
+      "dateShared": "2025-11-10",
+      "sourceBatch": 23
+    },
+    {
+      "id": "loc-023-003",
+      "name": {
+        "en": "Sag Harbor (Connecticut)",
+        "he": "סאג הרבור"
+      },
+      "description": {
+        "en": "Location where John Steinbeck prepared his motorhome (Rocinante) for his journey across America",
+        "he": "מקום שבו ג'ון סטיינבק הכין את קמפרוונו (רוסינאנטה) למסעו על פני אמריקה"
+      },
+      "type": "historical-literary",
+      "country": "USA",
+      "relatedContent": "steinbeck-travels-with-charley",
+      "sharedBy": "Rami Galboa",
+      "dateShared": "2025-11-04",
+      "sourceBatch": 23
+    },
+    {
+      "id": "loc-023-004",
+      "name": {
+        "en": "Northwest USA",
+        "he": "צפון-מערב ארה\"ב"
+      },
+      "description": {
+        "en": "Region where John Steinbeck encountered snowy conditions during his motorhome journey",
+        "he": "אזור שבו סטיינבק עומד לנסוע בתקופת החורף עם תנאי שלג"
+      },
+      "type": "regional-destination",
+      "country": "USA",
+      "notes": {
+        "en": "Planned for emergency supplies including snow conditions",
+        "he": "תוכנן עם אספקת חירום למקרה תנאי שלג"
+      },
+      "sharedBy": "Rami Galboa",
+      "dateShared": "2025-11-04",
+      "sourceBatch": 23
+    },
+    {
+      "id": "loc-024-001",
+      "name": {
+        "en": "Lisbon, Portugal - Storage Facility",
+        "he": "ליסבון, פורטוגל - מקום אחסון"
+      },
+      "description": {
+        "en": "Storage facility in Lisbon near the airport. Indoor covered storage. Contact details available from Rami Galboa. Winter rate: €180/month (summer rates lower).",
+        "he": "מקום אחסון בליסבון ליד שדה התעופה. אחסון מקורה מכוסה. פרטי קשר זמינים מרמי גלבוע. תעריף חורף: €180 לחודש (תעריפי קיץ נמוכים יותר)."
+      },
+      "region": "Portugal",
+      "coordinates": {
+        "note": "Near Lisbon airport"
+      },
+      "services": [
+        "indoor storage",
+        "covered"
+      ],
+      "cost": {
+        "amount": 180,
+        "currency": "EUR",
+        "period": "month",
+        "notes": {
+          "en": "Winter rate. Summer rates lower. Contact needed for current pricing.",
+          "he": "תעריף חורף. תעריפי קיץ נמוכים יותר. יש צורך בקשר לתמחור עדכני."
+        }
+      },
+      "mentalNotes": {
+        "en": "Communication with facility owner described as unusual",
+        "he": "התקשורת עם מנהל המקום מתוארת כמוזרה"
+      },
+      "sharedBy": "Rami Galboa",
+      "dateShared": "2025-11-10",
+      "contactInfo": {
+        "note": {
+          "en": "Contact details to be provided directly",
+          "he": "פרטי קשר יימסרו ישירות"
+        }
+      },
+      "sourceBatch": 24
+    },
+    {
+      "id": "loc-024-002",
+      "name": {
+        "en": "Near Lisbon, Portugal - Alternative Budget Option",
+        "he": "ליד ליסבון, פורטוגל - אופציה תקציב חלופית"
+      },
+      "description": {
+        "en": "Budget-friendly storage location near Lisbon recommended by Israeli community. €60/month. From Israeli Facebook group for Portugal residents.",
+        "he": "מקום אחסון בחסכוני ליד ליסבון שהומלץ על ידי הקהילה הישראלית. €60 לחודש. מקבוצת פייסבוק ישראלים בפורטוגל."
+      },
+      "region": "Portugal",
+      "cost": {
+        "amount": 60,
+        "currency": "EUR",
+        "period": "month",
+        "notes": {
+          "en": "Described as very affordable",
+          "he": "תואר כאפשרות זולה מאוד"
+        }
+      },
+      "sharedBy": "Yochai Batsha",
+      "dateShared": "2025-11-11",
+      "notes": {
+        "en": "Israeli farms potentially offering storage without charge in southern and northeastern Portugal areas",
+        "he": "חוות ישראליות שעשויות להציע אחסון ללא עלות באזורים דרום וצפון-מזרחי בפורטוגל"
+      },
+      "sourceBatch": 24
+    },
+    {
+      "id": "loc-024-003",
+      "name": {
+        "en": "SCD-Parking, Hamburg, Germany",
+        "he": "SCD-Parking, המבורג, גרמניה"
+      },
+      "description": {
+        "en": "Secured motorhome parking facility near Hamburg airport. Approximately 5 minutes drive from airport. Professional parking with services. Address: An'n Slagboom 41, 22848 Norderstedt.",
+        "he": "מקום חנייה מאובטח למוטורהוום ליד שדה התעופה במבורג. בערך 5 דקות נסיעה משדה התעופה. חנייה מקצועית עם שירותים. כתובת: An'n Slagboom 41, 22848 Norderstedt."
+      },
+      "region": "Germany",
+      "address": "An'n Slagboom 41, 22848 Norderstedt, Germany",
+      "coordinates": {
+        "note": "~5 minutes from Hamburg airport"
+      },
+      "services": [
+        "secured parking",
+        "motorhome facilities"
+      ],
+      "cost": {
+        "amount": 2.5,
+        "currency": "EUR",
+        "period": "day",
+        "notes": {
+          "en": "Starting price depending on period and length of stay. Personal vehicle rate - motorhome rates being negotiated.",
+          "he": "מחיר התחלתי תלוי בתקופה ובמשך השהייה. תעריף רכב אישי - תעריפי מוטורהום בשיחות."
+        }
+      },
+      "contact": {
+        "phone": "+49040-221006",
+        "notes": {
+          "en": "Can book online or by phone",
+          "he": "ניתן להזמין באינטרנט או בטלפון"
+        }
+      },
+      "sharedBy": "Rami Galboa, Amit Raphali",
+      "dateShared": "2025-11-11",
+      "verificationNotes": {
+        "en": "Amit Raphali contacted facility to discuss rates. Facility requested time to consider motorhome pricing.",
+        "he": "עמית רפאלי יצר קשר עם המקום להדון בתעריפים. המקום ביקש זמן לשקול תמחור למוטורהום."
+      },
+      "sourceBatch": 24
+    },
+    {
+      "id": "loc-024-004",
+      "name": {
+        "en": "Rostock, Germany - Storage Option",
+        "he": "רוסטוק, גרמניה - אפשרות אחסון"
+      },
+      "description": {
+        "en": "Caravan storage location in Rostock, Germany. Two hours drive from Hamburg area. Contact Jorge for details.",
+        "he": "מקום אחסון קרוואן בְרוסטוק, גרמניה. שעתיים נסיעה מאזור המבורג. יש לפנות ל-Jorge לפרטים."
+      },
+      "region": "Germany",
+      "city": "Rostock",
+      "relativeLocation": {
+        "en": "Two hours from Hamburg",
+        "he": "שעתיים מהמבורג"
+      },
+      "sharedBy": "Jorge",
+      "dateShared": "2025-11-11",
+      "notes": {
+        "en": "Suitable for May-September 2026 storage needs",
+        "he": "מתאים לצרכי אחסון במאי-ספטמבר 2026"
+      },
+      "sourceBatch": 24
+    },
+    {
+      "id": "loc-025-001",
+      "name": {
+        "en": "Storage Parking in South Germany",
+        "he": "חניון אחסון בדרום גרמניה"
+      },
+      "description": {
+        "en": "Affordable motorhome storage facility in South Germany near Munich airport. Covered parking with daily rate of 1.75 EUR per day. Close to airport with direct flights to Israel (Ben Gurion) on regular days.",
+        "he": "מתקן אחסון קמפרוון זול בדרום גרמניה ליד שדה התעופה של מינכן. חניית גג עם תעריף יומי של 1.75 יורו ביום. קרוב לשדה תעופה עם טיסות ישירות לנתב\"ג בימים רגילים."
+      },
+      "location": {
+        "region": "South Germany",
+        "country": "Germany",
+        "nearCity": "Munich",
+        "coordinates": null
+      },
+      "type": "storage",
+      "features": {
+        "en": [
+          "Covered parking",
+          "Affordable daily rate",
+          "Near major airport"
+        ],
+        "he": [
+          "חניה מכוסה",
+          "תעריף יומי סביר",
+          "ליד שדה תעופה גדול"
+        ]
+      },
+      "pricing": {
+        "currency": "EUR",
+        "dailyRate": 1.75,
+        "notes": {
+          "en": "1.75 EUR per day for covered storage",
+          "he": "1.75 יורו ליום עבור אחסון מכוסה"
+        }
+      },
+      "submittedBy": "Efraim Leor",
+      "dateSubmitted": "2025-11-19",
+      "verified": false,
+      "sourceBatch": 25
+    },
+    {
+      "id": "loc-025-002",
+      "name": {
+        "en": "Interactive Storage Map - Europe",
+        "he": "מפה אינטראקטיבית לאחסון - אירופה"
+      },
+      "description": {
+        "en": "Comprehensive interactive Google Map of motorhome storage locations across Europe, maintained by Rami Galboa and Ilan. Click on 'P' markers to view full information about each storage location. Community members can submit new locations for inclusion.",
+        "he": "מפה אינטראקטיבית ממוקיפת של Google עם מיקומי אחסון קמפרוונים ברחבי אירופה, מתוחזקת על ידי רמי גלבוע ואילן. לחץ על סימנים 'P' לצפייה במידע מלא על כל מקום אחסון. חברי הקהילה יכולים להציע מיקומים חדשים להוספה."
+      },
+      "location": {
+        "region": "Europe",
+        "country": "Multiple",
+        "coordinates": null
+      },
+      "type": "resource",
+      "features": {
+        "en": [
+          "Interactive map",
+          "Full location details",
+          "Community-driven updates",
+          "Detailed parking information"
+        ],
+        "he": [
+          "מפה אינטראקטיבית",
+          "פרטי מיקום מלאים",
+          "עדכונים מונעי קהילה",
+          "מידע חניה מפורט"
+        ]
+      },
+      "resourceURL": "https://www.google.com/maps/d/edit?mid=1hRulWSIidAFbVdK1bhDfMiJLzvuOvTo&usp=sharing",
+      "submittedBy": "Rami Galboa, Ilan",
+      "dateSubmitted": "2025-11-16",
+      "verified": true,
+      "sourceBatch": 25
+    },
+    {
+      "id": "loc-026-001",
+      "name": {
+        "en": "Iceland",
+        "he": "איסלנד"
+      },
+      "description": {
+        "en": "Motorhome destination planned for summer travel. Ferry journey from Denmark to Iceland (30 hours) with planned stops at Faroe Islands (15 hours additional). Route planning for road travel with glacier-fed river crossings.",
+        "he": "יעד קמפרוון מתוכנן לנסיעת קיץ. מסע בספינה מדנמרק לאיסלנד (30 שעות) עם עצירות מתוכננות באיים פארו (15 שעות נוספות). תכנון מסלול עם חציות של נהרות המוזנים מקרחונים."
+      },
+      "region": "Faroe Islands and Iceland",
+      "coordinates": {
+        "approximate": "Iceland - North Atlantic"
+      },
+      "highlights": [
+        {
+          "en": "Glacier-fed rivers requiring morning crossings",
+          "he": "נהרות המוזנים מקרחונים הדורשים חציות בבוקר"
+        },
+        {
+          "en": "Scenic mountain landscapes",
+          "he": "נופי הרים מרהיבים"
+        }
+      ],
+      "tips": [
+        {
+          "en": "Glacier-fed rivers are deeper in afternoons due to glacial melt. Better to cross in early morning.",
+          "he": "נהרות המוזנים מקרחונים עמוקים יותר אחר הצהריים בגלל התכות קרח. עדיף לחצות בבוקר מוקדם."
+        }
+      ],
+      "visitedBy": "Oren Kipnis",
+      "dateShared": "2025-12-10",
+      "vehicleType": [
+        "motorhome"
+      ],
+      "sourceBatch": 26
+    },
+    {
+      "id": "loc-026-002",
+      "name": {
+        "en": "Faroe Islands",
+        "he": "איים פארו"
+      },
+      "description": {
+        "en": "Stopover destination between Denmark and Iceland. One-week planned visit as part of summer route. Ferry stop from Denmark (15 hours).",
+        "he": "יעד עצירה בין דנמרק לאיסלנד. ביקור מתוכנן של שבוע כחלק מהמסלול החיצוני. עצירת דחפור מדנמרק (15 שעות)."
+      },
+      "region": "North Atlantic",
+      "visitedBy": "Oren Kipnis",
+      "dateShared": "2025-12-10",
+      "vehicleType": [
+        "motorhome"
+      ],
+      "sourceBatch": 26
+    },
+    {
+      "id": "loc-026-003",
+      "name": {
+        "en": "Southern Chile and Argentina Route",
+        "he": "מסלול דרום צ'ילה וארגנטינה"
+      },
+      "description": {
+        "en": "Multi-country off-road travel including Carretera Austral in Chile, Route 40 in Argentina, and Coquena Pass between countries. Mountain passes, glacial lakes, and remote terrain requiring off-road vehicle capability.",
+        "he": "נסיעת שטח רב-ארצית כולל קרטרה אוסטראל בצ'ילה, כביש 40 בארגנטינה וממעבר קוקרנה בין המדינות. מעברי הרים, אגמים קרחוניים ושטח מרוחק הדורה יכולת רכב שטח."
+      },
+      "region": "Southern Chile and Argentina",
+      "highlights": [
+        {
+          "en": "Carretera Austral and Route 40 - scenic gravel roads",
+          "he": "קרטרה אוסטראל וכביש 40 - כבישי חצץ מרהיבים"
+        },
+        {
+          "en": "Coquena Pass - remote off-road crossing between Chile and Argentina",
+          "he": "מעבור קוקרנה - חציה שטח מרוחקת בין צ'ילה לארגנטינה"
+        },
+        {
+          "en": "Cueva de los Manos - historic archaeological site",
+          "he": "Cueva de los Manos - אתר ארכיאולוגי היסטורי"
+        },
+        {
+          "en": "Villa O'Higgins - southern terminus of Carretera Austral",
+          "he": "וילה או'היגינס - הקצה הדרומי של הקרטרה"
+        }
+      ],
+      "tips": [
+        {
+          "en": "Ripio (gravel roads) require reduced tire pressure and accelerating for traction",
+          "he": "Ripio (כבישי חצץ) דורשים הורדת לחץ אוויר והאצה לתאחוז"
+        },
+        {
+          "en": "Limited paved roads; zigzag between Chile and Argentina for variety",
+          "he": "כבישים סלולים מוגבלים; זגזג בין צ'ילה לארגנטינה לגיוון"
+        },
+        {
+          "en": "Paper maps recommended alongside technology for navigation",
+          "he": "ממלץ על מפות נייר בנוסף לטכנולוגיה לניווט"
+        },
+        {
+          "en": "Bajo Caracoles fuel station - bring cash and prepare substantial funds",
+          "he": "תחנת דלק Bajo Caracoles - הבא מזומן והכן סכומי מזומן נכבדים"
+        }
+      ],
+      "visitedBy": "Ilan, Amir Meltzer, Ephraim Lior",
+      "dateShared": "2025-12-11",
+      "vehicleType": [
+        "motorhome"
+      ],
+      "sourceBatch": 26
+    },
+    {
+      "id": "loc-026-004",
+      "name": {
+        "en": "Germany - Motorhome Registration and Taxes",
+        "he": "גרמניה - רישום קמפרוון ומיסים"
+      },
+      "description": {
+        "en": "Annual tax and fees information for motorhome registration in Germany. Annual mandatory fee of €240 (or €72-84 depending on vehicle value) plus insurance and other regular costs.",
+        "he": "מידע על מיסים ותשלומים שנתיים לרישום קמפרוון בגרמניה. תשלום חובה שנתי של €240 (או €72-84 בהתאם לערך הרכב) בנוסף לביטוח ועלויות רגילות אחרות."
+      },
+      "region": "Germany",
+      "costs": {
+        "en": [
+          "Annual registration fee: €240 (can vary €72-84 based on vehicle value)",
+          "Insurance: approximately €570-600",
+          "Parking: approximately €708 annually",
+          "Legal protection insurance: €47.40",
+          "Contents insurance: €65"
+        ],
+        "he": [
+          "אגרה רישום שנתית: €240 (יכולה להשתנות €72-84 בהתאם לערך הרכב)",
+          "ביטוח: בערך €570-600",
+          "חניה: בערך €708 בשנה",
+          "ביטוח הגנה משפטית: €47.40",
+          "ביטוח תוכן: €65"
+        ]
+      },
+      "tips": [
+        {
+          "en": "Fee goes to Bundes Kasse (federal treasury). Not a scam - legitimate mandatory cost.",
+          "he": "הדמי הולכים ל-Bundes Kasse (גזבון פדרלי). לא הונאה - עלות חובה לגיטימית."
+        },
+        {
+          "en": "Vehicle value affects tax amount (€50K vehicle example)",
+          "he": "ערך הרכב משפיע על סכום המס (דוגמה רכב €50K)"
+        },
+        {
+          "en": "France has lower registration costs (€230 one-time fee only)",
+          "he": "לצרפת עלויות רישום נמוכות יותר (רק עמלה חד פעמית של €230)"
+        }
+      ],
+      "sharedBy": "Ilan, Efraim Lior, Ofer Nov",
+      "dateShared": "2025-12-08",
+      "sourceBatch": 26
+    },
+    {
+      "id": "loc-026-005",
+      "name": {
+        "en": "The Alsted - United Kingdom",
+        "he": "ה-Alsted - בריטניה"
+      },
+      "description": {
+        "en": "Location referenced in context of buying engine oil for a generator while traveling.",
+        "he": "מיקום המוזכר בהקשר קנייה של שמן מנוע לגנרטור בזמן נסיעה."
+      },
+      "region": "England",
+      "visitedBy": "Nadav",
+      "dateShared": "2025-12-02",
+      "sourceBatch": 26
+    },
+    {
+      "id": "loc-026-006",
+      "name": {
+        "en": "Europe Multi-Country Travel",
+        "he": "נסיעת אירופה רב-ארצית"
+      },
+      "description": {
+        "en": "General European travel discussion including Spain, France, Poland, and other destinations. Focus on road networks and off-road capabilities.",
+        "he": "דיון נסיעה אירופאי כללי כולל ספרד, צרפת, פולין וחזויות אחרות. התמקדות ברשתות כבישים ויכולות שטח."
+      },
+      "region": "Europe",
+      "tips": [
+        {
+          "en": "Small rural roads throughout Europe offer better scenery and local encounters than highways",
+          "he": "כבישים כפריים קטנים בכל אירופה מציעים נופים וומפגשים טובים יותר מכבישים מהירים"
+        },
+        {
+          "en": "2WD sufficient for most European travel on paved and easy gravel roads",
+          "he": "2WD מספיק לרוב נסיעות אירופה על כבישים סלולים וכבישי חצץ קלים"
+        }
+      ],
+      "sourceBatch": 26
+    },
+    {
+      "id": "loc-026-007",
+      "name": {
+        "en": "Mongolia Travel Route",
+        "he": "מסלול נסיעה במונגוליה"
+      },
+      "description": {
+        "en": "Travel route through Mongolia with local SIM card usage. Global SIM initially unsuccessful; local SIM card (cost: 1.5 NIS) proved highly reliable and functional.",
+        "he": "מסלול נסיעה דרך מונגוליה עם שימוש בכרטיס SIM מקומי. SIM גלובלי בתחילה לא הצליח; כרטיס SIM מקומי (עלות: 1.5 NIS) התברר אמין ופעיל מאוד."
+      },
+      "region": "Mongolia",
+      "tips": [
+        {
+          "en": "Local SIM cards often more reliable than global roaming plans",
+          "he": "כרטיסי SIM מקומיים לרוב אמינים יותר מתוכניות רומינג גלובליות"
+        },
+        {
+          "en": "Global SIM roaming had coverage issues despite promises",
+          "he": "לסטאר לינק רומינג גלובלי היו בעיות כיסוי למרות הבטחות"
+        }
+      ],
+      "visitedBy": "Ilan",
+      "dateShared": "2025-11-16",
+      "sourceBatch": 26
+    },
+    {
+      "id": "loc-027-001",
+      "name": {
+        "en": "Oren Crispin Motorhome Custom Building (Builder Location)",
+        "he": "בנייה מותאמת קמפרוון אצל אורן קריספין"
+      },
+      "type": "motorhome-builder",
+      "description": {
+        "en": "World-class custom motorhome builder. Builds to world standard. Mentioned as location to purchase/build custom motorhomes with international quality standards.",
+        "he": "בונה קמפרוונים מותאמים בעל מחלקה עולמית. בונה בסטנדרט עולמי. צוין כמקום לקנות/לבנות קמפרוונים מותאמים עם סטנדרטים איכות בינלאומיים."
+      },
+      "website": "https://photos.app.goo.gl/5qDKyKReXsMykpp48",
+      "mentionedBy": "Amir Meltzer",
+      "dateShared": "2025-12-13",
+      "notes": {
+        "en": "Builder offers option to return motorhome to Israel after one year of travel (half year trip, half year return - total one year journey)",
+        "he": "הבונה מציע אפשרות להחזיר את הקמפרוון לישראל לאחר שנה של נסיעה (חצי שנה טיול, חצי שנה חזרה - סה\"כ שנה טיול)"
+      },
+      "sourceBatch": 27
+    }
+  ]
+}

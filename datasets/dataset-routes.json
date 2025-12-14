@@ -1,0 +1,1390 @@
+{
+  "metadata": {
+    "category": "routes",
+    "description": "Documented travel routes and itineraries across multiple regions",
+    "totalItems": 23,
+    "extractionDate": "2025-12-14",
+    "dataVersion": "1.0",
+    "language": "Bilingual (Hebrew + English)"
+  },
+  "routes": [
+    {
+      "id": "route-001",
+      "name": {
+        "en": "Isle of Skye - Scotland Coastal Adventure",
+        "he": "האי סקיי - הרפתקת חוף סקוטלנד"
+      },
+      "description": {
+        "en": "Beautiful two-week route to Isle of Skye, approximately 250 miles northwest of Edinburgh. Features stunning ocean views, beautiful nature, and minimal urbanization. Perfect for the recommended timeframe. Includes must-visit Indian restaurant in Fort Williams.",
+        "he": "מסלול יפה לשבועיים לאי סקיי, כ-250 מייל צפונית מערבית לאדינבורו. כולל נופי אוקיינוס מדהימים, טבע יפה ומינימום אורבניזציה. מושלם למסגרת זמן מומלצת. כולל מסעדה הודית חובה בפורט ויליאמס."
+      },
+      "startPoint": {
+        "name": {
+          "en": "Edinburgh, Scotland",
+          "he": "אדינבורו, סקוטלנד"
+        },
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      "endPoint": {
+        "name": {
+          "en": "Isle of Skye, Scotland",
+          "he": "האי סקיי, סקוטלנד"
+        },
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      "distance": 400,
+      "duration": {
+        "days": 14,
+        "hours": null
+      },
+      "difficulty": "easy",
+      "season": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "stops": [
+        {
+          "order": 1,
+          "name": {
+            "en": "Edinburgh",
+            "he": "אדינבורו"
+          },
+          "description": {
+            "en": "Starting point - capital city",
+            "he": "נקודת התחלה - עיר הבירה"
+          }
+        },
+        {
+          "order": 2,
+          "name": {
+            "en": "Fort Williams",
+            "he": "פורט ויליאמס"
+          },
+          "description": {
+            "en": "Midway stop with excellent Indian restaurant - worth the visit alone",
+            "he": "עצירה באמצע הדרך עם מסעדה הודית מדליקה - שווה את הביקור לבדה"
+          }
+        },
+        {
+          "order": 3,
+          "name": {
+            "en": "Isle of Skye",
+            "he": "האי סקיי"
+          },
+          "description": {
+            "en": "Small island perfect for two-week exploration - stunning ocean views and pristine nature",
+            "he": "אי קטן מושלם לחקירה של שבועיים - נופי אוקיינוס מדהימים וטבע בתולי"
+          }
+        }
+      ],
+      "highlights": [
+        {
+          "title": {
+            "en": "Ocean Views",
+            "he": "נופי אוקיינוס"
+          },
+          "description": {
+            "en": "Stunning coastal scenery throughout the route",
+            "he": "נופי חוף מדהימים לאורך המסלול"
+          }
+        },
+        {
+          "title": {
+            "en": "Minimal Urbanization",
+            "he": "אורבניזציה מינימלית"
+          },
+          "description": {
+            "en": "Pristine natural environment with little development",
+            "he": "סביבה טבעית בתולית עם פיתוח מועט"
+          }
+        }
+      ],
+      "tips": [
+        {
+          "type": "tip",
+          "text": {
+            "en": "Don't miss the Indian restaurant in Fort Williams - worth the stop",
+            "he": "אל תפספס את המסעדה ההודית בפורט ויליאמס - שווה את העצירה"
+          }
+        }
+      ],
+      "photos": [],
+      "gpxFile": null,
+      "metadata": {
+        "source": "whatsapp-community",
+        "author": "Rami Galboa",
+        "dateCreated": "2025-01-16",
+        "lastUpdated": "2025-01-16"
+      },
+      "sourceBatch": 3
+    },
+    {
+      "id": "route-002",
+      "name": {
+        "en": "Wales - Beautiful Landscapes Tour",
+        "he": "וויילס - סיור נופים יפים"
+      },
+      "description": {
+        "en": "Tour through Wales featuring the most beautiful landscapes in the UK. Recommended for those seeking stunning natural scenery.",
+        "he": "סיור בוויילס עם הנופים היפים ביותר בבריטניה. מומלץ למי שמחפש נוף טבעי מדהים."
+      },
+      "startPoint": {
+        "name": {
+          "en": "Wales",
+          "he": "וויילס"
+        },
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      "endPoint": {
+        "name": {
+          "en": "Wales",
+          "he": "וויילס"
+        },
+        "coordinates": {
+          "lat": null,
+          "lng": null
+        }
+      },
+      "distance": null,
+      "duration": {
+        "days": 14,
+        "hours": null
+      },
+      "difficulty": "easy",
+      "season": [
+        "spring",
+        "summer",
+        "autumn"
+      ],
+      "stops": [],
+      "highlights": [
+        {
+          "title": {
+            "en": "Most Beautiful Landscapes in UK",
+            "he": "הנופים היפים ביותר בבריטניה"
+          },
+          "description": {
+            "en": "Wales is known for having the most stunning natural landscapes in the United Kingdom",
+            "he": "וויילס ידועה בנופים הטבעיים המדהימים ביותר בבריטניה"
+          }
+        }
+      ],
+      "tips": [],
+      "photos": [],
+      "gpxFile": null,
+      "metadata": {
+        "source": "whatsapp-community",
+        "author": "Oren Kipnis",
+        "dateCreated": "2025-01-16",
+        "lastUpdated": "2025-01-16"
+      },
+      "sourceBatch": 3
+    },
+    {
+      "id": "route-008-001",
+      "name": {
+        "en": "France to Poland - Summer 2025 Route",
+        "he": "צרפת לפולין - מסלול קיץ 2025"
+      },
+      "description": {
+        "en": "Planned motorhome route starting from northern Italy, returning to Munich, continuing to Wrocław Poland for two weeks, then deciding next destination. Dates: June 30 - October 19, 2025.",
+        "he": "מסלול מוטורהום מתוכנן שמתחיל מצפון איטליה, חזרה למינכן, המשך לוורוצלב פולין לשבועיים, ואז החלטה על יעד הבא. תאריכים: 30 ביוני - 19 באוקטובר 2025."
+      },
+      "startLocation": {
+        "en": "Northern Italy",
+        "he": "צפון איטליה"
+      },
+      "endLocation": {
+        "en": "To be decided after Poland",
+        "he": "להחלטה לאחר פולין"
+      },
+      "duration": {
+        "en": "111 days (June 30 - October 19, 2025)",
+        "he": "111 יום (30 ביוני - 19 באוקטובר 2025)"
+      },
+      "highlights": [
+        {
+          "en": "Northern Italy starting point",
+          "he": "נקודת התחלה בצפון איטליה"
+        },
+        {
+          "en": "Munich, Germany stop",
+          "he": "עצירה במינכן, גרמניה"
+        },
+        {
+          "en": "Wrocław, Poland - 2 weeks for motorhome installations (half price compared to Germany)",
+          "he": "וורוצלב, פולין - שבועיים להתקנות מוטורהום (חצי מחיר לעומת גרמניה)"
+        },
+        {
+          "en": "Flexible continuation - decision to be made during trip",
+          "he": "המשך גמיש - החלטה תתקבל במהלך הנסיעה"
+        }
+      ],
+      "waypoints": [],
+      "estimatedCost": {
+        "amount": null,
+        "currency": "EUR",
+        "breakdown": []
+      },
+      "bestTimeToTravel": {
+        "en": "Summer 2025",
+        "he": "קיץ 2025"
+      },
+      "difficulty": "intermediate",
+      "tips": [
+        {
+          "type": "tip",
+          "text": {
+            "en": "Wrocław Poland offers motorhome installations at half the price of Germany",
+            "he": "וורוצלב פולין מציעה התקנות מוטורהום במחצית המחיר של גרמניה"
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "author": "Ron Kellner",
+        "dateCreated": "2025-05-17",
+        "lastUpdated": "2025-05-17"
+      },
+      "sourceBatch": 8
+    },
+    {
+      "id": "route-008-002",
+      "name": {
+        "en": "Barcelona to Pyrenees and Southern France - Summer 2025",
+        "he": "ברצלונה לפירנאים ודרום צרפת - קיץ 2025"
+      },
+      "description": {
+        "en": "Motorhome trip starting from Barcelona, heading toward Andorra and the Pyrenees, then moving east through southern France regions toward Switzerland/Italy area.",
+        "he": "טיול מוטורהום שמתחיל מברצלונה, לכיוון אנדורה והפירנאים, ואז נע מזרחה דרך אזורי דרום צרפת לכיוון אזור שוויץ/איטליה."
+      },
+      "startLocation": {
+        "en": "Barcelona, Spain",
+        "he": "ברצלונה, ספרד"
+      },
+      "endLocation": {
+        "en": "Switzerland/Italy border area",
+        "he": "אזור גבול שוויץ/איטליה"
+      },
+      "duration": {
+        "en": "Starting June 21, 2025 - duration flexible",
+        "he": "מתחיל 21 ביוני 2025 - משך זמן גמיש"
+      },
+      "highlights": [
+        {
+          "en": "Andorra",
+          "he": "אנדורה"
+        },
+        {
+          "en": "Pyrenees mountain range",
+          "he": "רכס הפירנאים"
+        },
+        {
+          "en": "Southern France regions",
+          "he": "אזורי דרום צרפת"
+        },
+        {
+          "en": "Route toward Switzerland/Italy",
+          "he": "מסלול לכיוון שוויץ/איטליה"
+        }
+      ],
+      "waypoints": [],
+      "estimatedCost": {
+        "amount": null,
+        "currency": "EUR",
+        "breakdown": []
+      },
+      "bestTimeToTravel": {
+        "en": "Summer (June-August)",
+        "he": "קיץ (יוני-אוגוסט)"
+      },
+      "difficulty": "intermediate",
+      "tips": [
+        {
+          "type": "tip",
+          "text": {
+            "en": "Use ChatGPT for route planning - provides excellent suggestions with lots of information and guidance",
+            "he": "השתמש ב-ChatGPT לתכנון מסלול - מספק הצעות מצוינות עם המון מידע והכוונה"
+          }
+        },
+        {
+          "type": "tip",
+          "text": {
+            "en": "Avoid toll roads where possible - avoid highways as much as possible",
+            "he": "הימנע מכבישי אגרה במידת האפשר - הימנע מכבישים מהירים ככל האפשר"
+          }
+        },
+        {
+          "type": "tip",
+          "text": {
+            "en": "Contact Ron Kellner for detailed regional advice - 23 years motorhome experience, 6 months per year",
+            "he": "צור קשר עם רון קלנר לייעוץ אזורי מפורט - 23 שנות ניסיון במוטורהום, 6 חודשים בשנה"
+          }
+        }
+      ],
+      "metadata": {
+        "source": "whatsapp-community",
+        "author": "Ilan, Ron Kellner",
+        "dateCreated": "2025-05-17",
+        "lastUpdated": "2025-05-17"
+      },
+      "sourceBatch": 8
+    },
+    {
+      "id": "route-012-001",
+      "name": {
+        "en": "Andorra, Pyrenees and Southern France Route",
+        "he": "מסלול אנדורה, פירינאים ודרום צרפת"
+      },
+      "description": {
+        "en": "One to two month motorhome route covering Andorra, the Pyrenees mountains, and southern France. Recommended route for summer travel with scenic mountain roads and rural areas.",
+        "he": "מסלול קמפרוון לחודש-חודשיים המכסה את אנדורה, הרי הפירינאים ודרום צרפת. מסלול מומלץ לנסיעת קיץ עם כבישים הרריים מרהיבים ואזורים כפריים."
+      },
+      "regions": [
+        "Andorra",
+        "Pyrenees",
+        "Southern France"
+      ],
+      "duration": {
+        "min": 30,
+        "max": 60,
+        "unit": "days",
+        "notes": {
+          "en": "One to two months recommended",
+          "he": "חודש עד חודשיים מומלץ"
+        }
+      },
+      "difficulty": "moderate",
+      "bestSeason": [
+        "summer"
+      ],
+      "highlights": {
+        "en": [
+          "Andorra mountain scenery",
+          "Pyrenees hiking trails",
+          "Southern France rural areas",
+          "Scenic mountain roads"
+        ],
+        "he": [
+          "נופי הרים באנדורה",
+          "שבילי טרקים בפירינאים",
+          "אזורים כפריים בדרום צרפת",
+          "כבישי הרים מרהיבים"
+        ]
+      },
+      "tips": {
+        "en": [
+          "Spain has many off-road trails for those interested",
+          "Consider 4x4 for more remote trails",
+          "Rural roads offer better local encounters than highways"
+        ],
+        "he": [
+          "בספרד יש הרבה שבילי שטח למעוניינים",
+          "שקול רכב 4x4 לשבילים מרוחקים יותר",
+          "כבישים כפריים מציעים מפגשים טובים יותר עם מקומיים מאשר כבישים מהירים"
+        ]
+      },
+      "sharedBy": "Ilan",
+      "dateShared": "2025-06-26",
+      "vehicleType": [
+        "motorhome",
+        "camper"
+      ],
+      "sourceBatch": 12
+    },
+    {
+      "id": "route-012-002",
+      "name": {
+        "en": "Central Europe Multi-Country Route (4 months)",
+        "he": "מסלול מרכז אירופה רב-ארצי (4 חודשים)"
+      },
+      "description": {
+        "en": "Four-month motorhome journey through central Europe including Munich (Germany), northern Italy, and Poland. Flexible itinerary with destinations determined during travel.",
+        "he": "מסע קמפרוון של ארבעה חודשים במרכז אירופה כולל מינכן (גרמניה), צפון איטליה ופולין. מסלול גמיש עם יעדים שנקבעים במהלך הנסיעה."
+      },
+      "regions": [
+        "Munich, Germany",
+        "Northern Italy",
+        "Poland"
+      ],
+      "duration": {
+        "min": 120,
+        "max": 120,
+        "unit": "days",
+        "notes": {
+          "en": "4 months planned departure July 1st",
+          "he": "4 חודשים מתוכננים יציאה 1 ביולי"
+        }
+      },
+      "difficulty": "easy",
+      "bestSeason": [
+        "summer",
+        "autumn"
+      ],
+      "highlights": {
+        "en": [
+          "Munich and Bavaria region",
+          "Northern Italy lakes and mountains",
+          "Polish culture and history",
+          "Flexible destination planning during travel"
+        ],
+        "he": [
+          "מינכן ואזור בוואריה",
+          "אגמים והרים בצפון איטליה",
+          "תרבות והיסטוריה פולנית",
+          "תכנון יעדים גמיש במהלך הנסיעה"
+        ]
+      },
+      "sharedBy": "Ron Kellner",
+      "dateShared": "2025-06-26",
+      "vehicleType": [
+        "motorhome"
+      ],
+      "sourceBatch": 12
+    },
+    {
+      "id": "route-012-003",
+      "name": {
+        "en": "Morocco Month-Long Motorhome Route",
+        "he": "מסלול קמפרוון חודשי במרוקו"
+      },
+      "description": {
+        "en": "One month motorhome route through Morocco. Successfully completed with 2WD vehicle, suitable for rural areas and countryside exploration.",
+        "he": "מסלול קמפרוון של חודש במרוקו. הושלם בהצלחה עם רכב 2WD, מתאים לאזורים כפריים וסיור בכפרים."
+      },
+      "regions": [
+        "Morocco"
+      ],
+      "duration": {
+        "min": 30,
+        "max": 30,
+        "unit": "days",
+        "notes": {
+          "en": "Nearly one month route",
+          "he": "מסלול של כמעט חודש"
+        }
+      },
+      "difficulty": "moderate",
+      "bestSeason": [
+        "spring",
+        "autumn",
+        "winter"
+      ],
+      "highlights": {
+        "en": [
+          "Rural Moroccan villages",
+          "Countryside exploration",
+          "Suitable for 2WD vehicles",
+          "Small rural roads for local encounters"
+        ],
+        "he": [
+          "כפרים מרוקאים כפריים",
+          "סיור בכפרים",
+          "מתאים לרכבי 2WD",
+          "כבישים כפריים קטנים למפגשים עם מקומיים"
+        ]
+      },
+      "tips": {
+        "en": [
+          "2WD is sufficient for most routes",
+          "Rural roads provide better local experiences",
+          "KKL-style easy trails available for light off-road"
+        ],
+        "he": [
+          "2WD מספיק לרוב המסלולים",
+          "כבישים כפריים מספקים חוויות מקומיות טובות יותר",
+          "שבילים קלים בסגנון קק\"ל זמינים לנסיעת שטח קלה"
+        ]
+      },
+      "sharedBy": "Ilan",
+      "dateShared": "2025-06-26",
+      "vehicleType": [
+        "motorhome",
+        "2WD"
+      ],
+      "sourceBatch": 12
+    },
+    {
+      "id": "route-013-001",
+      "name": {
+        "en": "Pyrenees and Southern France Route",
+        "he": "מסלול פירינאים ודרום צרפת"
+      },
+      "description": {
+        "en": "One to one-and-a-half month motorhome journey from Barcelona through Pyrenees and Provence region of southern France. Includes mountain passes and scenic European routes.",
+        "he": "מסע קמפרוון של חודש עד חודש וחצי מברצלונה דרך הפירינאים ואזור פרובאנס בדרום צרפת. כולל מעברים הרריים ומסלולים אירופאיים מרהיבים."
+      },
+      "regions": [
+        "Barcelona",
+        "Pyrenees",
+        "Provence",
+        "Southern France"
+      ],
+      "duration": {
+        "min": 30,
+        "max": 45,
+        "unit": "days",
+        "notes": {
+          "en": "One to one-and-a-half months",
+          "he": "חודש עד חודש וחצי"
+        }
+      },
+      "difficulty": "moderate",
+      "bestSeason": [
+        "summer"
+      ],
+      "highlights": {
+        "en": [
+          "Pyrenees mountain scenery",
+          "Provence countryside",
+          "Sella Ronda circuit",
+          "Mountain pass driving",
+          "Andorra border region",
+          "Clear mountain air"
+        ],
+        "he": [
+          "נופי הרים בפירינאים",
+          "כפרים פרובאנץ",
+          "מסלול סלה רונדה",
+          "נסיעת מעברים הרריים",
+          "אזור גבול אנדורה",
+          "אויר הרים צלול"
+        ]
+      },
+      "tips": {
+        "en": [
+          "Travel north early to escape Spanish summer heat",
+          "Plan mountain driving carefully due to vehicle clearance",
+          "Bring heating for cool mountain nights",
+          "Weather can be challenging in July at higher elevations"
+        ],
+        "he": [
+          "נסע צפונה מוקדם כדי להימלט מחום קיץ בספרד",
+          "תכנן נסיעת הרים בזהירות בגלל גובה הרכב",
+          "הביא חימום ללילות הרים קרים",
+          "מזג אוויר יכול להיות מאתגר ביולי בגבהים גבוהים"
+        ]
+      },
+      "sharedBy": "Ilan",
+      "dateShared": "2025-07-02",
+      "vehicleType": [
+        "motorhome",
+        "camper"
+      ],
+      "sourceBatch": 13
+    },
+    {
+      "id": "route-013-002",
+      "name": {
+        "en": "Munich to Italian Alps Route",
+        "he": "מסלול מינכן להרי האלפים האיטלקיים"
+      },
+      "description": {
+        "en": "Multi-week motorhome route starting from Munich, Germany heading to Italian Alps region including Livigno and Sondrio area in northern Italy near Switzerland border.",
+        "he": "מסלול קמפרוון של מספר שבועות החל ממינכן, גרמניה, בכיוון הרי האלפים באיטליה כולל אזור ליביניו וסונדריו בצפון איטליה ליד גבול שוויץ."
+      },
+      "regions": [
+        "Munich",
+        "Germany",
+        "Northern Italy",
+        "Swiss border region"
+      ],
+      "duration": {
+        "min": 14,
+        "max": 21,
+        "unit": "days",
+        "notes": {
+          "en": "Multi-week trip",
+          "he": "נסיעה של מספר שבועות"
+        }
+      },
+      "difficulty": "moderate",
+      "bestSeason": [
+        "summer"
+      ],
+      "highlights": {
+        "en": [
+          "Mountain scenery of Italian Alps",
+          "Livigno valley",
+          "Sondrio province",
+          "Alpine roads",
+          "Proximity to Swiss border"
+        ],
+        "he": [
+          "נופי הרים של האלפים האיטלקיים",
+          "עמק ליביניו",
+          "מחוז סונדריו",
+          "כבישי אלפים",
+          "קרבה לגבול השוויץ"
+        ]
+      },
+      "sharedBy": "Ron Kellner",
+      "dateShared": "2025-07-02",
+      "vehicleType": [
+        "motorhome"
+      ],
+      "sourceBatch": 13
+    },
+    {
+      "id": "route-014-001",
+      "name": {
+        "en": "Mongolia to Southern Africa via China",
+        "he": "מונגוליה לדרום אפריקה דרך סין"
+      },
+      "description": {
+        "en": "Epic overland journey shipping motorhome from Mongolia to Southern Africa via China. Requires Carnet de Passage for vehicle documentation. Need to arrange local Sprinter workshop support in South Africa (Cape Town area recommended).",
+        "he": "מסע קרבן אפי המעביר קמפרוון מונגוליה לדרום אפריקה דרך סין. דורש קרנה לתיעוד הרכב. צריך לארגן תמיכת סדנה ספרינטר מקומית בדרום אפריקה (קייפטאון מומלץ)."
+      },
+      "regions": [
+        "Mongolia",
+        "China",
+        "Southern Africa"
+      ],
+      "duration": {
+        "min": 180,
+        "max": 365,
+        "unit": "days",
+        "notes": {
+          "en": "Multi-month journey with shipping time",
+          "he": "מסע של חודשים רבים עם זמן הובלה"
+        }
+      },
+      "difficulty": "very-hard",
+      "highlights": {
+        "en": [
+          "Extreme overland routing",
+          "International shipping",
+          "Multiple border crossings",
+          "African off-road experience"
+        ],
+        "he": [
+          "ניתוב קרבן קיצוני",
+          "הובלה בינלאומית",
+          "חציות גבול מרובות",
+          "חוויית שטח אפריקאית"
+        ]
+      },
+      "requirements": {
+        "documentation": [
+          {
+            "en": "Carnet de Passage (vehicle import document)",
+            "he": "Carnet de Passage (תעודת ייבוא רכב)"
+          },
+          {
+            "en": "French vehicle registration for customs",
+            "he": "רישום רכב צרפתי למכס"
+          }
+        ],
+        "logistics": [
+          "International shipping arrangement",
+          "Workshop coordination in South Africa",
+          "Border crossing assistance"
+        ]
+      },
+      "sharedBy": "Ilan",
+      "dateShared": "2025-07-13",
+      "tags": [
+        "overland",
+        "africa",
+        "shipping",
+        "extreme-travel"
+      ],
+      "notes": {
+        "en": "Vehicle has been in Ulan Bator for 5 years. French registration. Owner seeking local support in South Africa.",
+        "he": "הרכב היה באולאן בטר למשך 5 שנים. רישום צרפתי. הבעלים מחפש תמיכה מקומית בדרום אפריקה."
+      },
+      "sourceBatch": 14
+    },
+    {
+      "id": "route-015-001",
+      "name": {
+        "en": "Greece to Western Europe Month-Long Journey",
+        "he": "מסע חודשי מיוון ליוון מערביות"
+      },
+      "description": {
+        "en": "Planned motorhome route for new group members starting from Thessaloniki, Greece. Multi-month European tour with wife traveling together. Vehicle currently parked in Greece before departure.",
+        "he": "מסלול קמפרוון מתוכנן לחברים חדשים בקבוצה החל מסלוניקי, יוון. סיור אירופאי של מספר חודשים עם אשה הנוסעת ביחד. רכב חנוי כרגע ביוון לפני היציאה."
+      },
+      "regions": [
+        "Greece",
+        "Europe"
+      ],
+      "startLocation": "Thessaloniki, Greece",
+      "startDate": "2025-08-11",
+      "duration": {
+        "min": 30,
+        "max": 120,
+        "unit": "days",
+        "notes": {
+          "en": "Month to several months planned",
+          "he": "חודש עד מספר חודשים מתוכננים"
+        }
+      },
+      "passengers": {
+        "en": "Couple with infant",
+        "he": "זוג עם תינוקת"
+      },
+      "sharedBy": "Navot Menachem, Tuval Avishi",
+      "dateShared": "2025-08-04",
+      "sourceBatch": 15
+    },
+    {
+      "id": "route-017-001",
+      "name": {
+        "en": "South America Seven-Month Family Route",
+        "he": "מסלול משפחתי של שבעה חודשים בדרום אמריקה"
+      },
+      "description": {
+        "en": "Comprehensive seven-month motorhome journey across South America with entire family including three young children (ages 2, 5, 8). Journey starts in Montevideo, goes south through Argentina and Chile via famous routes, then returns north through Peru, Ecuador, and Colombia.",
+        "he": "מסע קמפרוון מקיף של שבעה חודשים בדרום אמריקה עם משפחה שלמה כולל שלוש ילדים קטנים (בגילאי 2, 5, 8). המסע מתחיל במונטיווידאו, הולך דרומה דרך ארגנטינה וצ'ילה דרך מסלולים ידועים, ואחר כך חוזר צפונה דרך פרו, אקוודור וקולומביה."
+      },
+      "regions": [
+        "Argentina",
+        "Chile",
+        "Peru",
+        "Ecuador",
+        "Colombia"
+      ],
+      "startPoint": {
+        "name": "Montevideo",
+        "country": "Uruguay"
+      },
+      "keyStops": [
+        "Carretera Austral (Argentina/Chile)",
+        "Route 40 (Argentina)",
+        "Torres del Paine (Chilean Patagonia)",
+        "Andes Mountains",
+        "Peru highlands",
+        "Ecuador",
+        "Galapagos Islands",
+        "Colombia"
+      ],
+      "duration": {
+        "min": 210,
+        "max": 210,
+        "unit": "days",
+        "notes": {
+          "en": "Approximately 7 months",
+          "he": "בערך 7 חודשים"
+        }
+      },
+      "difficulty": "challenging",
+      "bestSeason": [
+        "summer",
+        "autumn"
+      ],
+      "highlights": {
+        "en": [
+          "Carretera Austral - one of world's most scenic routes",
+          "Route 40 through Argentina",
+          "Torres del Paine trekking",
+          "Andes mountain crossing",
+          "Peruvian culture and history",
+          "Galapagos Islands experience",
+          "Cloud forests of Ecuador",
+          "Colombian Caribbean coast"
+        ],
+        "he": [
+          "Carretera Austral - אחד המסלולים הסוויניים ביותר בעולם",
+          "Route 40 דרך ארגנטינה",
+          "טרקים בטורוס דל פיינה",
+          "חציית הרי האנדים",
+          "תרבות והיסטוריה פרואנית",
+          "חוויית איי גלאפגוס",
+          "יערות ענן של אקוודור",
+          "חוף קריביים קולומביאני"
+        ]
+      },
+      "tips": {
+        "en": [
+          "Family-friendly route even with very young children (2 years old)",
+          "Motorhome reached ship in Cartagena and was transported to Belgium",
+          "Plan for variable weather conditions across multiple climate zones",
+          "Excellent for cultural immersion and local encounters"
+        ],
+        "he": [
+          "מסלול ידידותי למשפחות אפילו עם ילדים קטנים מאוד (בן 2 שנים)",
+          "הקמפרוון הגיע לספינה בקרטחנה והועבר לבלגיה",
+          "תכננו תנאים מזג אוויר משתנים על פני אזורי אקלים מרובים",
+          "מעולה לשקיעה תרבותית ופגישות מקומיות"
+        ]
+      },
+      "vehicleLogistics": {
+        "en": "Motorhome shipped from Cartagena, Colombia to Antwerp, Belgium",
+        "he": "קמפרוון הועבר בספינה מקרטחנה, קולומביה לאנטוורפן, בלגיה"
+      },
+      "sharedBy": "Tom Lerner",
+      "dateShared": "2025-09-27",
+      "vehicleType": [
+        "motorhome",
+        "family-vehicle"
+      ],
+      "family": {
+        "adults": 2,
+        "children": 3,
+        "childrenAges": [
+          2,
+          5,
+          8
+        ]
+      },
+      "sourceBatch": 17
+    },
+    {
+      "id": "route-018-001",
+      "name": {
+        "en": "South America Extended Family Journey (Ecuador focus)",
+        "he": "מסע משפחתי משך בדרום אמריקה (מיקוד באקוודור)"
+      },
+      "description": {
+        "en": "Multi-month motorhome journey with children through South America, featuring Ecuador's natural attractions including Cotopaxi volcano and Amazon region. Completed successfully by Tom Lerner's family.",
+        "he": "מסע קמפרוון בן חודשים עם ילדים בדרום אמריקה, המוד בעצים בטבע של אקוודור כולל הר הגעש קוטופקסי ואזור אמזונס. הושלם בהצלחה על ידי משפחתו של טום לרנר."
+      },
+      "highlights": {
+        "en": [
+          "Cotopaxi volcano mountain scenery",
+          "Amazon rainforest exploration",
+          "Family with children experience"
+        ],
+        "he": [
+          "נופי הר הגעש קוטופקסי",
+          "סיור בג'ונגל אמזונס",
+          "חוויה משפחתית עם ילדים"
+        ]
+      },
+      "regions": [
+        "Ecuador",
+        "South America"
+      ],
+      "vehicleType": [
+        "motorhome"
+      ],
+      "travelers": [
+        "Tom Lerner",
+        "Family with children"
+      ],
+      "dateCompleted": "2025-09-27",
+      "sharedBy": "Tom Lerner",
+      "sourceBatch": 18
+    },
+    {
+      "id": "route-018-002",
+      "name": {
+        "en": "North America Road Trip (Half-year USA-Canada-Mexico Loop)",
+        "he": "טיול כביש בצפון אמריקה (לולאת חצי שנה ארה\"ב-קנדה-מקסיקו)"
+      },
+      "description": {
+        "en": "Six-month extended motorhome journey including USA, Canada, and return via Mexico. Vehicle left in Chile during travel. 5,000 km in 5 days non-motorhome travel mentioned for other purposes.",
+        "he": "מסע קמפרוון של חצי שנה כולל ארה\"ב, קנדה וחזרה דרך מקסיקו. הרכב הושאר בצ'ילה במהלך הנסיעה. 5,000 קמ ב-5 ימים בנסיעה ללא קמפרוון שהוזכרה לצרכים אחרים."
+      },
+      "regions": [
+        "USA",
+        "Canada",
+        "Mexico",
+        "Chile"
+      ],
+      "duration": {
+        "min": 180,
+        "max": 180,
+        "unit": "days",
+        "notes": {
+          "en": "Half-year trip with multiple destinations",
+          "he": "טיול של חצי שנה עם יעדים מרובים"
+        }
+      },
+      "travelers": [
+        "Boaz Gutman",
+        "Family with children"
+      ],
+      "highlights": {
+        "en": [
+          "Multi-country travel",
+          "Extended family motorhome experience",
+          "Long-term trip planning"
+        ],
+        "he": [
+          "נסיעה ברב-מדינות",
+          "חוויית קמפרוון משפחתית ממושכת",
+          "תכנון טיול ארוך טווח"
+        ]
+      },
+      "notes": {
+        "en": "Vehicle required mouse-proofing upon retrieval after 6 months in Chile",
+        "he": "הרכב דרש הגנה מעכברים עם חזרה לאחר 6 חודשים בצ'ילה"
+      },
+      "dateShared": "2025-09-27",
+      "sharedBy": "Boaz Gutman",
+      "sourceBatch": 18
+    },
+    {
+      "id": "route-018-003",
+      "name": {
+        "en": "Iceland Extended Travel Plan (Spring/Summer)",
+        "he": "תוכנית נסיעה ממושכת לאיסלנד (אביב/קיץ)"
+      },
+      "description": {
+        "en": "Planning for half-year motorhome transport to Iceland in spring season. Seeking advice from experienced travelers for optimal routes and timing.",
+        "he": "תכנון לתחבור חצי שנה לקמפרוון לאיסלנד בעונת האביב. ביקוש לעצות מנוסעים בעלי ניסיון לנתיבים וזמנים אופטימליים."
+      },
+      "regions": [
+        "Iceland"
+      ],
+      "duration": {
+        "min": 180,
+        "max": 180,
+        "unit": "days"
+      },
+      "season": [
+        "spring",
+        "summer"
+      ],
+      "vehicleType": [
+        "motorhome"
+      ],
+      "travelers": [
+        "Ron Kellner"
+      ],
+      "status": "planning",
+      "sharedBy": "Ron Kellner",
+      "dateShared": "2025-09-28",
+      "sourceBatch": 18
+    },
+    {
+      "id": "route-018-004",
+      "name": {
+        "en": "Farm Property Search Route (Central USA)",
+        "he": "מסלול חיפוש קרקע חווה (מרכז ארה\"ב)"
+      },
+      "description": {
+        "en": "Mobile property search journey through central USA (mid-Atlantic to Georgia region) for farm land with moderate climate. Seeking 1-2 year rental or purchase options.",
+        "he": "מסע חיפוש קרקע ניידת בעברות ארה\"ב (אמצע-אטלנטי לאזור ג'ורג'יה) לקרקע חווה עם אקלים בינוני. ביקוש לאפשרויות שכירה או קנייה של שנה-שתיים."
+      },
+      "regions": [
+        "New York",
+        "Mid-Atlantic",
+        "Georgia",
+        "Central USA"
+      ],
+      "purpose": "farm-property-search",
+      "climateRequirements": {
+        "en": "Non-extreme weather year-round, suitable for growing vegetables, chickens, fruits",
+        "he": "מזג אוויר לא קיצוני כל השנה, מתאים לגדול ירקות, תרנגולים, פרות"
+      },
+      "travelers": [
+        "Dvori Pshednovak Hulkashe"
+      ],
+      "dateShared": "2025-09-28",
+      "sharedBy": "Dvori Pshednovak Hulkashe",
+      "sourceBatch": 18
+    },
+    {
+      "id": "route-018-005",
+      "name": {
+        "en": "Portugal and Spain Leisurely Route (Weekend-based travel)",
+        "he": "מסלול פורטוגל וספרד רגוע (נסיעה המבוססת על סופי שבוע)"
+      },
+      "description": {
+        "en": "Extended travel through Portugal and Spain with weekend-only driving pattern. Work-based travel (2 offices during week) with week-long stationary camping. Preference for off-grid autonomy with regular water and waste disposal.",
+        "he": "נסיעה ממושכת דרך פורטוגל וספרד עם דפוס נסיעה בסופי שבוע בלבד. נסיעה המבוססת על עבודה (2 משרדים בשבוע) עם קמפינג נייח לשבוע שלם. העדפה לאוטונומיה אוף-גריד עם ריקון ומילוי מים קבוע."
+      },
+      "regions": [
+        "Portugal",
+        "Spain"
+      ],
+      "travelPattern": {
+        "en": "Week-long stationary camping, weekend driving",
+        "he": "קמפינג נייח לשבוע, נסיעה בסופי שבוע"
+      },
+      "autonomyCapabilities": {
+        "en": {
+          "fresh_water": "2-3 weeks",
+          "grey_water": "1 week",
+          "toilet_capacity": "8-10 days (2 cassettes)",
+          "electricity": "3 days without generator, unlimited with generator",
+          "fresh_food": "1 week"
+        },
+        "he": {
+          "fresh_water": "שבועיים-שלושה",
+          "grey_water": "שבוע",
+          "toilet_capacity": "8-10 ימים (2 קסטות)",
+          "electricity": "3 ימים ללא גנרטור, לא מוגבל עם גנרטור",
+          "fresh_food": "שבוע"
+        }
+      },
+      "travelers": [
+        "Nadav"
+      ],
+      "dateShared": "2025-09-28",
+      "sharedBy": "Nadav",
+      "sourceBatch": 18
+    },
+    {
+      "id": "route-018-006",
+      "name": {
+        "en": "South Africa 2018 Family Journey (4 children, 1.5 years)",
+        "he": "מסע משפחתי דרום אפריקה 2018 (4 ילדים, שנה וחצי)"
+      },
+      "description": {
+        "en": "Completed 18-month motorhome journey with 4 children through South Africa. Vehicle subsequently transported to South America, refurbished and updated, then offered for sale after changing travel plans.",
+        "he": "מסע קמפרוון של 18 חודשים כולל 4 ילדים בדרום אפריקה. הרכב הוצא לאחר מכן לדרום אמריקה, שופץ ועודכן, ואז הוצע למכירה לאחר שינוי תוכניות נסיעה."
+      },
+      "regions": [
+        "South Africa"
+      ],
+      "duration": {
+        "min": 540,
+        "max": 540,
+        "unit": "days"
+      },
+      "travelers": [
+        "Dvori Pshednovak Hulkashe",
+        "Family with 4 children"
+      ],
+      "experience": {
+        "en": "Life-changing experience",
+        "he": "חוויה המשנה חיים"
+      },
+      "dateCompleted": "2025-09-28",
+      "sharedBy": "Dvori Pshednovak Hulkashe",
+      "sourceBatch": 18
+    },
+    {
+      "id": "route-020-001",
+      "name": {
+        "en": "South America Motorhome Route",
+        "he": "מסלול קמפרוון בדרום אמריקה"
+      },
+      "description": {
+        "en": "Extended motorhome journey through South America including Chile and Argentina. Multi-caravan expedition planned for first week of December. Journey requires one Chilean registration and one American registration vehicle.",
+        "he": "מסע קמפרוון ממושך דרך דרום אמריקה כולל צ'ילה וארגנטינה. משלחת רב-קראוואנים מתוכננת לשבוע הראשון של דצמבר. המסע דורש רכב אחד עם רישום צ'ילאי ורכב אחד עם רישום אמריקני."
+      },
+      "regions": [
+        "Chile",
+        "Argentina"
+      ],
+      "difficulty": "advanced",
+      "duration": {
+        "min": 30,
+        "max": 90,
+        "unit": "days",
+        "notes": {
+          "en": "First week of December multi-caravan expedition",
+          "he": "משלחת רב-קראוואנים בשבוע הראשון של דצמבר"
+        }
+      },
+      "highlights": {
+        "en": [
+          "Chile and Argentina landscapes",
+          "Multi-caravan group travel",
+          "Easter Island mentioned as interest"
+        ],
+        "he": [
+          "נופי צ'ילה וארגנטינה",
+          "נסיעת קבוצה רב-קראוואנים",
+          "איי פסחא - עניין מוזכר"
+        ]
+      },
+      "sharedBy": "Shumon Harpatan",
+      "dateShared": "2025-10-11",
+      "vehicleTypes": [
+        "motorhome-caravan"
+      ],
+      "registrations": [
+        "Chilean",
+        "American"
+      ],
+      "sourceBatch": 20
+    },
+    {
+      "id": "route-023-001",
+      "name": {
+        "en": "John Steinbeck's Cross-America Journey (Travels with Charley)",
+        "he": "מסע סטיינבק על פני אמריקה (מסעותי עם צ'רלי)"
+      },
+      "description": {
+        "en": "Literary journey across America in a motorhome (truck camper named Rocinante) with his dog Charley. Started from Sag Harbor, Connecticut, traveling westward through the Midwest, Southwest, and returning via the East Coast with flexible zigzag route to avoid major cities.",
+        "he": "מסע ספרותי על פני אמריקה בקמפרוון (truck camper בשם רוסינאנטה) עם כלבו צ'רלי. התחיל מסאג הרבור, קונטיקט, נסיעה מערבה דרך מערב תיכון, דרום-מערב וחזרה דרך החוף המזרחי עם מסלול גמיש של זיגזגים להימנע מערים גדולות."
+      },
+      "regions": [
+        "Connecticut",
+        "Midwest USA",
+        "Southwest USA",
+        "East Coast USA"
+      ],
+      "duration": {
+        "min": 60,
+        "max": 90,
+        "unit": "days",
+        "notes": {
+          "en": "Approximate duration of journey across America",
+          "he": "משך משוער של המסע על פני אמריקה"
+        }
+      },
+      "difficulty": "moderate",
+      "bestSeason": [
+        "autumn",
+        "winter"
+      ],
+      "highlights": {
+        "en": [
+          "Small towns and rural areas exploration",
+          "Meetings with local people and communities",
+          "Mountain passes and varied geography",
+          "Winter snow conditions in northwest",
+          "Avoiding major cities and highways"
+        ],
+        "he": [
+          "סיור בעיירות קטנות ובאזורים כפריים",
+          "מפגשים עם אנשים מקומיים וקהילות",
+          "מעברי הרים וגיאוגרפיה מגוונת",
+          "תנאי שלג בחורף בצפון-מערב",
+          "הימנעות מערים גדולות וכבישים מהירים"
+        ]
+      },
+      "tips": {
+        "en": [
+          "Use small roads instead of highways for better local encounters",
+          "Pack emergency supplies including winter gear for seasonal changes",
+          "Flexible itinerary allows for spontaneous stops and discoveries",
+          "Camping spots available throughout rural America",
+          "Vehicle self-reliance is critical for remote areas"
+        ],
+        "he": [
+          "השתמש בכבישים קטנים במקום כבישים מהירים למפגשים טובים יותר עם מקומיים",
+          "ארוז אספקת חירום כולל ציוד חורף לשינויי עונות",
+          "מסלול גמיש מאפשר עצירות ספונטניות וגילויים",
+          "מקומות קמפינג זמינים בכל רחבי אמריקה הכפרית",
+          "עצמאות רכב היא קריטית לאזורים מרוחקים"
+        ]
+      },
+      "vehicleType": [
+        "motorhome",
+        "truck-camper"
+      ],
+      "sharedBy": "Rami Galboa",
+      "dateShared": "2025-11-04",
+      "sourceBatch": 23
+    },
+    {
+      "id": "route-026-001",
+      "name": {
+        "en": "Iceland Summer Ferry Route",
+        "he": "מסלול דנמרק-איסלנד בקיץ"
+      },
+      "description": {
+        "en": "Summer motorhome journey with ferry transport from Denmark to Iceland including Faroe Islands stopover. Multi-leg ferry journey with week-long stay in Faroe Islands.",
+        "he": "מסע קמפרוון קיץ עם הובלת דחפור מדנמרק לאיסלנד כולל עצירה באיים פארו. מסע דחפור רב-שלבי עם שהיה שבועית באיים פארו."
+      },
+      "regions": [
+        "Denmark",
+        "Faroe Islands",
+        "Iceland"
+      ],
+      "duration": {
+        "min": 45,
+        "max": 60,
+        "unit": "days",
+        "notes": {
+          "en": "Summer travel with ferry time and stopover",
+          "he": "נסיעת קיץ עם זמן דחפור ועצירה"
+        }
+      },
+      "difficulty": "moderate",
+      "bestSeason": [
+        "summer"
+      ],
+      "highlights": {
+        "en": [
+          "Ferry journey from Denmark to Iceland",
+          "Faroe Islands one-week stopover",
+          "Glacier-fed river crossings in Iceland",
+          "Mountain scenery and remote landscapes"
+        ],
+        "he": [
+          "מסע דחפור מדנמרק לאיסלנד",
+          "עצירה שבועית באיים פארו",
+          "חציות נהרות המוזנים מקרחונים באיסלנד",
+          "נוף הרים ונופים מרוחקים"
+        ]
+      },
+      "sharedBy": "Oren Kipnis",
+      "dateShared": "2025-12-10",
+      "vehicleType": [
+        "motorhome"
+      ],
+      "tips": {
+        "en": [
+          "30 hours ferry from Denmark to Faroe Islands",
+          "15 hours additional ferry from Faroe Islands to Iceland",
+          "Rivers deeper in afternoons - cross in early morning",
+          "Google Maps shows toll roads in green - set 'avoid toll roads' for alternative routes"
+        ],
+        "he": [
+          "30 שעות דחפור מדנמרק לאיים פארו",
+          "15 שעות דחפור נוסף מאיים פארו לאיסלנד",
+          "נהרות עמוקים יותר אחר הצהריים - חצו בבוקר מוקדם",
+          "Google Maps מציג כבישי אגרות בירוק - הגדר 'הימנע מכבישי אגרות' למסלולים חלופיים"
+        ]
+      },
+      "sourceBatch": 26
+    },
+    {
+      "id": "route-026-002",
+      "name": {
+        "en": "Europe to Central Asia Overland Route",
+        "he": "מסלול אירופה לאסיה מרכזית"
+      },
+      "description": {
+        "en": "Extended overland route through Turkey, Georgia, Azerbaijan, Turkmenistan, Uzbekistan, Kyrgyzstan, and into Mongolia and China. Multi-month journey combining mountain passes, desert crossings, and remote borders. Caspian Sea ferry crossing included.",
+        "he": "מסלול יבשתי מורחב דרך תורכיה, גיאורגיה, אזרבייג'ן, טורקמניסטן, אוזבקיסטן, קירגיזסטן, ולתוך מונגוליה וסין. מסע חודשים מרובים המשלב מעברי הרים, חציות מדבר וגבולות מרוחקים. כולל חציית ים הכספי בדחפור."
+      },
+      "regions": [
+        "Turkey",
+        "Georgia",
+        "Armenia",
+        "Azerbaijan",
+        "Caspian Sea",
+        "Turkmenistan",
+        "Uzbekistan",
+        "Kyrgyzstan",
+        "China",
+        "Mongolia"
+      ],
+      "difficulty": "hard",
+      "bestSeason": [
+        "spring",
+        "summer",
+        "early autumn"
+      ],
+      "highlights": {
+        "en": [
+          "Turkey to Georgia to Armenia to Azerbaijan crossing",
+          "Caspian Sea ferry crossing with motorhome",
+          "Central Asia desert and mountain terrain",
+          "Remote Kyrgyzstan mountain passes",
+          "Mongolia and China borders",
+          "Extensive route with visa logistics"
+        ],
+        "he": [
+          "חציית תורכיה לגיאורגיה לארמניה לאזרבייג'ן",
+          "חציית ים הכספי בדחפור",
+          "שטח מדבר והרים של אסיה מרכזית",
+          "מעברי הרים מרוחקים בקירגיזסטן",
+          "גבולות מונגוליה וסין",
+          "מסלול מורחב עם לוגיסטיקה ויזות"
+        ]
+      },
+      "warnings": {
+        "en": [
+          "Turkey currently not recommended due to border tensions",
+          "Russia warfare situation requires caution and monitoring",
+          "European passports require visas for Russia (Israeli passport no visa needed)",
+          "Alternative southern route through Central Asian states available",
+          "Complex visa logistics required for all countries"
+        ],
+        "he": [
+          "תורכיה לא מומלצת כרגע בגלל תחכוכים בגבול",
+          "מצב מלחמת רוסיה דורש זהירות ניטור",
+          "דרכונים אירופאיים דורשים ויזה לרוסיה (דרכון ישראלי ללא ויזה נדרשת)",
+          "מסלול חלופי דרומי דרך מדינות אסיה מרכזית זמין",
+          "לוגיסטיקה ויזה מורכבת נדרשת לכל המדינות"
+        ]
+      },
+      "routeMap": {
+        "description": {
+          "en": "Sketched red line shows approximate route. Blue portions show actual implemented path with variations.",
+          "he": "קו אדום משורטט מציג מסלול משוער. חלקים כחולים מציגים נתיב יישום בפועל עם וריאציות."
+        }
+      },
+      "sharedBy": "Ilan, Aba (Abraham)",
+      "dateShared": "2025-12-13",
+      "vehicleType": [
+        "motorhome"
+      ],
+      "notes": {
+        "en": "Previous overland trip (2013) by Aba used truck instead of motorhome through similar route. Israeli passport had advantage of no Russian visa needed at that time.",
+        "he": "טיול יבשתי קודם (2013) של אבא השתמש בטראק במקום קמפרוון דרך מסלול דומה. דרכון ישראלי היה בעל יתרון של אי-צורך בויזה רוסית בעת זו."
+      },
+      "sourceBatch": 26
+    },
+    {
+      "id": "route-026-003",
+      "name": {
+        "en": "South America Chile-Argentina Extended Route",
+        "he": "מסלול דרום אמריקה צ'ילה-ארגנטינה מורחב"
+      },
+      "description": {
+        "en": "Extensive motorhome journey through southern Chile and Argentina featuring Carretera Austral, Coquena Pass off-road crossing, Route 40 in Argentina, and archaeological sites. Includes glacier-fed rivers, mountain terrain, and remote camping.",
+        "he": "מסע קמפרוון נרחב דרך דרום צ'ילה וארגנטינה המציג קרטרה אוסטראל, חציית שטח קוקרנה, כביש 40 בארגנטינה ואתרים ארכיאולוגיים. כולל נהרות המוזנים מקרחונים, שטח הרי וקמפינג מרוחק."
+      },
+      "regions": [
+        "Southern Chile",
+        "Northern Patagonia",
+        "Argentina"
+      ],
+      "difficulty": "hard",
+      "bestSeason": [
+        "summer",
+        "early autumn"
+      ],
+      "highlights": {
+        "en": [
+          "Carretera Austral - legendary gravel road through remote Chile",
+          "Coquena Pass - off-road crossing between Chile and Argentina",
+          "Cueva de los Manos - ancient handprints archaeological site",
+          "Villa O'Higgins terminus",
+          "Route 40 Argentina - scenic mountain and steppe landscape",
+          "Glacier-fed river crossings",
+          "Pristine wilderness camping"
+        ],
+        "he": [
+          "קרטרה אוסטראל - כביש חצץ אגדי דרך צ'ילה מרוחקת",
+          "קוקרנה - חציית שטח בין צ'ילה לארגנטינה",
+          "Cueva de los Manos - אתר ארכיאולוגי של טביעות יד עתיקות",
+          "וילה או'היגינס קצה",
+          "כביש 40 ארגנטינה - נוף הרים ודברים יפה",
+          "חציות נהרות המוזנים מקרחונים",
+          "קמפינג בחוש בר טבעי"
+        ]
+      },
+      "tips": {
+        "en": [
+          "Ripio (gravel roads) require lower tire pressure for better traction",
+          "Accelerate on ripio - don't brake suddenly",
+          "Carry paper maps - technology can fail in remote areas",
+          "Bajo Caracoles fuel station - bring significant cash",
+          "Limit paved roads in Chile - zigzag into Argentina for variety",
+          "Scenic alternatives to Route 5 reduce highway monotony",
+          "Off-road portions very challenging - 4x4 beneficial but not absolutely required for Carretera"
+        ],
+        "he": [
+          "Ripio (כבישי חצץ) דורשים לחץ צמיג נמוך יותר לתאחוז טוב",
+          "האץ ב-Ripio - אל תעצור בחדות",
+          "נשא מפות נייר - טכנולוגיה יכולה להיכשל באזורים מרוחקים",
+          "תחנת דלק Bajo Caracoles - הבא מזומן משמעותי",
+          "הגבל כבישים סלולים בצ'ילה - זגזג לארגנטינה לגיוון",
+          "חלופות מהנדסות לכביש 5 מפחיתות משעמות כביש מהיר",
+          "חלקים שטח מאתגרים מאוד - 4x4 מועיל אבל לא בחובה מוחלטת לקרטרה"
+        ]
+      },
+      "sharedBy": "Ilan, Amir Meltzer, Ephraim Lior",
+      "dateShared": "2025-12-11",
+      "vehicleType": [
+        "motorhome",
+        "4x4 recommended"
+      ],
+      "previousVisits": "Ilan visited 12 years ago with extensive experience",
+      "sourceBatch": 26
+    }
+  ]
+}
