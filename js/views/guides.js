@@ -231,7 +231,7 @@ export class GuidesView {
 
     renderGuideCard(guide) {
         const title = this.getLocalizedText(guide.title);
-        const content = this.getLocalizedText(guide.content);
+        const summary = this.getLocalizedText(guide.summary || guide.content);
         const category = guide.category || 'uncategorized';
 
         return `
@@ -239,10 +239,10 @@ export class GuidesView {
                 <div class="guide-category-tag">${this.formatCategoryName(category)}</div>
                 <div class="guide-title">${title}</div>
                 <div class="guide-content">
-                    ${content?.substring(0, 200)}${content?.length > 200 ? '...' : ''}
+                    ${summary?.substring(0, 200)}${summary?.length > 200 ? '...' : ''}
                 </div>
                 <div class="guide-meta">
-                    ${guide.id}
+                    ${guide.difficulty || ''} ${guide.timeRequired ? '• ' + guide.timeRequired : ''}
                 </div>
             </div>
         `;

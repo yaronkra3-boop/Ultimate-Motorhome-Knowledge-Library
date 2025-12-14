@@ -42,9 +42,11 @@ export class DataLoader {
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
-            this.data[category] = await response.json();
+            const json = await response.json();
+            // Extract the array from nested structure (e.g., {metadata, locations} -> locations array)
+            this.data[category] = json[category] || json;
             this.loadedCategories.add(category);
-            console.log(`${category} data loaded successfully`);
+            console.log(`${category} data loaded successfully: ${this.data[category].length} items`);
             return this.data[category];
         } catch (error) {
             console.error(`Error loading ${category} data:`, error);
@@ -184,18 +186,18 @@ export class DataLoader {
         return textObj.en || textObj.he || '';
     }
 
-    // Get statistics (calculate from loaded data)
+    // Get statistics (load all categories to show counts)
     async getStats() {
         const locations = await this.getLocations();
-        const guides = this.loadedCategories.has('guides') ? await this.getGuides() : [];
-        const routes = this.loadedCategories.has('routes') ? await this.getRoutes() : [];
-        const costs = this.loadedCategories.has('costs') ? await this.getCosts() : [];
+        const guides = await this.getGuides();
+        const routes = await this.getRoutes();
+        const tips = await this.getTips();
 
         return {
             totalLocations: locations.length,
             totalGuides: guides.length,
             totalRoutes: routes.length,
-            totalCosts: costs.length
+            totalTips: tips.length
         };
     }
 
