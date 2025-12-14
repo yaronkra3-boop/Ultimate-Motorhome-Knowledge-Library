@@ -1,146 +1,149 @@
-/**
- * Data Loader Module
- * Handles loading and caching of location data
- */
-
-const DataLoader = (function() {
-  let locationsData = null;
-  let isLoading = false;
-
-  /**
-   * Load locations data from JSON file
-   * @returns {Promise<Object>} Locations data
-   */
-  async function loadLocations() {
-    if (locationsData) {
-      return locationsData;
+// Data Loader - Fetches and manages the unified dataset
+export class DataLoader {
+    constructor() {
+        this.data = null;
+        this.dataPath = 'datasets/dataset-unified.json';
     }
 
-    if (isLoading) {
-      // Wait for existing load to complete
-      return new Promise((resolve) => {
-        const checkInterval = setInterval(() => {
-          if (!isLoading) {
-            clearInterval(checkInterval);
-            resolve(locationsData);
-          }
-        }, 100);
-      });
+    async loadData() {
+        try {
+            const response = await fetch(this.dataPath);
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            this.data = await response.json();
+            console.log('Data loaded successfully:', this.data.metadata);
+            return this.data;
+        } catch (error) {
+            console.error('Error loading data:', error);
+            throw error;
+        }
     }
 
-    try {
-      isLoading = true;
-      const response = await fetch('data/locations.json');
-
-      if (!response.ok) {
-        throw new Error(`HTTP error! status: ${response.status}`);
-      }
-
-      const data = await response.json();
-      locationsData = data;
-      return data;
-    } catch (error) {
-      console.error('Error loading locations data:', error);
-      throw error;
-    } finally {
-      isLoading = false;
-    }
-  }
-
-  /**
-   * Get all locations
-   * @returns {Promise<Array>} Array of location objects
-   */
-  async function getAllLocations() {
-    const data = await loadLocations();
-    return data.locations || [];
-  }
-
-  /**
-   * Get location by ID
-   * @param {string} id - Location ID
-   * @returns {Promise<Object|null>} Location object or null
-   */
-  async function getLocationById(id) {
-    const locations = await getAllLocations();
-    return locations.find(loc => loc.id === id) || null;
-  }
-
-  /**
-   * Filter locations by type
-   * @param {string} type - Location type
-   * @returns {Promise<Array>} Filtered locations
-   */
-  async function getLocationsByType(type) {
-    const locations = await getAllLocations();
-    if (type === 'all') {
-      return locations;
-    }
-    return locations.filter(loc => loc.type === type);
-  }
-
-  /**
-   * Search locations by query
-   * @param {string} query - Search query
-   * @returns {Promise<Array>} Matching locations
-   */
-  async function searchLocations(query) {
-    if (!query || query.trim() === '') {
-      return getAllLocations();
+    // Get all locations
+    getLocations() {
+        return this.data?.data?.locations || [];
     }
 
-    const locations = await getAllLocations();
-    const searchTerm = query.toLowerCase().trim();
+    // Get all routes
+    getRoutes() {
+        return this.data?.data?.routes || [];
+    }
 
-    return locations.filter(loc => {
-      // Search in name
-      if (loc.name?.en?.toLowerCase().includes(searchTerm)) {
-        return true;
-      }
+    // Get all guides
+    getGuides() {
+        return this.data?.data?.guides || [];
+    }
 
-      // Search in city
-      if (loc.address?.city?.toLowerCase().includes(searchTerm)) {
-        return true;
-      }
+    // Get all tips
+    getTips() {
+        return this.data?.data?.tips || [];
+    }
 
-      // Search in country
-      if (loc.address?.country?.toLowerCase().includes(searchTerm)) {
-        return true;
-      }
+    // Get all costs
+    getCosts() {
+        return this.data?.data?.costs || [];
+    }
 
-      // Search in region
-      if (loc.address?.region?.toLowerCase().includes(searchTerm)) {
-        return true;
-      }
+    // Get all contacts
+    getContacts() {
+        return this.data?.data?.contacts || [];
+    }
 
-      // Search in full address
-      if (loc.address?.fullAddress?.en?.toLowerCase().includes(searchTerm)) {
-        return true;
-      }
+    // Get guides by category
+    getGuidesByCategory(category) {
+        return this.getGuides().filter(guide => guide.category === category);
+    }
 
-      return false;
-    });
-  }
+    // Get locations by type
+    getLocationsByType(type) {
+        return this.getLocations().filter(loc => loc.type === type);
+    }
 
-  /**
-   * Get metadata about the dataset
-   * @returns {Promise<Object>} Metadata object
-   */
-  async function getMetadata() {
-    const data = await loadLocations();
-    return data.metadata || {};
-  }
+    // Search across all data
+    search(query) {
+        if (!query || !this.data) return [];
 
-  // Public API
-  return {
-    loadLocations,
-    getAllLocations,
-    getLocationById,
-    getLocationsByType,
-    searchLocations,
-    getMetadata
-  };
-})();
+        const lowerQuery = query.toLowerCase();
+        const results = [];
 
-// Make available globally
-window.DataLoader = DataLoader;
+        // Search locations
+        this.getLocations().forEach(loc => {
+            if (this.matchesQuery(loc, lowerQuery, ['name', 'description', 'address'])) {
+                results.push({
+                    type: 'Location',
+                    title: this.getLocalizedText(loc.name),
+                    description: this.getLocalizedText(loc.description)?.substring(0, 150) + '...',
+                    route: `locations/${loc.id}`,
+                    data: loc
+                });
+            }
+        });
+
+        // Search guides
+        this.getGuides().forEach(guide => {
+            if (this.matchesQuery(guide, lowerQuery, ['title', 'content', 'category'])) {
+                results.push({
+                    type: 'Guide',
+                    title: this.getLocalizedText(guide.title),
+                    description: this.getLocalizedText(guide.content)?.substring(0, 150) + '...',
+                    route: `guides/${guide.id}`,
+                    data: guide
+                });
+            }
+        });
+
+        // Search routes
+        this.getRoutes().forEach(route => {
+            if (this.matchesQuery(route, lowerQuery, ['name', 'description'])) {
+                results.push({
+                    type: 'Route',
+                    title: this.getLocalizedText(route.name),
+                    description: this.getLocalizedText(route.description)?.substring(0, 150) + '...',
+                    route: `routes/${route.id}`,
+                    data: route
+                });
+            }
+        });
+
+        return results.slice(0, 50); // Limit to 50 results
+    }
+
+    // Helper: Check if object matches query in specified fields
+    matchesQuery(obj, query, fields) {
+        return fields.some(field => {
+            const value = obj[field];
+            if (!value) return false;
+
+            // Handle localized text
+            if (typeof value === 'object' && (value.en || value.he)) {
+                return (value.en?.toLowerCase().includes(query) ||
+                        value.he?.toLowerCase().includes(query));
+            }
+
+            // Handle regular strings
+            if (typeof value === 'string') {
+                return value.toLowerCase().includes(query);
+            }
+
+            return false;
+        });
+    }
+
+    // Helper: Get localized text (prefer English, fallback to Hebrew)
+    getLocalizedText(textObj) {
+        if (!textObj) return '';
+        if (typeof textObj === 'string') return textObj;
+        return textObj.en || textObj.he || '';
+    }
+
+    // Get statistics
+    getStats() {
+        return this.data?.statistics || {};
+    }
+
+    // Get metadata
+    getMetadata() {
+        return this.data?.metadata || {};
+    }
+}
