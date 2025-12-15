@@ -1,0 +1,585 @@
+{
+  "category": "technology",
+  "enrichmentDate": "2025-12-15",
+  "totalGuides": 20,
+  "enrichments": [
+    {
+      "guide_id": "guide-006",
+      "guide_title": "Polarsteps Travel Tracking App Guide",
+      "references": [
+        {
+          "name": "Polarsteps Official Website",
+          "url": "https://www.polarsteps.com/",
+          "type": "official"
+        },
+        {
+          "name": "Polarsteps - App Store (iOS)",
+          "url": "https://apps.apple.com/us/app/polarsteps-travel/id947925763",
+          "type": "appstore"
+        },
+        {
+          "name": "Polarsteps - Google Play (Android)",
+          "url": "https://play.google.com/store/apps/details?id=com.polarsteps",
+          "type": "appstore"
+        }
+      ],
+      "image_suggestions": [
+        "Polarsteps app interface showing route tracking on world map",
+        "Motorhome journey tracked on Polarsteps with photos pinned to locations",
+        "Polarsteps mobile app screenshot showing trip timeline and photos",
+        "Example of Polarsteps travel book printed from app"
+      ],
+      "extra_info": "Polarsteps is completely free with no ads. Over 18 million travelers use it. The app runs offline and stores data locally. Features automatic route tracking, photo integration, and the ability to create printed travel books from your digital trips. Works on iOS 16.0+ and Android. Amsterdam-based company founded by travel enthusiasts."
+    },
+    {
+      "guide_id": "guide-008",
+      "guide_title": "Starlink Internet for Motorhomes - Complete Guide",
+      "references": [
+        {
+          "name": "Starlink Official Service Plans",
+          "url": "https://starlink.com/service-plans",
+          "type": "official"
+        },
+        {
+          "name": "Starlink Roam for RVs",
+          "url": "https://starlink.com/roam",
+          "type": "official"
+        },
+        {
+          "name": "Starlink Hardware Store",
+          "url": "https://starlink.com",
+          "type": "purchase"
+        }
+      ],
+      "image_suggestions": [
+        "Starlink Mini dish mounted on motorhome roof",
+        "Starlink dish on tripod setup next to motorhome",
+        "Starlink app showing satellite connection and speed",
+        "Starlink Roam hardware kit components",
+        "Motorhome parked in remote location using Starlink internet"
+      ],
+      "extra_info": "2025 Starlink Pricing: Mini hardware $229 (discounted from $299), Standard Kit $279. Roam 50GB plan: $50/month. Roam Unlimited: $165/month. Supports in-motion use up to 100 mph. Service can be paused when not in use. The Roam 10GB option was discontinued in August 2025. Starlink works nationwide including marinas and waterways."
+    },
+    {
+      "guide_id": "guide-011",
+      "guide_title": "Starlink Service Management - Pause and Resume",
+      "references": [
+        {
+          "name": "Starlink Account Management",
+          "url": "https://starlink.com/account",
+          "type": "official"
+        },
+        {
+          "name": "Starlink Service Plans",
+          "url": "https://starlink.com/service-plans",
+          "type": "official"
+        }
+      ],
+      "image_suggestions": [
+        "Starlink app showing pause/resume subscription options",
+        "Starlink billing cycle calendar visualization",
+        "Screenshot of Starlink account management interface"
+      ],
+      "extra_info": "You can pause Starlink service unlimited times per year with no restrictions. When you pause, you keep the remaining balance of the current billing month, but it will be lost when you resume. Best practice: pause at the end of your monthly cycle to minimize waste. The service operates on a 30-day billing cycle."
+    },
+    {
+      "guide_id": "guide-012",
+      "guide_title": "Navigation Apps for Large Motorhomes - Height and Weight Restrictions",
+      "references": [
+        {
+          "name": "Sygic Truck Navigation Official",
+          "url": "https://www.sygic.com/truck",
+          "type": "official"
+        },
+        {
+          "name": "Sygic Truck - App Store (iOS)",
+          "url": "https://apps.apple.com/us/app/sygic-truck-rv-navigation/id992127700",
+          "type": "appstore"
+        },
+        {
+          "name": "Sygic Truck - Google Play (Android)",
+          "url": "https://play.google.com/store/apps/details?id=com.sygic.truck",
+          "type": "appstore"
+        },
+        {
+          "name": "Sygic Pricing Information",
+          "url": "https://www.sygic.com/truck-gps-navigation/pricing",
+          "type": "official"
+        }
+      ],
+      "image_suggestions": [
+        "Sygic Truck app showing motorhome dimension settings",
+        "Side-by-side comparison of Waze vs Sygic routing for large vehicles",
+        "Low bridge warning on Sygic Truck navigation",
+        "Sygic Truck interface with truck/camper vehicle profile selected",
+        "Example of narrow road avoided by Sygic Truck routing"
+      ],
+      "extra_info": "Sygic Truck is trusted by 5+ million drivers worldwide. Features 7-day free trial of Premium features. Supports vehicle dimensions (height, weight, length, width) and routes accordingly. Works with Android Auto and Apple CarPlay. Includes lifetime license options with 3 years of map updates. Covers North America, Europe, Australia & New Zealand, Brazil, Middle East, and Africa. Premium subscription approximately $44 one-time payment (check official pricing for current rates)."
+    },
+    {
+      "guide_id": "guide-016",
+      "guide_title": "Solar Panel Installation - Flexible vs Rigid Panels",
+      "references": [
+        {
+          "name": "Renogy Solar Panels Official Store",
+          "url": "https://www.renogy.com/collections/solar-panels",
+          "type": "official"
+        },
+        {
+          "name": "Renogy Flexible Solar Panels",
+          "url": "https://www.renogy.com/collections/flexible-solar-panel",
+          "type": "official"
+        },
+        {
+          "name": "Renogy 100W Flexible Panel - Amazon",
+          "url": "https://www.amazon.com/Renogy-Extremely-Flexible-Monocrystalline-Solar/dp/B07BMNGVV3",
+          "type": "purchase"
+        },
+        {
+          "name": "Victron Energy Official",
+          "url": "https://www.victronenergy.com",
+          "type": "official"
+        }
+      ],
+      "image_suggestions": [
+        "Flexible solar panel curved on motorhome roof",
+        "Rigid solar panel with frame mounted on motorhome roof rails",
+        "Side-by-side comparison of flexible vs rigid solar panel profiles",
+        "Solar panel installation showing spacing for cooling airflow",
+        "Renogy vs Victron solar panels comparison chart",
+        "MPPT solar charge controller wiring diagram"
+      ],
+      "extra_info": "Flexible panels are 95% thinner than rigid panels, can bend to curved surfaces, and are ideal for stealth installations. However, they require proper ventilation to prevent overheating. Rigid panels offer better long-term performance and cooling. Victron panels have higher open circuit voltage (45.8V for 215W) vs Renogy (27V for 200W), which is advantageous in cloudy conditions. Renogy panels offer 25-year warranty with 95% output after 5 years. Both brands compatible with various MPPT charge controllers (12V/24V/48V systems)."
+    },
+    {
+      "guide_id": "guide-008-001",
+      "guide_title": "Solar Panel Installation and Efficiency Tips",
+      "references": [
+        {
+          "name": "Renogy Solar Panel Installation Guide",
+          "url": "https://www.renogy.com/blog/different-ways-to-attach-rigid-flexible-portable-solar-panels/",
+          "type": "official"
+        }
+      ],
+      "image_suggestions": [
+        "Solar panel with elevated mounting brackets showing air gap",
+        "Diagram showing airflow cooling under solar panel",
+        "Temperature comparison: flush-mounted vs elevated panel installation"
+      ],
+      "extra_info": "Leaving a small gap (typically 1-3 inches) between solar panels and roof improves cooling efficiency. The air gap cools the roof more than it cools the panel itself, but overall system efficiency improves. Proper ventilation prevents panel overheating which can reduce output and shorten lifespan. This is especially critical for flexible panels which can overheat when glued directly to insulating roof surfaces."
+    },
+    {
+      "guide_id": "guide-008-003",
+      "guide_title": "France Toll Road Navigation and Cost Avoidance",
+      "references": [
+        {
+          "name": "Google Maps",
+          "url": "https://maps.google.com",
+          "type": "official"
+        }
+      ],
+      "image_suggestions": [
+        "Google Maps showing 'Avoid Tolls' option enabled",
+        "French toll booth with pricing display for different vehicle classes",
+        "Motorhome classification diagram showing height/weight/length thresholds",
+        "Google Maps route comparison: toll vs toll-free route in France"
+      ],
+      "extra_info": "France toll pricing is based on vehicle classification: over 3.5 tons weight, over 3 meters height, or over 6 meters length = truck rates (significantly more expensive). Google Maps 'Avoid Toll Roads' option effectively bypasses toll stations by routing you off highway before toll and back on after. Speed camera fines in France are approximately €80 even for minor violations. Use speed camera warning apps like CamSam to avoid fines."
+    },
+    {
+      "guide_id": "guide-008-004",
+      "guide_title": "Speed Camera Detection Apps for Europe",
+      "references": [
+        {
+          "name": "CamSam Official Website",
+          "url": "http://www.camsam.com/",
+          "type": "official"
+        },
+        {
+          "name": "CamSam - Google Play (Android)",
+          "url": "https://play.google.com/store/apps/details?id=com.camsam",
+          "type": "appstore"
+        },
+        {
+          "name": "Sygic Speed Camera Radar",
+          "url": "https://www.sygic.com",
+          "type": "official"
+        },
+        {
+          "name": "APKPure (for region-locked apps)",
+          "url": "https://apkpure.com",
+          "type": "download"
+        },
+        {
+          "name": "APKCombo (for region-locked apps)",
+          "url": "https://apkcombo.com",
+          "type": "download"
+        }
+      ],
+      "image_suggestions": [
+        "CamSam app interface showing speed camera alerts",
+        "CamSam alert notification on phone screen while driving",
+        "Map view showing fixed speed camera locations in Europe",
+        "Sygic Speed Camera Radar background operation notification"
+      ],
+      "extra_info": "CamSam has 7.6 million downloads, rated 4.50/5 stars from 73,000 ratings. Over 5 million users contribute to Europe's biggest traffic community (Blitzer.de). Features: 60,000+ fixed speedcams worldwide from SCDB.info, real-time mobile radar alerts, automatic updates every 5 minutes, visual and acoustic warnings. CamSam PLUS (paid) includes Widget-Mode, Multi-Windows support, Landscape mode, and HFP-Bluetooth. Note: Only works for fixed cameras, not handheld radar. Some apps region-locked, requiring APK downloads for non-European users."
+    },
+    {
+      "guide_id": "guide-018",
+      "guide_title": "Viber Call World - International Calling Solution for Motorhome Travel",
+      "references": [
+        {
+          "name": "Viber Call World Official",
+          "url": "https://account.viber.com/en/call-world",
+          "type": "official"
+        },
+        {
+          "name": "Viber Out Plans & Rates",
+          "url": "https://account.viber.com/en/rates-index",
+          "type": "official"
+        },
+        {
+          "name": "Viber App - App Store (iOS)",
+          "url": "https://apps.apple.com/app/viber",
+          "type": "appstore"
+        },
+        {
+          "name": "Viber App - Google Play (Android)",
+          "url": "https://play.google.com/store/apps/details?id=com.viber.voip",
+          "type": "appstore"
+        }
+      ],
+      "image_suggestions": [
+        "Viber Call World subscription interface",
+        "Viber app showing caller ID with real phone number",
+        "List of 60 countries covered by Viber Call World plan",
+        "Viber Out pricing comparison vs Skype and traditional carriers"
+      ],
+      "extra_info": "Viber Call World Unlimited plan covers approximately 60 countries for ~$20/month equivalent. No commitment - cancel anytime with one click. Your cellular number appears on recipient's screen (caller ID). Recipients don't need Viber installed. Rates are 20-50% lower than Skype or Google Voice. Calls to US: 1.9 cents/min vs Skype's 2.3 cents/min. Transparent pricing with no connection charges. Perfect alternative after Skype shut down their calling service. Covers popular destinations: USA, UK, Australia, Russia, India, and 55+ more countries."
+    },
+    {
+      "guide_id": "guide-019",
+      "guide_title": "Type 2 EV Charging Adapter for Motorhome Power",
+      "references": [
+        {
+          "name": "LXSWY Type 2 Adapter - Amazon",
+          "url": "https://www.amazon.com/LXSWY-IEC62196-Electric-External-Charging/dp/B0BSC294JJ",
+          "type": "purchase"
+        },
+        {
+          "name": "Type 2 EV Charging Adapter - AliExpress",
+          "url": "https://a.aliexpress.com/_mOqPuFV",
+          "type": "purchase"
+        },
+        {
+          "name": "Type 2 Connector Information - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Type_2_connector",
+          "type": "reference"
+        }
+      ],
+      "image_suggestions": [
+        "Type 2 EV charging adapter connected to charging station",
+        "IEC62196 Type 2 to 220V adapter device",
+        "Motorhome connected to EV charging station using adapter",
+        "Type 2 adapter specifications and power ratings diagram",
+        "EV charging station locator app showing free charging stations"
+      ],
+      "extra_info": "IEC62196 Type 2 adapters convert EV charging stations to standard 220V output. Common power ratings: 3.5kW (16A), 7kW (32A). Price range: $25-75 depending on power rating. Allows powering motorhome air conditioning, heaters, and all 220V appliances. Type 2 standard carries 3-50kW using single-phase (230V) or three-phase (400V) AC. IP54-IP55 rated (dust/splash protection). Operating temperature: -30°C to +50°C. Many free EV charging stations available throughout Europe. Example: Berlin overnight charging for €1.50. Use EV charging station locator apps with free/paid filters."
+    },
+    {
+      "guide_id": "guide-020",
+      "guide_title": "Sygic Truck Navigation for Large Motorhomes - Complete Setup Guide",
+      "references": [
+        {
+          "name": "Sygic Truck & Caravan Navigation",
+          "url": "https://www.sygic.com/truck",
+          "type": "official"
+        },
+        {
+          "name": "Sygic Truck Pricing",
+          "url": "https://www.sygic.com/truck-gps-navigation/pricing",
+          "type": "official"
+        },
+        {
+          "name": "Sygic Truck - App Store (iOS)",
+          "url": "https://apps.apple.com/us/app/sygic-truck-rv-navigation/id992127700",
+          "type": "appstore"
+        },
+        {
+          "name": "Sygic Truck - Google Play (Android)",
+          "url": "https://play.google.com/store/apps/details?id=com.sygic.truck",
+          "type": "appstore"
+        }
+      ],
+      "image_suggestions": [
+        "Sygic Truck vehicle profile configuration screen",
+        "Sygic showing camper vs truck routing options",
+        "Map download interface in Sygic Truck app",
+        "Sygic routing comparison: local roads vs highways for motorhome",
+        "7.5 ton zone routing example in Sygic Truck"
+      ],
+      "extra_info": "Premium subscription approximately $44 USD one-time lifetime payment. Free 7-day trial available. Configure as CAMPER (not truck) for optimal routing. Input exact dimensions: height (e.g., 3.9m), weight (e.g., 10 tons), length. Route preferences: local roads (scenic, slower) vs highways. Maps included in premium price - no additional costs. 7.5 ton zone routing normal for campers. Works with Android Auto and Apple CarPlay. Trusted by 5+ million drivers. Vehicle profiles available: Truck, Caravan, Bus, Van, Motorhome, RV."
+    },
+    {
+      "guide_id": "guide-021",
+      "guide_title": "OBD2 Diagnostic Scanner for Motorhome Troubleshooting",
+      "references": [
+        {
+          "name": "ANCEL AS500 Official Page",
+          "url": "https://www.anceltech.com/product/detail?id=1262191429069828096",
+          "type": "official"
+        },
+        {
+          "name": "ANCEL AS500 - Walmart",
+          "url": "https://www.walmart.com/ip/ANCEL-AS500-OBD2-Scanner-Check-Engine-Light-Automotive-Auto-Code-Reader-Read-Clear-Error-Codes-OBDII-ODB-2-Car-Diagnostic-Tools-Free-Update/736339259",
+          "type": "purchase"
+        },
+        {
+          "name": "ANCEL AS500 - Amazon",
+          "url": "https://www.amazon.com/dp/B09GK8DWQY",
+          "type": "purchase"
+        },
+        {
+          "name": "ANCEL AS500 - eBay",
+          "url": "https://www.ebay.com/itm/267109173940",
+          "type": "purchase"
+        }
+      ],
+      "image_suggestions": [
+        "ANCEL AS500 OBD2 scanner device",
+        "OBD2 scanner plugged into motorhome diagnostic port",
+        "AS500 display showing engine fault codes",
+        "OBD2 scanner showing live data stream from vehicle",
+        "Comparison of different OBD2 scanner models"
+      ],
+      "extra_info": "ANCEL AS500 price: ~$45 USD (approximately 165 ILS). Features: 2.4-2.8 inch TFT color LCD, reads/clears fault codes, I/M readiness check, freeze frame data, live data stream, on-board monitor test, EVAP system test, O2 sensor test. Works with 12V diesel and gasoline vehicles with OBDII/EOBD protocols and 16-pin diagnostic port. Compatible with: USA 1996+ vehicles, EU 2003+ vehicles, Asian brands 2006+. No battery needed - powered through OBD2 port. Lifetime free updates online. 9 diagnostic modules, 8 languages supported. Motorhome compatibility: works with standard chassis (Ford, GM, Mercedes Sprinter, Fiat) but may not cover specialized motorhome systems."
+    },
+    {
+      "guide_id": "guide-013-003",
+      "guide_title": "Starlink Mini Satellite Internet for Motorhomes: Installation and Performance",
+      "references": [
+        {
+          "name": "Starlink Mini Official",
+          "url": "https://starlink.com",
+          "type": "official"
+        },
+        {
+          "name": "Starlink Roam Plans",
+          "url": "https://starlink.com/roam",
+          "type": "official"
+        }
+      ],
+      "image_suggestions": [
+        "Starlink Mini dish on motorhome sun roof",
+        "Starlink Mini vacuum suction mount installation",
+        "Starlink app showing alignment guidance",
+        "Starlink Mini performance metrics: 180 Mbps download, 40 Mbps upload",
+        "Starlink Mini mounted on roof vs exterior ground setup comparison"
+      ],
+      "extra_info": "Starlink Mini hardware: $229 (discounted from $299). Monthly subscription: €49 ($50-55 USD) for 50GB small package. Performance: 180 Mbps download / 40 Mbps upload (exterior), 110 Mbps / 25 Mbps (through sun roof glass). Vacuum suction mount allows roof installation without drilling. Works during travel with occasional disconnections due to antenna angle changes. Simple alignment using Starlink app. Good connectivity throughout Europe. 50GB data allowance reasonable for motorhome use (streaming, video calls, web browsing)."
+    },
+    {
+      "guide_id": "guide-014-001",
+      "guide_title": "Starlink vs Cellular eSIM: European Internet Solutions for Motorhomes",
+      "references": [
+        {
+          "name": "Starlink Service Plans",
+          "url": "https://starlink.com/service-plans",
+          "type": "official"
+        },
+        {
+          "name": "O2 Germany Prepaid",
+          "url": "https://www.o2online.de",
+          "type": "official"
+        }
+      ],
+      "image_suggestions": [
+        "Starlink vs cellular coverage comparison map",
+        "O2 Germany prepaid SIM card and packaging",
+        "Starlink pause subscription interface",
+        "Dual connectivity setup: Starlink + eSIM backup",
+        "Data usage comparison chart: Starlink vs cellular"
+      ],
+      "extra_info": "Starlink Roam plans: Limited 50GB ($50/month), Unlimited ($165-180/month). Pause feature stops billing but doesn't refund current month. Best to pause 1-2 days before month-end. O2 Germany Prepaid: 999GB for €75/month covering entire EU, no auto-renewal. Phone number preserved for 1 year without recharge. Reload via internet, O2 app, or kiosk/gas station. Auto-switch from Starlink to eSIM when connection fails. Starlink better in remote areas, eSIM better for backup and urban areas. Tree blockage affects Starlink - reposition antenna via mobile app (usually <1 minute). Roof mounting with ball joint improves reliability."
+    },
+    {
+      "guide_id": "guide-016-001",
+      "guide_title": "GPS Navigation for Motorhomes: App Comparison and Vehicle-Aware Routing",
+      "references": [
+        {
+          "name": "Sygic Truck Navigation",
+          "url": "https://www.sygic.com/truck",
+          "type": "official"
+        },
+        {
+          "name": "OsmAnd+ Official",
+          "url": "https://osmand.net",
+          "type": "official"
+        },
+        {
+          "name": "OsmAnd - Google Play",
+          "url": "https://play.google.com/store/apps/details?id=net.osmand",
+          "type": "appstore"
+        },
+        {
+          "name": "CoPilot GPS Navigation",
+          "url": "https://copilotgps.com",
+          "type": "official"
+        }
+      ],
+      "image_suggestions": [
+        "Sygic Track vehicle dimension input screen",
+        "OsmAnd+ truck profile configuration",
+        "Navigation app comparison: Sygic vs OsmAnd vs CoPilot",
+        "Low bridge alert on motorhome navigation app",
+        "Map accuracy comparison by country"
+      ],
+      "extra_info": "Sygic Track: €30/year premium, input vehicle dimensions (height/width/weight), shows bridge heights and restrictions, Android Auto support. Map accuracy varies by country (excellent UK, chaotic Germany). Issues: Can still route under low bridges, U-turn instructions sometimes incorrect. OsmAnd+: Free/open source, vehicle profile support (weight/height/width), Android Auto compatible, less developed than commercial options. CoPilot: €30/year premium, vehicle dimensions input, prevents problematic routes. All apps require exact vehicle dimensions for accurate routing. Test navigation before major journeys and be prepared to manually override when needed."
+    },
+    {
+      "guide_id": "guide-020-001",
+      "guide_title": "Inverter Installation for Autonomous Motorhome Power",
+      "references": [
+        {
+          "name": "Renogy Inverters Official",
+          "url": "https://www.renogy.com/inverters",
+          "type": "official"
+        },
+        {
+          "name": "Renogy 200Ah Lithium Battery",
+          "url": "https://www.renogy.com/12v-200ah-deep-cycle-lithium-iron-phosphate-battery-core-series/",
+          "type": "official"
+        },
+        {
+          "name": "Renogy Battery Bundle - Amazon",
+          "url": "https://www.amazon.com/Renogy-12V-200Ah-Bluetooth-Off-Grid/dp/B09GK8DWQY",
+          "type": "purchase"
+        }
+      ],
+      "image_suggestions": [
+        "Renogy inverter installed in motorhome",
+        "200Ah lithium battery bank configuration",
+        "Independent wiring diagram for motorhome power system",
+        "Multiple power source charging setup: solar, shore power, engine",
+        "Inverter outlet installation in motorhome interior"
+      ],
+      "extra_info": "Renogy 200Ah LiFePO4 Battery: 5000+ deep cycles, 200A BMS, supports up to 4 batteries in series, 8 in parallel. Core Series includes low-temp cut-off and IP65 protection. Bluetooth models available for mobile monitoring via Renogy app. Pro Series includes self-heating for sub-zero temperatures (auto-heats with >6A charging current). Complete bundles include: 200Ah battery, 50A DC2DC charger, 200W/3000W pure sine wave inverter, Bluetooth module. 3000W inverter runs larger appliances (kettles, microwaves). Independent wiring from vehicle electrical system provides safety and easier troubleshooting. Power sources: solar panels, campground hookup, vehicle engine charging."
+    },
+    {
+      "guide_id": "guide-023-004",
+      "guide_title": "Navigation Software Comparison: HERE Maps vs Waze for European Motorhome Travel",
+      "references": [
+        {
+          "name": "HERE WeGo Official",
+          "url": "https://www.here.com/products/wego",
+          "type": "official"
+        },
+        {
+          "name": "HERE WeGo - App Store (iOS)",
+          "url": "https://apps.apple.com/us/app/here-wego-maps-navigation/id955837609",
+          "type": "appstore"
+        },
+        {
+          "name": "HERE WeGo - Google Play (Android)",
+          "url": "https://play.google.com/store/apps/details?id=com.here.app.maps",
+          "type": "appstore"
+        },
+        {
+          "name": "Waze Navigation",
+          "url": "https://www.waze.com",
+          "type": "official"
+        }
+      ],
+      "image_suggestions": [
+        "HERE Maps offline mode indicator",
+        "HERE vs Waze routing comparison for motorhome",
+        "HERE Maps customizable road avoidance settings",
+        "Offline map download interface in HERE WeGo",
+        "Real-time traffic data comparison: HERE vs Waze in Europe"
+      ],
+      "extra_info": "HERE Maps Advantages: Offline capability (download maps to phone), automatic offline/online switching, strong real-time traffic in Europe, customizable road type avoidance, speed limit settings for realistic travel times. No explicit vehicle dimension settings but extensive customization available. Waze Disadvantages: No vehicle dimension support, unreliable routing (non-existent roads, prohibited turns), no offline capability, slower route recalculation vs Google/HERE, data quality issues. HERE recommended for European motorhome travel due to offline reliability in rural areas with poor cellular coverage. Download maps before travel for offline use and data savings."
+    },
+    {
+      "guide_id": "guide-024-001",
+      "guide_title": "HERE Navigation App: Offline Mode and European Usage",
+      "references": [
+        {
+          "name": "HERE WeGo Official",
+          "url": "https://www.here.com/products/wego",
+          "type": "official"
+        },
+        {
+          "name": "HERE WeGo - App Store",
+          "url": "https://apps.apple.com/us/app/here-wego-maps-navigation/id955837609",
+          "type": "appstore"
+        },
+        {
+          "name": "HERE WeGo - Google Play",
+          "url": "https://play.google.com/store/apps/details?id=com.here.app.maps",
+          "type": "appstore"
+        },
+        {
+          "name": "HERE Offline Maps Help",
+          "url": "https://help.here.com/faq/offline_maps",
+          "type": "official"
+        }
+      ],
+      "image_suggestions": [
+        "HERE WeGo app interface showing offline mode toggle",
+        "Download maps menu in HERE WeGo",
+        "Continental map packages available in HERE",
+        "HERE automatic offline/online switching notification",
+        "Storage space management for offline maps"
+      ],
+      "extra_info": "HERE WeGo is completely free. Offline mode activates automatically when coverage problematic, returns to online automatically when signal available. Download regional, country, or continental maps. Essential for non-urban European areas where cellular reception poor. Navigation modes: driving, walking, cycling (offline compatible). No vehicle dimension settings available. Configuration options: avoid certain road types, speed limit settings, routing preferences. Better real-time data quality in Europe than other regions due to larger user base. Offline maps available in most countries (exceptions: Japan, Korea, China)."
+    },
+    {
+      "guide_id": "guide-024-002",
+      "guide_title": "Starlink Mini in South America: Setup and Recommendations",
+      "references": [
+        {
+          "name": "Starlink Official",
+          "url": "https://starlink.com",
+          "type": "official"
+        },
+        {
+          "name": "Starlink Roam Plans",
+          "url": "https://starlink.com/roam",
+          "type": "official"
+        },
+        {
+          "name": "Starlink Ball Mount - AliExpress",
+          "url": "https://www.aliexpress.com",
+          "type": "purchase"
+        }
+      ],
+      "image_suggestions": [
+        "Starlink Mini in South American remote location",
+        "Ball mount for Starlink dish repositioning",
+        "Starlink Mini 24V power circuit setup",
+        "Sun roof vacuum mount installation for Starlink",
+        "Starlink signal strength in mountains/forests"
+      ],
+      "extra_info": "Three key recommendations for South America: 1) Subscribe to Roam Unlimited plan for frequent Argentina-Chile border crossings. 2) Get ball mount for dish orientation (AliExpress) - essential for locations with limited sky visibility (trees/buildings/clouds). 3) Ensure 24V power supply - despite theoretical 12V operation, Mini doesn't work well on 12V alone. Basic plan: ~€50/month ($50 USD) for 50GB data. Additional data: €18. Can freeze/suspend plan during off-travel periods. High power consumer - critical planning parameter for solar-living motorhomes. 90% reliability for messaging/communication. Signal strength varies but communication maintained even with weak signal."
+    },
+    {
+      "guide_id": "guide-026-001",
+      "guide_title": "StarLink vs Cellular Data: Consumption and Management Comparison",
+      "references": [
+        {
+          "name": "Starlink Service Plans",
+          "url": "https://starlink.com/service-plans",
+          "type": "official"
+        }
+      ],
+      "image_suggestions": [
+        "WiFi vs cellular data usage comparison chart",
+        "Starlink data consumption monitoring dashboard",
+        "Phone settings showing app data restrictions",
+        "Background app activity on WiFi vs cellular comparison",
+        "Michelin/Maps app data usage statistics"
+      ],
+      "extra_info": "WiFi triggers unrestricted downloading unlike cellular. Phones/computers assume WiFi = unlimited home connection, enabling: automatic OS updates, app updates, cloud backups (iCloud, Google Photos), background content downloading. Common data hogs: Michelin app (Maps), Google Maps, Waze, YouTube, cloud sync services. Starlink pricing: Chile 50GB=$45/month, USA 50GB=$50/month, USA Unlimited=$180/month. Argentina cellular: 40GB=$25/60 days. Management strategies: 1) Turn off Starlink when not needed, 2) Use cellular when available (cheaper than overage), 3) Disable auto-updates, 4) Manually close apps after use, 5) Turn off WiFi on inactive devices, 6) Monitor app network access in settings. Example: User consumed 40GB in 7 days on WiFi vs normal cellular usage."
+    }
+  ]
+}

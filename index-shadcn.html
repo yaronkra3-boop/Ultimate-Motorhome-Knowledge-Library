@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ultimate Motorhome Knowledge Library</title>
+    <style>
+        /* CSS Variables - shadcn/ui inspired theming */
+        :root {
+            /* Colors in HSL format */
+            --background: 0 0% 100%;
+            --foreground: 222 47% 11%;
+
+            --primary: 262 83% 58%;
+            --primary-foreground: 210 40% 98%;
+
+            --secondary: 210 40% 96%;
+            --secondary-foreground: 222 47% 11%;
+
+            --muted: 210 40% 96%;
+            --muted-foreground: 215 16% 47%;
+
+            --accent: 210 40% 96%;
+            --accent-foreground: 222 47% 11%;
+
+            --card: 0 0% 100%;
+            --card-foreground: 222 47% 11%;
+
+            --border: 214 32% 91%;
+            --input: 214 32% 91%;
+            --ring: 262 83% 58%;
+
+            --radius: 0.5rem;
+        }
+
+        .dark {
+            --background: 224 71% 4%;
+            --foreground: 213 31% 91%;
+
+            --primary: 262 83% 58%;
+            --primary-foreground: 210 40% 98%;
+
+            --secondary: 222 47% 11%;
+            --secondary-foreground: 210 40% 98%;
+
+            --muted: 223 47% 11%;
+            --muted-foreground: 215 20% 65%;
+
+            --accent: 216 34% 17%;
+            --accent-foreground: 210 40% 98%;
+
+            --card: 224 71% 4%;
+            --card-foreground: 213 31% 91%;
+
+            --border: 216 34% 17%;
+            --input: 216 34% 17%;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+            background: hsl(var(--background));
+            color: hsl(var(--foreground));
+            line-height: 1.5;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        /* Container */
+        .container {
+            max-width: 1280px;
+            margin: 0 auto;
+            padding: 0 1rem;
+        }
+
+        /* Header */
+        .header {
+            border-bottom: 1px solid hsl(var(--border));
+            background: hsl(var(--card));
+        }
+
+        .header-content {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            height: 4rem;
+            gap: 1rem;
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-size: 1.25rem;
+            font-weight: 700;
+            color: hsl(var(--primary));
+        }
+
+        .nav {
+            display: flex;
+            gap: 1.5rem;
+        }
+
+        .nav a {
+            color: hsl(var(--muted-foreground));
+            text-decoration: none;
+            font-size: 0.875rem;
+            font-weight: 500;
+            transition: color 0.2s;
+        }
+
+        .nav a:hover {
+            color: hsl(var(--foreground));
+        }
+
+        /* Button */
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            height: 2.5rem;
+            padding: 0 1rem;
+            font-size: 0.875rem;
+            font-weight: 500;
+            border-radius: var(--radius);
+            border: none;
+            cursor: pointer;
+            transition: all 0.2s;
+            text-decoration: none;
+        }
+
+        .btn-primary {
+            background: hsl(var(--primary));
+            color: hsl(var(--primary-foreground));
+        }
+
+        .btn-primary:hover {
+            opacity: 0.9;
+        }
+
+        .btn-outline {
+            border: 1px solid hsl(var(--input));
+            background: transparent;
+            color: hsl(var(--accent-foreground));
+        }
+
+        .btn-outline:hover {
+            background: hsl(var(--accent));
+        }
+
+        /* Hero Section */
+        .hero {
+            padding: 4rem 0 3rem;
+            text-align: center;
+        }
+
+        .hero-title {
+            font-size: 3rem;
+            font-weight: 800;
+            margin-bottom: 1rem;
+            background: linear-gradient(135deg, hsl(var(--primary)) 0%, #764ba2 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .hero-subtitle {
+            font-size: 1.25rem;
+            color: hsl(var(--muted-foreground));
+            margin-bottom: 2.5rem;
+        }
+
+        /* Stats Grid */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+            gap: 1.5rem;
+            max-width: 700px;
+            margin: 0 auto 3rem;
+        }
+
+        /* Card Component - shadcn pattern */
+        .card {
+            background: hsl(var(--card));
+            border: 1px solid hsl(var(--border));
+            border-radius: calc(var(--radius) + 4px);
+            box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1);
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        .card:hover {
+            box-shadow: 0 10px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+            transform: translateY(-2px);
+        }
+
+        .card-header {
+            padding: 1.5rem;
+            display: flex;
+            flex-direction: column;
+            gap: 0.375rem;
+        }
+
+        .card-title {
+            font-size: 0.875rem;
+            font-weight: 600;
+            color: hsl(var(--muted-foreground));
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .card-description {
+            font-size: 2rem;
+            font-weight: 700;
+            color: hsl(var(--foreground));
+        }
+
+        .card-content {
+            padding: 0 1.5rem 1.5rem;
+        }
+
+        .card-footer {
+            padding: 1rem 1.5rem;
+            border-top: 1px solid hsl(var(--border));
+        }
+
+        /* Category Cards */
+        .categories-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 1.5rem;
+            margin-top: 3rem;
+        }
+
+        .category-card {
+            cursor: pointer;
+            text-decoration: none;
+            color: inherit;
+            display: block;
+        }
+
+        .category-card .card-header {
+            padding: 2rem;
+        }
+
+        .category-icon {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            display: block;
+        }
+
+        .category-title {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: hsl(var(--foreground));
+            margin-bottom: 0.5rem;
+        }
+
+        .category-description {
+            color: hsl(var(--muted-foreground));
+            line-height: 1.6;
+        }
+
+        .category-stats {
+            display: flex;
+            gap: 1.5rem;
+            flex-wrap: wrap;
+        }
+
+        .category-stat {
+            display: flex;
+            flex-direction: column;
+            gap: 0.25rem;
+        }
+
+        .stat-value {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: hsl(var(--primary));
+        }
+
+        .stat-label {
+            font-size: 0.875rem;
+            color: hsl(var(--muted-foreground));
+        }
+
+        /* Footer */
+        .footer {
+            margin-top: 4rem;
+            padding: 2rem 0;
+            border-top: 1px solid hsl(var(--border));
+            text-align: center;
+            color: hsl(var(--muted-foreground));
+            font-size: 0.875rem;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .hero-title {
+                font-size: 2rem;
+            }
+
+            .nav {
+                display: none;
+            }
+
+            .categories-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .stats-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    🚐 Motorhome Library
+                </div>
+                <nav class="nav">
+                    <a href="#home">Home</a>
+                    <a href="#locations">Locations</a>
+                    <a href="#guides">Guides</a>
+                    <a href="#routes">Routes</a>
+                </nav>
+                <button class="btn btn-outline">🔍 Search</button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container">
+        <!-- Hero Section -->
+        <section class="hero">
+            <h1 class="hero-title">Ultimate Motorhome Knowledge Library</h1>
+            <p class="hero-subtitle">Your comprehensive guide to motorhome living, travel, and technical knowledge</p>
+
+            <!-- Stats Cards -->
+            <div class="stats-grid">
+                <div class="card">
+                    <div class="card-header">
+                        <h3 class="card-title">Locations</h3>
+                        <p class="card-description">110</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header">
+                        <h3 class="card-title">Guides</h3>
+                        <p class="card-description">97</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header">
+                        <h3 class="card-title">Routes</h3>
+                        <p class="card-description">23</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header">
+                        <h3 class="card-title">Tips</h3>
+                        <p class="card-description">83</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Categories -->
+        <section class="categories-grid">
+            <a href="#locations" class="category-card">
+                <div class="card">
+                    <div class="card-header">
+                        <span class="category-icon">🗺️</span>
+                        <h2 class="category-title">Locations & Navigation</h2>
+                        <p class="category-description">
+                            Interactive maps, parking spots, camping areas, scenic routes, and navigation tools for planning your journey.
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <div class="category-stats">
+                            <div class="category-stat">
+                                <span class="stat-value">110</span>
+                                <span class="stat-label">Locations</span>
+                            </div>
+                            <div class="category-stat">
+                                <span class="stat-value">23</span>
+                                <span class="stat-label">Routes</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+
+            <a href="#guides" class="category-card">
+                <div class="card">
+                    <div class="card-header">
+                        <span class="category-icon">📚</span>
+                        <h2 class="category-title">Knowledge Guides</h2>
+                        <p class="category-description">
+                            Comprehensive guides covering technical systems, equipment, legal requirements, and daily living on the road.
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <div class="category-stats">
+                            <div class="category-stat">
+                                <span class="stat-value">97</span>
+                                <span class="stat-label">Guides</span>
+                            </div>
+                            <div class="category-stat">
+                                <span class="stat-value">83</span>
+                                <span class="stat-label">Tips</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+
+            <a href="#routes" class="category-card">
+                <div class="card">
+                    <div class="card-header">
+                        <span class="category-icon">🛣️</span>
+                        <h2 class="category-title">Scenic Routes</h2>
+                        <p class="category-description">
+                            Curated motorhome routes across Europe and beyond, with highlights, tips, and community experiences.
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <div class="category-stats">
+                            <div class="category-stat">
+                                <span class="stat-value">23</span>
+                                <span class="stat-label">Routes</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>🚐 Built by the motorhome community, for the motorhome community</p>
+            <p style="margin-top: 0.5rem;">Knowledge extracted from real travelers sharing real experiences</p>
+        </div>
+    </footer>
+</body>
+</html>

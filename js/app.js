@@ -2,9 +2,11 @@
 import { Router } from './router.js';
 import { DataLoader } from './data-loader.js';
 import { HomeView } from './views/home.js';
+import { MapView } from './views/map.js';
 import { LocationsView } from './views/locations.js';
 import { GuidesView } from './views/guides.js';
 import { RoutesView } from './views/routes.js';
+import { GuideDetailView } from './views/guide-detail.js';
 
 class App {
     constructor() {
@@ -34,12 +36,36 @@ class App {
 
     setupRoutes() {
         this.router.addRoute('home', () => this.loadView(HomeView));
+        this.router.addRoute('map', () => this.loadView(MapView));
         this.router.addRoute('locations', () => this.loadView(LocationsView));
         this.router.addRoute('guides', () => this.loadView(GuidesView));
         this.router.addRoute('routes', () => this.loadView(RoutesView));
 
+        // Guide detail route with parameter (params is an array like ['guide-001'])
+        this.router.addRoute('guide', (params) => this.loadGuideDetail(params[0]));
+
         // Default route
         this.router.setDefaultRoute('home');
+    }
+
+    async loadGuideDetail(guideId) {
+        const container = document.getElementById('main-content');
+        container.innerHTML = '<div class="loading">Loading</div>';
+
+        try {
+            const view = new GuideDetailView(this.dataLoader);
+            view.setGuideId(guideId);
+            this.currentView = view;
+            const html = await view.render();
+            container.innerHTML = html;
+
+            if (view.afterRender) {
+                view.afterRender();
+            }
+        } catch (error) {
+            console.error('Error loading guide:', error);
+            container.innerHTML = '<div class="error">Error loading guide. Please try again.</div>';
+        }
     }
 
     async loadView(ViewClass) {

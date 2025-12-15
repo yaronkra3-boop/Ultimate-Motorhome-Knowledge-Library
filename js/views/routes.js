@@ -1,4 +1,4 @@
-// Routes View - Shows all scenic routes
+// Routes View - Shows all scenic routes (shadcn style)
 export class RoutesView {
     constructor(dataLoader) {
         this.dataLoader = dataLoader;
@@ -24,155 +24,119 @@ export class RoutesView {
 
             <style>
                 .routes-container {
-                    max-width: 1200px;
+                    max-width: 1000px;
                     margin: 0 auto;
                 }
 
-                .page-header {
-                    text-align: center;
-                    margin-bottom: 60px;
-                }
-
-                .page-icon {
-                    font-size: 5rem;
-                    margin-bottom: 20px;
-                }
-
-                .page-header h1 {
-                    font-size: 3rem;
-                    color: #667eea;
-                    margin-bottom: 20px;
-                }
-
-                .page-subtitle {
-                    font-size: 1.2rem;
-                    color: #666;
-                }
-
                 .routes-list {
-                    display: grid;
-                    gap: 30px;
+                    display: flex;
+                    flex-direction: column;
+                    gap: 1.5rem;
                 }
 
                 .route-card {
-                    background: white;
-                    border-radius: 20px;
-                    padding: 40px;
-                    box-shadow: 0 5px 20px rgba(0,0,0,0.05);
-                    transition: transform 0.2s, box-shadow 0.2s;
                     cursor: pointer;
-                    border-left: 5px solid #667eea;
                 }
 
-                .route-card:hover {
-                    transform: translateY(-3px);
-                    box-shadow: 0 8px 30px rgba(0,0,0,0.1);
+                .route-card .card-header {
+                    padding: 2rem;
                 }
 
                 .route-header {
                     display: flex;
                     justify-content: space-between;
                     align-items: flex-start;
-                    margin-bottom: 20px;
+                    margin-bottom: 1rem;
+                    gap: 1rem;
                 }
 
                 .route-title {
-                    font-size: 1.8rem;
+                    font-size: 1.5rem;
                     font-weight: 700;
-                    color: #333;
-                    margin-bottom: 10px;
-                }
-
-                .route-duration {
-                    background: #f0f4ff;
-                    color: #667eea;
-                    padding: 8px 16px;
-                    border-radius: 20px;
-                    font-size: 0.9rem;
-                    font-weight: 600;
+                    color: hsl(var(--foreground));
+                    margin-bottom: 0.5rem;
                 }
 
                 .route-description {
-                    color: #666;
+                    color: hsl(var(--muted-foreground));
                     line-height: 1.7;
-                    font-size: 1.05rem;
-                    margin-bottom: 25px;
+                    font-size: 0.95rem;
                 }
 
                 .route-meta {
-                    display: grid;
-                    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-                    gap: 20px;
-                    margin-bottom: 25px;
-                    padding: 20px;
-                    background: #f8f9fa;
-                    border-radius: 12px;
+                    display: flex;
+                    gap: 2rem;
+                    flex-wrap: wrap;
+                    padding: 1.5rem 2rem;
+                    border-top: 1px solid hsl(var(--border));
+                    background: hsl(var(--muted));
                 }
 
                 .route-meta-item {
                     display: flex;
                     flex-direction: column;
+                    gap: 0.25rem;
                 }
 
                 .route-meta-label {
-                    font-size: 0.85rem;
-                    color: #888;
-                    margin-bottom: 5px;
+                    font-size: 0.75rem;
+                    color: hsl(var(--muted-foreground));
+                    text-transform: uppercase;
+                    letter-spacing: 0.05em;
                 }
 
                 .route-meta-value {
-                    font-size: 1.1rem;
+                    font-size: 1rem;
                     font-weight: 600;
-                    color: #333;
+                    color: hsl(var(--foreground));
                 }
 
                 .route-highlights {
-                    margin-top: 25px;
+                    padding: 1.5rem 2rem;
+                    border-top: 1px solid hsl(var(--border));
                 }
 
                 .route-highlights h3 {
-                    color: #667eea;
-                    margin-bottom: 15px;
-                    font-size: 1.2rem;
+                    color: hsl(var(--muted-foreground));
+                    margin-bottom: 1rem;
+                    font-size: 0.75rem;
+                    text-transform: uppercase;
+                    letter-spacing: 0.05em;
+                    font-weight: 600;
                 }
 
                 .route-highlights ul {
                     list-style: none;
                     padding: 0;
+                    display: flex;
+                    flex-wrap: wrap;
+                    gap: 0.5rem;
                 }
 
                 .route-highlights li {
-                    padding: 10px 0;
-                    color: #666;
-                    position: relative;
-                    padding-left: 25px;
-                }
-
-                .route-highlights li:before {
-                    content: "→";
-                    position: absolute;
-                    left: 0;
-                    color: #667eea;
-                    font-weight: bold;
+                    padding: 0.5rem 1rem;
+                    background: hsl(var(--secondary));
+                    border-radius: var(--radius);
+                    color: hsl(var(--secondary-foreground));
+                    font-size: 0.875rem;
                 }
 
                 @media (max-width: 768px) {
-                    .page-header h1 {
-                        font-size: 2rem;
-                    }
-
-                    .route-card {
-                        padding: 25px;
+                    .route-card .card-header {
+                        padding: 1.5rem;
                     }
 
                     .route-header {
                         flex-direction: column;
-                        gap: 15px;
                     }
 
                     .route-meta {
-                        grid-template-columns: 1fr;
-                        gap: 15px;
+                        padding: 1rem 1.5rem;
+                        gap: 1rem;
+                    }
+
+                    .route-highlights {
+                        padding: 1rem 1.5rem;
                     }
                 }
             </style>
@@ -181,7 +145,7 @@ export class RoutesView {
 
     renderRoutesList() {
         if (this.routes.length === 0) {
-            return '<p style="padding: 40px; text-align: center; color: #666;">No routes available</p>';
+            return '<p style="padding: 2rem; text-align: center; color: hsl(var(--muted-foreground));">No routes available</p>';
         }
 
         return this.routes.map(route => this.renderRouteCard(route)).join('');
@@ -190,30 +154,31 @@ export class RoutesView {
     renderRouteCard(route) {
         const name = this.getLocalizedText(route.name);
         const description = this.getLocalizedText(route.description);
-        const duration = route.duration || 'N/A';
-        const distance = route.distance || 'N/A';
-        const difficulty = route.difficulty || 'N/A';
+        const duration = route.duration || null;
+        const distance = route.distance || null;
+        const difficulty = route.difficulty || null;
         const highlights = route.highlights || [];
 
         return `
-            <div class="route-card" data-route-id="${route.id}">
-                <div class="route-header">
-                    <div>
-                        <div class="route-title">${name}</div>
+            <div class="route-card card" data-route-id="${route.id}">
+                <div class="card-header">
+                    <div class="route-header">
+                        <div>
+                            <div class="route-title">${name}</div>
+                        </div>
+                        ${duration ? `<span class="badge badge-primary">${duration}</span>` : ''}
                     </div>
-                    ${duration !== 'N/A' ? `<div class="route-duration">${duration}</div>` : ''}
+                    <div class="route-description">${description}</div>
                 </div>
 
-                <div class="route-description">${description}</div>
-
                 <div class="route-meta">
-                    ${distance !== 'N/A' ? `
+                    ${distance ? `
                         <div class="route-meta-item">
                             <div class="route-meta-label">Distance</div>
                             <div class="route-meta-value">${distance}</div>
                         </div>
                     ` : ''}
-                    ${difficulty !== 'N/A' ? `
+                    ${difficulty ? `
                         <div class="route-meta-item">
                             <div class="route-meta-label">Difficulty</div>
                             <div class="route-meta-value">${this.formatDifficulty(difficulty)}</div>
@@ -235,7 +200,6 @@ export class RoutesView {
             return '';
         }
 
-        // Handle both localized and plain array formats
         const highlightsList = Array.isArray(highlights)
             ? highlights.map(h => this.getLocalizedText(h))
             : [this.getLocalizedText(highlights)];

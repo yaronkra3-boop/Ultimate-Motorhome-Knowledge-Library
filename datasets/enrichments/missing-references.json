@@ -1,0 +1,282 @@
+{
+  "summary": {
+    "total_guides_analyzed": 97,
+    "total_missing_references": 24,
+    "unique_entities": 13,
+    "analysis_date": "2025-12-15",
+    "note": "These are references mentioned in guide content but not already in the references array"
+  },
+  "missing_references": [
+    {
+      "guide_id": "guide-001",
+      "guide_title": "Gas System Management and Refilling in Europe",
+      "mentioned_in_content": "Purchase a European gas adapter set (available on Amazon.de)",
+      "missing_reference": {
+        "name": "LPG Gas Adapter Set - Amazon.de",
+        "url": "https://www.amazon.de/s?k=lpg+adapter+set+gas",
+        "type": "purchase"
+      }
+    },
+    {
+      "guide_id": "guide-001",
+      "guide_title": "Gas System Management and Refilling in Europe",
+      "mentioned_in_content": "Use iOverlander app - it has a specific category for gas refilling locations",
+      "missing_reference": {
+        "name": "iOverlander App - Finding Gas Refill Locations",
+        "url": "https://ioverlander.com/",
+        "type": "app"
+      }
+    },
+    {
+      "guide_id": "guide-001",
+      "guide_title": "Gas System Management and Refilling in Europe",
+      "mentioned_in_content": "Campingaz 907 cylinders (2.8kg) are most common for small motorhomes throughout Europe",
+      "missing_reference": {
+        "name": "Campingaz Gas Cylinders Official",
+        "url": "https://www.campingaz.com/",
+        "type": "product"
+      }
+    },
+    {
+      "guide_id": "guide-001",
+      "guide_title": "Gas System Management and Refilling in Europe",
+      "mentioned_in_content": "German cylinders (Truma) use different connections than other European countries",
+      "missing_reference": {
+        "name": "Truma Gas Systems Official",
+        "url": "https://www.truma.com/",
+        "type": "product"
+      }
+    },
+    {
+      "guide_id": "guide-001",
+      "guide_title": "Gas System Management and Refilling in Europe",
+      "mentioned_in_content": "Use diesel heater (Webasto) for overnight heating if possible",
+      "missing_reference": {
+        "name": "Webasto Diesel Heaters for Motorhomes",
+        "url": "https://www.webasto.com/en-int/heating/rv-heater.html",
+        "type": "product"
+      }
+    },
+    {
+      "guide_id": "guide-002",
+      "guide_title": "Winter Heating Strategies for Motorhomes",
+      "mentioned_in_content": "Truma water heaters also heat water passively",
+      "missing_reference": {
+        "name": "Truma Heating & Water Systems",
+        "url": "https://www.truma.com/us/product-category/heating-systems-us/",
+        "type": "product"
+      }
+    },
+    {
+      "guide_id": "guide-005",
+      "guide_title": "Morocco Motorhome Travel Guide",
+      "mentioned_in_content": "International driver's license and vehicle insurance (Green Card or ADAC full insurance) required",
+      "missing_reference": {
+        "name": "ADAC - German Automobile Club Insurance",
+        "url": "https://www.adac.de/",
+        "type": "service"
+      }
+    },
+    {
+      "guide_id": "guide-012",
+      "guide_title": "Navigation Apps for Large Motorhomes - Height and Weight Restrictions",
+      "mentioned_in_content": "CamperContact is excellent for finding parking locations",
+      "missing_reference": {
+        "name": "Campercontact - Motorhome Parking & Sites",
+        "url": "https://www.campercontact.com/en",
+        "type": "app"
+      }
+    },
+    {
+      "guide_id": "guide-012",
+      "guide_title": "Navigation Apps for Large Motorhomes - Height and Weight Restrictions",
+      "mentioned_in_content": "Waze and Google Maps do NOT have options for tall vehicles",
+      "missing_reference": {
+        "name": "Waze Navigation App",
+        "url": "https://www.waze.com/",
+        "type": "app"
+      }
+    },
+    {
+      "guide_id": "guide-012",
+      "guide_title": "Navigation Apps for Large Motorhomes - Height and Weight Restrictions",
+      "mentioned_in_content": "Park4night - Finding Parking & Services",
+      "missing_reference": {
+        "name": "Park4Night - Motorhome Parking Finder",
+        "url": "https://park4night.com/en",
+        "type": "app"
+      }
+    },
+    {
+      "guide_id": "guide-013",
+      "guide_title": "Long-Term Motorhome Storage Guide - Winter and Extended Periods",
+      "mentioned_in_content": "Including emptying the Truma boiler",
+      "missing_reference": {
+        "name": "Truma Water Heater Systems",
+        "url": "https://www.truma.com/",
+        "type": "product"
+      }
+    },
+    {
+      "guide_id": "guide-015",
+      "guide_title": "Emergency Preparedness - Lessons from Spanish Power Outage",
+      "mentioned_in_content": "Waze continued to navigate, but without using satellites (offline mode)",
+      "missing_reference": {
+        "name": "Waze - Offline Navigation Capabilities",
+        "url": "https://www.waze.com/",
+        "type": "app"
+      }
+    },
+    {
+      "guide_id": "guide-015",
+      "guide_title": "Emergency Preparedness - Lessons from Spanish Power Outage",
+      "mentioned_in_content": "No navigation and no Park4night, but we found our way",
+      "missing_reference": {
+        "name": "Park4Night - Parking & Services App",
+        "url": "https://park4night.com/en",
+        "type": "app"
+      }
+    },
+    {
+      "guide_id": "guide-017",
+      "guide_title": "DIY LPG Gas Refilling Kit for Motorhomes",
+      "mentioned_in_content": "Available on Amazon Germany for approximately 49 EUR",
+      "missing_reference": {
+        "name": "LPG Refill Kit - Amazon Germany",
+        "url": "https://www.amazon.de/s?k=lpg+refill+kit",
+        "type": "purchase"
+      }
+    },
+    {
+      "guide_id": "guide-017",
+      "guide_title": "DIY LPG Gas Refilling Kit for Motorhomes",
+      "mentioned_in_content": "Also available via AliExpress and other online retailers",
+      "missing_reference": {
+        "name": "LPG Gas Adapters - AliExpress",
+        "url": "https://www.aliexpress.com/w/wholesale-lpg-gas-adapter.html",
+        "type": "purchase"
+      }
+    },
+    {
+      "guide_id": "guide-020",
+      "guide_title": "Sygic Truck Navigation for Large Motorhomes - Complete Setup Guide",
+      "mentioned_in_content": "COMPARISON TO GOOGLE/WAZE: Google and Waze caused multiple issues",
+      "missing_reference": {
+        "name": "Waze vs Truck Navigation Apps",
+        "url": "https://www.waze.com/",
+        "type": "app"
+      }
+    },
+    {
+      "guide_id": "guide-021",
+      "guide_title": "OBD2 Diagnostic Scanner for Motorhome Troubleshooting",
+      "mentioned_in_content": "Available on AliExpress and other retailers",
+      "missing_reference": {
+        "name": "OBD2 Scanners - AliExpress",
+        "url": "https://www.aliexpress.com/w/wholesale-obd2-scanner.html",
+        "type": "purchase"
+      }
+    },
+    {
+      "guide_id": "guide-014-002",
+      "guide_title": "Air Conditioning for Motorhomes: Options and Solutions",
+      "mentioned_in_content": "3000 BTU portable units available on AliExpress (~€600)",
+      "missing_reference": {
+        "name": "Portable AC Units - AliExpress",
+        "url": "https://www.aliexpress.com/w/wholesale-portable-air-conditioner.html",
+        "type": "purchase"
+      }
+    },
+    {
+      "guide_id": "guide-016-004",
+      "guide_title": "Air Conditioning in Motorhomes: What Works and What Doesn't",
+      "mentioned_in_content": "Marketed via AliExpress: attractive but ineffective",
+      "missing_reference": {
+        "name": "Small Portable AC - AliExpress",
+        "url": "https://www.aliexpress.com/",
+        "type": "purchase"
+      }
+    },
+    {
+      "guide_id": "guide-019-001",
+      "guide_title": "European Vehicle Registration Requirements for Extended Travel",
+      "mentioned_in_content": "Requires AXA travel insurance (Schengen) annually",
+      "missing_reference": {
+        "name": "AXA Schengen Travel Insurance",
+        "url": "https://www.axa-schengen.com/en/",
+        "type": "service"
+      }
+    },
+    {
+      "guide_id": "guide-024-001",
+      "guide_title": "HERE Navigation App: Offline Mode and European Usage",
+      "mentioned_in_content": "Waze: Poor performance reported by user with extensive experience",
+      "missing_reference": {
+        "name": "Waze Navigation App",
+        "url": "https://www.waze.com/",
+        "type": "app"
+      }
+    },
+    {
+      "guide_id": "guide-025-002",
+      "guide_title": "International Travel Documentation and Resources",
+      "mentioned_in_content": "Google Maps: For geographic-based storage and services",
+      "missing_reference": {
+        "name": "Google Maps - Service Locations",
+        "url": "https://www.google.com/maps",
+        "type": "app"
+      }
+    },
+    {
+      "guide_id": "guide-026-001",
+      "guide_title": "StarLink vs Cellular Data: Consumption and Management Comparison",
+      "mentioned_in_content": "Google Maps, Waze, YouTube require manual closing after data retrieval",
+      "missing_reference": {
+        "name": "Google Maps - Offline Mode",
+        "url": "https://www.google.com/maps/about/",
+        "type": "app"
+      }
+    },
+    {
+      "guide_id": "guide-026-001",
+      "guide_title": "StarLink vs Cellular Data: Consumption and Management Comparison",
+      "mentioned_in_content": "Waze, YouTube require manual closing after data retrieval",
+      "missing_reference": {
+        "name": "Waze - Data Usage Management",
+        "url": "https://www.waze.com/",
+        "type": "app"
+      }
+    }
+  ],
+  "entity_frequency": {
+    "Waze": 5,
+    "AliExpress": 4,
+    "Truma": 3,
+    "Park4Night": 2,
+    "Google Maps": 2,
+    "Amazon.de": 1,
+    "iOverlander": 1,
+    "Campingaz": 1,
+    "Webasto": 1,
+    "ADAC": 1,
+    "Campercontact": 1,
+    "Amazon Germany": 1,
+    "AXA": 1
+  },
+  "recommendations": {
+    "high_priority": [
+      "Waze (mentioned in 5 guides) - navigation app comparison",
+      "AliExpress (mentioned in 4 guides) - product purchasing options",
+      "Truma (mentioned in 3 guides) - gas and heating systems"
+    ],
+    "medium_priority": [
+      "Park4Night (2 guides) - parking location finder",
+      "Google Maps (2 guides) - navigation alternative"
+    ],
+    "notes": [
+      "All URLs have been verified through web search as of 2025-12-15",
+      "These references should be added to enhance user experience by providing direct links to mentioned resources",
+      "Some entities like Waze and Google Maps are mentioned negatively (e.g., 'doesn't work for motorhomes') but still valuable as reference links for context"
+    ]
+  }
+}

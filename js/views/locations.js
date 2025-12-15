@@ -1,4 +1,4 @@
-// Locations View - Shows all parking locations and map
+// Locations View - Shows all parking locations (shadcn style)
 export class LocationsView {
     constructor(dataLoader) {
         this.dataLoader = dataLoader;
@@ -21,17 +21,21 @@ export class LocationsView {
                     <div class="locations-filters">
                         <h3>Filter Locations</h3>
                         <div class="filter-group">
-                            <label>
-                                <input type="checkbox" data-filter="water"> Water Available
+                            <label class="filter-checkbox">
+                                <input type="checkbox" data-filter="water">
+                                <span>💧 Water Available</span>
                             </label>
-                            <label>
-                                <input type="checkbox" data-filter="dump_station"> Dump Station
+                            <label class="filter-checkbox">
+                                <input type="checkbox" data-filter="dump_station">
+                                <span>🚽 Dump Station</span>
                             </label>
-                            <label>
-                                <input type="checkbox" data-filter="electricity"> Electricity
+                            <label class="filter-checkbox">
+                                <input type="checkbox" data-filter="electricity">
+                                <span>⚡ Electricity</span>
                             </label>
-                            <label>
-                                <input type="checkbox" data-filter="free"> Free Only
+                            <label class="filter-checkbox">
+                                <input type="checkbox" data-filter="free">
+                                <span>🆓 Free Only</span>
                             </label>
                         </div>
                     </div>
@@ -44,133 +48,123 @@ export class LocationsView {
 
             <style>
                 .locations-container {
-                    max-width: 1400px;
+                    max-width: 1280px;
                     margin: 0 auto;
-                }
-
-                .page-header {
-                    text-align: center;
-                    margin-bottom: 60px;
-                }
-
-                .page-icon {
-                    font-size: 5rem;
-                    margin-bottom: 20px;
-                }
-
-                .page-header h1 {
-                    font-size: 3rem;
-                    color: #667eea;
-                    margin-bottom: 20px;
-                }
-
-                .page-subtitle {
-                    font-size: 1.2rem;
-                    color: #666;
                 }
 
                 .locations-content {
                     display: grid;
                     grid-template-columns: 250px 1fr;
-                    gap: 30px;
+                    gap: 2rem;
                 }
 
                 .locations-filters {
-                    background: white;
-                    padding: 25px;
-                    border-radius: 15px;
-                    box-shadow: 0 5px 20px rgba(0,0,0,0.05);
+                    background: hsl(var(--card));
+                    padding: 1.5rem;
+                    border-radius: calc(var(--radius) + 4px);
+                    border: 1px solid hsl(var(--border));
                     height: fit-content;
                     position: sticky;
-                    top: 100px;
+                    top: 5rem;
                 }
 
                 .locations-filters h3 {
-                    margin-bottom: 20px;
-                    color: #667eea;
+                    margin-bottom: 1rem;
+                    font-size: 0.875rem;
+                    font-weight: 600;
+                    color: hsl(var(--muted-foreground));
+                    text-transform: uppercase;
+                    letter-spacing: 0.05em;
                 }
 
                 .filter-group {
                     display: flex;
                     flex-direction: column;
-                    gap: 12px;
+                    gap: 0.75rem;
                 }
 
-                .filter-group label {
+                .filter-checkbox {
                     display: flex;
                     align-items: center;
-                    gap: 10px;
+                    gap: 0.75rem;
                     cursor: pointer;
-                    font-size: 0.95rem;
+                    font-size: 0.875rem;
+                    color: hsl(var(--foreground));
+                    padding: 0.5rem;
+                    border-radius: var(--radius);
+                    transition: background 0.2s;
                 }
 
-                .filter-group input[type="checkbox"] {
+                .filter-checkbox:hover {
+                    background: hsl(var(--accent));
+                }
+
+                .filter-checkbox input[type="checkbox"] {
                     cursor: pointer;
+                    width: 1rem;
+                    height: 1rem;
                 }
 
                 .locations-list {
                     display: grid;
-                    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
-                    gap: 25px;
+                    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+                    gap: 1.5rem;
                 }
 
                 .location-card {
-                    background: white;
-                    border-radius: 15px;
-                    padding: 25px;
-                    box-shadow: 0 5px 20px rgba(0,0,0,0.05);
-                    transition: transform 0.2s, box-shadow 0.2s;
                     cursor: pointer;
                 }
 
-                .location-card:hover {
-                    transform: translateY(-3px);
-                    box-shadow: 0 8px 30px rgba(0,0,0,0.1);
+                .location-card .card-header {
+                    padding: 1.5rem;
                 }
 
                 .location-name {
-                    font-size: 1.3rem;
-                    font-weight: 700;
-                    color: #667eea;
-                    margin-bottom: 10px;
+                    font-size: 1.125rem;
+                    font-weight: 600;
+                    color: hsl(var(--foreground));
+                    margin-bottom: 0.5rem;
                 }
 
                 .location-address {
-                    color: #888;
-                    font-size: 0.9rem;
-                    margin-bottom: 15px;
+                    color: hsl(var(--muted-foreground));
+                    font-size: 0.75rem;
+                    margin-bottom: 1rem;
                 }
 
                 .location-description {
-                    color: #666;
-                    font-size: 0.95rem;
-                    line-height: 1.5;
-                    margin-bottom: 15px;
+                    color: hsl(var(--muted-foreground));
+                    font-size: 0.875rem;
+                    line-height: 1.6;
+                    margin-bottom: 1rem;
                 }
 
                 .location-amenities {
                     display: flex;
                     flex-wrap: wrap;
-                    gap: 8px;
-                    margin-bottom: 15px;
+                    gap: 0.5rem;
+                    margin-bottom: 1rem;
                 }
 
-                .amenity-tag {
-                    background: #f0f4ff;
-                    color: #667eea;
-                    padding: 5px 12px;
-                    border-radius: 20px;
-                    font-size: 0.85rem;
+                .location-footer {
+                    padding: 1rem 1.5rem;
+                    border-top: 1px solid hsl(var(--border));
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: center;
                 }
 
                 .location-cost {
                     font-weight: 600;
-                    color: #28a745;
-                    font-size: 1.1rem;
+                    font-size: 0.875rem;
+                }
+
+                .location-cost.free {
+                    color: #22c55e;
                 }
 
                 .location-cost.paid {
-                    color: #ffa500;
+                    color: #f59e0b;
                 }
 
                 @media (max-width: 1024px) {
@@ -181,13 +175,15 @@ export class LocationsView {
                     .locations-filters {
                         position: static;
                     }
+
+                    .filter-group {
+                        flex-direction: row;
+                        flex-wrap: wrap;
+                        gap: 0.5rem;
+                    }
                 }
 
                 @media (max-width: 768px) {
-                    .page-header h1 {
-                        font-size: 2rem;
-                    }
-
                     .locations-list {
                         grid-template-columns: 1fr;
                     }
@@ -198,7 +194,7 @@ export class LocationsView {
 
     renderLocationsList() {
         if (this.locations.length === 0) {
-            return '<p style="padding: 40px; text-align: center; color: #666;">No locations available</p>';
+            return '<p style="padding: 2rem; text-align: center; color: hsl(var(--muted-foreground));">No locations available</p>';
         }
 
         return this.locations.slice(0, 50).map(loc => this.renderLocationCard(loc)).join('');
@@ -212,21 +208,25 @@ export class LocationsView {
         const cost = location.cost || {};
 
         const costText = cost.type === 'free' ? 'Free' : `€${cost.amount || '?'}`;
-        const costClass = cost.type === 'free' ? '' : 'paid';
+        const costClass = cost.type === 'free' ? 'free' : 'paid';
 
         return `
-            <div class="location-card" data-location-id="${location.id}">
-                <div class="location-name">${name}</div>
-                <div class="location-address">${address}</div>
-                <div class="location-description">${description?.substring(0, 120)}${description?.length > 120 ? '...' : ''}</div>
+            <div class="location-card card" data-location-id="${location.id}">
+                <div class="card-header">
+                    <div class="location-name">${name}</div>
+                    <div class="location-address">${address}</div>
+                    <div class="location-description">${description?.substring(0, 100)}${description?.length > 100 ? '...' : ''}</div>
 
-                ${amenities.length > 0 ? `
-                    <div class="location-amenities">
-                        ${amenities.map(a => `<span class="amenity-tag">${this.formatAmenity(a)}</span>`).join('')}
-                    </div>
-                ` : ''}
-
-                <div class="location-cost ${costClass}">${costText}</div>
+                    ${amenities.length > 0 ? `
+                        <div class="location-amenities">
+                            ${amenities.map(a => `<span class="badge">${this.formatAmenity(a)}</span>`).join('')}
+                        </div>
+                    ` : ''}
+                </div>
+                <div class="location-footer">
+                    <div class="location-cost ${costClass}">${costText}</div>
+                    <span class="badge badge-primary">${location.type || 'Location'}</span>
+                </div>
             </div>
         `;
     }
@@ -248,29 +248,26 @@ export class LocationsView {
 
     formatAmenity(amenity) {
         const amenityMap = {
-            'water': '💧 Water',
-            'dump_station': '🚽 Dump',
-            'grey_water_disposal': '💦 Grey Water',
-            'electricity': '⚡ Electric',
-            'wifi': '📶 WiFi',
-            'security': '🔒 Secure'
+            'water': '💧',
+            'dump_station': '🚽',
+            'grey_water_disposal': '💦',
+            'electricity': '⚡',
+            'wifi': '📶',
+            'security': '🔒'
         };
         return amenityMap[amenity] || amenity;
     }
 
     afterRender() {
-        // Add filter functionality
         document.querySelectorAll('.filter-group input[type="checkbox"]').forEach(checkbox => {
             checkbox.addEventListener('change', () => this.applyFilters());
         });
     }
 
     applyFilters() {
-        // Get active filters
         const activeFilters = Array.from(document.querySelectorAll('.filter-group input:checked'))
             .map(cb => cb.dataset.filter);
 
-        // Show/hide location cards based on filters
         document.querySelectorAll('.location-card').forEach(card => {
             const locationId = card.dataset.locationId;
             const location = this.locations.find(l => l.id === locationId);
@@ -282,7 +279,6 @@ export class LocationsView {
 
             let shouldShow = true;
 
-            // Check each filter
             if (activeFilters.includes('free') && location.cost?.type !== 'free') {
                 shouldShow = false;
             }

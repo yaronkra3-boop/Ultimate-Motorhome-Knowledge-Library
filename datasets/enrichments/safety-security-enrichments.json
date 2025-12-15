@@ -1,0 +1,270 @@
+{
+  "category": "safety-security",
+  "enrichments": [
+    {
+      "guide_id": "guide-007",
+      "title": "Reversing Safety for Large Motorhomes",
+      "references": [
+        {
+          "name": "Furrion Vision S Wireless Backup Camera",
+          "url": "https://www.wandering-bird.com/best-motorhome-reversing-cameras/",
+          "type": "product"
+        },
+        {
+          "name": "RVS-770613 Wireless Backup Camera System",
+          "url": "https://www.rearviewsafety.com/safety/safety-guides/top-rv-backup-cameras-of-2025-features-pros-and-cons",
+          "type": "product"
+        },
+        {
+          "name": "Garmin BC 40 Wireless Rear View Camera",
+          "url": "https://www.wandering-bird.com/best-motorhome-reversing-cameras/",
+          "type": "product"
+        },
+        {
+          "name": "Best Wireless RV Backup Cameras 2025",
+          "url": "https://thecampingnerd.com/wireless-rv-backup-camera-reviews/",
+          "type": "product"
+        },
+        {
+          "name": "Midland 50 Channel GMRS Two-Way Radio",
+          "url": "https://www.thervgeeks.com/best-walkie-talkie/",
+          "type": "product"
+        },
+        {
+          "name": "Rocky Talkie Mountain Radio (5 Watt)",
+          "url": "https://www.outdoorgearlab.com/topics/camping-and-hiking/best-walkie-talkies",
+          "type": "product"
+        },
+        {
+          "name": "Midland Radios - RV Communication Equipment",
+          "url": "https://midlandusa.com/collections/rv-and-van-life",
+          "type": "product"
+        },
+        {
+          "name": "Best Walkie Talkies for RVers - Do It Yourself RV",
+          "url": "https://www.doityourselfrv.com/best-walkie-talkies-for-rvers/",
+          "type": "product"
+        }
+      ],
+      "image_suggestions": [
+        "Wireless backup camera system mounted on rear of large motorhome showing wide-angle view",
+        "Spotter positioned on left side of motorhome during reversing maneuver with driver visible in mirror",
+        "Walkie-talkie communication devices being used by driver and spotter during backing procedure",
+        "Split-screen comparison showing camera-only view vs spotter-assisted reversing",
+        "Hand signal communication through side mirror between spotter and driver",
+        "360-degree camera system display showing complete view around motorhome"
+      ],
+      "extra_info": "Recent advancements in 2025 backup camera technology include digital wireless systems with minimal lag (unlike older analog systems that suffered from interference and delays). However, experts emphasize that even 8K cameras cannot replace human spotters due to distorted proportions and limited field of view. The walkie-talkie method remains the gold standard, with Midland GMRS radios being most popular among RVers for their 1-mile range and hands-free capability. For pre-wired RVs, third-party cameras now include adapter kits for Furrion, Voyager, and Interglobal factory installations. Safety statistics show that most motorhome reversing accidents occur when drivers rely solely on cameras, particularly in campgrounds with trees, posts, and other vehicles creating blind spots."
+    },
+    {
+      "guide_id": "guide-015",
+      "title": "Emergency Preparedness - Lessons from Spanish Power Outage",
+      "references": [
+        {
+          "name": "RV Emergency Kit Guide - Harvest Hosts",
+          "url": "https://www.harvesthosts.com/blog/rv-emergency-kit-guide",
+          "type": "safety"
+        },
+        {
+          "name": "Emergency Essentials for RV Owners - Camping World",
+          "url": "https://blog.campingworld.com/gear-and-accessories/5-essential-emergency-items-for-every-rv-owner/",
+          "type": "safety"
+        },
+        {
+          "name": "American Red Cross - Vehicle Kit Essentials",
+          "url": "https://www.redcross.org/take-a-class/resources/articles/vehicle-kit-essentials",
+          "type": "safety"
+        },
+        {
+          "name": "RV Emergency Guide & Checklist - RV Chicks",
+          "url": "https://www.rvchicks.com/rv-emergency-prep-guide-checklist-essential-supplies-safety-tips/",
+          "type": "safety"
+        },
+        {
+          "name": "MAPS.ME: Offline Maps & GPS Navigation",
+          "url": "https://apps.apple.com/us/app/maps-me-offline-maps-gps-nav/id510623322",
+          "type": "product"
+        },
+        {
+          "name": "Organic Maps: Offline Navigation (Free & Open Source)",
+          "url": "https://organicmaps.app/",
+          "type": "product"
+        },
+        {
+          "name": "Google Maps - Download Offline Areas",
+          "url": "https://support.google.com/maps/answer/6291838",
+          "type": "product"
+        },
+        {
+          "name": "HERE WeGo - Offline Maps for 100+ Countries",
+          "url": "https://geoawesome.com/top-offline-map-apps-gps-navigation-android-ios-2019/",
+          "type": "product"
+        },
+        {
+          "name": "European Emergency Number 112",
+          "url": "https://digital-strategy.ec.europa.eu/en/policies/112",
+          "type": "emergency"
+        },
+        {
+          "name": "International Emergency Phone Numbers Guide",
+          "url": "https://www.globalrescue.com/common/blog/detail/international-emergency-phone-numbers-guide/",
+          "type": "emergency"
+        }
+      ],
+      "image_suggestions": [
+        "Emergency cash reserve in different European currencies (euros, pounds) stored securely",
+        "Motorhome emergency supply kit with water bottles, non-perishable food, first aid kit",
+        "Smartphone showing offline maps downloaded for Spain, Portugal, France regions",
+        "Gas station with 'Cash Only' sign during power outage scenario",
+        "Emergency contact card showing 112 European emergency number and embassy contacts",
+        "Motorhome parked at improvised beach parking during infrastructure failure",
+        "Water and fuel level gauges showing reserve levels for emergency preparedness",
+        "Emergency supplies organized in waterproof container: flashlight, batteries, radio, water purification tablets"
+      ],
+      "extra_info": "The April 29, 2025 power outage in Spain/Portugal/France serves as a critical real-world case study for motorhome emergency preparedness. Key lessons: (1) Cash reserves are mandatory - during the outage, only cash-accepting gas stations could operate as credit card systems and ATMs failed completely. (2) Offline navigation capabilities saved travelers - while Waze continued working without satellite connection, dedicated offline map apps like Organic Maps (which reached 3 million installs in Dec 2024) and MAPS.ME provide more reliable backup, though MAPS.ME now limits free downloads to 10 maps. Google Maps offline downloads expire after 15 days and don't support transit/walking directions when offline. (3) Minimum reserves philosophy: experienced RVers recommend the 'motorcycle trip' approach - refuel even at 3/4 tank, keep minimum 5 liters bottled water reserve. (4) European emergency number 112 works across all EU countries and is free of charge, functioning alongside national numbers. The motorhome's self-sufficiency advantage becomes critical during infrastructure failures - travelers with proper reserves and offline navigation can continue safely while traditional travelers struggle."
+    },
+    {
+      "guide_id": "guide-010-005",
+      "title": "Anti-Israel Demonstrations in Europe - Safety Awareness",
+      "references": [
+        {
+          "name": "Israel Travel Advisory - U.S. State Department",
+          "url": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/israel-west-bank-and-gaza-travel-advisory.html",
+          "type": "safety"
+        },
+        {
+          "name": "Israel Travel Advice - UK Government",
+          "url": "https://www.gov.uk/foreign-travel-advice/israel",
+          "type": "safety"
+        },
+        {
+          "name": "Which Countries Have Issued Travel Advisories for Israel 2025",
+          "url": "https://www.visaverge.com/news/which-countries-have-issued-travel-advisories-for-israel-and-iran-in-2025/",
+          "type": "safety"
+        },
+        {
+          "name": "Is Israel Safe For Travel In 2025? Important Advice",
+          "url": "https://mukikapupstravels.com/is-israel-safe-for-travel/",
+          "type": "safety"
+        },
+        {
+          "name": "Smart Traveler Enrollment Program (STEP)",
+          "url": "https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/IsraeltheWestBankandGaza.html",
+          "type": "safety"
+        },
+        {
+          "name": "European Emergency Number 112",
+          "url": "https://digital-strategy.ec.europa.eu/en/policies/112",
+          "type": "emergency"
+        },
+        {
+          "name": "Missing Children Hotline 116 000 (EU)",
+          "url": "https://europa.eu/youreurope/citizens/travel/security-and-emergencies/emergency/faq/index_en.htm",
+          "type": "emergency"
+        }
+      ],
+      "image_suggestions": [
+        "Map of Europe highlighting major cities where demonstrations have been reported (Thessaloniki, Cambridge)",
+        "Israeli travelers consulting travel advisory information on smartphone",
+        "European city street with demonstration awareness - safe distance perspective",
+        "Emergency contact card showing embassy numbers and 112 European emergency number",
+        "Motorhome parked in well-populated, well-lit area following safety recommendations",
+        "Smart Traveler Enrollment Program (STEP) registration interface on mobile device"
+      ],
+      "extra_info": "Current 2025 travel advisory context for Israeli motorhome travelers in Europe: The security situation has escalated significantly in June 2025, with the U.S. and allied countries issuing Level 4 'Do Not Travel' advisories for Israel, West Bank, and Gaza. Israel has automatically extended all visas valid as of June 16, 2025 until September 30, 2025, and has closed embassies/suspended consular services in some locations. For Israeli travelers already in Europe: (1) Demonstrations have been reported in major cities including Thessaloniki (Greece) and Cambridge (UK), with reports of 'Free Palestine' protests. (2) Safety recommendations include enrolling in STEP (Smart Traveler Enrollment Program) for emergency alerts, avoiding demonstrations and crowds, and maintaining high situational awareness. (3) European emergency number 112 works across all EU countries free of charge for police, medical, and fire services. (4) Most travel insurance policies do not cover travel to countries under 'Do Not Travel' advisories. (5) The new 2025 ETA-IL requirement costs 25 shekels and is valid for two years for visa-exempt countries. Important note: The guide's community perspective emphasizes keeping political discussions separate from motorhome travel group harmony, focusing on practical safety awareness rather than political engagement."
+    },
+    {
+      "guide_id": "guide-015-001",
+      "title": "Motorhome Break-In Prevention and Security Measures",
+      "references": [
+        {
+          "name": "Stealth Safe - RV Floor-Mounted Safe",
+          "url": "https://www.rv.com/archive/stealth-safe/",
+          "type": "product"
+        },
+        {
+          "name": "Stealth RV Compact Safe - Bomb City Safes",
+          "url": "https://bombcitysafes.com/products/stealth-rv-compact-safe",
+          "type": "product"
+        },
+        {
+          "name": "RV Safes - RecPro (Floor & Wall Mounted)",
+          "url": "https://recpro.com/rv-safe/",
+          "type": "product"
+        },
+        {
+          "name": "Armadillo RV Safes - Fireproof Options",
+          "url": "https://armadillosafes.com/collections/rv-safes",
+          "type": "product"
+        },
+        {
+          "name": "Protect Valuables from Theft & Fire - Always On Liberty",
+          "url": "https://alwaysonliberty.com/2021/11/rv-safe.html/",
+          "type": "product"
+        },
+        {
+          "name": "Spytec GL300 GPS Tracker - Real-Time Vehicle Tracking",
+          "url": "https://www.thervgeeks.com/rv-gps-tracker/",
+          "type": "product"
+        },
+        {
+          "name": "Monimoto GPS RV Tracker - No Wiring Installation",
+          "url": "https://monimoto.com/gps-tracker-for-rv/",
+          "type": "product"
+        },
+        {
+          "name": "ADT Self Setup - Best RV Security System 2025",
+          "url": "https://www.security.org/home-security-systems/best/rv/",
+          "type": "product"
+        },
+        {
+          "name": "WiTi Motorhome Alarm System - GPS & Motion Sensors",
+          "url": "https://witi.com.au/pages/witi-motorhome-alarm-system",
+          "type": "product"
+        },
+        {
+          "name": "Lockdown Motorhome Security - Alarm/Tracker/Immobiliser",
+          "url": "https://www.606060.com/Lockdown-Motorhome-Alarm-Tracker-Immobiliser-Camper-Security-System-Stolen-Vehicle-Tracking",
+          "type": "product"
+        },
+        {
+          "name": "Best RV Anti-Theft Devices - Cruise America",
+          "url": "https://www.cruiseamerica.com/trip-inspiration/best-rv-anti-theft-device-preventing-rv-theft",
+          "type": "product"
+        },
+        {
+          "name": "20 Genius Camper Van Security Ideas",
+          "url": "https://www.thevanconversion.com/post/camper-van-security",
+          "type": "safety"
+        }
+      ],
+      "image_suggestions": [
+        "Floor-mounted safe installed under motorhome bed or closet with carpet cover",
+        "Stealth safe installation showing secure bolting to chassis and floor",
+        "Security comparison: documents and valuables stored in safe vs unsecured",
+        "GPS tracker discreetly hidden in motorhome compartment with smartphone tracking app interface",
+        "Motorhome alarm system with motion sensors on doors and windows",
+        "Physical anti-theft devices: wheel locks, hitch locks, steering wheel locks",
+        "Tourist scenario: motorhome parked at museum with security measures visible",
+        "Emergency document wallet being carried on person rather than left in vehicle",
+        "Well-lit, populated parking area vs isolated street parking - security comparison",
+        "Integrated security system dashboard showing GPS tracking, alarm status, and immobilizer"
+      ],
+      "extra_info": "Real-world break-in incidents from 2025 demonstrate critical security gaps: Lyon, France incident involved complete loss of documents and clothes while tourists visited a museum (credit cards fortunately on person), and another case involved computer/electronics theft from street parking in a small town. Current best practices based on 2025 security technology: (1) Safe/Vault Systems - Floor-mounted safes are superior to portable boxes. Stealth Safe Co. offers installation starting at $190 for Q200/Q350 models with key or electronic locks. Installation involves cutting floor, bolting from inside to chassis, and concealing with carpet. Safes provide dual protection: theft AND fire resistance. Many insurance companies require trackers on motorhomes over certain values. (2) GPS Tracking - Spytec GL300 and Monimoto systems offer no-wiring installation with real-time tracking. Tile trackers have advantage over AirTags with Anti-Theft Mode preventing thief detection. (3) Alarm Systems - ADT Self Setup rated best for RVs (9.2/10 SecureScore). WiTi system includes 105db alarm, motion/door sensors, panic alarm, plus optional GPS. Lockdown represents new-generation integrated approach: alarm + immobiliser + 24/7 tracking across Europe reporting every 4 seconds while moving. (4) Physical Deterrents - Wheel locks, hitch locks, steering wheel locks provide visible deterrence. Security experts recommend combination approach: physical + electronic + GPS. (5) High-Risk Situations - Museum visits, tourist attractions = peak theft times. Never leave documents in motorhome. Park in well-lit, populated areas. Most travel insurance provides only partial coverage for unattended vehicle break-ins."
+    }
+  ],
+  "metadata": {
+    "created": "2025-12-15",
+    "category": "safety-security",
+    "total_guides": 4,
+    "enrichment_focus": "Security products, emergency resources, safety equipment, travel advisories",
+    "research_sources": [
+      "Product review sites for RV/motorhome security equipment",
+      "Government travel advisory websites (U.S. State Department, UK Foreign Office)",
+      "Emergency preparedness organizations (Red Cross, RV safety groups)",
+      "Offline navigation app providers",
+      "European emergency services information",
+      "RV security system manufacturers and retailers"
+    ]
+  }
+}

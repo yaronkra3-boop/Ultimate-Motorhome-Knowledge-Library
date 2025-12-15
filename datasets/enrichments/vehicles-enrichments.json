@@ -1,0 +1,390 @@
+{
+  "category": "vehicles",
+  "enrichments": [
+    {
+      "guide_id": "guide-012-002",
+      "title": "Mercedes Sprinter 4x4 vs 2x4: Choosing the Right Motorhome Drivetrain",
+      "references": [
+        {
+          "name": "Mercedes-Benz Sprinter Official",
+          "url": "https://www.mbvans.com/en/sprinter",
+          "type": "manufacturer",
+          "description": "Official Mercedes-Benz Sprinter van specifications and configurations"
+        },
+        {
+          "name": "Thor Sanctuary Mercedes Sprinter RVs",
+          "url": "https://www.thormotorcoach.com/sanctuary",
+          "type": "manufacturer",
+          "description": "Thor Motor Coach Sanctuary line - luxury Sprinter-based motorhomes with AWD"
+        },
+        {
+          "name": "Grech RV STRADA-ion AWD",
+          "url": "https://grechrv.com/model/strada-ion-awd-camper-van/",
+          "type": "manufacturer",
+          "description": "2025 Grech RV Strada built on Mercedes Sprinter AWD 3500XD with advanced features"
+        },
+        {
+          "name": "Wildworx Mercedes Sprinter Overland Conversions",
+          "url": "https://wildworxcustoms.com/products/mercedes-sprinter-overland-motorhome-campervan-conversion",
+          "type": "manufacturer",
+          "description": "AWD Sprinter overland campervan conversions for off-grid travel"
+        },
+        {
+          "name": "Outside Van Custom Sprinter Builds",
+          "url": "https://outsidevan.com/vans-for-sale/",
+          "type": "manufacturer",
+          "description": "Custom Sprinter 4x4 builds mentioned in the guide"
+        },
+        {
+          "name": "Mobile.de - Germany Motorhome Marketplace",
+          "url": "https://mobile.de",
+          "type": "marketplace",
+          "description": "Largest German marketplace for new and used motorhomes including Sprinter 4x4"
+        },
+        {
+          "name": "AutoScout24 Europe",
+          "url": "https://www.autoscout24.com/",
+          "type": "marketplace",
+          "description": "Pan-European marketplace for motorhomes and campervans"
+        },
+        {
+          "name": "RV Trader - Mercedes Sprinter 4x4",
+          "url": "https://www.rvtrader.com/Mercedes-Benz-Sprinter-2500-4x4/rvs-for-sale",
+          "type": "marketplace",
+          "description": "Used Mercedes Sprinter 4x4 RVs for sale"
+        }
+      ],
+      "image_suggestions": [
+        "Mercedes Sprinter 4x4 exterior on off-road terrain showing approach angle and ground clearance",
+        "Interior comparison photo: luxury finishes in modern Sprinter conversion",
+        "Side-by-side comparison chart: 4x4 vs 2x4 specifications (ground clearance, tire size, diff locks)",
+        "Mercedes Sprinter 4x4 on mountain pass in Alps or Pyrenees",
+        "Comparison infographic: cost vs capability (newer 2x4 at €50K vs older 4x4 at same price)",
+        "Morocco landscape showing 2x4 Sprinter on standard routes",
+        "Technical diagram: 4x4 drivetrain with center and rear diff locks highlighted",
+        "Tire size comparison: 245/75R17 off-road tires vs standard 2x4 tires"
+      ],
+      "extra_info": "Current market pricing (2025): New Sprinter 4x4 conversions range from €93,000 (Malibu Genius 2WD base) to €148,310+ (Performance 4x4 models). The AWD Sprinter features torque-on-demand with up to 50% power split between axles and 9G-TRONIC transmission. Popular conversion builders include Thor (Sanctuary line), Grech RV (STRADA-ion AWD with 250 AMP alternator, 3000W inverter, 300W solar), Wildworx, and Adventure Wagon. Key technical specs: Mercedes AWD maintains same ground clearance as previous 4x4 system. True 4x4 requires center and rear diff locks minimum (not just AWD). Consider Iveco Daily 4x4 as alternative with 3 locking diffs and reduction gearbox for serious off-road."
+    },
+    {
+      "guide_id": "guide-016-005",
+      "title": "Citroën 2CV Sahara: Dual-Engine Classic Motorhome Alternative",
+      "references": [
+        {
+          "name": "Citroën 2CV Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Citro%C3%ABn_2CV",
+          "type": "reference",
+          "description": "Comprehensive history and technical details of Citroën 2CV"
+        },
+        {
+          "name": "Hagerty - Citroën 2CV Sahara Profile",
+          "url": "https://www.hagerty.com/media/car-profiles/active-lifestyles-citroens-twin-engine-2cv-sahara-threw-beret-into-ring/",
+          "type": "review",
+          "description": "Detailed profile of the unique twin-engine 2CV Sahara"
+        },
+        {
+          "name": "Motor Trend - First Drive 2CV Sahara",
+          "url": "https://www.motortrend.com/features/citroen-2cv-sahara",
+          "type": "review",
+          "description": "First drive review of world's first dual-engine 4x4 vehicle"
+        },
+        {
+          "name": "Lane Motor Museum - 2CV Sahara 1962",
+          "url": "https://www.lanemotormuseum.org/collection/cars/item/citroen-2cv-4x4-sahara-1962/",
+          "type": "reference",
+          "description": "Museum collection page with detailed specifications"
+        },
+        {
+          "name": "Citroenet.org.uk - 2CV Sahara History",
+          "url": "http://www.citroenet.org.uk/passenger-cars/michelin/2cv/history/1958-sahara.html",
+          "type": "reference",
+          "description": "Historical documentation from 1958 Sahara variant"
+        },
+        {
+          "name": "AutoMag Israel - 2CV Sahara Article",
+          "url": "https://www.automag.co.il/1965-citroen-2cv-sahara/",
+          "type": "review",
+          "description": "Israeli automotive magazine article on the 1965 2CV Sahara"
+        },
+        {
+          "name": "iCar Israel - 2CV Sahara Coverage",
+          "url": "https://www.icar.co.il/news/bkgjis6yll/",
+          "type": "review",
+          "description": "Israeli car news coverage of the classic 2CV Sahara"
+        }
+      ],
+      "image_suggestions": [
+        "Citroën 2CV Sahara dual-engine system diagram showing front and rear engine placement",
+        "Exterior photo: distinctive two-tone styling with spare wheel mounted on bonnet",
+        "Engine bay comparison: front vs rear 425cc flat-twin engines",
+        "Interior dashboard showing dual ignition, dual starter buttons, and central gearstick",
+        "Under-seat fuel tank configuration diagram (two 15-liter tanks)",
+        "2CV Sahara on Sahara desert terrain (historical photo from 1960s)",
+        "Chassis reinforcement diagram showing upgraded suspension",
+        "Collector rally photo: Reni's 2CV Sahara with Land Cruiser escort in Balkans",
+        "Production timeline infographic: 694 units 1960-1968, only ~30 survivors"
+      ],
+      "extra_info": "Specifications: Two 425cc flat-twin engines (850cc total), 24 bhp @ 3500 rpm combined, 4 mkg torque @ 2000 rpm. Top speed: 40 mph (65 km/h) single engine, 65 mph (105 km/h) dual engine. Weight: 1,620 lbs. Production: 694 units built 1960-1968, plus one in 1971. Original price: Double the standard 2CV cost. Rarity: Estimated only 30 survivors worldwide. Designed for French oil exploration in Algerian Sahara. Each engine operates independently with own ignition, carburetor, gearbox, fuel supply. Drivers could choose FWD, RWD, or AWD mode. Many used by Swiss Post for deliveries. Now highly collectible classics. Features: Reinforced chassis, beefier suspension, larger tires than standard 2CV, skid plate protection, dual fuel tanks under front seats with filler necks in doors."
+    },
+    {
+      "guide_id": "guide-017-004",
+      "title": "Citroën Mechanic Requirements for Central European Travel",
+      "references": [
+        {
+          "name": "Peugeot Service Box",
+          "url": "https://public.servicebox.peugeot.com/",
+          "type": "manufacturer",
+          "description": "Official Peugeot/Citroën/Opel service platform for parts and technical documentation"
+        },
+        {
+          "name": "Citroën Service Box",
+          "url": "https://service.citroen.com/",
+          "type": "manufacturer",
+          "description": "Citroën official service platform with repair methods and diagnostics"
+        },
+        {
+          "name": "Citroën International Website",
+          "url": "https://www.citroen.com/en",
+          "type": "manufacturer",
+          "description": "Official Citroën international site with country-specific dealer locators"
+        },
+        {
+          "name": "Citroënvie - Service Center Guide",
+          "url": "https://citroenvie.com/where-can-i-get-my-citroen-serviced/",
+          "type": "reference",
+          "description": "Guide to finding Citroën service centers in various countries"
+        },
+        {
+          "name": "Peugeot Repairs UK Specialist",
+          "url": "https://www.peugeot-repairs.co.uk/",
+          "type": "service",
+          "description": "PSA-trained specialist for Peugeot, Citroën, DS, post-2019 Vauxhall"
+        },
+        {
+          "name": "Etablissements Declercq Brussels",
+          "url": "https://declercq.brussels/en",
+          "type": "service",
+          "description": "Peugeot & Citroën approved repairer in Brussels, Belgium"
+        }
+      ],
+      "image_suggestions": [
+        "Map of Europe highlighting Basel-Hamburg route with service center locations marked",
+        "Citroën/Peugeot/Opel shared platform diagram showing parts compatibility",
+        "Screenshot of Citroën Service Box platform interface",
+        "European motorhome with Citroën base vehicle at service center",
+        "Route planning map showing recommended service intervals along major European corridors",
+        "PSA Group (Stellantis) service network coverage map for Central Europe"
+      ],
+      "extra_info": "Citroën, Peugeot, and Opel share the same service platform (Stellantis/PSA Group) since these brands use common parts and tools. The Service Box platforms cover all three brands plus DS and Vauxhall (post-2019). For Basel-Hamburg route and other Central European travel, plan service stops in advance. Key service hubs: Germany (multiple locations along autobahn network), Belgium (Brussels - Etablissements Declercq), Netherlands, Luxembourg. Professional mechanics can access: parts catalogs, technical documentation, electrical schematics, diagnostic procedures via official Service Box. Important: After PSA's acquisition of Vauxhall/Opel in 2019, vehicles share platforms and service networks. Search for 'PSA approved repairers' or 'Stellantis service centers' along planned routes. Most main dealers along major European routes are equipped for motorhome base vehicle service."
+    },
+    {
+      "guide_id": "guide-017-006",
+      "title": "Wasabi Vehicle Conditioning with Air Conditioning Capability",
+      "references": [
+        {
+          "name": "Dometic RV Air Conditioning",
+          "url": "https://www.dometic.com/en/support/faq/motorhome--caravan-ac---q2",
+          "type": "manufacturer",
+          "description": "Major RV air conditioning manufacturer with ducted and non-ducted systems"
+        },
+        {
+          "name": "Webasto RV Cooling Solutions",
+          "url": "https://www.webasto.com/en-int/choose-vehicle-solution/recreational-vehicle.html",
+          "type": "manufacturer",
+          "description": "Heaters and air-conditioners for motorhomes, caravans and camper vans"
+        },
+        {
+          "name": "Cool My Camper",
+          "url": "https://www.coolmycamper.com/",
+          "type": "manufacturer",
+          "description": "Refrigerant-based split pack air conditioning for caravans and motorhomes"
+        },
+        {
+          "name": "Dyers RV Air Conditioning",
+          "url": "https://www.dyersonline.com/rv-appliances/air-conditioners.html",
+          "type": "marketplace",
+          "description": "RV AC units, motorhome air conditioners and parts"
+        },
+        {
+          "name": "Amazon RV Air Conditioners",
+          "url": "https://www.amazon.com/RV-Air-Conditioners/b?ie=UTF8&node=3147787011",
+          "type": "marketplace",
+          "description": "Wide selection of RV air conditioning units including 12V DC systems"
+        }
+      ],
+      "image_suggestions": [
+        "Generic motorhome roof-mounted air conditioning unit installation",
+        "Split-pack AC system diagram showing external condenser and internal evaporator",
+        "BTU sizing chart for different motorhome sizes",
+        "Comparison chart: ducted vs non-ducted AC systems",
+        "12V DC rooftop AC unit suitable for off-grid camping"
+      ],
+      "extra_info": "Note: No specific 'Wasabi' brand air conditioning system was found in comprehensive search. This may be a niche/regional product or the user may be referring to a different brand name. Alternative quality motorhome AC options: Dometic (ducted/non-ducted systems), Webasto (van to luxury motorhome solutions), Coleman MACH, Furrion. System types: Ducted systems distribute air through ceiling vents (better for larger motorhomes), non-ducted blow directly from ceiling assembly (good for smaller campers). Sizing: 13,500-15,000 BTU for travel trailers and smaller motorhomes, dual units or higher capacity for larger motorhomes. Cool My Camper offers refrigerant-based split pack systems as cost-effective alternative to water-cooled or thermoelectric. For off-grid: Consider 12V DC rooftop units that can run on solar/battery systems (mentioned in guide-017-005: Ron Kellner's system with 1200W for 8000 BTU unit)."
+    },
+    {
+      "guide_id": "guide-018-006",
+      "title": "European Integrated Motorhome Selection for International Purchase",
+      "references": [
+        {
+          "name": "Mobile.de - Germany Marketplace",
+          "url": "https://mobile.de",
+          "type": "marketplace",
+          "description": "Largest German marketplace for integrated motorhomes with European registration"
+        },
+        {
+          "name": "AutoScout24 Europe",
+          "url": "https://www.autoscout24.com/",
+          "type": "marketplace",
+          "description": "Pan-European marketplace with 30M users/month, covers Germany, France, Italy, Austria"
+        },
+        {
+          "name": "TruckScout24 - Recreational Vehicles",
+          "url": "https://www.truckscout24.com/",
+          "type": "marketplace",
+          "description": "Europe's largest market for recreational vehicles including integrated motorhomes"
+        },
+        {
+          "name": "Caravanmarkt24",
+          "url": "https://www.caravanmarkt24.com/",
+          "type": "marketplace",
+          "description": "German motorhome and caravan marketplace for buying and selling"
+        },
+        {
+          "name": "En.Rv.AutoDe.net",
+          "url": "https://en.rv.autode.net/",
+          "type": "marketplace",
+          "description": "English version of mobile.de focused exclusively on motorhomes"
+        }
+      ],
+      "image_suggestions": [
+        "German-built integrated motorhome exterior showing build quality",
+        "Floor plan diagram showing 4+ sleeping positions configuration",
+        "Comparison: Integrated vs Class A vs Van layouts",
+        "German vehicle registration documents and approval standards",
+        "Partnership ownership structure diagram for shared motorhome use",
+        "European integrated motorhome on international travel route",
+        "Interior photo highlighting German quality construction and finishes"
+      ],
+      "extra_info": "German-built integrated motorhomes represent high-quality European construction standards. Key considerations: 1) Registration - German/French registration easiest for European travel, French requires French address, USA-standard vehicles difficult to approve in Europe. 2) Minimum 4 sleeping positions for family/group travel. 3) Partnership ownership model viable - similar to aircraft/yacht shared ownership, reduces idle time costs. Search platforms: mobile.de (largest selection), AutoScout24 (pan-European, 30M monthly users covering Germany, Belgium, Netherlands, Italy, France, Austria), TruckScout24 (recreational vehicle specialist), caravanmarkt24. English interface available at en.rv.autode.net for non-German speakers. Important: Verify country-specific approval standards before purchase - each European country has different homologation requirements. Consider working with dealer experienced in international sales for proper documentation and registration assistance."
+    },
+    {
+      "guide_id": "guide-019-002",
+      "title": "Vehicle Selection for Global Overland Travel: Integrated vs Specialized",
+      "references": [
+        {
+          "name": "Damon RV Source - Astoria Specifications",
+          "url": "https://www.damonrvsource.com/specifications-damon-astoria-specs-by-model-m775",
+          "type": "manufacturer",
+          "description": "Complete specifications for Damon Astoria integrated motorhomes"
+        },
+        {
+          "name": "SLRV Expedition - Iveco Daily 4x4",
+          "url": "https://slrvexpedition.com.au/products/iveco-daily-4x4-camper/",
+          "type": "manufacturer",
+          "description": "Australian specialist in Iveco Daily 4x4 expedition campers"
+        },
+        {
+          "name": "Iveco Official - Daily 4x4 Motorhome",
+          "url": "https://www.iveco.com/uk/Motorhome/Daily-4x4_Motorhome",
+          "type": "manufacturer",
+          "description": "Official Iveco Daily 4x4 off-road motorhome specifications"
+        },
+        {
+          "name": "Expeditionmeister - Iveco Daily 4x4",
+          "url": "https://expeditionmeister.com/expedition-trucks/iveco-truck/iveco-daily-4x4-expedition-camper-i533",
+          "type": "marketplace",
+          "description": "Expedition-grade Iveco Daily 4x4 campers for sale"
+        },
+        {
+          "name": "Mercedes Sprinter 4x4 - Expeditionmeister",
+          "url": "https://expeditionmeister.com/expedition-trucks/mercedes-truck/mercedes-benz-sprinter-4x4-i602",
+          "type": "marketplace",
+          "description": "Mercedes Sprinter 4x4 expedition trucks and specifications"
+        },
+        {
+          "name": "SLRV Eurocargo 4x4",
+          "url": "https://slrvexpedition.com.au/products/eurocargo-4x4/",
+          "type": "manufacturer",
+          "description": "Luxury Iveco Eurocargo 4x4 for serious overland expeditions"
+        }
+      ],
+      "image_suggestions": [
+        "Two-vehicle strategy visualization: Damon Astoria 3765 + Sprinter 4x4 support vehicle",
+        "Damon Astoria integrated motorhome interior showing luxury amenities",
+        "Iveco Daily 4x4 on extreme off-road terrain showing double axles and locking diffs",
+        "Mercedes Sprinter 4x4 vs Iveco 4x4 technical comparison chart",
+        "Vehicle capability matrix: Comfort vs Off-road capability quadrant chart",
+        "High-capacity trailer option for logistics and recovery",
+        "Terrain variety map: 80% roads vs challenging segments requiring 4x4",
+        "Iveco timing belt maintenance diagram (30,000 km service interval)"
+      ],
+      "extra_info": "Damon Astoria 3765 integrated motorhome specs: Freightliner chassis, Cummins 6.0L diesel pusher (300-340hp), Allison automatic transmission, 38 feet length, 6 berth capacity, 8257kg max weight, raised-rail chassis, 100-gallon fuel tank, air ride suspension. Historical pricing ~$160K-$180K. NOT suitable for severe off-road (Kazakhstan, extreme terrain). Iveco Daily 4x4 specs: 173 PS 3.0L turbodiesel, THREE locking differentials + reduction gearbox (vs AWD competitors), 265/70 R19 tires, 2-tonne payload, dual-cab (6 seats) or single-cab (3 seats) options, 320L dual fuel tanks, 3-point torsion-free subframe for chassis twist, 30mm composite panels. WARNING: Timing belt issues reported after 30,000 km - critical maintenance. Larger option: Iveco Eurocargo 4x4 with 279hp 5.9L 6-cyl, 950Nm torque. Ford engine concerns: Pre-2020 models had reported issues, recommend post-2020 if considering Ford-based. Strategy: Use integrated for comfort travel (80% time), rent/purchase specialized 4x4 for challenging segments."
+    },
+    {
+      "guide_id": "guide-027-001",
+      "title": "Finding Motorhomes Online: Resource Guide",
+      "references": [
+        {
+          "name": "Mobile.de - Official Site",
+          "url": "https://mobile.de",
+          "type": "marketplace",
+          "description": "Germany's largest marketplace for new and used motorhomes in Europe"
+        },
+        {
+          "name": "AutoScout24 - Pan-European Marketplace",
+          "url": "https://www.autoscout24.com/",
+          "type": "marketplace",
+          "description": "Europe's largest online car market with 30M monthly users, 43,000 dealers"
+        },
+        {
+          "name": "En.Rv.AutoDe.net - English Mobile.de",
+          "url": "https://en.rv.autode.net/",
+          "type": "marketplace",
+          "description": "English interface for mobile.de motorhome listings, updated hourly"
+        },
+        {
+          "name": "TruckScout24 - RV Specialist",
+          "url": "https://www.truckscout24.com/",
+          "type": "marketplace",
+          "description": "Europe's largest commercial and recreational vehicle marketplace"
+        },
+        {
+          "name": "Caravanmarkt24",
+          "url": "https://www.caravanmarkt24.com/",
+          "type": "marketplace",
+          "description": "German motorhome selling platform - online and free of charge"
+        },
+        {
+          "name": "Oren Crispin Custom Builds - Photo Gallery",
+          "url": "https://photos.app.goo.gl/5qDKyKReXsMykpp48",
+          "type": "manufacturer",
+          "description": "Custom motorhome builder to world standard with Israel return option"
+        }
+      ],
+      "image_suggestions": [
+        "Mobile.de homepage screenshot showing motorhome search interface",
+        "AutoScout24 motorhome listings with filters displayed",
+        "European map showing coverage of major motorhome marketplaces",
+        "Custom-built motorhome by Oren Crispin (from photo gallery link)",
+        "Comparison table: mobile.de vs AutoScout24 vs TruckScout24 features",
+        "Search strategy flowchart: used marketplace vs custom builder decision tree"
+      ],
+      "extra_info": "Primary German marketplace mobile.de offers largest selection of European motorhomes, updated multiple times hourly. English interface available at en.rv.autode.net specifically for motorhome searches. AutoScout24 covers broader European market (Germany, Belgium, Luxembourg, Netherlands, Italy, France, Austria) with 30M monthly users and 43,000 dealer partners. Founded 1998 as MasterCar, based Munich. TruckScout24 specializes in recreational vehicles including campervans, semi-integrated campers, caravans. Best-known German portals: mobile.de, Kleinanzeigen (formerly eBay Kleinanzeigen), caravanmarkt24, AutoScout24, Caraworld, plus Facebook Marketplace. Custom builder option: Oren Crispin builds to world standard with unique offer to return motorhome to Israel after travel (example: 6 months out, 6 months return journey). Recommended strategy: Start with mobile.de/AutoScout24 for established inventory and market pricing, then contact custom builders for specific requirements and return logistics planning. Consider TruckScout24 for commercial-grade base vehicles (Iveco, Sprinter) with motorhome conversions."
+    }
+  ],
+  "metadata": {
+    "created_date": "2025-12-15",
+    "total_guides_enriched": 7,
+    "research_sources": [
+      "Mercedes-Benz official sites",
+      "Iveco official motorhome division",
+      "Major European marketplaces (mobile.de, AutoScout24, TruckScout24)",
+      "Specialist motorhome manufacturers (Thor, Grech RV, SLRV, Wildworx)",
+      "Classic car references (Hagerty, Motor Trend, Lane Motor Museum)",
+      "Stellantis/PSA service networks",
+      "RV air conditioning manufacturers (Dometic, Webasto)",
+      "Damon RV historical specifications"
+    ],
+    "notes": "Enrichments focus on vehicle buying resources, technical specifications, manufacturer links, European marketplaces, and current pricing/availability where possible. Wasabi AC system could not be verified - alternative AC options provided. All marketplace links include both German and pan-European options for maximum coverage."
+  }
+}

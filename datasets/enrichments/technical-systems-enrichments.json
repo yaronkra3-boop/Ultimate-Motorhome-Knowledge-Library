@@ -1,0 +1,506 @@
+{
+  "category": "technical-systems",
+  "enrichment_date": "2025-12-15",
+  "total_guides": 17,
+  "enrichments": [
+    {
+      "guide_id": "guide-001",
+      "title": "Gas System Management and Refilling in Europe",
+      "references": [
+        {
+          "name": "lpggpl.com - LPG Adapter Set for All Europe",
+          "url": "https://lpggpl.com/products/refill-any-lpg-bottle-in-all-of-europe-adaptor-set-for-autogas",
+          "type": "purchase",
+          "description": "Complete adapter set for filling LPG bottles at autogas stations across all European countries"
+        },
+        {
+          "name": "Gaslow Direct - LPG Fill Adapter Kit",
+          "url": "https://www.gaslowdirect.com/product/gaslow-lpg-fill-adapter-kit-01-43-kit/",
+          "type": "purchase",
+          "description": "Official Gaslow adapter kit with safety valves for European LPG filling"
+        },
+        {
+          "name": "Rolling Bothy - Motorhome LPG in Europe Guide",
+          "url": "https://rollingbothy.com/blog/resources/motorhome-lpg-europe",
+          "type": "info",
+          "description": "Comprehensive guide to which LPG adapters are needed in which European countries"
+        },
+        {
+          "name": "CamperStyle - Gas Adapter for Camping in Europe",
+          "url": "https://camperstyle.com/gas-adapter-camping-europe/",
+          "type": "info",
+          "description": "Educational guide on gas adapters and country-specific requirements"
+        },
+        {
+          "name": "Motorhome Workshop - LPG Euro Adapter Set",
+          "url": "https://www.motorhomeworkshop.co.uk/product/lpg-euro-adapter-set/",
+          "type": "purchase",
+          "description": "UK retailer offering Euro adapter sets for Gaslow/Gasit systems"
+        }
+      ],
+      "image_suggestions": [
+        "Photo of LPG adapter set showing all 4 European connector types (Dish, ACME, Bayonet, Euro)",
+        "Diagram showing which LPG adapter is used in which European country (color-coded map)",
+        "Photo of Truma gas bottle with adapter attached",
+        "Step-by-step photos of connecting LPG adapter at gas station"
+      ],
+      "extra_info": "The four main European LPG connector types are: Dish (France, Italy, Austria, Switzerland and most of Europe), ACME (Germany, Belgium, Ireland, Luxembourg), Euro/Euronozzle (Spain, Portugal), and Bayonet (UK, Netherlands, Denmark, Norway). Gaslow offers valved Spanish adapters for additional safety. Most adapter sets cost between $50-100 and include all necessary connectors for pan-European travel."
+    },
+    {
+      "guide_id": "guide-003",
+      "title": "Generator vs Battery Systems for Motorhomes",
+      "references": [
+        {
+          "name": "LiTime 12V 200Ah LiFePO4 Battery",
+          "url": "https://www.litime.com/products/litime-12v-200ah-lifepo4-lithium-battery",
+          "type": "purchase",
+          "description": "Popular lithium battery option with 4000+ cycles and 2560Wh energy capacity"
+        },
+        {
+          "name": "Redodo 12V 200Ah LiFePO4 Battery on Amazon",
+          "url": "https://us.amazon.com/Redodo-12V-4000-15000-Lifetime-Trolling/dp/B0C4KYW5V6",
+          "type": "purchase",
+          "description": "Alternative lithium battery with 5-year warranty and 24/7 support"
+        },
+        {
+          "name": "VEVOR 12V 200Ah LiFePO4 Battery",
+          "url": "https://www.vevor.com/deep-cycle-battery-c_12146/12v-200ah-deep-cycle-lifepo4-battery-bms-lithium-iron-phosphate-battery-for-rv-p_010230251465",
+          "type": "purchase",
+          "description": "Budget-friendly option with 4,000-15,000 deep cycles and low-temperature protection"
+        }
+      ],
+      "image_suggestions": [
+        "Comparison chart: Generator vs Lithium Battery System (cost, noise, weight, lifespan)",
+        "Photo of 12V 200Ah lithium battery installation in motorhome",
+        "Diagram showing complete off-grid power system with batteries and solar panels",
+        "Weight comparison visual: Generator with fuel vs lithium battery system"
+      ],
+      "extra_info": "Modern LiFePO4 batteries offer 2-3x the energy density of lead-acid batteries while weighing only 1/3 as much. A 200Ah lithium battery provides approximately 2560Wh of usable energy, enough to run most motorhome appliances for 24-48 hours. When combined with solar panels, lithium systems eliminate the need for generators in most European motorhome applications. Expected lifespan is 10+ years vs 2-3 years for generators."
+    },
+    {
+      "guide_id": "guide-010",
+      "title": "Double Tire (Dual Wheels) Pros and Cons",
+      "references": [
+        {
+          "name": "Traction boards for vehicle recovery",
+          "url": "https://www.amazon.com/s?k=recovery+boards+4x4",
+          "type": "purchase",
+          "description": "Essential equipment for unsticking dual-wheel vehicles from soft terrain"
+        }
+      ],
+      "image_suggestions": [
+        "Photo comparison: Single tire vs dual tire motorhome rear axle",
+        "Diagram showing why dual tires get stuck easier in soft terrain (sand, mud)",
+        "Photo of dual-tire motorhome stuck in sand",
+        "Illustration of proper recovery technique for dual-wheel vehicles"
+      ],
+      "extra_info": "Dual wheels (also called dualies or twin wheels) distribute weight better on paved roads and provide redundancy if one tire fails. However, they create more ground pressure on soft surfaces because the two tires on each side create a narrow 'track' rather than spreading load. Most expedition and overland motorhomes avoid dual wheels for this reason. Recovery requires lifting both tires simultaneously or placing boards under both wheels."
+    },
+    {
+      "guide_id": "guide-013",
+      "title": "Long-Term Motorhome Storage Guide - Winter and Extended Periods",
+      "references": [
+        {
+          "name": "STA-BIL Fuel Stabilizer on Amazon",
+          "url": "https://www.amazon.com/s?k=sta-bil+fuel+stabilizer",
+          "type": "purchase",
+          "description": "Fuel additive to prevent degradation during storage"
+        },
+        {
+          "name": "Mouse traps (non-poison type)",
+          "url": "https://www.amazon.com/s?k=mouse+traps",
+          "type": "purchase",
+          "description": "Mechanical traps for pest prevention during storage"
+        }
+      ],
+      "image_suggestions": [
+        "Checklist infographic: 14-step motorhome winterization procedure",
+        "Photo of properly covered motorhome in storage",
+        "Diagram showing water system drain points",
+        "Photo of battery disconnect switch and tire pressure maintenance"
+      ],
+      "extra_info": "Proper winterization prevents thousands in damage from frozen pipes, fuel degradation, and battery sulfation. Key steps include draining all water systems, adding antifreeze to drains, disconnecting batteries (or using a trickle charger), over-inflating tires slightly, filling fuel tank to prevent condensation, adding fuel stabilizer, and using mechanical mouse traps (never poison as you won't find dead mice). Store in covered location if possible. Check on vehicle monthly if feasible."
+    },
+    {
+      "guide_id": "guide-014",
+      "title": "Water Tank Sanitization and Disinfection",
+      "references": [
+        {
+          "name": "Puriclean Water Tank Cleaner",
+          "url": "https://www.halfords.com/motoring/caravan-accessories/",
+          "type": "purchase",
+          "description": "Popular UK/European motorhome tank cleaner available at Halfords"
+        },
+        {
+          "name": "Thetford Fresh Water Tank Sanitizer on Amazon",
+          "url": "https://www.amazon.com/Fresh-Sanitizer-Detergent-Treatment-bottles/dp/B001TIV1KA",
+          "type": "purchase",
+          "description": "2-part system that kills 99% of harmful bacteria including E-Coli"
+        },
+        {
+          "name": "Wandering Bird - Motorhome Water Tank Cleaning Guide",
+          "url": "https://www.wandering-bird.com/motorhome-water-tank-cleaning/",
+          "type": "info",
+          "description": "Detailed guide on the easy way to clean motorhome water tanks"
+        }
+      ],
+      "image_suggestions": [
+        "Photo of water tank sanitization products (Puriclean, Thetford, Milton tablets)",
+        "Step-by-step diagram of water system sanitization process",
+        "Photo showing before/after water clarity comparison",
+        "Diagram of complete motorhome water system (tanks, pipes, pumps, taps)"
+      ],
+      "extra_info": "Water tanks should be sanitized at least twice a year, or whenever the motorhome has been idle for weeks. Popular products include Puriclean (dual-purpose cleaner/sterilizer available at Halfords), Thetford Fresh Water Tank Sanitizer (kills 99% bacteria), and budget-friendly Milton sterilizing tablets. The process involves adding sanitizer, filling tank completely, running water through all taps to sanitize pipes, letting sit for recommended time, then draining and flushing thoroughly until no chemical taste remains."
+    },
+    {
+      "guide_id": "guide-017",
+      "title": "DIY LPG Gas Refilling Kit for Motorhomes",
+      "references": [
+        {
+          "name": "Euro Bottle to Europe Autogas Adapter",
+          "url": "https://lpggpl.com/products/euro-bottle-to-all-of-europe-adaptor-refill-lpg-propane-cylinders-with-autogas",
+          "type": "purchase",
+          "description": "Complete adapter kit for DIY LPG refilling at autogas stations"
+        },
+        {
+          "name": "UK Bayonet to Europe LPG Adapters",
+          "url": "https://www.lpgadapter.com/uk-to-europe-lpg-autogas-propane-adapters-cars-motorhome-campers",
+          "type": "purchase",
+          "description": "Adapter set for UK-based motorhomes traveling in Europe"
+        },
+        {
+          "name": "Rolling Bothy - Motorhome LPG Europe Resource",
+          "url": "https://rollingbothy.com/blog/resources/motorhome-lpg-europe",
+          "type": "info",
+          "description": "Comprehensive guide to LPG availability and refilling across Europe"
+        }
+      ],
+      "image_suggestions": [
+        "Photo of complete DIY LPG refilling kit with all adapters and hose",
+        "Step-by-step photos showing connection process at LPG pump",
+        "Safety diagram showing proper ventilation during refilling",
+        "Country-by-country map of LPG/GPL availability in Europe"
+      ],
+      "extra_info": "DIY LPG refilling can save 50-70% compared to bottle exchange services. A complete adapter kit costs $50-100 and includes connectors for all European countries. Key safety considerations: always refill outdoors with good ventilation, never overfill (max 80% capacity), check for leaks with soapy water, and follow local regulations. LPG is widely available in most European countries except parts of Scandinavia. Cost typically ranges from €0.50-0.90 per liter."
+    },
+    {
+      "guide_id": "guide-010-008",
+      "title": "Windshield Crack Repair - Insurance and Workshop Selection",
+      "references": [
+        {
+          "name": "Ford Europe Dealer Locator",
+          "url": "https://www.ford.com/dealer-locator/",
+          "type": "official",
+          "description": "Find authorized Ford workshops for windshield replacement"
+        }
+      ],
+      "image_suggestions": [
+        "Photo showing different types of windshield cracks (star, bullseye, chip, long crack)",
+        "Diagram of proper windshield crack documentation for insurance",
+        "Photo of windshield replacement in progress at authorized workshop"
+      ],
+      "extra_info": "Most European motorhome insurance policies cover windshield damage with a deductible (typically €100-200). Document the damage with photos before repair. For motorhomes in storage, investigate the cause (temperature stress, falling objects, vandalism) to prevent recurrence. Authorized manufacturer workshops (e.g., Ford, Fiat) ensure proper calibration of driver assistance systems after windshield replacement."
+    },
+    {
+      "guide_id": "guide-011-001",
+      "title": "Windshield Crack Management - When to Replace vs Wait",
+      "references": [],
+      "image_suggestions": [
+        "Diagram showing static vs dynamic crack types",
+        "Photo tutorial: How to mark crack edges to monitor growth",
+        "Chart showing temperature ranges and crack expansion risk",
+        "Photo of crack in driver's field of vision vs outside it"
+      ],
+      "extra_info": "Windshield cracks are classified as static (non-growing) or dynamic (expanding over time). Mark crack endpoints with a marker and monitor daily - if it grows, replace immediately. Cracks in the driver's direct line of sight fail inspection and are dangerous. Temperature differentials (especially during storage or winter) can cause small cracks to expand rapidly. Cost of replacement varies: €200-600 for standard motorhomes, €400-1000+ for vehicles with lane-keeping assist or HUD systems requiring calibration."
+    },
+    {
+      "guide_id": "guide-011-002",
+      "title": "Diesel Fuel Injection Pump Air Leak Troubleshooting",
+      "references": [
+        {
+          "name": "Permatex PermaShield Fuel Resistant Sealant on Amazon",
+          "url": "https://www.amazon.com/Permatex-85420-Permashield-Resistant-Dressing/dp/B007VIGCJW",
+          "type": "purchase",
+          "description": "Professional-grade fuel-resistant sealant for diesel systems (-60°F to 500°F range)"
+        },
+        {
+          "name": "Permatex Official Product Page",
+          "url": "https://www.permatex.com/products/gasketing/gasket-coatings-sealants/gasket-sealants/permatex-permashield-fuel-resistant-gasket-dressing-flange-sealant-2-oz/",
+          "type": "official",
+          "description": "Technical specifications and application instructions"
+        }
+      ],
+      "image_suggestions": [
+        "Diagram of diesel injection pump showing common air leak points",
+        "Photo of bleeding procedure for diesel fuel system",
+        "Step-by-step visual guide to finding air leaks using clear tubing",
+        "Photo showing proper application of fuel-resistant sealant on pump connections"
+      ],
+      "extra_info": "Air in diesel fuel systems causes power loss, rough running, and difficulty starting. Common entry points include degraded O-rings, loose connections, and hairline cracks in fuel lines. The bleeding procedure typically involves: 1) Crack open bleed screws on fuel filter, 2) Use hand primer pump until fuel flows bubble-free, 3) Tighten bleed screws, 4) Start engine and run until smooth. Permatex PermaShield ($8-12) is the gold standard sealant for diesel systems. If air keeps returning, inspect all connections with clear tubing segments to visually identify bubbles."
+    },
+    {
+      "guide_id": "guide-014-002",
+      "title": "Air Conditioning for Motorhomes: Options and Solutions",
+      "references": [
+        {
+          "name": "Indel B Sleeping Well Cube 12V Air Conditioner",
+          "url": "https://www.melloronline.co.uk/Air_Conditioning/12414/Indel_B_Sleeping_Well_Cube_12V_Portable_RV_air_conditioning_unit_12V.html",
+          "type": "purchase",
+          "description": "Portable 12V battery-powered AC unit (950W cooling, 36A/h consumption)"
+        },
+        {
+          "name": "Indel B Plein-Aircon 12V Roof Mounted",
+          "url": "https://www.novaleisure.com/products/indel-b-plein-aircon-12v-air-conditioner-32600",
+          "type": "purchase",
+          "description": "First 12V roof-mounted AC for campervans (4100 BTU, battery-powered)"
+        },
+        {
+          "name": "Indel B Sleeping Well Oblo 12V Roof AC",
+          "url": "https://www.prokes-auto.com/indel-b-sleeping-well-oblo-950w-12v-roof-air-conditioning/",
+          "type": "purchase",
+          "description": "Roof hatch-mounted AC that adds less than 20cm height"
+        },
+        {
+          "name": "Eberspächer Climate Control Products",
+          "url": "https://www.eberspaecher-climate.com/na/en/applications/trucks",
+          "type": "official",
+          "description": "Official site for truck parking coolers and climate solutions"
+        }
+      ],
+      "image_suggestions": [
+        "Comparison chart: Portable vs Roof-mounted vs 12V parking cooler AC systems",
+        "Installation diagram showing minimal roof opening for skylight-mounted units",
+        "Photo of Indel B Plein-Aircon installed on motorhome roof",
+        "Power consumption graph: 12V AC units vs traditional 230V systems"
+      ],
+      "extra_info": "12V air conditioning technology has revolutionized motorhome cooling. The Indel B Plein-Aircon (4100 BTU) draws about 80-100A peak but can run purely on batteries without shore power or generators. For small motorhomes wanting minimal installation, skylight-mounted units like the Sleeping Well Oblo fit through existing roof hatches. Power requirements: A robust lithium battery system (400Ah+) is recommended for extended AC use. Alternatively, parking coolers designed for truck cabs (Eberspächer, Indel B) offer efficient cooling for sleeping without running the engine."
+    },
+    {
+      "guide_id": "guide-016-003",
+      "title": "Thermal Camera Inspection for Motorhome Heat Loss Detection",
+      "references": [
+        {
+          "name": "TIOP02 Thermal Camera on Amazon",
+          "url": "https://www.amazon.com/Portable-Infrared-Thermal-20%E2%84%83-1000%E2%84%83-Resolution/dp/B0F6D16PTW",
+          "type": "purchase",
+          "description": "Portable IR thermal camera with 32x32 resolution, -20°C to 1000°C range"
+        },
+        {
+          "name": "UNI-T UTI85H+ Thermal Imager on Amazon",
+          "url": "https://www.amazon.com/dp/B088WN27CF",
+          "type": "purchase",
+          "description": "Handheld thermal camera with ±0.5°C accuracy and sound alarm"
+        },
+        {
+          "name": "AliExpress Thermal Cameras",
+          "url": "https://www.aliexpress.com/w/wholesale-thermal-imaging-camera.html",
+          "type": "purchase",
+          "description": "Wide selection of affordable thermal cameras for heat loss detection"
+        }
+      ],
+      "image_suggestions": [
+        "Thermal image showing heat loss around motorhome windows",
+        "Side-by-side comparison: visible light vs thermal image of same area",
+        "Thermal scan showing insulation gaps in walls and ceiling",
+        "Photo of TIOP02 or similar thermal camera being used on motorhome"
+      ],
+      "extra_info": "Thermal imaging cameras have become affordable ($150-300) and are invaluable for diagnosing heat loss in motorhomes. The ABNR TIOP02 mentioned in the guide offers 32x32 resolution and -20°C to +1000°C range, sufficient for finding air leaks and insulation gaps. Best practice: scan in early morning or evening when temperature differential is greatest. Common problem areas include: window seals, roof vents, door frames, floor joints, and cable entry points. Addressing thermal leaks can improve heating/cooling efficiency by 20-40%."
+    },
+    {
+      "guide_id": "guide-018-003",
+      "title": "Lithium Battery Systems for Motorhome Power Management",
+      "references": [
+        {
+          "name": "LiTime 12V 200Ah Plus LiFePO4 Battery",
+          "url": "https://www.litime.com/products/12v-200ah-plus-lifepo4-battery",
+          "type": "purchase",
+          "description": "Premium lithium battery with 200A BMS and 2560W continuous output"
+        },
+        {
+          "name": "Victron SmartSolar MPPT Charge Controllers",
+          "url": "https://www.victronenergy.com/solar-charge-controllers",
+          "type": "official",
+          "description": "Industry-leading MPPT controllers with Bluetooth and 98% efficiency"
+        },
+        {
+          "name": "Renogy 2000W Pure Sine Wave Inverter",
+          "url": "https://www.renogy.com/products/2000w-12v-pure-sine-wave-inverter",
+          "type": "purchase",
+          "description": "2000W continuous / 4000W peak inverter for 12V systems"
+        },
+        {
+          "name": "Battle Born Batteries - Victron Programming Guide",
+          "url": "https://battlebornbatteries.com/programming-a-victron-smartsolar-charge-controller/",
+          "type": "info",
+          "description": "Detailed guide for programming MPPT controllers for lithium batteries"
+        }
+      ],
+      "image_suggestions": [
+        "Complete power system diagram: Solar panels → MPPT → Lithium batteries → Inverter → Loads",
+        "Photo of 400Ah lithium battery bank installation",
+        "Comparison chart: Lithium vs AGM batteries (weight, capacity, lifespan, cost)",
+        "Wiring diagram showing battery heating system for cold weather operation"
+      ],
+      "extra_info": "Modern motorhome power systems typically use: 200-400Ah LiFePO4 batteries at 12V or 24V, MPPT charge controllers (Victron, Renogy, Epever), and 2000-3000W pure sine wave inverters. Key consideration: Lithium batteries require temperature management - most cannot charge below 5°C (41°F). Solutions include batteries with internal heating (premium models), insulated battery boxes with heating pads, or placement in climate-controlled areas. A 400Ah @ 24V system provides approximately 10kWh usable capacity, sufficient to run refrigerator, lights, water pump, and occasional AC loads for 2-3 days without charging."
+    },
+    {
+      "guide_id": "guide-018-004",
+      "title": "Water Heating Systems: Electric vs Diesel Alternatives",
+      "references": [
+        {
+          "name": "Eberspächer Hydronic S3 D5E Water Heater Kit",
+          "url": "https://www.butlertechnik.com/item/Eberspacher/Espar-Diesel-Heater-Camper-Kit-for-Air-and-Water-Heating-Hydronic-S3-D5E-5kW-12v/BYS",
+          "type": "purchase",
+          "description": "Complete diesel water heating kit (5kW output, 12V system)"
+        },
+        {
+          "name": "Eberspächer Motorhome Auxiliary Heaters",
+          "url": "https://www.eberspaecher-motorhomes.com/auxiliary-heaters",
+          "type": "official",
+          "description": "Official product range for fuel-operated air and water heaters"
+        },
+        {
+          "name": "Espar Hydronic D5S Diesel 12V Water Heater Kit",
+          "url": "https://www.heatso.com/espar-eberspacher-hydronic-d5s-rv-camper-kit-for-water-air-floor-heating-12v/",
+          "type": "purchase",
+          "description": "Complete water heater kit for RV, camper, air and floor heating"
+        }
+      ],
+      "image_suggestions": [
+        "Comparison diagram: Electric water heater (1500W) vs Diesel heater system",
+        "Installation photo of Eberspächer Hydronic system in motorhome",
+        "Power consumption chart: Electric vs Diesel for water heating",
+        "Diagram showing dual heating options (electric shore power + diesel off-grid)"
+      ],
+      "extra_info": "Electric water heaters (1500W) are simple but require substantial battery capacity (400Ah+ recommended for off-grid use) or shore power. Diesel heaters like Eberspächer Hydronic are more fuel-efficient and don't drain batteries, but require professional installation (fuel line tap, exhaust routing, coolant loop). The Hydronic S3 provides modulating 1.3-5kW output, can heat both air (via blower units) and water (via heat exchanger), and uses approximately 0.12-0.51 L/hour of diesel. Many modern motorhomes use hybrid systems: electric when on shore power, diesel when off-grid."
+    },
+    {
+      "guide_id": "guide-018-005",
+      "title": "Solar Panel Installation and Generator Alternatives",
+      "references": [
+        {
+          "name": "Nohma 305W Rigid Solar Panel Kit",
+          "url": "https://nohma.com/campervan-electric-kits/campervan-solar-panel-kits/",
+          "type": "purchase",
+          "description": "Complete 305W kit with all cables, fuses, and mounting hardware"
+        },
+        {
+          "name": "The Van Conversion - Best Solar Panels 2025",
+          "url": "https://www.thevanconversion.com/post/the-best-solar-panels-for-camper-van-systems",
+          "type": "info",
+          "description": "Comprehensive buying guide for camper van solar systems"
+        },
+        {
+          "name": "Better Mounts - Solar Panel Mounting Brackets",
+          "url": "https://www.bettermounts.com/shop/p/solar-panel-mounts-rv-van-boat-roof-set-of-4-6-or-8pcs",
+          "type": "purchase",
+          "description": "UV-stable ASA plastic mounts for aluminum-framed panels"
+        },
+        {
+          "name": "Victron Energy - Matching Solar Modules to MPPT",
+          "url": "https://www.victronenergy.com/blog/2014/03/28/matching-victron-energy-solar-modules-to-the-new-mppt-charge-regulators/",
+          "type": "info",
+          "description": "Technical guide for optimizing solar panel and controller matching"
+        }
+      ],
+      "image_suggestions": [
+        "Motorhome roof layout showing optimal solar panel placement",
+        "Photo of 305W solar panel with mounting brackets installed",
+        "Wiring diagram: Solar panels → Entry gland → MPPT controller → Battery",
+        "Comparison: Generator vs Solar system (cost, noise, maintenance, lifespan)"
+      ],
+      "extra_info": "Solar panels eliminate generator noise and fuel costs while providing silent, clean power. A 305W panel is often the largest that fits between roof features (vents, AC units, antennas). For maximum output, install multiple panels: 2x 200W or 3x 150W can provide 400-600W total capacity. Essential components: UV-resistant mounting brackets (avoid drilling when possible), waterproof entry gland for roof penetration, MPPT charge controller (Victron, Renogy), and appropriate gauge cables. Expected output: 300W panel produces approximately 1.2-1.8 kWh per day in good conditions, sufficient to offset refrigerator and basic loads."
+    },
+    {
+      "guide_id": "guide-022-001",
+      "title": "Battery Disconnect Switch Installation and Safety",
+      "references": [
+        {
+          "name": "RecPro RV Battery Disconnect Switch",
+          "url": "https://recpro.com/rv-battery-disconnect-switch/",
+          "type": "purchase",
+          "description": "Heavy duty disconnect with removable panels (275A continuous, 1250A cranking)"
+        },
+        {
+          "name": "Nilight Battery Disconnect Switch on Amazon",
+          "url": "https://us.amazon.com/Nilight-Waterproof-Disconnect-Isolator-Warranty/dp/B07T288VN8",
+          "type": "purchase",
+          "description": "Waterproof heavy duty switch (200A continuous, 300A intermittent)"
+        },
+        {
+          "name": "Kohree Battery Disconnect Switch",
+          "url": "https://www.kohree.com/products/battery-disconnect-switch",
+          "type": "purchase",
+          "description": "275A operating current, 1250A momentary, 10mm stud diameter"
+        }
+      ],
+      "image_suggestions": [
+        "Installation diagram: Panel-mounted disconnect vs terminal-mounted switch",
+        "Photo of heavy-duty disconnect switch installed in control panel",
+        "Wiring diagram showing mega-fuse backup near battery terminals",
+        "Comparison: Mechanical switch vs Quick disconnect (pros and cons)"
+      ],
+      "extra_info": "Battery disconnect switches prevent parasitic drain during storage and provide emergency shutoff capability. Three main types: 1) Mechanical switches on battery terminal (simple, reliable), 2) Quick disconnects (convenient but can bend/fail), 3) Panel-mounted heavy-duty switch (best accessibility). Recommended approach: Install main disconnect in accessible control panel (275A+ rating) plus mega-fuse near battery as backup. Proper sizing critical: 100A minimum for small systems, 200-275A for systems with inverters. Always disconnect negative terminal first when working on electrical systems."
+    },
+    {
+      "guide_id": "guide-024-003",
+      "title": "Vehicle Leveling and Stabilization Systems",
+      "references": [
+        {
+          "name": "LevelMateMAX Wireless Vehicle Leveling System",
+          "url": "https://levelmate.com/products/levelmatemax-wireless-vehicle-leveling-system",
+          "type": "purchase",
+          "description": "Top-tier gyroscope leveling system with Level-On-The-Go feature ($150)"
+        },
+        {
+          "name": "LevelMateMAX on Amazon",
+          "url": "https://www.amazon.com/LogicBlue-Technology-LevelMateMAX-Bluetooth-Effortless/dp/B0DG33JYTK",
+          "type": "purchase",
+          "description": "Available with free delivery, Made in USA"
+        },
+        {
+          "name": "Stress Less Camping - LevelMateMAX Review",
+          "url": "https://www.stresslesscamping.com/blog/levelmatemax",
+          "type": "info",
+          "description": "Detailed review of LevelMateMAX system features and benefits"
+        }
+      ],
+      "image_suggestions": [
+        "Photo of LevelMateMAX device installed on motorhome",
+        "Screenshot of LevelMate app showing real-time leveling information",
+        "Diagram showing how truck-based motorhomes have separate cab and living area leveling needs",
+        "Photo of leveling blocks/ramps under motorhome wheels"
+      ],
+      "extra_info": "The LevelMateMAX uses advanced gyroscope technology to provide real-time leveling information even while the vehicle is moving, allowing drivers to find the flattest parking spot. Key feature: calculates exact height adjustment needed per wheel in real-time. Particularly valuable for truck-based motorhomes where the cab and living quarters are separate units connected by flexible chassis - you can check leveling from the cab via smartphone before getting out. Operates in extreme temperatures (-40°F to 185°F). Alternative: traditional bubble levels and manual leveling blocks/ramps."
+    },
+    {
+      "guide_id": "guide-025-003",
+      "title": "Gray Water Management in Cold Climate Travel",
+      "references": [],
+      "image_suggestions": [
+        "Diagram showing gray water tank heating strategies",
+        "Photo of gray water discharge outlet at rear bumper",
+        "Temperature chart showing when gray water freezing becomes a risk",
+        "Illustration of insulated fresh water system vs exposed gray water system"
+      ],
+      "extra_info": "Cold weather gray water management requires proactive strategies to prevent freezing. Best practices: 1) Pour hot water into gray tank in evening (instead of morning showers) to maintain temperature overnight, 2) Use diesel heating to warm water, 3) In extreme cold, keep gray valve open (non-legal in some areas but prevents tank freezing - wastewater drains directly), 4) Ensure fresh water tanks are in heated/insulated areas. Gray water discharge outlets typically located at rear bumper. Legal considerations: Gray water disposal regulations vary by country - some allow roadside disposal, others require designated dump stations. Always check local regulations."
+    }
+  ],
+  "metadata": {
+    "sources_searched": [
+      "Product retailers (Amazon, specialized RV/motorhome stores)",
+      "Official manufacturer websites (Victron, Eberspächer, Indel B, LiTime, Renogy)",
+      "Informational resources (Rolling Bothy, Wandering Bird, VanConverts)",
+      "Mobile apps (Park4Night, iOverlander)",
+      "Technical guides and review sites"
+    ],
+    "focus_areas": [
+      "Practical purchasing links for equipment and products",
+      "Official manufacturer resources and technical documentation",
+      "Educational content from trusted motorhome/RV communities",
+      "Mobile apps for travelers",
+      "Cost-effective alternatives and budget options"
+    ],
+    "notes": "Enrichments focus on actionable resources that motorhome travelers can immediately use. All URLs are real and verified through web search. Product recommendations include multiple price points and availability in both US and European markets where applicable."
+  }
+}

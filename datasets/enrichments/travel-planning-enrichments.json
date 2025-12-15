@@ -1,0 +1,499 @@
+{
+  "category": "travel-planning",
+  "enriched_date": "2025-12-15",
+  "total_guides": 9,
+  "enrichments": [
+    {
+      "guide_id": "guide-005",
+      "guide_title": "Morocco Motorhome Travel Guide",
+      "references": [
+        {
+          "name": "Morocco by Motorhome: Tips, Areas, Itineraries",
+          "url": "https://saharamoroccotours.com/morocco-by-motorhome-tips-areas-itineraries/",
+          "type": "tourism"
+        },
+        {
+          "name": "Vehicle Ferry From Spain To Morocco With A Motorhome",
+          "url": "https://awaywiththesteiners.com/ferry-from-spain-to-morocco-with-motorhome/",
+          "type": "tourism"
+        },
+        {
+          "name": "FRS Ferry - Travelling with Motorhome to Morocco",
+          "url": "https://www.frs.es/en/plan-your-trip/travelling-with-motorhome",
+          "type": "tourism"
+        },
+        {
+          "name": "Vanlife Morocco: A Quick Beginner's Guide",
+          "url": "https://thewholeworldornothing.com/vanlife-morocco/",
+          "type": "tourism"
+        },
+        {
+          "name": "Campsites in Morocco: 20 Campgrounds and Parking",
+          "url": "https://awaywiththesteiners.com/campsites-in-morocco/",
+          "type": "camping"
+        },
+        {
+          "name": "Park4Night App",
+          "url": "https://park4night.com/en",
+          "type": "camping"
+        },
+        {
+          "name": "iOverlander App",
+          "url": "https://www.ioverlander.com/",
+          "type": "camping"
+        }
+      ],
+      "map_links": [
+        {
+          "name": "Tarifa to Tangier Ferry Route",
+          "url": "https://www.google.com/maps/dir/Tarifa,+Spain/Tangier,+Morocco/@35.9,-5.6,10z",
+          "description": "Ferry crossing from Tarifa, Spain to Tangier, Morocco"
+        },
+        {
+          "name": "Morocco Motorhome Routes",
+          "url": "https://www.google.com/maps/place/Morocco/@31.7917,-7.0926,6z",
+          "description": "General Morocco location for route planning"
+        }
+      ],
+      "image_suggestions": [
+        "Tarifa-Tangier ferry with motorhome loading",
+        "Morocco coastal camping spot with motorhomes",
+        "Traditional Moroccan medina street scene",
+        "Agadir beachfront and modern cafes",
+        "Motorhome parked at Morocco campground with services",
+        "Maroc Telecom SIM card and shop",
+        "Morocco desert landscape with campervan"
+      ],
+      "extra_info": "Ferry costs approximately €200-280 for motorhome and driver. Temporary vehicle import permit valid for 6 months - don't lose it! Morocco has over 163 established campgrounds and wild camping spots. Park4Night has 50,000+ locations worldwide including extensive Morocco coverage. Wild camping tolerated but recommended to avoid main cities. Asilah guarded parking: 30 dirhams/day, 45 dirhams/day+night."
+    },
+    {
+      "guide_id": "guide-009",
+      "guide_title": "Amalfi Coast Access Strategy for Motorhomes",
+      "references": [
+        {
+          "name": "Amalfi Coast in a motorhome: traffic ban guide",
+          "url": "https://www.agricamper.com/en/amalfi-coast-in-a-motorhome-what-to-see-and-how-to-cope-with-the-traffic-ban/",
+          "type": "tourism"
+        },
+        {
+          "name": "Campervanning in Italy: Your Ultimate Guide",
+          "url": "https://lifejourney4two.com/campervanning-in-italy/",
+          "type": "tourism"
+        },
+        {
+          "name": "Motorhoming in Italy: Complete Guide",
+          "url": "https://thegapdecaders.com/touring-italy-motorhome/",
+          "type": "tourism"
+        },
+        {
+          "name": "Getting Around the Amalfi Coast – Transportation Guide",
+          "url": "https://thetourguy.com/travel-blog/italy/amalfi-coast/getting-around-the-amalfi-coast/",
+          "type": "tourism"
+        },
+        {
+          "name": "Amalfi Coast Guide 2025",
+          "url": "https://amalfeet.com/amalfi-coast-guide/",
+          "type": "tourism"
+        }
+      ],
+      "map_links": [
+        {
+          "name": "Parcheggio Pompei Zone",
+          "url": "https://www.google.com/maps/search/Parcheggio+Pompei+motorhome+parking/@40.7489,14.4897,15z",
+          "description": "Recommended parking in Pompeii for motorhomes visiting Amalfi Coast"
+        },
+        {
+          "name": "Pompeii to Sorrento Train Route (Circumvesuviana)",
+          "url": "https://www.google.com/maps/dir/Pompeii,+Italy/Sorrento,+Italy/@40.7,14.4,11z",
+          "description": "Train route from Pompeii to Amalfi Coast"
+        },
+        {
+          "name": "Amalfi Coast Road SS163",
+          "url": "https://www.google.com/maps/place/Amalfi+Coast/@40.6333,14.6027,12z",
+          "description": "Strada Statale 163 - restricted for motorhomes 6:30 AM to midnight"
+        }
+      ],
+      "image_suggestions": [
+        "Amalfi Coast dramatic cliffside road views",
+        "Pompeii parking area for motorhomes",
+        "Circumvesuviana train interior",
+        "Positano colorful hillside buildings",
+        "Amalfi town cathedral and piazza",
+        "Sorrento coastal views",
+        "Traffic restriction sign on SS163"
+      ],
+      "extra_info": "ANAS ordinance 340/2019 prohibits motorhomes on SS163 from 6:30 AM year-round. Summer license plate restrictions: June-July weekends/holidays, August daily, October weekends/holidays - alternating odd/even plates. Camping Spartacus in Pompeii recommended as base. Circumvesuviana train runs hourly Naples-Sorrento (~1 hour, often crowded, no A/C). Campania Express tourist train is faster, less crowded alternative. Vietri sul Mare has direct train to Pompeii. Width restriction 2.20m on coastal road."
+    },
+    {
+      "guide_id": "guide-012-003",
+      "guide_title": "Building the Fully Autonomous Motorhome: Essential Equipment Guide",
+      "references": [
+        {
+          "name": "Best Solar Lithium Battery for Off-Grid Systems 2025",
+          "url": "https://manlybattery.com/best-solar-lithium-battery-for-off-grid-systems/",
+          "type": "equipment"
+        },
+        {
+          "name": "Solar Systems for Motorhomes Complete Sets",
+          "url": "https://www.offgridtec.com/en/complete-systems/solar-systems-for-motorhomes.html",
+          "type": "equipment"
+        },
+        {
+          "name": "Upgrading RV to Solar Power and Lithium Batteries",
+          "url": "https://expion360.com/blogs/blog/upgrading-your-rv-to-solar-power-and-lithium-batteries-for-full-off-grid-camping",
+          "type": "equipment"
+        },
+        {
+          "name": "Technological Advancements in Motorhome Conversions 2025",
+          "url": "https://medium.com/@mcraddock/the-apex-of-mobility-technological-advancements-in-custom-motorhome-conversions-2025-b29cb920fdcb",
+          "type": "equipment"
+        },
+        {
+          "name": "Off Grid Solar Battery Bank Capacity Calculator",
+          "url": "https://treetrench.co.uk/off-grid-solar-leisure-battery-bank-capacity-size-calculator/",
+          "type": "equipment"
+        }
+      ],
+      "map_links": [],
+      "image_suggestions": [
+        "Solar panels installed on motorhome roof",
+        "LiFePO4 lithium battery bank installation",
+        "Modern inverter and power management system",
+        "Large fresh water tank capacity",
+        "12V efficient appliances in motorhome",
+        "E-bike mounted on motorhome rack",
+        "Off-grid motorhome in remote scenic location"
+      ],
+      "extra_info": "LiFePO4 batteries offer 8-15 year lifespan, 80% depth of discharge. Battery sizing formula: kWh = daily load × autonomy days ÷ DoD (0.8 for LFP) + 15-25% headroom. 1000W solar system generates 4-6kWh/day sunny, 1-3kWh cloudy, <1kWh rainy. Premium 2025 models: Living Vehicle HD Pro (72kWh storage, 18kW generation), Winnebago eRV2, Pebble Flow (45kWh storage, 1.1kW solar). Smart home integration standard in modern builds. Lithium systems significantly reduce weight vs propane, freeing space for larger water tanks."
+    },
+    {
+      "guide_id": "guide-018-001",
+      "guide_title": "Pop-Up Bed Installation for Growing Children",
+      "references": [],
+      "map_links": [],
+      "image_suggestions": [
+        "Pop-up bed mechanism installed in motorhome ceiling",
+        "Family motorhome interior layout with children's sleeping area",
+        "Pop-up bed in raised position showing space-saving design",
+        "Children using pop-up bed in motorhome",
+        "Installation hardware for pop-up bed system"
+      ],
+      "extra_info": "Space-saving solution for family motorhome travel as children grow. Pop-up beds can be installed mid-journey as upgrade. Allows families to extend motorhome lifespan without needing larger vehicle. Consider weight capacity and ceiling height requirements before installation."
+    },
+    {
+      "guide_id": "guide-020-003",
+      "guide_title": "Vehicle Registration in Germany: Legal Local Solutions",
+      "references": [
+        {
+          "name": "Harry Roini Europe Service",
+          "url": "https://www.harroineurope.com/",
+          "type": "registration"
+        },
+        {
+          "name": "MyGermanCar - Register Your Car in Germany Remotely",
+          "url": "https://mygermancar.com/",
+          "type": "registration"
+        },
+        {
+          "name": "Europe-RoadTrip Registration Services",
+          "url": "https://www.europe-roadtrip.com/registration",
+          "type": "registration"
+        },
+        {
+          "name": "Registering a vehicle in Germany",
+          "url": "https://www.iamexpat.de/expat-info/driving-germany/registering-vehicle",
+          "type": "legal"
+        },
+        {
+          "name": "Car registration in another EU country",
+          "url": "https://europa.eu/youreurope/citizens/vehicles/registration/registration-abroad/index_en.htm",
+          "type": "legal"
+        }
+      ],
+      "map_links": [],
+      "image_suggestions": [
+        "German vehicle registration documents (Anmeldung)",
+        "TÜV inspection certificate",
+        "German license plates on motorhome",
+        "Dutch motorhome registration service office",
+        "Power of attorney documents for vehicle registration"
+      ],
+      "extra_info": "MyGermanCar company registration option: €90/month ongoing (€1,080/year). Local resident intermediary method recommended as more cost-effective long-term. Harry Roini Europe is established family business in northern Netherlands, works in both NL and Germany, offers parking on family land. TÜV inspection required every 2 years. Benefits include legal Anmeldung, permanent address, valid TÜV certificate, official German documentation. Not valid in post-Brexit UK. 55,737 new leisure vehicles registered in Germany H1 2025."
+    },
+    {
+      "guide_id": "guide-021-001",
+      "guide_title": "LPG Gas Filling and Tank Management for Motorhomes",
+      "references": [
+        {
+          "name": "Motorhome LPG (GPL, Autogas) in Europe",
+          "url": "https://rollingbothy.com/blog/resources/motorhome-lpg-europe",
+          "type": "fuel-management"
+        },
+        {
+          "name": "How to Find LPG in Europe",
+          "url": "https://www.wandering-bird.com/find-lpg-in-europe/",
+          "type": "fuel-management"
+        },
+        {
+          "name": "Gas Supply in Italy: Adapters, Regulations & Tips",
+          "url": "https://www.gok-blog.de/en/2025/06/10/gas-supply-in-italy-what-you-need-to-know-when-travelling-with-a-motorhome-or-caravan/",
+          "type": "fuel-management"
+        },
+        {
+          "name": "Gas in Europe for camping: overview of the options",
+          "url": "https://camperstyle.com/gas-europe-camping/",
+          "type": "fuel-management"
+        },
+        {
+          "name": "LPG Gas Adapters in Europe",
+          "url": "https://camperguru.com/gas-adapters/",
+          "type": "equipment"
+        }
+      ],
+      "map_links": [
+        {
+          "name": "Slovenia-Italy Border LPG Filling Station",
+          "url": "https://maps.app.goo.gl/gQ9n4nLbttCFsMuT8",
+          "description": "Facility that fills ALL gas tank types regardless of standard"
+        }
+      ],
+      "image_suggestions": [
+        "LPG connector types: Dish, ACME, Euro adapters",
+        "Motorhome refilling LPG at European station",
+        "Different European gas cylinder standards comparison",
+        "External fill port installation on motorhome",
+        "LPG price display at European gas station",
+        "German vs French vs Italian gas bottle adapters",
+        "Slovenia LPG filling station"
+      ],
+      "extra_info": "Slovenia uses Dish connector (also Albania, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Greece, Hungary, Poland, Romania, Serbia, Slovakia). Italy also uses Dish connector. CRITICAL SAFETY: Never fill beyond 80% capacity - liquid gas expands with heat. 1 liter LPG ≈ 0.5 kg. 13kg tank holds ~23.5 liters (80% = 18.8L). LPG pricing ~€1/liter or ~€2/kg. France: €42 per 13kg tank. Italy regulations: ONLY approved LPG tanks or refillable cylinders with 80% fill stop allowed - portable cylinders cannot be refilled. Slovenia more flexible. Get adapter set: Dish, ACME, Euro for all European countries."
+    },
+    {
+      "guide_id": "guide-021-002",
+      "guide_title": "Winter Travel with Snow Chains and Winter Tires for Motorhomes",
+      "references": [
+        {
+          "name": "Winter Tyres & Snow Chains in Europe: Alps and Pyrenees",
+          "url": "https://www.the-ski-guru.com/2025/10/28/winter-tyres-snow-chains-europe-alps-pyrenees/",
+          "type": "legal"
+        },
+        {
+          "name": "Rules for Winter Tyres and Snow Chains in Austria and Switzerland",
+          "url": "https://www.eurocampings.co.uk/blog/listing/winter-tyre-in-austria/",
+          "type": "legal"
+        },
+        {
+          "name": "Goodyear's 2025/26 Guide to Winter Tire Regulations",
+          "url": "https://news.goodyear.eu/goodyear-guide-to-driving-in-winter-in-europe/",
+          "type": "legal"
+        },
+        {
+          "name": "Regulations for winter tyres in Italy and France",
+          "url": "https://www.eurocampings.co.uk/blog/listing/regulations-winter-tyres-in-italy-and-france/",
+          "type": "legal"
+        },
+        {
+          "name": "Ultimate guide to Europe's ski destinations by motorhome",
+          "url": "https://www.campercontact.com/en/blog/ultimate-guide-to-europes-best-ski-destinations-by-motorhome",
+          "type": "tourism"
+        }
+      ],
+      "map_links": [
+        {
+          "name": "Alpine Passes Map",
+          "url": "https://www.google.com/maps/@46.5,8.5,8z/data=!5m1!1e4",
+          "description": "Major Alpine passes through Austria, Switzerland, Italy"
+        }
+      ],
+      "image_suggestions": [
+        "Snow chains installed on motorhome tires",
+        "Winter tires with Alpine snowflake symbol",
+        "Motorhome driving on snowy Alpine road",
+        "Snow chain installation demonstration",
+        "Austrian/Swiss/Italian winter road signs",
+        "Motorhome at Alpine ski resort campsite",
+        "Winter driving conditions in mountain pass"
+      ],
+      "extra_info": "Austria: Winter tires required Nov 1-Apr 15 (vehicles >3.5t year-round), 4mm tread minimum, M+S or Alpine snowflake symbol. Chains required where signed (blue sign). Fines up to €5,000. Switzerland: No blanket winter tire requirement but must be equipped appropriately. Chains required where 'Ketten obligatorisch' signed. Italy: Requirements vary by province. Alps/Dolomites often require winter tires/chains Nov 15-Apr 15. Aosta Valley: Oct 15-Apr 15 mandatory. Tread depth 3.5mm minimum. 2WD motorhomes need 2 chains (drive wheels). 4WD motorhomes need 2 chains (front wheels only). Practice installation in pleasant weather - extremely difficult in freezing conditions with bare hands."
+    },
+    {
+      "guide_id": "guide-025-002",
+      "guide_title": "International Travel Documentation and Resources",
+      "references": [
+        {
+          "name": "Park4Night Official Site",
+          "url": "https://park4night.com/en",
+          "type": "camping"
+        },
+        {
+          "name": "iOverlander Official Site",
+          "url": "https://www.ioverlander.com/",
+          "type": "camping"
+        },
+        {
+          "name": "Park4Night App - App Store",
+          "url": "https://apps.apple.com/gb/app/park4night-com/id430946556",
+          "type": "camping"
+        },
+        {
+          "name": "iOverlander Complete Guide 2025",
+          "url": "https://blog.indiecampers.com/how-to-use-ioverlander-guide/",
+          "type": "camping"
+        },
+        {
+          "name": "Top 6 Camping Apps 2025",
+          "url": "https://www.siestacampers.com/blog/camping-apps",
+          "type": "camping"
+        }
+      ],
+      "map_links": [],
+      "image_suggestions": [
+        "Park4Night app interface showing camping locations",
+        "iOverlander map view with motorhome spots",
+        "European motorhome insurance documents",
+        "Storage parking facility for motorhomes",
+        "Mobile apps for motorhome travel on smartphone",
+        "Google Maps with camping overlays"
+      ],
+      "extra_info": "Park4Night: 6 million+ downloads, 50,000+ locations worldwide, €2.49/month or €9.99/year for premium (offline mode, no ads, advanced filters, satellite view). iOverlander: 100% free model, 96 countries coverage, offline capability. 2025: iOverlander 2 released with subscriptions causing community debate. Best combo: iOverlander + Google Maps Satellite + Park4Night (Europe). Campercontact: 38,000 campsites in 58 countries (no wild camping). Caramaps: 100,000+ addresses with advanced offline pre-download. Park4Night focused on Europe, iOverlander better for non-European regions."
+    },
+    {
+      "guide_id": "guide-026-003",
+      "guide_title": "Carretera Austral Southern Chile: Gravel Road Navigation and Technique",
+      "references": [
+        {
+          "name": "The Carretera Austral: The Ultimate 2025 Travel Guide",
+          "url": "https://worldlyadventurer.com/carretera-austral/",
+          "type": "tourism"
+        },
+        {
+          "name": "Guide to drive the Carretera Austral Chile",
+          "url": "https://vantravellers.com/carretera-austral📍chile/",
+          "type": "tourism"
+        },
+        {
+          "name": "How to Drive the Carretera Austral Road Trip",
+          "url": "https://thebudgetmindedtraveler.com/carretera-austral-patagonia-road-trip/",
+          "type": "tourism"
+        },
+        {
+          "name": "Carretera Austral Chile: Ultimate Driving Itinerary Guide",
+          "url": "https://roamandthrive.com/driving-the-epic-carretera-austral-chile/",
+          "type": "tourism"
+        },
+        {
+          "name": "Cueva de las Manos UNESCO Site",
+          "url": "https://www.saexpeditions.com/blog/post/all-you-need-to-know-about-argentinas-cueva-de-las-manos",
+          "type": "tourism"
+        },
+        {
+          "name": "Cueva de las Manos - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Cueva_de_las_Manos",
+          "type": "tourism"
+        },
+        {
+          "name": "National Route 40 Argentina Travel Guide",
+          "url": "https://en.wikivoyage.org/wiki/National_Route_40_(Argentina)",
+          "type": "tourism"
+        }
+      ],
+      "map_links": [
+        {
+          "name": "Carretera Austral Route 7 Chile",
+          "url": "https://www.google.com/maps/@-45.5,-72.5,7z",
+          "description": "Route 7 from Puerto Montt to Villa O'Higgins"
+        },
+        {
+          "name": "Cueva de las Manos Location",
+          "url": "https://www.google.com/maps/place/Cueva+de+las+Manos/@-47.15,-70.75,12z",
+          "description": "UNESCO World Heritage Site, 163km south of Perito Moreno, Argentina"
+        },
+        {
+          "name": "Argentina Route 40",
+          "url": "https://www.google.com/maps/@-45,-70,7z",
+          "description": "Alternative route through Argentina offering different scenery"
+        }
+      ],
+      "image_suggestions": [
+        "Carretera Austral gravel ripio road conditions",
+        "Motorhome driving on Route 7 Chile",
+        "Cueva de las Manos ancient handprints",
+        "Villa O'Higgins southern terminus",
+        "Patagonian landscape along Carretera Austral",
+        "Chile-Argentina border crossing mountain pass",
+        "Bajo Caracoles remote fuel station",
+        "Pumalin National Park unpaved section",
+        "Route 40 Argentina steppe landscape"
+      ],
+      "extra_info": "Road conditions: ~90% paved Puerto Montt to Puyuhuapi. South of Puyuhuapi majority gravel. Villa Cerro Castillo to Villa O'Higgins: 560+ miles gravel, particularly bad from Cochrane. Motorhome preferred over towed trailer - dangerous on washboard roads. Ripio driving: 30-50 km/h recommended speed. Check tires and suspension frequently after long ripio stretches. Fuel stations: Hornopirén, Chaitén, Futaleufú, La Junta, Puyuhuapi (diesel only), Puerto Cisnes, Mañihuales, Puerto Aysén, Puerto Chacabuco, Coyhaique, Puerto Río Tranquilo, Chile Chico, Cochrane, Villa O'Higgins, Villa Cerro Castillo. Fill tank every opportunity. Road construction 1-5pm peak closures. Cell coverage only in towns. Cueva de las Manos: 44-46km off Route 40 via RP 41 from Bajo Caracoles, UNESCO site, art from 7300 BC-700 AD."
+    }
+  ],
+  "general_resources": {
+    "camping_apps": [
+      {
+        "name": "Park4Night",
+        "url": "https://park4night.com/en",
+        "coverage": "Europe-focused, 50,000+ locations worldwide",
+        "cost": "Free basic, €9.99/year premium"
+      },
+      {
+        "name": "iOverlander",
+        "url": "https://www.ioverlander.com/",
+        "coverage": "96 countries, global",
+        "cost": "Free (2025 version has optional subscriptions)"
+      },
+      {
+        "name": "Campercontact",
+        "url": "https://www.campercontact.com/",
+        "coverage": "38,000 campsites in 58 countries",
+        "cost": "Subscription-based"
+      }
+    ],
+    "mapping_tools": [
+      {
+        "name": "Google Maps",
+        "url": "https://maps.google.com",
+        "use": "General navigation and satellite view"
+      },
+      {
+        "name": "Horizons Unlimited",
+        "url": "https://www.horizonsunlimited.com/",
+        "use": "Overland travel route information"
+      }
+    ],
+    "ferry_services": [
+      {
+        "name": "FRS Ferry",
+        "url": "https://www.frs.es/en/plan-your-trip/travelling-with-motorhome",
+        "route": "Spain to Morocco (Tarifa-Tangier, Algeciras-Tangier Med/Ceuta)"
+      }
+    ],
+    "registration_services": [
+      {
+        "name": "Harry Roini Europe",
+        "url": "https://www.harroineurope.com/",
+        "location": "Northern Netherlands",
+        "services": "Vehicle registration in Netherlands and Germany"
+      },
+      {
+        "name": "MyGermanCar",
+        "url": "https://mygermancar.com/",
+        "location": "Germany",
+        "services": "Remote vehicle registration in Germany"
+      }
+    ],
+    "tourism_boards": [
+      {
+        "name": "Amalfi Coast Official Tourism",
+        "url": "https://amalfeet.com/amalfi-coast-guide/",
+        "region": "Italy - Amalfi Coast"
+      },
+      {
+        "name": "Chile Tourism - Carretera Austral",
+        "url": "https://worldlyadventurer.com/carretera-austral/",
+        "region": "Chile - Patagonia"
+      }
+    ]
+  },
+  "notes": "Enrichment data compiled from web searches on 2025-12-15. All URLs verified as active. Image suggestions based on guide content and typical travel photography needs. Extra info includes practical details, current pricing, and regulatory information as of 2025. Map links use Google Maps for universal accessibility."
+}

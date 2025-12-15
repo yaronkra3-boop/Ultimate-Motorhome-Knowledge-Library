@@ -38,7 +38,9 @@ export class DataLoader {
         }
 
         try {
-            const response = await fetch(this.dataPaths[category]);
+            // Add cache-busting parameter to force fresh data
+            const cacheBuster = `?v=${Date.now()}`;
+            const response = await fetch(this.dataPaths[category] + cacheBuster);
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }

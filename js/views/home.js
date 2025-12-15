@@ -1,4 +1,4 @@
-// Home View - Main landing page with category cards
+// Home View - Main landing page with category cards (shadcn style)
 export class HomeView {
     constructor(dataLoader) {
         this.dataLoader = dataLoader;
@@ -9,166 +9,80 @@ export class HomeView {
 
         return `
             <div class="home-container">
-                <header class="home-header">
-                    <h1 class="home-title">🚐 Ultimate Motorhome Knowledge Library</h1>
-                    <p class="home-subtitle">Your comprehensive guide to motorhome living, travel, and technical knowledge</p>
+                <!-- Hero Section -->
+                <section class="hero">
+                    <h1 class="hero-title">Ultimate Motorhome Knowledge Library</h1>
+                    <p class="hero-subtitle">Your comprehensive guide to motorhome living, travel, and technical knowledge</p>
 
+                    <!-- Stats Cards -->
                     <div class="stats-grid">
-                        <div class="stat-card">
-                            <span class="stat-number">${stats.totalLocations || 0}</span>
-                            <span class="stat-label">Locations</span>
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Locations</h3>
+                                <p class="card-description">${stats.totalLocations || 0}</p>
+                            </div>
                         </div>
-                        <div class="stat-card">
-                            <span class="stat-number">${stats.totalGuides || 0}</span>
-                            <span class="stat-label">Guides</span>
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Guides</h3>
+                                <p class="card-description">${stats.totalGuides || 0}</p>
+                            </div>
                         </div>
-                        <div class="stat-card">
-                            <span class="stat-number">${stats.totalRoutes || 0}</span>
-                            <span class="stat-label">Routes</span>
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Routes</h3>
+                                <p class="card-description">${stats.totalRoutes || 0}</p>
+                            </div>
                         </div>
-                        <div class="stat-card">
-                            <span class="stat-number">${stats.totalTips || 0}</span>
-                            <span class="stat-label">Tips</span>
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">Tips</h3>
+                                <p class="card-description">${stats.totalTips || 0}</p>
+                            </div>
                         </div>
                     </div>
-                </header>
+                </section>
 
-                <div class="categories-grid">
+                <!-- Categories -->
+                <section class="categories-grid">
                     ${await this.renderCategoryCards()}
-                </div>
+                </section>
             </div>
 
             <style>
                 .home-container {
-                    max-width: 1400px;
+                    max-width: 1280px;
                     margin: 0 auto;
                 }
 
-                .home-header {
+                .hero {
+                    padding: 4rem 0 3rem;
                     text-align: center;
-                    padding: 60px 20px;
                 }
 
-                .home-title {
-                    font-size: 3.5rem;
-                    margin-bottom: 20px;
-                    font-weight: 700;
-                    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+                .hero-title {
+                    font-size: 3rem;
+                    font-weight: 800;
+                    margin-bottom: 1rem;
+                    background: linear-gradient(135deg, hsl(var(--primary)) 0%, #764ba2 100%);
                     -webkit-background-clip: text;
                     -webkit-text-fill-color: transparent;
                     background-clip: text;
                 }
 
-                .home-subtitle {
-                    font-size: 1.3rem;
-                    color: #666;
-                    margin-bottom: 40px;
-                }
-
-                .stats-grid {
-                    display: flex;
-                    justify-content: center;
-                    gap: 30px;
-                    flex-wrap: wrap;
-                    margin-top: 40px;
-                }
-
-                .stat-card {
-                    background: white;
-                    padding: 25px 40px;
-                    border-radius: 15px;
-                    box-shadow: 0 5px 20px rgba(0,0,0,0.08);
-                    text-align: center;
-                }
-
-                .stat-number {
-                    font-size: 2.5rem;
-                    font-weight: 700;
-                    color: #667eea;
-                    display: block;
-                }
-
-                .stat-label {
-                    font-size: 1rem;
-                    color: #666;
-                }
-
-                .categories-grid {
-                    display: grid;
-                    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-                    gap: 30px;
-                    margin-top: 60px;
-                }
-
-                .category-card {
-                    background: white;
-                    border-radius: 20px;
-                    padding: 40px;
-                    box-shadow: 0 10px 40px rgba(0,0,0,0.08);
-                    transition: transform 0.3s ease, box-shadow 0.3s ease;
-                    cursor: pointer;
-                }
-
-                .category-card:hover {
-                    transform: translateY(-5px);
-                    box-shadow: 0 15px 50px rgba(0,0,0,0.12);
-                }
-
-                .category-icon {
-                    font-size: 3rem;
-                    margin-bottom: 20px;
-                    display: block;
-                }
-
-                .category-title {
-                    font-size: 1.8rem;
-                    font-weight: 700;
-                    margin-bottom: 15px;
-                    color: #667eea;
-                }
-
-                .category-description {
-                    color: #666;
-                    margin-bottom: 20px;
-                    font-size: 1.05rem;
-                    line-height: 1.6;
-                }
-
-                .category-stats {
-                    display: flex;
-                    gap: 20px;
-                    margin-top: 20px;
-                    padding-top: 20px;
-                    border-top: 1px solid #eee;
-                }
-
-                .category-stat {
-                    font-size: 0.9rem;
-                    color: #888;
-                }
-
-                .category-stat strong {
-                    color: #667eea;
-                    font-size: 1.2rem;
-                    display: block;
-                    margin-bottom: 3px;
+                .hero-subtitle {
+                    font-size: 1.25rem;
+                    color: hsl(var(--muted-foreground));
+                    margin-bottom: 2.5rem;
                 }
 
                 @media (max-width: 768px) {
-                    .home-title {
-                        font-size: 2.5rem;
+                    .hero-title {
+                        font-size: 2rem;
                     }
 
-                    .categories-grid {
-                        grid-template-columns: 1fr;
-                    }
-
-                    .stats-grid {
-                        gap: 15px;
-                    }
-
-                    .stat-card {
-                        padding: 15px 25px;
+                    .hero-subtitle {
+                        font-size: 1rem;
                     }
                 }
             </style>
@@ -211,19 +125,25 @@ export class HomeView {
         ];
 
         return categories.map(cat => `
-            <div class="category-card" onclick="window.location.hash='${cat.route}'">
-                <span class="category-icon">${cat.icon}</span>
-                <h2 class="category-title">${cat.title}</h2>
-                <p class="category-description">${cat.description}</p>
-                <div class="category-stats">
-                    ${cat.stats.map(s => `
-                        <div class="category-stat">
-                            <strong>${s.value}</strong>
-                            ${s.label}
+            <a href="#${cat.route}" class="category-card">
+                <div class="card">
+                    <div class="card-header" style="padding: 2rem;">
+                        <span class="category-icon">${cat.icon}</span>
+                        <h2 class="category-title">${cat.title}</h2>
+                        <p class="category-description">${cat.description}</p>
+                    </div>
+                    <div class="card-footer">
+                        <div class="category-stats">
+                            ${cat.stats.map(s => `
+                                <div class="category-stat">
+                                    <span class="stat-value">${s.value}</span>
+                                    <span class="stat-label">${s.label}</span>
+                                </div>
+                            `).join('')}
                         </div>
-                    `).join('')}
+                    </div>
                 </div>
-            </div>
+            </a>
         `).join('');
     }
 }

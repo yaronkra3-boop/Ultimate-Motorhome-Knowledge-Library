@@ -1,0 +1,499 @@
+{
+  "category": "equipment",
+  "enriched_date": "2025-12-15",
+  "enrichments": [
+    {
+      "guide_id": "guide-008-002",
+      "guide_title": "Intermarché Supermarket Chain - Motorhome Services",
+      "references": [
+        {
+          "name": "Intermarché Portugal Motorhome Locations",
+          "url": "https://www.intermarche.pt",
+          "type": "official",
+          "description": "Official Intermarché Portugal website with 60 motorhome-friendly parking locations"
+        },
+        {
+          "name": "AireCampingCar.com - Find Intermarché Locations",
+          "url": "https://en.airecampingcar.com/",
+          "type": "directory",
+          "description": "Comprehensive directory of motorhome stopovers throughout France including Intermarché locations"
+        },
+        {
+          "name": "Park4Night - Intermarché Service Areas",
+          "url": "https://park4night.com/",
+          "type": "directory",
+          "description": "User-contributed database of Intermarché motorhome service areas with reviews and amenities"
+        },
+        {
+          "name": "Réseau Aires Services",
+          "url": "https://reseauaireservices.com/en/",
+          "type": "directory",
+          "description": "Network of motorhome and van parks including Intermarché locations"
+        }
+      ],
+      "image_suggestions": [
+        "Intermarché motorhome parking area with service stations",
+        "Water refilling station at Intermarché",
+        "Electricity hookup points for motorhomes",
+        "Grey/black water disposal facilities",
+        "Example of Intermarché store with motorhome facilities"
+      ],
+      "extra_info": "Intermarché service areas typically cost €2 for tokens (purchased at store reception). Services include: free overnight parking, water refilling (10 minutes), electricity (1 hour), grey/black water disposal, laundry facilities, and car wash. Not all locations offer all services. Tokens not sold on Sundays/holidays at some locations. Available in France and Portugal."
+    },
+    {
+      "guide_id": "guide-013-002",
+      "guide_title": "LPG Bottle Refilling with Adapter Kit for European Travel",
+      "references": [
+        {
+          "name": "LPG GPL Complete European Adapter Set",
+          "url": "https://lpggpl.com/products/refill-any-lpg-bottle-in-all-of-europe-adaptor-set-for-autogas",
+          "type": "purchase",
+          "description": "Complete adapter kit with Acme, Dish, Bayonet, and Euro connectors for all European countries"
+        },
+        {
+          "name": "LPG Adapter - European Filling Adapters",
+          "url": "https://www.lpgadapter.com/",
+          "type": "purchase",
+          "description": "Specialist LPG shop offering motorhome propane bottle filling adapters for autogas stations"
+        },
+        {
+          "name": "LPG Shop UK - Safefill Adapters",
+          "url": "https://lpgshop.co.uk/motorhome-filling-adapters/",
+          "type": "purchase",
+          "description": "Safefill Bottle to All Europe LPG Filling Adapters covering all Europe and USA"
+        },
+        {
+          "name": "GAS IT 3 Part European Adapter Kit",
+          "url": "https://www.gasit.co.uk/gas-it-3-part-european-fill-point-adapter-kit.html",
+          "type": "purchase",
+          "description": "3-part adapter kit for European LPG filling points"
+        },
+        {
+          "name": "eBay LPG Adapter Sets",
+          "url": "https://www.ebay.com/itm/165607224589",
+          "type": "purchase",
+          "description": "LPG gas adaptors set to refill USA motorhome RV tanks anywhere in Europe"
+        },
+        {
+          "name": "Rolling Bothy - LPG in Europe Guide",
+          "url": "https://rollingbothy.com/blog/resources/motorhome-lpg-europe",
+          "type": "guide",
+          "description": "Comprehensive guide to motorhome LPG/GPL refilling across Europe"
+        }
+      ],
+      "image_suggestions": [
+        "LPG adapter kit with multiple connectors (Dish, Acme, Euro, Bayonet)",
+        "German gas bottle with adapter attached",
+        "Repsol gas station LPG pump (Spain)",
+        "Avia gas station LPG refilling point (France)",
+        "Step-by-step adapter connection diagram",
+        "Proper valve closing technique illustration"
+      ],
+      "extra_info": "Country-specific adapters: Spain/Portugal (Euro connector/Jumbo), Germany/Austria/Belgium (ACME), France/Italy/Austria (Dish connector). Many stations require attendant assistance. CRITICAL: Always close bottle valve BEFORE disconnecting from pump to prevent gas release. Refillable systems (Gaslow, Gasit, Safefill) simplify the process. Adapters typically cost £20-50 for complete sets."
+    },
+    {
+      "guide_id": "guide-015-003",
+      "guide_title": "Starlink Mini Satellite Internet: Temperature Limitations and Performance",
+      "references": [
+        {
+          "name": "Starlink Official - Roam Plans",
+          "url": "https://starlink.com/rv",
+          "type": "official",
+          "description": "Official Starlink Roam service plans for mobile RV and motorhome use"
+        },
+        {
+          "name": "Starlink Mini on Amazon (US)",
+          "url": "https://www.amazon.com/SpaceX-Starlink-Mini-Satellite-Dish/dp/B0DNDPFXGP",
+          "type": "purchase",
+          "description": "4th Gen Portable Antenna with high-speed internet kit for RV, camping, remote work"
+        },
+        {
+          "name": "Mobile Internet Resource Center - Starlink Guide",
+          "url": "https://www.rvmobileinternet.com/guides/starlink-rv-boat/",
+          "type": "guide",
+          "description": "Comprehensive guide to Starlink satellite internet for mobile RV and boat use"
+        },
+        {
+          "name": "Gear Musk - Starlink Mini Price Drop",
+          "url": "https://gearmusk.com/2025/11/11/starlink-mini-dish-229/",
+          "type": "news",
+          "description": "SpaceX drops Starlink Mini dish to $229 - lowest price ever for portable satellite internet"
+        },
+        {
+          "name": "Satellite Internet - Starlink Plans & Pricing 2025",
+          "url": "https://www.satelliteinternet.com/providers/starlink/",
+          "type": "guide",
+          "description": "Complete guide to Starlink internet plans, pricing, and speeds for 2025"
+        }
+      ],
+      "image_suggestions": [
+        "Starlink Mini dish installed on motorhome roof",
+        "Temperature warning message on Starlink app showing 50°C limit",
+        "Starlink Mini in backpack showing portability",
+        "Proper shaded installation to prevent overheating",
+        "Starlink Mini with tripod stand setup",
+        "Size comparison showing compact design"
+      ],
+      "extra_info": "Current pricing: $229 for hardware (down from $299), service plans with pause/unpause capability. Max download speeds over 100 Mbps, suitable for 100-150 sq ft spaces. Weight: under 22 pounds. CRITICAL: 50°C (122°F) max operating temperature - automatic disconnect when exceeded. Not suitable for unmanaged sun exposure in Mediterranean summer. Built-in WiFi router, DC power input, supports in-motion use. Standby Mode allows emergency messaging. Best used with shading and ventilation in hot climates."
+    },
+    {
+      "guide_id": "guide-016-004",
+      "guide_title": "Air Conditioning in Motorhomes: What Works and What Doesn't",
+      "references": [
+        {
+          "name": "Dometic Air Conditioners Official",
+          "url": "https://www.dometic.com/en-us/category/rv-and-van/rv-air-conditioners",
+          "type": "official",
+          "description": "Official Dometic RV air conditioners with advanced cooling technology"
+        },
+        {
+          "name": "Amazon - Dometic RV Air Conditioners",
+          "url": "https://www.amazon.com/RV-Air-Conditioners-Dometic/s?keywords=RV+Air+Conditioners&rh=n:3147787011,p_89:Dometic",
+          "type": "purchase",
+          "description": "Dometic RV air conditioners ranging from $600 to $1,400+"
+        },
+        {
+          "name": "United RV Parts - Dometic Air Conditioners",
+          "url": "https://unitedrvparts.com/collections/dometic-rv-air-conditioners",
+          "type": "purchase",
+          "description": "Selection of Dometic rooftop RV air conditioners"
+        },
+        {
+          "name": "Cool My Camper - Motorhome AC Systems",
+          "url": "https://www.coolmycamper.com/",
+          "type": "purchase",
+          "description": "Cost-effective split pack AC system for campervans and motorhomes (450W, 1.88 amps)"
+        },
+        {
+          "name": "Zero Breeze - Portable AC for RVs",
+          "url": "https://www.zerobreeze.com/collections/portable-ac-for-rvs",
+          "type": "purchase",
+          "description": "Zero Breeze Mark 3 portable AC - 5,280 BTU, battery-powered, solar-compatible"
+        }
+      ],
+      "image_suggestions": [
+        "Dometic rooftop AC unit installed on motorhome",
+        "Small 3000 BTU portable AC (showing inadequate size)",
+        "Proper 7000+ BTU AC unit comparison",
+        "Multiple small fans distributed in motorhome interior",
+        "Door insulation foam layer installation",
+        "Temperature comparison: AC vs fan cooling"
+      ],
+      "extra_info": "AVOID 3000 BTU portable units - completely insufficient for motorhomes. Minimum recommended: 7000-9000 BTU for typical 6m motorhome. Dometic products start at ~10,500 BTU. Alternative: multiple small powerful fans (more efficient, lower power consumption). Door insulation (foam layer like yoga mat) significantly improves AC efficiency. Heating works excellently in motorhomes even with small diesel heaters. Power consumption is critical constraint for off-grid living. Zero Breeze Mark 3 (5,280 BTU, 500W) offers solar-powered option."
+    },
+    {
+      "guide_id": "guide-017-005",
+      "guide_title": "Solar Panel Installation and Battery System for Motorhomes",
+      "references": [
+        {
+          "name": "Renogy 200Ah LiFePO4 Battery - Official",
+          "url": "https://www.renogy.com/products/12-8v-200ah-lifepo4-battery-w-low-temperature-protection",
+          "type": "official",
+          "description": "Renogy Core 12V 200Ah lithium battery with low-temperature protection, 5000 cycles"
+        },
+        {
+          "name": "Renogy 2000W Pure Sine Wave Inverter",
+          "url": "https://www.renogy.com/products/2000w-12v-pure-sine-wave-inverter",
+          "type": "official",
+          "description": "2000W 12V inverter with 90% efficiency, 4000W peak surge, advanced cooling"
+        },
+        {
+          "name": "Amazon - Renogy 200Ah Lithium Battery",
+          "url": "https://www.amazon.com/Renogy-12V-200Ah-Bluetooth-Off-Grid/dp/B09GK8DWQY",
+          "type": "purchase",
+          "description": "Renogy 12V 200Ah LiFePO4 battery with Bluetooth, 2000+ cycles, perfect for RV"
+        },
+        {
+          "name": "Renogy 2kWh Portable Backup System",
+          "url": "https://eu.renogy.com/products/2kwh-portable-home-backup-system-400w-portable-solar-panel-12v-200ah-pro-lithium-battery-2000w-pure-sine-wave-invterter",
+          "type": "purchase",
+          "description": "Complete system: 400W solar panel, 200Ah battery, 2000W inverter, 40A MPPT controller"
+        },
+        {
+          "name": "My Generator AU - Renogy Pioneer Bundle",
+          "url": "https://www.mygenerator.com.au/product/renogy-200ah-lithium-battery-charger-and-inverter-bundle",
+          "type": "purchase",
+          "description": "Pioneer 200Ah lithium battery, charger and inverter bundle for off-grid adventures"
+        }
+      ],
+      "image_suggestions": [
+        "Solar panels installed on motorhome roof with proper spacing",
+        "Renogy 200Ah lithium battery bank setup",
+        "200 amp alternator installation",
+        "Complete solar system wiring diagram",
+        "Inverter and battery compartment layout",
+        "8000 BTU AC unit powered by battery system"
+      ],
+      "extra_info": "Ron Kellner's proven system: 500 amp battery bank + 200 amp alternator. Renogy 200Ah Pro features: Bluetooth monitoring, IP67 waterproof, self-heating for sub-zero temps, 5000 cycles at 80% DOD. Can run 8000 BTU AC (1200W) without diesel engine. 2000W inverter sustains load until battery depletion with 90% efficiency. Complete 2kWh system includes 400W solar, 200Ah battery, 2000W inverter, 40A MPPT controller. Batteries support parallel connection (up to 8 units). Independent wiring from vehicle electrical system recommended for safety and easier troubleshooting."
+    },
+    {
+      "guide_id": "guide-018-002",
+      "guide_title": "Mouse Prevention and Odor Removal After Vehicle Storage",
+      "references": [
+        {
+          "name": "Amazon - Ultrasonic Mouse Repellent (360° Plug-in)",
+          "url": "https://www.amazon.com/Repellent-Ultrasonic-Repeller-Deterrent-Warehouse/dp/B0F93HHSXY",
+          "type": "purchase",
+          "description": "360° coverage ultrasonic repellent for RVs, garages, warehouses - up to 3000 sq ft"
+        },
+        {
+          "name": "Amazon - Angveirt Battery-Operated Rodent Repellent",
+          "url": "https://www.amazon.com/Angveirt-Repellent-Electronic-Ultrasonic-Deterrent/dp/B08251FS86",
+          "type": "purchase",
+          "description": "Battery-operated ultrasonic repellent for car engines, RVs, attics - 65 days battery life"
+        },
+        {
+          "name": "Amazon - Under Hood Rodent Repeller with Strobe Light",
+          "url": "https://www.amazon.com/Rodent-Repellent-Engines-Deterrent-Squirrel/dp/B0F5MM6LT7",
+          "type": "purchase",
+          "description": "Triple power options (batteries/USB/hood connection), smart vibration sensing auto on/off"
+        },
+        {
+          "name": "Amazon - 2025 Upgraded Mice Repellent with LED Strobe",
+          "url": "https://www.amazon.com/Repellent-Upgraded-Ultrasonic-Electronic-Deterrent/dp/B0FR7CQCH7",
+          "type": "purchase",
+          "description": "Plug-in ultrasonic repellent with LED strobe lights, effective up to 1076 sq ft"
+        },
+        {
+          "name": "RV Geeks - Best Mouse Repellents for RVs",
+          "url": "https://www.thervgeeks.com/best-mouse-repellent/",
+          "type": "guide",
+          "description": "Comprehensive guide to keeping rodents out of RVs with product recommendations"
+        }
+      ],
+      "image_suggestions": [
+        "Ultrasonic mouse repellent device installed in motorhome",
+        "Under-hood rodent repeller with strobe light",
+        "Mouse droppings identification guide",
+        "Proper ventilation setup for odor removal",
+        "Engine compartment protection installation",
+        "Battery-operated repellent placement diagram"
+      ],
+      "extra_info": "Mice pose serious health hazards (hantavirus) and can cause thousands in damage by chewing wires. Ultrasonic repellents: safe for humans, cats, dogs; may affect hamsters, guinea pigs, rabbits. Coverage: 1076-3000 sq ft depending on model. Power options: plug-in (110V), battery-operated (65+ days), USB, or under-hood connection. Features: LED strobe lights, auto on/off with vibration sensing, no kills/traps/poisons. CRITICAL for long-term storage (6+ months). Complete ventilation required for odor removal. Consider professional pest control for severe infestations."
+    },
+    {
+      "guide_id": "guide-019-004",
+      "guide_title": "Water Tank Heating Systems for Motorhomes",
+      "references": [
+        {
+          "name": "ThermaHeat Tank Heating Pad with Thermostat (18x12)",
+          "url": "https://nomadicsupply.com/thermaheat-camper-van-water-tank-heating-pad-w-thermostat-210slt1218rtbx/",
+          "type": "purchase",
+          "description": "Camper van water tank heating pad, thermostat turns on at 45°F/off at 67°F, protects 40 gal tanks"
+        },
+        {
+          "name": "Amazon - Facon RV Tank Heater Pad",
+          "url": "https://www.amazon.com/Upgrade-Version-Facon-Automatic-Thermostat/dp/B077VLB1KK",
+          "type": "purchase",
+          "description": "12V DC tank heater pad with thermostat, prevents freezing for 50 gallon tanks, QAI certified"
+        },
+        {
+          "name": "Kohree RV Tank Heater Pad with Thermostat",
+          "url": "https://www.kohree.com/products/rv-tank-heater-pad-with-thermostat",
+          "type": "purchase",
+          "description": "Thermostatically controlled heating pad for fresh, grey, and black water tanks"
+        },
+        {
+          "name": "Amazon - RV Tank Heater with Smart Thermostat (2 Pack)",
+          "url": "https://www.amazon.com/RV-Thermostat-Control-Heating-Accessory/dp/B0FP2BDXHX",
+          "type": "purchase",
+          "description": "120V heating pad for 50 gallon tanks, 2X faster heating, smart thermostat control"
+        },
+        {
+          "name": "RecPro RV Tank Heater Pads",
+          "url": "https://recpro.com/rv-tank-heater-pads/",
+          "type": "purchase",
+          "description": "Various sizes of thermostatically controlled tank heater pads for RVs"
+        }
+      ],
+      "image_suggestions": [
+        "Tank heating pad installed on motorhome water tank exterior",
+        "Thermostat control unit display showing temperature",
+        "Proper heating pad placement diagram for different tank types",
+        "Peel-and-stick adhesive application process",
+        "Multiple pads connected in parallel for multiple tanks",
+        "Winter camping with heated water system"
+      ],
+      "extra_info": "Modern heating pads use peel-and-stick adhesive for easy installation on tank exteriors. Thermostat activation: typically 42-45°F on, 67°F off. Protects tanks down to -2°C external temps. Suitable for fresh, grey, and black water tanks. Upgraded models heat 2X faster with tightly arranged heating wires. Can connect multiple pads in parallel. CRITICAL: Only activate when tank contains fluid - empty tanks may overheat and damage elements. Power options: 12V DC or 120V AC. Sizes: 12x18 inches common for 40-50 gallon tanks. Essential for Alpine/Dolomites/Pyrenees winter travel. Slim profile fits most tank configurations."
+    },
+    {
+      "guide_id": "guide-020-002",
+      "guide_title": "Omnia Stovetop Cooker: Direct Gas-Powered Cooking",
+      "references": [
+        {
+          "name": "Amazon US - Omnia Oven Original",
+          "url": "https://www.amazon.com/Omnia-Oven-stove-solution-wonder/dp/B000YLJQ5U",
+          "type": "purchase",
+          "description": "Official Omnia stovetop oven - ideal for boat, camp, and RV use, free delivery eligible"
+        },
+        {
+          "name": "Amazon UK - Omnia Oven",
+          "url": "https://www.amazon.co.uk/Berger-1301-Omnia-Oven/dp/B000YLJQ5U",
+          "type": "purchase",
+          "description": "Berger Omnia camping oven available with UK delivery"
+        },
+        {
+          "name": "Camping World - Omnia Stove Top Oven",
+          "url": "https://www.campingworld.com/omnia-stove-top-oven-117503.html",
+          "type": "purchase",
+          "description": "Omnia oven available at Camping World retail and online"
+        },
+        {
+          "name": "Amazon - Omnia Non-Stick Ceramic Pan",
+          "url": "https://www.amazon.com/OMNIA-Non-Stick-Pan-Ceramic-Stovetop/dp/B09VN5TR7M",
+          "type": "purchase",
+          "description": "PTFE-free ceramic coated non-stick pan accessory for Omnia oven"
+        },
+        {
+          "name": "Fresh Off The Grid - Omnia Oven Guide",
+          "url": "https://www.freshoffthegrid.com/omnia-oven/",
+          "type": "guide",
+          "description": "Complete guide to using the Omnia oven - the ultimate camping oven"
+        },
+        {
+          "name": "Berger Camping UK - Omnia Camping Oven",
+          "url": "https://www.berger-camping.co.uk/item/omnia-camping-oven-25-cm-4713",
+          "type": "purchase",
+          "description": "Official Berger distributor - Omnia 25cm camping oven"
+        },
+        {
+          "name": "eBay - Omnia Oven Shop",
+          "url": "https://www.ebay.com/shop/omnia-oven",
+          "type": "purchase",
+          "description": "Official Omnia oven eBay shop with accessories and kits"
+        }
+      ],
+      "image_suggestions": [
+        "Omnia oven three-part construction (base, container, lid)",
+        "Omnia in use on motorhome gas stovetop",
+        "Apple cake baking inside Omnia with visible layers",
+        "Heat circulation diagram showing top and bottom heating",
+        "Complete Omnia kit with silicone liner and storage bag",
+        "Omnia cooking comparison: bread, pizza, casserole results"
+      ],
+      "extra_info": "Swedish design and manufacture. 3-part system: stainless steel base, aluminum food container (250mm diameter, 2.0L capacity, 70mm height), ventilated lid. Works on all heat sources: gas, electricity, kerosene. NO installation required. Heat redistribution creates circular baking chamber from single burner. Accessories: non-stick ceramic pan (PTFE-free, LFGB/FDA certified), silicone liners, storage bags. Temperature control by adjusting gas flame. Learning curve needed - each unit slightly different. Ideal for: breads, casseroles, cakes, pizzas. Very light, packs compactly for RV storage. User tip: 'After a while you learn the gas flame settings for required oven temp.'"
+    },
+    {
+      "guide_id": "guide-021-003",
+      "guide_title": "Budget Heating Solutions for Motorhomes: Electric Heaters",
+      "references": [
+        {
+          "name": "Amazon - Small Portable Electric Heater 800W/1000W (Green)",
+          "url": "https://www.amazon.com/Portable-Electric-Heaters-Ceramic-Bedroom/dp/B0FHWXB2KD",
+          "type": "purchase",
+          "description": "PTC ceramic heater, 2 modes (800W/1000W), auto tip-over shutoff, 1.43 lb compact design"
+        },
+        {
+          "name": "Amazon - Aottop Space Heater 800W/1200W",
+          "url": "https://www.amazon.com/Aottop-Electric-Heaters-Portable-Thermostat/dp/B0F9YMM819",
+          "type": "purchase",
+          "description": "PTC ceramic heater with thermostat, under 45 decibels, heating and fan modes"
+        },
+        {
+          "name": "Amazon - GiveBest Plug-In Heater 800W",
+          "url": "https://www.amazon.com/GiveBest-Electric-Adjustable-Thermostat-Bathroom/dp/B0CGV41J9S",
+          "type": "purchase",
+          "description": "Digital display bathroom heater, adjustable thermostat and timer, compact 3.9x3.5x6.5 inches"
+        },
+        {
+          "name": "Amazon - MoreChioce 24V Car Heater 800W",
+          "url": "https://www.amazon.com/MoreChioce-Portable-Electric-Defroster-Motorhome/dp/B08GH74LGJ",
+          "type": "purchase",
+          "description": "Portable electric fan heater for car, caravan, boats, trucks, motorhome - 24V specific"
+        },
+        {
+          "name": "Walmart - PortableOut 800W Ceramic Fan Heater",
+          "url": "https://www.walmart.com/ip/PortableOut-Compact-800W-Ceramic-Fan-Space-Heater-Portable-Mini-Desk-Electric-Warmer-Overheat-Tip-Over-Protection-Low-Noise-Quiet-Fast-Heating/5122704758",
+          "type": "purchase",
+          "description": "Compact desk heater with overheat/tip-over protection, low noise, quiet fast heating"
+        }
+      ],
+      "image_suggestions": [
+        "Compact 800W ceramic heater in motorhome cabin area",
+        "Size comparison showing portability (5.5x5.5x3.9 inches typical)",
+        "Heater with thermostat control and digital display",
+        "Proper placement for supplemental heating (not blocking vents)",
+        "Shore power connection setup for AC heater use",
+        "Tip-over safety feature demonstration"
+      ],
+      "extra_info": "Budget-friendly option for supplemental heating when connected to shore power (110V AC). NOT suitable for off-grid/battery operation - would drain 12V quickly. Typical features: PTC ceramic heating, silent operation (<45 dB), automatic overheat shutoff, tip-over protection, adjustable thermostat. Compact size: 3.9-5.5 inches typical, weight 1.43 lb. Two modes common: 800W (gentle) + 1000W/1200W (rapid). LIMITATIONS: 800W insufficient for full motorhome on cold nights - best as auxiliary/supplemental heating. Requires AC hookup at campgrounds. Works well for driver's cabin area. Safety certified with automatic shutoff. Alternative: 24V car heaters available for DC systems."
+    },
+    {
+      "guide_id": "guide-023-003",
+      "guide_title": "Portable Oven Solutions for Motorhome Cooking",
+      "references": [
+        {
+          "name": "HAJKA Outdoor Oven Official Website",
+          "url": "https://hajkaoven.com/",
+          "type": "official",
+          "description": "Official HAJKA portable outdoor oven for camping stove - Swedish design"
+        },
+        {
+          "name": "HAJKA Stove Top Oven with Pizza Plate",
+          "url": "https://hajkaoven.com/products/hajka-oven-with-pizza-plate",
+          "type": "purchase",
+          "description": "HAJKA oven with specialized baking plate for pizza - direct from manufacturer"
+        },
+        {
+          "name": "Kickstarter - HAJKA Outdoor Oven Campaign",
+          "url": "https://www.kickstarter.com/projects/hajka-outdoor-oven/hajka-the-portable-outdoor-oven-for-your-gas-stove",
+          "type": "info",
+          "description": "Original crowdfunding campaign with detailed product information and backer reviews"
+        },
+        {
+          "name": "MotorhomeFun Forum - HAJKA Discussion",
+          "url": "https://www.motorhomefun.co.uk/forum/threads/hajka-outdoor-oven.324076/",
+          "type": "community",
+          "description": "User discussions and experiences with HAJKA oven in motorhomes"
+        },
+        {
+          "name": "Tristar OV-3615 Mini Oven 800W (Amazon UK)",
+          "url": "https://www.amazon.co.uk/Tristar-OV-3615-Freestanding-100-230-Mechanical/dp/B082XT3NN3",
+          "type": "purchase",
+          "description": "Alternative electric option: 10L capacity, 800W, suitable for camping with inverter"
+        },
+        {
+          "name": "Tristar OV-3622 Convection Oven 19L (Shop Mancini)",
+          "url": "https://www.shopmancini.com/en/small-appliances/6185-electric-convection-oven-800w-capacity-19-lt-tristar-ov-3622-8713016091680.html",
+          "type": "purchase",
+          "description": "Larger Tristar electric convection oven - 19L capacity, perfect for camping/motorhome"
+        },
+        {
+          "name": "The Van Conversion - Campervan LPG Ovens Guide",
+          "url": "https://www.thevanconversion.com/post/campervan-lpg-ovens-ultimate-guide",
+          "type": "guide",
+          "description": "Ultimate guide to campervan LPG ovens with comparisons and recommendations"
+        }
+      ],
+      "image_suggestions": [
+        "HAJKA oven on gas stovetop showing compact 6x23cm packed size",
+        "Heat distribution diagram showing uniform vs. radiant heating",
+        "Pizza being baked in HAJKA (3 minute cook time)",
+        "Sourdough bread loaf in HAJKA oven",
+        "HAJKA vs Swedish stove (Rote Herd) comparison",
+        "Multiple fuel compatibility: gas, alcohol, diesel, ember",
+        "Tristar electric oven alternative for shore power use"
+      ],
+      "extra_info": "HAJKA: Swedish-designed, weighs 750g, packs to 6x23cm. Compatible with ALL fuels: gas, alcohol, gasoline (multifuel), diesel burners, even ember. Fixed motorhome stoves and portable camping stoves. Fits Trangia (large/small). Bakes pizza in 3 minutes, handles 1kg fish/meat. Temperature controlled by flame level - learning curve needed. £117 price point. Comparison: Swedish stove (Rote Herd) has large central air passage for radiant heat concentration; HAJKA provides better uniform distribution for even baking. ALTERNATIVE: Tristar electric ovens (OV-3615 10L, OV-3622 19L) at 800W - perfect for inverters/power stations, suitable for 220V campground hookups. Tristar: adjustable 100-230°C, 60-minute timer, double glass door, CE certified."
+    }
+  ],
+  "methodology": {
+    "search_date": "2025-12-15",
+    "sources_used": [
+      "Web search for official manufacturer websites",
+      "Amazon, eBay, specialized motorhome retailers",
+      "Product comparison sites and review platforms",
+      "Motorhome community forums and guides",
+      "Official product documentation and specifications"
+    ],
+    "focus_areas": [
+      "Purchase links (Amazon, eBay, specialist retailers)",
+      "Official manufacturer/brand websites",
+      "Product specifications and compatibility",
+      "Price ranges and availability",
+      "User reviews and community recommendations",
+      "Installation guides and usage tips",
+      "Safety information and limitations"
+    ]
+  }
+}

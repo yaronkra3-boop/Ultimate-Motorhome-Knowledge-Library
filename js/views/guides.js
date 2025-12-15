@@ -1,4 +1,4 @@
-// Guides View - Shows all knowledge guides organized by category
+// Guides View - Shows all knowledge guides organized by category (shadcn style)
 export class GuidesView {
     constructor(dataLoader) {
         this.dataLoader = dataLoader;
@@ -46,11 +46,11 @@ export class GuidesView {
                         <h3>Categories</h3>
                         <div class="category-list">
                             <button class="category-filter active" data-category="all">
-                                All Guides <span class="count">${this.guides.length}</span>
+                                All Guides <span class="badge">${this.guides.length}</span>
                             </button>
                             ${this.categories.map(cat => `
                                 <button class="category-filter" data-category="${cat.name}">
-                                    ${this.formatCategoryName(cat.name)} <span class="count">${cat.count}</span>
+                                    ${this.formatCategoryName(cat.name)} <span class="badge">${cat.count}</span>
                                 </button>
                             `).join('')}
                         </div>
@@ -64,138 +64,135 @@ export class GuidesView {
 
             <style>
                 .guides-container {
-                    max-width: 1400px;
+                    max-width: 1280px;
                     margin: 0 auto;
-                }
-
-                .page-header {
-                    text-align: center;
-                    margin-bottom: 60px;
-                }
-
-                .page-icon {
-                    font-size: 5rem;
-                    margin-bottom: 20px;
-                }
-
-                .page-header h1 {
-                    font-size: 3rem;
-                    color: #667eea;
-                    margin-bottom: 20px;
-                }
-
-                .page-subtitle {
-                    font-size: 1.2rem;
-                    color: #666;
                 }
 
                 .guides-content {
                     display: grid;
                     grid-template-columns: 280px 1fr;
-                    gap: 30px;
+                    gap: 2rem;
                 }
 
                 .categories-sidebar {
-                    background: white;
-                    padding: 25px;
-                    border-radius: 15px;
-                    box-shadow: 0 5px 20px rgba(0,0,0,0.05);
+                    background: hsl(var(--card));
+                    padding: 1.5rem;
+                    border-radius: calc(var(--radius) + 4px);
+                    border: 1px solid hsl(var(--border));
                     height: fit-content;
                     position: sticky;
-                    top: 100px;
+                    top: 5rem;
                 }
 
                 .categories-sidebar h3 {
-                    margin-bottom: 20px;
-                    color: #667eea;
+                    margin-bottom: 1rem;
+                    font-size: 0.875rem;
+                    font-weight: 600;
+                    color: hsl(var(--muted-foreground));
+                    text-transform: uppercase;
+                    letter-spacing: 0.05em;
                 }
 
                 .category-list {
                     display: flex;
                     flex-direction: column;
-                    gap: 8px;
+                    gap: 0.25rem;
                 }
 
                 .category-filter {
                     background: transparent;
                     border: none;
-                    padding: 12px 15px;
+                    padding: 0.75rem 1rem;
                     text-align: left;
                     cursor: pointer;
-                    border-radius: 8px;
-                    font-size: 0.95rem;
-                    transition: background 0.2s;
+                    border-radius: var(--radius);
+                    font-size: 0.875rem;
+                    transition: all 0.2s;
                     display: flex;
                     justify-content: space-between;
                     align-items: center;
+                    color: hsl(var(--foreground));
                 }
 
                 .category-filter:hover {
-                    background: #f5f7fa;
+                    background: hsl(var(--accent));
                 }
 
                 .category-filter.active {
-                    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-                    color: white;
-                    font-weight: 600;
+                    background: hsl(var(--primary));
+                    color: hsl(var(--primary-foreground));
                 }
 
-                .category-filter .count {
-                    font-size: 0.85rem;
-                    opacity: 0.8;
+                .category-filter.active .badge {
+                    background: hsla(0, 0%, 100%, 0.2);
+                    color: hsl(var(--primary-foreground));
                 }
 
                 .guides-list {
                     display: grid;
-                    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
-                    gap: 25px;
+                    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+                    gap: 1.5rem;
                 }
 
                 .guide-card {
-                    background: white;
-                    border-radius: 15px;
-                    padding: 30px;
-                    box-shadow: 0 5px 20px rgba(0,0,0,0.05);
-                    transition: transform 0.2s, box-shadow 0.2s;
                     cursor: pointer;
-                    border-left: 4px solid #667eea;
                 }
 
-                .guide-card:hover {
-                    transform: translateY(-3px);
-                    box-shadow: 0 8px 30px rgba(0,0,0,0.1);
+                .guide-card .card-header {
+                    padding: 1.5rem;
                 }
 
                 .guide-category-tag {
-                    display: inline-block;
-                    background: #f0f4ff;
-                    color: #667eea;
-                    padding: 5px 12px;
-                    border-radius: 20px;
-                    font-size: 0.8rem;
-                    margin-bottom: 15px;
+                    margin-bottom: 0.75rem;
                 }
 
                 .guide-title {
-                    font-size: 1.4rem;
-                    font-weight: 700;
-                    color: #333;
-                    margin-bottom: 15px;
-                    line-height: 1.3;
+                    font-size: 1.125rem;
+                    font-weight: 600;
+                    color: hsl(var(--foreground));
+                    margin-bottom: 0.75rem;
+                    line-height: 1.4;
                 }
 
-                .guide-content {
-                    color: #666;
+                .guide-summary {
+                    color: hsl(var(--muted-foreground));
                     line-height: 1.6;
-                    font-size: 0.95rem;
+                    font-size: 0.875rem;
                 }
 
                 .guide-meta {
-                    margin-top: 20px;
-                    padding-top: 20px;
-                    border-top: 1px solid #eee;
-                    font-size: 0.85rem;
-                    color: #888;
+                    padding: 1rem 1.5rem;
+                    border-top: 1px solid hsl(var(--border));
+                    font-size: 0.75rem;
+                    color: hsl(var(--muted-foreground));
+                    display: flex;
+                    gap: 1rem;
+                    align-items: center;
+                }
+
+                .guide-arrow {
+                    margin-left: auto;
+                    font-size: 1.25rem;
+                    color: hsl(var(--primary));
+                    opacity: 0;
+                    transform: translateX(-5px);
+                    transition: all 0.2s;
+                }
+
+                a.guide-card {
+                    text-decoration: none;
+                    display: block;
+                    transition: transform 0.2s, box-shadow 0.2s;
+                }
+
+                a.guide-card:hover {
+                    transform: translateY(-2px);
+                    box-shadow: 0 8px 25px rgb(0 0 0 / 0.1);
+                }
+
+                a.guide-card:hover .guide-arrow {
+                    opacity: 1;
+                    transform: translateX(0);
                 }
 
                 @media (max-width: 1024px) {
@@ -206,13 +203,19 @@ export class GuidesView {
                     .categories-sidebar {
                         position: static;
                     }
+
+                    .category-list {
+                        flex-direction: row;
+                        flex-wrap: wrap;
+                        gap: 0.5rem;
+                    }
+
+                    .category-filter {
+                        padding: 0.5rem 0.75rem;
+                    }
                 }
 
                 @media (max-width: 768px) {
-                    .page-header h1 {
-                        font-size: 2rem;
-                    }
-
                     .guides-list {
                         grid-template-columns: 1fr;
                     }
@@ -223,7 +226,7 @@ export class GuidesView {
 
     renderGuidesList() {
         if (this.guides.length === 0) {
-            return '<p style="padding: 40px; text-align: center; color: #666;">No guides available</p>';
+            return '<p style="padding: 2rem; text-align: center; color: hsl(var(--muted-foreground));">No guides available</p>';
         }
 
         return this.guides.map(guide => this.renderGuideCard(guide)).join('');
@@ -231,21 +234,59 @@ export class GuidesView {
 
     renderGuideCard(guide) {
         const title = this.getLocalizedText(guide.title);
-        const summary = this.getLocalizedText(guide.summary || guide.content);
+        // Get summary - if not available, try to get first content item's description
+        let summary = this.getLocalizedText(guide.summary);
+        if (summary === 'N/A' && guide.content && guide.content.length > 0) {
+            summary = this.getLocalizedText(guide.content[0]?.description || guide.content[0]?.title);
+        }
         const category = guide.category || 'uncategorized';
+        const contentCount = guide.content?.length || 0;
+        const tipCount = guide.tips?.length || 0;
+        const contributors = guide.contributors || null;
+
+        // Safely truncate summary
+        const truncatedSummary = typeof summary === 'string' && summary !== 'N/A'
+            ? (summary.length > 180 ? summary.substring(0, 180) + '...' : summary)
+            : summary;
+
+        // Format contributors for display (extract just first names)
+        const contributorDisplay = contributors ? this.formatContributors(contributors) : '';
 
         return `
-            <div class="guide-card" data-guide-id="${guide.id}" data-category="${category}">
-                <div class="guide-category-tag">${this.formatCategoryName(category)}</div>
-                <div class="guide-title">${title}</div>
-                <div class="guide-content">
-                    ${summary?.substring(0, 200)}${summary?.length > 200 ? '...' : ''}
+            <a href="#guide/${guide.id}" class="guide-card card" data-guide-id="${guide.id}" data-category="${category}">
+                <div class="card-header">
+                    <span class="badge badge-primary guide-category-tag">${this.formatCategoryName(category)}</span>
+                    <div class="guide-title">${title}</div>
+                    ${contributorDisplay ? `<div class="guide-contributors">👤 ${contributorDisplay}</div>` : ''}
+                    <div class="guide-summary">
+                        ${truncatedSummary}
+                    </div>
                 </div>
                 <div class="guide-meta">
-                    ${guide.difficulty || ''} ${guide.timeRequired ? '• ' + guide.timeRequired : ''}
+                    ${contentCount > 0 ? `<span>${contentCount} steps</span>` : ''}
+                    ${tipCount > 0 ? `<span>${tipCount} tips</span>` : ''}
+                    <span class="guide-arrow">→</span>
                 </div>
-            </div>
+            </a>
         `;
+    }
+
+    formatContributors(contributors) {
+        // Extract names and simplify
+        // e.g., "Multiple contributors: Ilan, Elisha, Ephraim Lior" -> "Ilan, Elisha, Ephraim Lior"
+        let cleaned = contributors.replace('Multiple contributors: ', '');
+        cleaned = cleaned.replace(' (primary)', '');
+        cleaned = cleaned.replace(' (supporting)', '');
+        cleaned = cleaned.replace(', with input from ', ', ');
+        // Remove Hebrew names in parentheses
+        cleaned = cleaned.replace(/[א-ת]+ /g, '');
+        cleaned = cleaned.replace(/\([^)]*\)/g, '');
+        // Limit to reasonable length
+        if (cleaned.length > 50) {
+            const names = cleaned.split(',').slice(0, 3);
+            cleaned = names.join(',') + '...';
+        }
+        return cleaned.trim();
     }
 
     formatCategoryName(category) {

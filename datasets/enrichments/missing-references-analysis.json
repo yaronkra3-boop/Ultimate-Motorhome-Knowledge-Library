@@ -1,0 +1,192 @@
+{
+  "summary": {
+    "total_guides_analyzed": 97,
+    "total_missing_references": 24,
+    "unique_entities": 13
+  },
+  "missing_references": [
+    {
+      "guide_id": "guide-001",
+      "guide_title": "Gas System Management and Refilling in Europe",
+      "entity": "Amazon.de",
+      "entity_type": "websites",
+      "mentioned_in_content": "'he': 'שימוש במתאמי גז'}, 'description': {'en': \"Purchase a European gas adapter set (available on Amazon.de). These allow refilling your German cylinders at stations with different fittings. Many refilling l"
+    },
+    {
+      "guide_id": "guide-001",
+      "guide_title": "Gas System Management and Refilling in Europe",
+      "entity": "iOverlander",
+      "entity_type": "apps",
+      "mentioned_in_content": "'title': {'en': 'Finding Refill Locations', 'he': 'מציאת מקומות מילוי'}, 'description': {'en': \"Use iOverlander app - it has a specific category for gas refilling locations. Large campgrounds and motorhome deale"
+    },
+    {
+      "guide_id": "guide-001",
+      "guide_title": "Gas System Management and Refilling in Europe",
+      "entity": "Campingaz",
+      "entity_type": "brands",
+      "mentioned_in_content": "17 מעלות, לבש סוודר והשתמש בשמיכת פוך - צריכת הגז תשתפר משמעותית'}} {'type': 'tip', 'text': {'en': 'Campingaz 907 cylinders (2.8kg) are most common for small motorhomes throughout Europe, but less practical fo"
+    },
+    {
+      "guide_id": "guide-001",
+      "guide_title": "Gas System Management and Refilling in Europe",
+      "entity": "Truma",
+      "entity_type": "brands",
+      "mentioned_in_content": "ding Gas Cylinder Standards', 'he': 'הבנת תקני בלוני גז'}, 'description': {'en': 'German cylinders (Truma) use different connections than other European countries. Portugal, France, Italy, and Spain each h"
+    },
+    {
+      "guide_id": "guide-001",
+      "guide_title": "Gas System Management and Refilling in Europe",
+      "entity": "Webasto",
+      "entity_type": "brands",
+      "mentioned_in_content": "text': {'en': 'Do NOT sleep with gas heating running - even with German systems. Use diesel heater (Webasto) for overnight heating if possible', 'he': 'אל תישן עם חימום גז פועל - אפילו עם מערכות גרמניות. השת"
+    },
+    {
+      "guide_id": "guide-002",
+      "guide_title": "Winter Heating Strategies for Motorhomes",
+      "entity": "Truma",
+      "entity_type": "brands",
+      "mentioned_in_content": "ת גז בחורף היא תקינה וצפויה - אל תיבהל כשבלונים מתרוקנים מהר'}} {'type': 'warning', 'text': {'en': \"Truma water heaters also heat water passively, so you don't need to actively run water heating - keep it"
+    },
+    {
+      "guide_id": "guide-005",
+      "guide_title": "Morocco Motorhome Travel Guide",
+      "entity": "ADAC",
+      "entity_type": "services",
+      "mentioned_in_content": "hecked upon arrival in Tangier. International driver's license and vehicle insurance (Green Card or ADAC full insurance) required.\", 'he': \"כניסה מTarifa, ספרד לטנג'יר, מרוקו במעבורת עולה כ-280 אירו לאדם"
+    },
+    {
+      "guide_id": "guide-012",
+      "guide_title": "Navigation Apps for Large Motorhomes - Height and Weight Restrictions",
+      "entity": "Campercontact",
+      "entity_type": "apps",
+      "mentioned_in_content": "ליקציות למשאית 10 טון, גובה 3.85, עצמאית לגמרי 4x4.'}, 'image': None}, {'step': 5, 'title': {'en': 'CamperContact - Parking Locations', 'he': 'CamperContact - מיקומי חניה'}, 'description': {'en': 'CamperContact is"
+    },
+    {
+      "guide_id": "guide-012",
+      "guide_title": "Navigation Apps for Large Motorhomes - Height and Weight Restrictions",
+      "entity": "Waze",
+      "entity_type": "apps",
+      "mentioned_in_content": "em with Standard Navigation Apps', 'he': 'הבעיה עם אפליקציות ניווט רגילות'}, 'description': {'en': \"Waze and Google Maps do NOT have options for tall vehicles. They will direct you to narrow roads, low br"
+    },
+    {
+      "guide_id": "guide-012",
+      "guide_title": "Navigation Apps for Large Motorhomes - Height and Weight Restrictions",
+      "entity": "Park4Night",
+      "entity_type": "apps",
+      "mentioned_in_content": "ידכוני גירסה בשנה והורדת מפות לפי מדינות ללא הגבלה.'}, 'image': None}, {'step': 4, 'title': {'en': 'Park4night - Finding Parking & Services', 'he': 'Park4night - מציאת חניה ושירותים'}, 'description': {'en': 'Pa"
+    },
+    {
+      "guide_id": "guide-013",
+      "guide_title": "Long-Term Motorhome Storage Guide - Winter and Extended Periods",
+      "entity": "Truma",
+      "entity_type": "brands",
+      "mentioned_in_content": "ave caps, drain plugs, and faucets open (prevents pipe burst from freezing). Including emptying the Truma boiler. This is critical in winter climates to prevent pipe and tank damage from freezing water exp"
+    },
+    {
+      "guide_id": "guide-015",
+      "guide_title": "Emergency Preparedness - Lessons from Spanish Power Outage",
+      "entity": "Waze",
+      "entity_type": "apps",
+      "mentioned_in_content": ", 2025, a massive power outage hit Spain/Portugal/France. Communication networks failed completely. Waze continued to navigate, but without using satellites (offline mode). Gas stations had enormous queue"
+    },
+    {
+      "guide_id": "guide-015",
+      "guide_title": "Emergency Preparedness - Lessons from Spanish Power Outage",
+      "entity": "Park4Night",
+      "entity_type": "apps",
+      "mentioned_in_content": "ng 5 stations, found one with fuel - 'cash only'. We refueled and calmed down. No navigation and no Park4night, but we found our way to Malaga (which was closer than Seville), where we found an improvised parki"
+    },
+    {
+      "guide_id": "guide-017",
+      "guide_title": "DIY LPG Gas Refilling Kit for Motorhomes",
+      "entity": "Amazon Germany",
+      "entity_type": "websites",
+      "mentioned_in_content": "{'en': 'Purchasing Ready-Made Kit', 'he': 'רכישת ערכה מוכנה'}, 'description': {'en': 'Available on Amazon Germany for approximately 49 EUR. Kit covers almost all European standards and connects to German-standard"
+    },
+    {
+      "guide_id": "guide-017",
+      "guide_title": "DIY LPG Gas Refilling Kit for Motorhomes",
+      "entity": "AliExpress",
+      "entity_type": "websites",
+      "mentioned_in_content": "it covers almost all European standards and connects to German-standard bottles. Also available via AliExpress and other online retailers.', 'he': 'זמין באמזון גרמניה בכ-49 יורו. הערכה מכסה כמעט את כל התקנים הא"
+    },
+    {
+      "guide_id": "guide-020",
+      "guide_title": "Sygic Truck Navigation for Large Motorhomes - Complete Setup Guide",
+      "entity": "Waze",
+      "entity_type": "apps",
+      "mentioned_in_content": "ks). Does not prevent entry to such zones if motorhome registration allows it. COMPARISON TO GOOGLE/WAZE: Google and Waze caused multiple issues: Routed to locations with height/weight restrictions, Led t"
+    },
+    {
+      "guide_id": "guide-021",
+      "guide_title": "OBD2 Diagnostic Scanner for Motorhome Troubleshooting",
+      "entity": "AliExpress",
+      "entity_type": "websites",
+      "mentioned_in_content": "vehicle. Points to source of problem. Engine fault code reader. Lifetime free updates. Available on AliExpress and other retailers. COMPATIBILITY: Works with Fiat from 2006 onwards. OBD2 standard introduced aro"
+    },
+    {
+      "guide_id": "guide-014-002",
+      "guide_title": "Air Conditioning for Motorhomes: Options and Solutions",
+      "entity": "AliExpress",
+      "entity_type": "websites",
+      "mentioned_in_content": "anagement  **Portable AC Units from China (Budget Option):** - 3000 BTU portable units available on AliExpress (~€600) - Requires 220V power (AC inverter needed) - Only viable with 2000W+ inverter - Operates pr"
+    },
+    {
+      "guide_id": "guide-016-004",
+      "guide_title": "Air Conditioning in Motorhomes: What Works and What Doesn't",
+      "entity": "AliExpress",
+      "entity_type": "websites",
+      "mentioned_in_content": "indow hose (loses energy) - Energy inefficiency very high relative to cooling output - Marketed via AliExpress: attractive but ineffective  **Why Small AC Fails in Motorhomes:** - 6-meter motorhome needs much m"
+    },
+    {
+      "guide_id": "guide-019-001",
+      "guide_title": "European Vehicle Registration Requirements for Extended Travel",
+      "entity": "AXA",
+      "entity_type": "services",
+      "mentioned_in_content": "l without testing while outside Germany - French registration allows similar flexibility - Requires AXA travel insurance (Schengen) annually - Insurance auto-renews even when vehicle is outside Europe if"
+    },
+    {
+      "guide_id": "guide-024-001",
+      "guide_title": "HERE Navigation App: Offline Mode and European Usage",
+      "entity": "Waze",
+      "entity_type": "apps",
+      "mentioned_in_content": "s:**  **Google Maps:** - Better real-time data quality - Faster response times for route changes  **Waze:** - Poor performance reported by user with extensive experience - Unrealistic routing suggestions"
+    },
+    {
+      "guide_id": "guide-025-002",
+      "guide_title": "International Travel Documentation and Resources",
+      "entity": "Google Maps",
+      "entity_type": "apps",
+      "mentioned_in_content": "ategories available: insurance, storage, gas filling, mechanics, etc.  **Recommended Platforms:** - Google Maps: For geographic-based storage and services - Ioverland App: For non-European regions with crowdsour"
+    },
+    {
+      "guide_id": "guide-026-001",
+      "guide_title": "StarLink vs Cellular Data: Consumption and Management Comparison",
+      "entity": "Google Maps",
+      "entity_type": "apps",
+      "mentioned_in_content": "ownload' mode  **Identification of Data Hogs:** - Michelin app (Maps) was causing excessive usage - Google Maps, Waze, YouTube require manual closing after data retrieval - Cloud backup services (iCloud, Google"
+    },
+    {
+      "guide_id": "guide-026-001",
+      "guide_title": "StarLink vs Cellular Data: Consumption and Management Comparison",
+      "entity": "Waze",
+      "entity_type": "apps",
+      "mentioned_in_content": "**Identification of Data Hogs:** - Michelin app (Maps) was causing excessive usage - Google Maps, Waze, YouTube require manual closing after data retrieval - Cloud backup services (iCloud, Google Photos"
+    }
+  ],
+  "entity_frequency": {
+    "Amazon.de": 1,
+    "iOverlander": 1,
+    "Campingaz": 1,
+    "Truma": 3,
+    "Webasto": 1,
+    "ADAC": 1,
+    "Campercontact": 1,
+    "Waze": 5,
+    "Park4Night": 2,
+    "Amazon Germany": 1,
+    "AliExpress": 4,
+    "AXA": 1,
+    "Google Maps": 2
+  }
+}

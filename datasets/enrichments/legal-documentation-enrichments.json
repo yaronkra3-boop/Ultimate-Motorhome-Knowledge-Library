@@ -1,0 +1,522 @@
+{
+  "category": "legal-documentation",
+  "last_updated": "2025-12-15",
+  "enrichments": [
+    {
+      "guide_id": "guide-004",
+      "title": "European Citizenship for Motorhome Travelers",
+      "references": [
+        {
+          "name": "German Federal Foreign Office - Article 116 Naturalization",
+          "url": "https://www.germany.info/us-en/2370240-2370240",
+          "type": "official",
+          "description": "Official information on German citizenship for descendants of Nazi persecution victims"
+        },
+        {
+          "name": "Federal Office of Administration (BVA) - Citizenship",
+          "url": "https://www.bva.bund.de/EN/Services/Citizens/ID-Documents-Law/Citizenship/citizenship_node.html",
+          "type": "government",
+          "description": "Official German government agency handling citizenship applications from abroad"
+        },
+        {
+          "name": "Portuguese Government - Citizenship Law Changes",
+          "url": "https://www.portugal.gov.pt/en/gc25/communication/news-item?i=government-reinforces-requirements-on-citizenship-laws-and-residence",
+          "type": "government",
+          "description": "Official announcement of changes to Portuguese citizenship laws (2025)"
+        },
+        {
+          "name": "Jewish Community of Lisbon (CIL) - Nationality",
+          "url": "https://www.cilisboa.org/home/nationality/?lang=en",
+          "type": "official",
+          "description": "Official certifying body for Sephardic Jewish heritage in Portugal"
+        }
+      ],
+      "document_links": [
+        {
+          "name": "Article 116 Application Form (German Embassy Tel Aviv)",
+          "url": "https://tel-aviv.diplo.de/resource/blob/2187306/48be505671e6bb84471293af9ec495ef/merkblatt-anspruchseinbuergerung-nach-art-116-data.pdf",
+          "description": "Official German citizenship application form for Article 116 (PDF)"
+        }
+      ],
+      "image_suggestions": [
+        "German passport and ID card example",
+        "Portuguese passport (red cover with EU stars)",
+        "Article 116 application form sample",
+        "Sephardic Jewish certificate from CIL/CIP"
+      ],
+      "extra_info": "IMPORTANT UPDATE 2025: Portuguese Sephardic citizenship program has been terminated after the Abramovich case. Requirements have been severely tightened and applications are taking 3+ years. German citizenship via Article 116 remains available with typical processing time of 2.5 years. No lawyer needed for German process except notary. Portuguese process now requires language test, history test, and proof of connection. Processing times: German ~2.5 years, Portuguese 3-4+ years (if accepted at all)."
+    },
+    {
+      "guide_id": "guide-010-001",
+      "title": "Schengen Visa Rules for Israeli Citizens - 90/180 Day Rule",
+      "references": [
+        {
+          "name": "EU Short-Stay Calculator (Official)",
+          "url": "https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en",
+          "type": "official",
+          "description": "Official EU calculator to check compliance with 90/180-day rule"
+        },
+        {
+          "name": "EU Migration and Home Affairs - Entry/Exit System",
+          "url": "https://home-affairs.ec.europa.eu/policies/schengen/smart-borders/entry-exit-system_en",
+          "type": "government",
+          "description": "Official EU information on new biometric entry/exit system"
+        },
+        {
+          "name": "Ninety180.com Calculator",
+          "url": "https://ninety180.com/",
+          "type": "verified",
+          "description": "Popular third-party Schengen day calculator used by travelers"
+        }
+      ],
+      "document_links": [],
+      "image_suggestions": [
+        "Schengen visa stamp in passport",
+        "Map of Schengen Area countries (29 countries, 2025)",
+        "90/180 day rolling window diagram",
+        "Entry/Exit System biometric scanner illustration"
+      ],
+      "extra_info": "As of January 1, 2025, Bulgaria and Romania joined the Schengen Area fully. The 90/180 rule is a rolling window - it checks 180 days backwards from any given moment. Simply crossing to non-Schengen countries (UK, Ireland, Switzerland) every 3 months does NOT reset the count. Digital nomad visas available in some countries (Spain, Portugal, Estonia) allow longer stays. Overstaying can result in entry bans (1-5 years), fines (€500-€1000+), and deportation. From October 12, 2025, the new Entry/Exit System (EES) will automatically track all entries/exits with biometric data."
+    },
+    {
+      "guide_id": "guide-010-002",
+      "title": "US Citizens - Schengen Time Limits",
+      "references": [
+        {
+          "name": "EU Short-Stay Calculator (Official)",
+          "url": "https://home-affairs.ec.europa.eu/policies/schengen/border-crossing/short-stay-calculator_en",
+          "type": "official",
+          "description": "Official EU calculator applies to all non-EU citizens including US"
+        }
+      ],
+      "document_links": [],
+      "image_suggestions": [
+        "US passport with Schengen stamp",
+        "Comparison chart: US vs Israeli passport Schengen rules"
+      ],
+      "extra_info": "US citizens have identical Schengen restrictions as Israeli citizens: 90 days within any 180-day period. The rolling window calculation and enforcement are the same. No special exemptions for US passport holders."
+    },
+    {
+      "guide_id": "guide-010-003",
+      "title": "Portuguese Citizenship Application Process - Realistic Timeline",
+      "references": [
+        {
+          "name": "Portuguese Government - Citizenship Reforms 2025",
+          "url": "https://www.portugal.gov.pt/en/gc25/communication/news-item?i=government-reinforces-requirements-on-citizenship-laws-and-residence",
+          "type": "government",
+          "description": "Official government announcement of citizenship law changes"
+        },
+        {
+          "name": "Jewish Community of Lisbon (CIL)",
+          "url": "https://www.cilisboa.org/home/nationality/?lang=en",
+          "type": "official",
+          "description": "One of two official certifying bodies for Sephardic heritage"
+        },
+        {
+          "name": "Global Citizen Solutions - Portuguese Citizenship Guide 2025",
+          "url": "https://www.globalcitizensolutions.com/portuguese-citizenship-sephardic-jews/",
+          "type": "verified",
+          "description": "Comprehensive guide covering recent changes and requirements"
+        }
+      ],
+      "document_links": [],
+      "image_suggestions": [
+        "Portuguese citizenship certificate example",
+        "Sephardic heritage certificate from CIL/CIP",
+        "Portuguese language test (CIPLE) materials"
+      ],
+      "extra_info": "CRITICAL UPDATE 2025: The Sephardic citizenship program has been terminated following the Abramovich case scandal. Minister António Leitão Amaro announced the closure in June 2025. Applications submitted before termination are stuck for 3+ years without progress. New requirements now include Portuguese language test, Portuguese history test, and stricter proof of connection. Official processing is 29 months but real-world is 3-4 years. Certificate from CIL (Jewish Community of Lisbon) or CIP (Porto) costs €500/€250 respectively and takes ~12 months. For immediate travel needs, apply for Schengen visa instead. Only descendants who can prove absolute connection and pass all tests may still succeed."
+    },
+    {
+      "guide_id": "guide-010-004",
+      "title": "Motorhome Storage in Europe While Traveling to Asia - Vehicle Registration Issues",
+      "references": [
+        {
+          "name": "German TÜV Requirements",
+          "url": "https://www.tuev-nord.de/en/services/audit-and-expertise/periodical-technical-inspection-for-motorhomes-and-caravans/",
+          "type": "official",
+          "description": "Official TÜV inspection requirements for motorhomes"
+        }
+      ],
+      "document_links": [],
+      "image_suggestions": [
+        "Israeli vehicle registration document (example)",
+        "European vehicle registration certificate",
+        "Temporary import carnet example"
+      ],
+      "extra_info": "Israeli vehicle registration system is unique in combining everything (registration, road tax, fitness test) in one document with expiration date. Most of the world has permanent registration with separate documents for tax and inspection. For long-term European storage while traveling to Asia, consider: 1) German/French registration (allows years without testing while abroad), 2) Temporary import to Asia with carnet system (Russians provide temporary import approval at Caucasus border), 3) Creative solutions exist but consult experienced travelers. Key issue: Israeli registration expires when test expires, making long-term foreign parking problematic."
+    },
+    {
+      "guide_id": "guide-011-003",
+      "title": "German Vehicle Registration for Non-Residents - Legal Method",
+      "references": [
+        {
+          "name": "Simple Germany - How to Register a Car in Germany",
+          "url": "https://www.simplegermany.com/how-to-register-a-car-in-germany/",
+          "type": "verified",
+          "description": "Comprehensive guide to German vehicle registration process"
+        },
+        {
+          "name": "TÜV Nord - Motorhome Inspection",
+          "url": "https://www.tuev-nord.de/en/services/audit-and-expertise/periodical-technical-inspection-for-motorhomes-and-caravans/",
+          "type": "official",
+          "description": "Official TÜV inspection requirements and procedures"
+        }
+      ],
+      "document_links": [],
+      "image_suggestions": [
+        "German vehicle registration certificate (Fahrzeugschein)",
+        "German license plates example",
+        "Meldebescheinigung (residence registration) document",
+        "TÜV inspection sticker on license plate"
+      ],
+      "extra_info": "This method uses a German law created for facilitating government communication with migrants. A German citizen with a German address agrees to receive mail on your behalf by filling out an online form and attaching their ID copy. The vehicle is registered in YOUR name (not proxy), using the German address for mail receipt only. No lawyer needed. TÜV (vehicle inspection) required every 2 years for vehicles up to 3.5 tons. NEW REQUIREMENT 2025: Gas system inspection (DVGW G 607) now mandatory every 2 years for LPG motorhomes (€40-80, takes 20-45 minutes). Process pioneered by Tom Lerner from the community. Insurance can be obtained from ADAC or other German insurers. Completely legal method recognized by German authorities."
+    },
+    {
+      "guide_id": "guide-011-004",
+      "title": "European Motorhome Ownership Options for Foreigners",
+      "references": [
+        {
+          "name": "French Vehicle Registration (Service-Public.fr)",
+          "url": "https://www.service-public.fr/particuliers/vosdroits/F1050?lang=en",
+          "type": "government",
+          "description": "Official French government information on vehicle registration"
+        },
+        {
+          "name": "German Vehicle Registration for Non-Residents",
+          "url": "https://www.simplegermany.com/how-to-register-a-car-in-germany/",
+          "type": "verified",
+          "description": "Comprehensive registration guide for Germany"
+        }
+      ],
+      "document_links": [],
+      "image_suggestions": [
+        "German vs French vehicle registration comparison",
+        "European license plates (different countries)",
+        "Address declaration form examples"
+      ],
+      "extra_info": "Unlike US where LLC registration is a workaround, European methods are direct legal pathways. Germany: Use address registration method with German citizen as mail recipient (completely legal, vehicle in your name). France: Similar solution exists with proof of domicile requirement - can use holiday home address or third-party address with attestation. Both methods register vehicle permanently in your name. France requires proof of domicile (utility bills, tax documents less than 6 months old). As of January 2025, French enforcement has increased with automatic license plate readers (LAPI) and fines up to €750 for improper registration. Germany's method more straightforward for non-residents."
+    },
+    {
+      "guide_id": "guide-012-001",
+      "title": "AXA Schengen Travel Insurance for Motorhome Travelers",
+      "references": [
+        {
+          "name": "AXA Schengen Insurance (Official)",
+          "url": "https://www.axa-schengen.com/en/",
+          "type": "official",
+          "description": "Official AXA Schengen travel insurance website with instant quotes"
+        },
+        {
+          "name": "AXA Schengen - Online Quote",
+          "url": "https://www.axa-schengen.com/en/online-quote#/",
+          "type": "official",
+          "description": "Direct online quote and purchase system"
+        }
+      ],
+      "document_links": [],
+      "image_suggestions": [
+        "AXA Schengen insurance certificate example",
+        "Coverage comparison chart (Basic/Essential/Premium/Annual)",
+        "European health card (EHIC) vs travel insurance comparison"
+      ],
+      "extra_info": "AXA Schengen offers 4 plans: Basic (minimum for visa), Essential (comfortable coverage, includes UK/Ireland/Cyprus), Premium (all-inclusive), and Annual (multiple trips). All plans meet EU Article 15 requirements with minimum €30,000 medical coverage. Annual plan ideal for frequent travelers - covers multiple trips per year, each up to 90 days. Cost example: €154 for 60 days (€2.50/day). Insurance certificate sent immediately via email after payment. Compliant for Schengen visa applications. Payments in Euros only. Important: Not valid if already in coverage area when purchasing. No coverage for pre-existing conditions or planned expenses. IATI Seguros (AXA subsidiary in Barcelona) offers similar coverage with competitive prices."
+    },
+    {
+      "guide_id": "guide-013-001",
+      "title": "Carnet de Passages: International Vehicle Documentation for Multi-Year Africa Travel",
+      "references": [
+        {
+          "name": "FIA - International CPD Network",
+          "url": "https://www.fia.com/international-cpd-network",
+          "type": "official",
+          "description": "Official FIA information on Carnet de Passages system"
+        },
+        {
+          "name": "Carnet de Passage Official Portal",
+          "url": "https://carnetdepassage.org/",
+          "type": "official",
+          "description": "Dedicated portal for CPD information and applications"
+        },
+        {
+          "name": "AA South Africa - Carnet de Passage",
+          "url": "https://aa.co.za/travel/carnet-de-passage-en-douane/",
+          "type": "official",
+          "description": "South African issuing organization for CPD"
+        }
+      ],
+      "document_links": [],
+      "image_suggestions": [
+        "Carnet de Passages document (booklet with detachable vouchers)",
+        "CPD entry/exit stamps example",
+        "Map showing CPD-required countries (Africa, Asia, Middle East)",
+        "Electronic CPD (e-CPD) interface"
+      ],
+      "extra_info": "The CPD is managed by FIA (Federation Internationale de l'Automobile) and mandated by World Customs Organization. Standard validity: 1 year from issuance. For multi-year travel: Exit country with carnet exit stamp, close expiring carnet with customs stamp, immediately obtain new carnet for another year. Process can be repeated for continuous multi-year coverage. Electronic e-CPD introduced May 2021 for digital issuance. Document has 5-25 pages with detachable import/export vouchers. Required in many African and Asian countries. NOT required in Europe for private vehicles. Turkish borders accept CPD but also offer local alternative documents. CPD must be issued in country of vehicle registration. Important for motorhome research projects and extended African travel."
+    },
+    {
+      "guide_id": "guide-014-003",
+      "title": "Carnet de Passage: Vehicle Import Documentation for Africa",
+      "references": [
+        {
+          "name": "FIA - Travel Documents",
+          "url": "https://www.fia.com/travel-documents-1",
+          "type": "official",
+          "description": "Official FIA information on international travel documents"
+        },
+        {
+          "name": "Automobile Association of South Africa - CPD",
+          "url": "https://aa.co.za/travel/carnet-de-passage-en-douane/",
+          "type": "official",
+          "description": "South African issuing authority for Carnet de Passage"
+        }
+      ],
+      "document_links": [],
+      "image_suggestions": [
+        "South African border crossing with motorhome",
+        "Carnet de Passage booklet and stamps",
+        "Port entry documentation process"
+      ],
+      "extra_info": "For South Africa entry: Carnet de Passage (ATA Carnet) is the simplest solution for foreign-registered vehicles. Alternative of local registration is very complex, time-consuming, and may be impossible for left-hand drive vehicles (SA requires right-hand drive). CPD can be obtained outside home country (e.g., in France despite different registration). Entry by sea requires additional bureaucracy - highly recommend using local port agent to handle paperwork. Overland entry with CPD is straightforward at borders. Port entry involves complex procedures and customs documentation. Left-hand drive vehicles may face restrictions or prohibition for local registration. Border agents can handle all documentation efficiently with proper CPD."
+    },
+    {
+      "guide_id": "guide-015-002",
+      "title": "European Motorhome Insurance Costs and Strategies for Non-Residents",
+      "references": [
+        {
+          "name": "ADAC Official Website",
+          "url": "https://www.adac.de/",
+          "type": "official",
+          "description": "Official ADAC website with membership and insurance information"
+        },
+        {
+          "name": "Allianz France",
+          "url": "https://www.allianz.fr/",
+          "type": "insurance",
+          "description": "Major French insurance company (generally expensive for non-residents)"
+        }
+      ],
+      "document_links": [],
+      "image_suggestions": [
+        "Insurance cost comparison chart (Germany/France/UK/Austria)",
+        "ADAC membership card",
+        "Seasonal insurance certificate example"
+      ],
+      "extra_info": "BEST VALUE: Germany with ADAC insurance. Example: €50,000 motorhome = €736/year (single driver) or €772/year (all drivers) + €94 ADAC membership. Germany offers seasonal insurance option: 8 months travel + 4 months storage = ~€548/year (vehicle covered for theft/fire during storage). FRANCE: More expensive - Example: €60-65K motorhome = €1620/year with Allianz. UK: Most expensive - Example: 35-year-old truck motorhome = £3000/year for Israeli non-resident (vs £300/year for British resident = +900%). Austria: Less expensive than France but more than Germany. Non-residents face major disadvantage: no insurance history in EU = no no-claims discounts (30-50% for residents). Some companies refuse to insure Israelis (discrimination). Strategy: Register under local contact in Germany (best option) or France for better rates."
+    },
+    {
+      "guide_id": "guide-016-002",
+      "title": "ADAC Membership Benefits for European Motorhome Travel",
+      "references": [
+        {
+          "name": "ADAC Plus Membership Details",
+          "url": "https://www.adac.de/mitgliedschaft/mitglied-werden/details/adac-plus-mitgliedschaft/",
+          "type": "official",
+          "description": "Official ADAC Plus membership benefits and details (German)"
+        },
+        {
+          "name": "ADAC Membership Overview",
+          "url": "https://www.adac.de/mitgliedschaft/",
+          "type": "official",
+          "description": "Main ADAC membership page"
+        }
+      ],
+      "document_links": [],
+      "image_suggestions": [
+        "ADAC yellow angel logo",
+        "ADAC Plus membership card",
+        "ADAC roadside assistance vehicle",
+        "Coverage area map (Europe, worldwide)"
+      ],
+      "extra_info": "ADAC is Europe's largest automobile association (21 million members). CRITICAL: Membership covers the PERSON, not the vehicle - works with rentals, borrowed cars, motorhomes. ADAC Plus benefits: 24/7 roadside assistance, towing to nearest workshop, medical transport, home breakdown coverage, legal assistance, international coverage (Europe, Black Sea, Mediterranean, Scandinavia, Russia). Worldwide coverage for medical emergencies (air ambulance jets available). Motorhome coverage: up to 10m length, 2.55m width, 3.20m height, 7.5 tonnes weight. Cost: €94/year (individual), €164/year (family - unlimited family members). Discounts: €81/year for disabled persons (50%+ disability) or young adults (up to 25, in training). Additional benefits: bicycle breakdown assistance, free tour guides, fuel discounts, hotel discounts. Emergency number: 00 49 89 22 22 22. Described as 'dream service' by experienced travelers."
+    },
+    {
+      "guide_id": "guide-017-001",
+      "title": "AXA Travel Insurance for Motorhome Travel",
+      "references": [
+        {
+          "name": "AXA Schengen Official Website",
+          "url": "https://www.axa-schengen.com/en/",
+          "type": "official",
+          "description": "Official AXA Schengen travel insurance website"
+        }
+      ],
+      "document_links": [],
+      "image_suggestions": [
+        "AXA insurance certificate",
+        "Travel insurance comparison chart"
+      ],
+      "extra_info": "Recommended by experienced motorhome traveler Ilan. Excellent price-to-value ratio. Covers all necessary needs for European travel. See guide-012-001 for detailed coverage information and pricing."
+    },
+    {
+      "guide_id": "guide-017-002",
+      "title": "ADAC Vehicle Insurance for German-Registered Motorhomes",
+      "references": [
+        {
+          "name": "ADAC Official Website",
+          "url": "https://www.adac.de/",
+          "type": "official",
+          "description": "Main ADAC website with insurance information"
+        }
+      ],
+      "document_links": [],
+      "image_suggestions": [
+        "ADAC insurance certificate",
+        "German vehicle insurance comparison"
+      ],
+      "extra_info": "ADAC offers vehicle insurance for German-registered motorhomes: mandatory liability, third-party, and comprehensive coverage. Cost: ~€760/year for €50,000 vehicle value, all drivers covered. Only available for vehicles with German registration and German permanent address. ADAC is not a private insurance company but an automobile club (like AAA), offering fair consumer-friendly policies. According to Stiftung Warentest (January 2024), ADAC Basic tariff was test winner for car insurance with transparent conditions and fair prices. See guide-022-003 for detailed comparison with commercial insurers like Allianz."
+    },
+    {
+      "guide_id": "guide-017-003",
+      "title": "French Vehicle Insurance (AXA) for French-Registered Motorhomes",
+      "references": [
+        {
+          "name": "AXA France",
+          "url": "https://www.axa.fr/",
+          "type": "insurance",
+          "description": "Official AXA France insurance website"
+        }
+      ],
+      "document_links": [],
+      "image_suggestions": [
+        "French vehicle insurance certificate (attestation)",
+        "Carte verte (green card) insurance document"
+      ],
+      "extra_info": "AXA France offers vehicle insurance for French-registered motorhomes. Similar structure to German insurance (liability, third-party, comprehensive). Generally more expensive than German ADAC insurance. Requires French vehicle registration (carte grise). For detailed French insurance information and cost comparisons, see guide-015-002."
+    },
+    {
+      "guide_id": "guide-019-001",
+      "title": "European Vehicle Registration Requirements for Extended Travel",
+      "references": [
+        {
+          "name": "TÜV Nord - Periodic Technical Inspection",
+          "url": "https://www.tuev-nord.de/en/services/audit-and-expertise/periodical-technical-inspection/",
+          "type": "official",
+          "description": "Official TÜV inspection information and requirements"
+        },
+        {
+          "name": "German Vehicle Registration Guide",
+          "url": "https://www.simplegermany.com/how-to-register-a-car-in-germany/",
+          "type": "verified",
+          "description": "Comprehensive guide to German registration process"
+        }
+      ],
+      "document_links": [],
+      "image_suggestions": [
+        "TÜV inspection sticker on license plate",
+        "ZOLL/TRANSIT customs document",
+        "Vehicle inspection certificate (HU badge)"
+      ],
+      "extra_info": "Annual testing: Germany and France require inspection every 2 years for vehicles up to 3.5 tons, annually for vehicles over 3.5 tons. NEW 2025: Gas system test (DVGW G 607) mandatory every 2 years for LPG motorhomes (€40-80). SMART STRATEGY for extended travel: Register in Germany or France, then leave country - testing NOT required until re-entry. Real example: 5+ years travel outside Europe with German registration, no testing during entire period. ZOLL/TRANSIT number (temporary export): Requires customs documentation, import process on return, potentially triggers taxes - NOT recommended for regular European return. Better option: German/French registration allows 7+ years European travel without testing while abroad. Insurance (e.g., AXA Schengen) auto-renews annually even when vehicle outside Europe. Only requirement: Testing when re-entering registration country."
+    },
+    {
+      "guide_id": "guide-019-003",
+      "title": "Schengen Zone Entry/Exit System (EES) - Starting October 2025",
+      "references": [
+        {
+          "name": "EU Council - How the Entry/Exit System Works",
+          "url": "https://www.consilium.europa.eu/en/policies/entryexit-system/",
+          "type": "government",
+          "description": "Official EU Council information on EES implementation"
+        },
+        {
+          "name": "EU Migration and Home Affairs - Entry/Exit System",
+          "url": "https://home-affairs.ec.europa.eu/policies/schengen/smart-borders/entry-exit-system_en",
+          "type": "official",
+          "description": "Official EU information on EES system details"
+        },
+        {
+          "name": "Wandering Bird - EES Video Explanation",
+          "url": "https://youtu.be/wgv8gb2gNUc?si=hHarMG6x6EmG8l9E",
+          "type": "verified",
+          "description": "Motorhome vlogger Cat's explanation of EES impact on travelers"
+        }
+      ],
+      "document_links": [],
+      "image_suggestions": [
+        "EES biometric scanner at border",
+        "Fingerprint and facial scan illustration",
+        "Before/After comparison (passport stamps vs biometric)",
+        "EES implementation timeline graphic"
+      ],
+      "extra_info": "MAJOR CHANGE starting October 12, 2025: Entry/Exit System (EES) replaces passport stamps with biometric data (fingerprints + facial scan). Applies to ALL non-EU nationals including Israelis and Americans. EVERY person in motorhome must go through biometric process at first entry (including children). System automatically tracks 90/180-day limit - no more manual counting. Border crossings (tunnels, ferries) will take significantly longer, especially in early months. Countries NOT covered: Ireland, Cyprus, UK. Data retained: 3 years (compliant travelers) or 5 years (overstayers). System expected fully operational by April 10, 2026. Progressive rollout across 29 European countries over 6-month period. Children under 12 exempt from fingerprints but need facial scan. Prepare for longer wait times at borders and ensure all passengers have valid passports."
+    },
+    {
+      "guide_id": "guide-022-002",
+      "title": "Vehicle Registration in Germany as a Foreign Resident",
+      "references": [
+        {
+          "name": "ADAC Official Website",
+          "url": "https://www.adac.de/",
+          "type": "official",
+          "description": "Official ADAC website for membership and insurance"
+        },
+        {
+          "name": "Simple Germany - Car Registration Guide",
+          "url": "https://www.simplegermany.com/how-to-register-a-car-in-germany/",
+          "type": "verified",
+          "description": "Comprehensive guide to German vehicle registration"
+        }
+      ],
+      "document_links": [],
+      "image_suggestions": [
+        "German vehicle registration certificate (Zulassungsbescheinigung Teil I)",
+        "German license plates",
+        "Online form for mail recipient declaration",
+        "ADAC insurance certificate"
+      ],
+      "extra_info": "PROVEN METHOD: German law allows non-residents to register vehicle in their own name using German citizen as mail recipient. Process: 1) German citizen fills online form agreeing to receive mail, 2) Add your name to their mailbox, 3) Attach German citizen's ID copy, 4) Present YOUR passport when buying insurance and registering vehicle. Vehicle registered in YOUR name, German address for mail only. REAL EXAMPLE (Ilan): Israeli friend with German citizenship in small city near Cologne acted as co-signer. Vehicle registered in Ilan's name. ADAC insurance: €800/year (€50K vehicle, all coverage). Extended to multiple drivers after 5 months: +€36 only. Windshield replaced in Spain - reimbursed in 2 hours minus €150 deductible. Successfully traveled Spain to Morocco with German registration + Portuguese passport. Ferry Tangier crossing: 50 minutes, very straightforward. IMPORTANT: German co-signer must be trustworthy (receives your mail). ADAC recommended - excellent service, not profit-driven (sponsoring organization, not private insurer)."
+    },
+    {
+      "guide_id": "guide-022-003",
+      "title": "German Motorhome Insurance: ADAC vs Commercial Insurers",
+      "references": [
+        {
+          "name": "ADAC Official Website",
+          "url": "https://www.adac.de/",
+          "type": "official",
+          "description": "Official ADAC website with insurance offerings"
+        }
+      ],
+      "document_links": [],
+      "image_suggestions": [
+        "Insurance cost comparison table (ADAC vs Allianz)",
+        "ADAC service quality ratings",
+        "Seasonal insurance certificate (winter-break option)"
+      ],
+      "extra_info": "ADAC (auto club, NOT private insurer) vs Commercial (Allianz, etc.). ADAC PRICING (€50K vehicle): €800/year full coverage (mandatory, third-party, comprehensive), single driver. Multi-driver: +€36 after 5 months. Windshield claim: reimbursed in 2 hours minus €150 deductible. COMMERCIAL PRICING (€55K vehicle): Allianz partial coverage €800-900/year (mandatory, third-party, theft, weather only). Full coverage: €1400-1500/year. Commercial is €200-700 MORE expensive than ADAC. WINTER-BREAK OPTION (Germany): Off-season discount for 4 consecutive winter months parked (December-March example). Cost: ~€550/year (originally €70K motorhome, 2019). Savings: ~€350/year. Vehicle covered for theft/fire/break-in during storage, just can't move. Plates changed to indicate travel season. ADAC SERVICE: Exceptional customer service, professional advisors at branches, no pressure tactics, efficient claim processing, easy to adjust coverage. COMPREHENSIVE COVERAGE includes: own vehicle damages, theft, vandalism, weather damage. Seasonal insurance perfect for non-winter travelers."
+    },
+    {
+      "guide_id": "guide-026-002",
+      "title": "Europe to Asia Overland Travel: Visa and Border Requirements",
+      "references": [
+        {
+          "name": "Israeli Passport Visa Requirements",
+          "url": "https://en.wikipedia.org/wiki/Visa_requirements_for_Israeli_citizens",
+          "type": "verified",
+          "description": "Comprehensive list of visa requirements for Israeli passport holders"
+        },
+        {
+          "name": "Kalpak Travel - Central Asia Visa Guide",
+          "url": "https://kalpak-travel.com/blog/visa-guide-central-asia/",
+          "type": "verified",
+          "description": "Detailed visa information for Central Asian countries"
+        },
+        {
+          "name": "Morocco eVisa for Israelis",
+          "url": "https://morocco-e-visas.com/morocco-evisa-for-israel/",
+          "type": "verified",
+          "description": "Official information on Morocco eVisa for Israeli citizens"
+        }
+      ],
+      "document_links": [],
+      "image_suggestions": [
+        "Overland route map Europe to Asia (multiple routes)",
+        "Central Asian visa stamps examples",
+        "Caspian Sea ferry with motorhome",
+        "Border crossing documentation checklist"
+      ],
+      "extra_info": "VISA STATUS FOR ISRAELI PASSPORT (2025): Kazakhstan visa-free 30 days, Kyrgyzstan visa-free 60 days, Uzbekistan visa-free 30 days, Russia NO visa required (major historical advantage but AVOID due to 2025 warfare). CURRENT ROUTE ASSESSMENT: Turkey NOT recommended (border tensions). Russia CAUTION (active warfare). RECOMMENDED ROUTE: Southern Central Asian republics (Turkmenistan, Uzbekistan, Kyrgyzstan). Caspian Sea ferry available for motorhome crossing. MOROCCO: Israeli citizens require eVisa before travel (not visa-on-arrival). Apply at least 3 weeks before departure. Valid passport 6+ months required. Ferry Spain-Tangier: 50-minute crossing, straightforward. HISTORIC ROUTE (2013): Turkey → Georgia → Russia → Kyrgyzstan → Kazakhstan → Mongolia (all passable then). 2024-2025: Turkey avoided, alternative routing through Caucasus. RESOURCES: Horizons Unlimited (horizonsunlimited.com), Caravanistan guides. Border interactions can be challenging (tension, potential corruption). Israeli passport has advantages in some regions, European passport better in others. Multiple currencies and documentation required."
+    }
+  ]
+}
